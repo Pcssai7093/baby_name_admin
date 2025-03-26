@@ -1,0 +1,66 @@
+{
+  "hindi": "hi",
+  "bengali": "bn",
+  "marathi": "mr",
+  "telugu": "te",
+  "tamil": "ta",
+  "gujarati": "gu",
+  "kannada": "kn",
+  "odia": "or",
+  "malayalam": "ml",
+  "punjabi": "pa"
+}
+
+
+{
+    "name": {
+        "english": "Ankita",
+        "hindi": "अंकिता",
+        "bengali": "অঙ্কিতা",
+        "marathi": "अंकिता",
+        "telugu": "అంకిత",
+        "tamil": "அங்கிதா",
+        "gujarati": "અંકિતા",
+        "kannada": "ಅಂಕಿತಾ",
+        "odia": "ଅଙ୍କିତା",
+        "malayalam": "അംകിത",
+        "punjabi": "ਅੰਕਿਤਾ",
+        "assamese": "অংকিতা"
+    },
+    "first_letter": {
+        "english": "Am",
+        "hindi": "अं",
+        "bengali": "অং",
+        "marathi": "अं",
+        "telugu": "అం",
+        "tamil": "அ",
+        "gujarati": "અં",
+        "kannada": "ಅಂ",
+        "odia": "ଅଂ",
+        "malayalam": "അം",
+        "punjabi": "ਅੰ",
+        "assamese": "অং"
+    },
+    "gender": "female",
+    "religion": "Hindu",
+    "meanings": {
+        "english": "Marked",
+        "hindi": "चिह्नित",
+        "bengali": "চিহ্নিত",
+        "marathi": "चिन्हांकित",
+        "telugu": "గుర్తించబడిన",
+        "tamil": "குறிக்கப்பட்ட",
+        "gujarati": "ચિહ્નિત",
+        "kannada": "ಗುರುತಿಸಲ್ಪಟ್ಟ",
+        "odia": "ଚିହ୍ନିତ",
+        "malayalam": "അടയാളപ്പെടുത്തിയ",
+        "punjabi": "ਚਿੰਨ੍ਹਿਤ",
+        "assamese": "চিহ্নিত",
+        "sanskrit": "अंकित"
+    },
+    "origin": "Sanskrit",
+    "tags": [
+        "dedicated",
+        "marked"
+    ]
+}

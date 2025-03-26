@@ -1,0 +1,4897 @@
+[
+    {
+        "name": {
+            "english": "Anil",
+            "telugu": "అనిల్"
+        },
+        "first_letter": {
+            "english": "A",
+            "telugu": "అ"
+        },
+        "gender": "male",
+        "language": "Telugu",
+        "religion": "Hindu",
+        "meanings": {
+            "english": "Wind, air",
+            "telugu": "గాలి, వాయువు"
+        },
+        "origin": "Sanskrit",
+        "tags": [
+            "natural",
+            "powerful"
+        ]
+    },
+    {
+        "name": {
+            "english": "Arjun",
+            "telugu": "అర్జున్"
+        },
+        "first_letter": {
+            "english": "A",
+            "telugu": "అ"
+        },
+        "gender": "male",
+        "language": "Telugu",
+        "religion": "Hindu",
+        "meanings": {
+            "english": "Bright, shining",
+            "telugu": "ప్రకాశవంతమైన, మెరిసే"
+        },
+        "origin": "Sanskrit",
+        "tags": [
+            "heroic",
+            "noble"
+        ]
+    },
+    {
+        "name": {
+            "english": "Anjali",
+            "telugu": "అంజలి"
+        },
+        "first_letter": {
+            "english": "A",
+            "telugu": "అ"
+        },
+        "gender": "female",
+        "language": "Telugu",
+        "religion": "Hindu",
+        "meanings": {
+            "english": "Offering",
+            "telugu": "సమర్పణ"
+        },
+        "origin": "Sanskrit",
+        "tags": [
+            "devotional",
+            "respectful"
+        ]
+    },
+    {
+        "name": {
+            "english": "Asha",
+            "telugu": "ఆశ"
+        },
+        "first_letter": {
+            "english": "A",
+            "telugu": "అ"
+        },
+        "gender": "female",
+        "language": "Telugu",
+        "religion": "Hindu",
+        "meanings": {
+            "english": "Hope",
+            "telugu": "ఆశ"
+        },
+        "origin": "Sanskrit",
+        "tags": [
+            "positive",
+            "optimistic"
+        ]
+    },
+    {
+        "name": {
+            "english": "Aaditya",
+            "telugu": "ఆదిత్య"
+        },
+        "first_letter": {
+            "english": "Aa",
+            "telugu": "ఆ"
+        },
+        "gender": "male",
+        "language": "Telugu",
+        "religion": "Hindu",
+        "meanings": {
+            "english": "Sun God",
+            "telugu": "సూర్య భగవాన్"
+        },
+        "origin": "Sanskrit",
+        "tags": [
+            "divine",
+            "powerful"
+        ]
+    },
+    {
+        "name": {
+            "english": "Aarav",
+            "telugu": "ఆరవ్"
+        },
+        "first_letter": {
+            "english": "Aa",
+            "telugu": "ఆ"
+        },
+        "gender": "male",
+        "language": "Telugu",
+        "religion": "Hindu",
+        "meanings": {
+            "english": "Peaceful",
+            "telugu": "శాంతియుతమైన"
+        },
+        "origin": "Sanskrit",
+        "tags": [
+            "calm",
+            "serene"
+        ]
+    },
+    {
+        "name": {
+            "english": "Aaradhya",
+            "telugu": "ఆరాధ్య"
+        },
+        "first_letter": {
+            "english": "Aa",
+            "telugu": "ఆ"
+        },
+        "gender": "female",
+        "language": "Telugu",
+        "religion": "Hindu",
+        "meanings": {
+            "english": "Worshipped",
+            "telugu": "పూజించబడిన"
+        },
+        "origin": "Sanskrit",
+        "tags": [
+            "revered",
+            "divine"
+        ]
+    },
+    {
+        "name": {
+            "english": "Aamani",
+            "telugu": "ఆమని"
+        },
+        "first_letter": {
+            "english": "Aa",
+            "telugu": "ఆ"
+        },
+        "gender": "female",
+        "language": "Telugu",
+        "religion": "Hindu",
+        "meanings": {
+            "english": "Spring season",
+            "telugu": "వసంత ఋతువు"
+        },
+        "origin": "Sanskrit",
+        "tags": [
+            "natural",
+            "beautiful"
+        ]
+    },
+    {
+        "name": {
+            "english": "Indra",
+            "telugu": "ఇంద్ర"
+        },
+        "first_letter": {
+            "english": "I",
+            "telugu": "ఇ"
+        },
+        "gender": "male",
+        "language": "Telugu",
+        "religion": "Hindu",
+        "meanings": {
+            "english": "God of rain",
+            "telugu": "వర్షపు దేవుడు"
+        },
+        "origin": "Sanskrit",
+        "tags": [
+            "divine",
+            "powerful"
+        ]
+    },
+    {
+        "name": {
+            "english": "Ishan",
+            "telugu": "ఈశాన్"
+        },
+        "first_letter": {
+            "english": "I",
+            "telugu": "ఇ"
+        },
+        "gender": "male",
+        "language": "Telugu",
+        "religion": "Hindu",
+        "meanings": {
+            "english": "Lord Shiva",
+            "telugu": "శివుడు"
+        },
+        "origin": "Sanskrit",
+        "tags": [
+            "divine",
+            "auspicious"
+        ]
+    },
+    {
+        "name": {
+            "english": "Indira",
+            "telugu": "ఇందిర"
+        },
+        "first_letter": {
+            "english": "I",
+            "telugu": "ఇ"
+        },
+        "gender": "female",
+        "language": "Telugu",
+        "religion": "Hindu",
+        "meanings": {
+            "english": "Goddess Lakshmi",
+            "telugu": "లక్ష్మీ దేవి"
+        },
+        "origin": "Sanskrit",
+        "tags": [
+            "divine",
+            "prosperous"
+        ]
+    },
+    {
+        "name": {
+            "english": "Ishita",
+            "telugu": "ఇషిత"
+        },
+        "first_letter": {
+            "english": "I",
+            "telugu": "ఇ"
+        },
+        "gender": "female",
+        "language": "Telugu",
+        "religion": "Hindu",
+        "meanings": {
+            "english": "Desired",
+            "telugu": "కోరుకున్న"
+        },
+        "origin": "Sanskrit",
+        "tags": [
+            "desired",
+            "loved"
+        ]
+    },
+    {
+        "name": {
+            "english": "Eeshwar",
+            "telugu": "ఈశ్వర్"
+        },
+        "first_letter": {
+            "english": "Ee",
+            "telugu": "ఈ"
+        },
+        "gender": "male",
+        "language": "Telugu",
+        "religion": "Hindu",
+        "meanings": {
+            "english": "Lord Shiva",
+            "telugu": "శివుడు"
+        },
+        "origin": "Sanskrit",
+        "tags": [
+            "divine",
+            "powerful"
+        ]
+    },
+    {
+        "name": {
+            "english": "Eeshan",
+            "telugu": "ఈశాన్"
+        },
+        "first_letter": {
+            "english": "Ee",
+            "telugu": "ఈ"
+        },
+        "gender": "male",
+        "language": "Telugu",
+        "religion": "Hindu",
+        "meanings": {
+            "english": "Lord Shiva",
+            "telugu": "శివుడు"
+        },
+        "origin": "Sanskrit",
+        "tags": [
+            "divine",
+            "auspicious"
+        ]
+    },
+    {
+        "name": {
+            "english": "Eeksha",
+            "telugu": "ఈక్ష"
+        },
+        "first_letter": {
+            "english": "Ee",
+            "telugu": "ఈ"
+        },
+        "gender": "female",
+        "language": "Telugu",
+        "religion": "Hindu",
+        "meanings": {
+            "english": "Sight",
+            "telugu": "దృష్టి"
+        },
+        "origin": "Sanskrit",
+        "tags": [
+            "vision",
+            "observation"
+        ]
+    },
+    {
+        "name": {
+            "english": "Eshita",
+            "telugu": "ఈషిత"
+        },
+        "first_letter": {
+            "english": "Ee",
+            "telugu": "ఈ"
+        },
+        "gender": "female",
+        "language": "Telugu",
+        "religion": "Hindu",
+        "meanings": {
+            "english": "Desired",
+            "telugu": "కోరుకున్న"
+        },
+        "origin": "Sanskrit",
+        "tags": [
+            "desired",
+            "loved"
+        ]
+    },
+    {
+        "name": {
+            "english": "Uday",
+            "telugu": "ఉదయ్"
+        },
+        "first_letter": {
+            "english": "U",
+            "telugu": "ఉ"
+        },
+        "gender": "male",
+        "language": "Telugu",
+        "religion": "Hindu",
+        "meanings": {
+            "english": "Sunrise",
+            "telugu": "సూర్యోదయం"
+        },
+        "origin": "Sanskrit",
+        "tags": [
+            "bright",
+            "new beginning"
+        ]
+    },
+    {
+        "name": {
+            "english": "Umesh",
+            "telugu": "ఉమేష్"
+        },
+        "first_letter": {
+            "english": "U",
+            "telugu": "ఉ"
+        },
+        "gender": "male",
+        "language": "Telugu",
+        "religion": "Hindu",
+        "meanings": {
+            "english": "Lord Shiva",
+            "telugu": "శివుడు"
+        },
+        "origin": "Sanskrit",
+        "tags": [
+            "divine",
+            "powerful"
+        ]
+    },
+    {
+        "name": {
+            "english": "Uma",
+            "telugu": "ఉమ"
+        },
+        "first_letter": {
+            "english": "U",
+            "telugu": "ఉ"
+        },
+        "gender": "female",
+        "language": "Telugu",
+        "religion": "Hindu",
+        "meanings": {
+            "english": "Goddess Parvati",
+            "telugu": "పార్వతి దేవి"
+        },
+        "origin": "Sanskrit",
+        "tags": [
+            "divine",
+            "powerful"
+        ]
+    },
+    {
+        "name": {
+            "english": "Urvi",
+            "telugu": "ఉర్వి"
+        },
+        "first_letter": {
+            "english": "U",
+            "telugu": "ఉ"
+        },
+        "gender": "female",
+        "language": "Telugu",
+        "religion": "Hindu",
+        "meanings": {
+            "english": "Earth",
+            "telugu": "భూమి"
+        },
+        "origin": "Sanskrit",
+        "tags": [
+            "natural",
+            "nurturing"
+        ]
+    },
+    {
+        "name": {
+            "english": "Oorjit",
+            "telugu": "ఊర్జిత్"
+        },
+        "first_letter": {
+            "english": "Oo",
+            "telugu": "ఊ"
+        },
+        "gender": "male",
+        "language": "Telugu",
+        "religion": "Hindu",
+        "meanings": {
+            "english": "Powerful",
+            "telugu": "శక్తివంతమైన"
+        },
+        "origin": "Sanskrit",
+        "tags": [
+            "strong",
+            "energetic"
+        ]
+    },
+    {
+        "name": {
+            "english": "Oordhva",
+            "telugu": "ఊర్ధ్వ"
+        },
+        "first_letter": {
+            "english": "Oo",
+            "telugu": "ఊ"
+        },
+        "gender": "male",
+        "language": "Telugu",
+        "religion": "Hindu",
+        "meanings": {
+            "english": "Elevated",
+            "telugu": "ఎత్తుగా ఉన్న"
+        },
+        "origin": "Sanskrit",
+        "tags": [
+            "high",
+            "exalted"
+        ]
+    },
+    {
+        "name": {
+            "english": "Oorvi",
+            "telugu": "ఊర్వి"
+        },
+        "first_letter": {
+            "english": "Oo",
+            "telugu": "ఊ"
+        },
+        "gender": "female",
+        "language": "Telugu",
+        "religion": "Hindu",
+        "meanings": {
+            "english": "Earth",
+            "telugu": "భూమి"
+        },
+        "origin": "Sanskrit",
+        "tags": [
+            "natural",
+            "nurturing"
+        ]
+    },
+    {
+        "name": {
+            "english": "Oormila",
+            "telugu": "ఊర్మిల"
+        },
+        "first_letter": {
+            "english": "Oo",
+            "telugu": "ఊ"
+        },
+        "gender": "female",
+        "language": "Telugu",
+        "religion": "Hindu",
+        "meanings": {
+            "english": "Enchantress",
+            "telugu": "మంత్రగత్తె"
+        },
+        "origin": "Sanskrit",
+        "tags": [
+            "charming",
+            "attractive"
+        ]
+    },
+    {
+        "name": {
+            "english": "Rishab",
+            "telugu": "ఋషభ్"
+        },
+        "first_letter": {
+            "english": "Ru",
+            "telugu": "ఋ"
+        },
+        "gender": "male",
+        "language": "Telugu",
+        "religion": "Hindu",
+        "meanings": {
+            "english": "Moral",
+            "telugu": "నైతిక"
+        },
+        "origin": "Sanskrit",
+        "tags": [
+            "virtuous",
+            "righteous"
+        ]
+    },
+    {
+        "name": {
+            "english": "Rishi",
+            "telugu": "ఋషి"
+        },
+        "first_letter": {
+            "english": "Ru",
+            "telugu": "ఋ"
+        },
+        "gender": "male",
+        "language": "Telugu",
+        "religion": "Hindu",
+        "meanings": {
+            "english": "Sage",
+            "telugu": "ఋషి"
+        },
+        "origin": "Sanskrit",
+        "tags": [
+            "wise",
+            "learned"
+        ]
+    },
+    {
+        "name": {
+            "english": "Rishika",
+            "telugu": "ఋషిక"
+        },
+        "first_letter": {
+            "english": "Ru",
+            "telugu": "ఋ"
+        },
+        "gender": "female",
+        "language": "Telugu",
+        "religion": "Hindu",
+        "meanings": {
+            "english": "Saintly",
+            "telugu": "సాధువు"
+        },
+        "origin": "Sanskrit",
+        "tags": [
+            "pious",
+            "devout"
+        ]
+    },
+    {
+        "name": {
+            "english": "Riddhi",
+            "telugu": "రిద్ధి"
+        },
+        "first_letter": {
+            "english": "Ru",
+            "telugu": "ఋ"
+        },
+        "gender": "female",
+        "language": "Telugu",
+        "religion": "Hindu",
+        "meanings": {
+            "english": "Prosperity",
+            "telugu": "శ్రేయస్సు"
+        },
+        "origin": "Sanskrit",
+        "tags": [
+            "wealth",
+            "success"
+        ]
+    },
+    {
+        "name": {
+            "english": "Runa",
+            "telugu": "ౠణ"
+        },
+        "first_letter": {
+            "english": "Ruu",
+            "telugu": "ౠ"
+        },
+        "gender": "male",
+        "language": "Telugu",
+        "religion": "Hindu",
+        "meanings": {
+            "english": "Indebted",
+            "telugu": "రుణపడిన"
+        },
+        "origin": "Sanskrit",
+        "tags": [
+            "obliged",
+            "responsible"
+        ]
+    },
+    {
+        "name": {
+            "english": "Rup",
+            "telugu": "ౠప్"
+        },
+        "first_letter": {
+            "english": "Ruu",
+            "telugu": "ౠ"
+        },
+        "gender": "male",
+        "language": "Telugu",
+        "religion": "Hindu",
+        "meanings": {
+            "english": "Form",
+            "telugu": "రూపం"
+        },
+        "origin": "Sanskrit",
+        "tags": [
+            "appearance",
+            "shape"
+        ]
+    },
+    {
+        "name": {
+            "english": "Rudhira",
+            "telugu": "ౠధిర"
+        },
+        "first_letter": {
+            "english": "Ruu",
+            "telugu": "ౠ"
+        },
+        "gender": "female",
+        "language": "Telugu",
+        "religion": "Hindu",
+        "meanings": {
+            "english": "Red",
+            "telugu": "ఎరుపు"
+        },
+        "origin": "Sanskrit",
+        "tags": [
+            "color",
+            "auspicious"
+        ]
+    },
+    {
+        "name": {
+            "english": "Ruju",
+            "telugu": "ౠజు"
+        },
+        "first_letter": {
+            "english": "Ruu",
+            "telugu": "ౠ"
+        },
+        "gender": "female",
+        "language": "Telugu",
+        "religion": "Hindu",
+        "meanings": {
+            "english": "Softness",
+            "telugu": "మెత్తదనం"
+        },
+        "origin": "Sanskrit",
+        "tags": [
+            "gentle",
+            "delicate"
+        ]
+    },
+    {
+        "name": {
+            "english": "Ekanth",
+            "telugu": "ఏకాంత్"
+        },
+        "first_letter": {
+            "english": "E",
+            "telugu": "ఎ"
+        },
+        "gender": "male",
+        "language": "Telugu",
+        "religion": "Hindu",
+        "meanings": {
+            "english": "Solitary",
+            "telugu": "ఒంటరి"
+        },
+        "origin": "Sanskrit",
+        "tags": [
+            "peaceful",
+            "alone"
+        ]
+    },
+    {
+        "name": {
+            "english": "Eshwar",
+            "telugu": "ఎశ్వర్"
+        },
+        "first_letter": {
+            "english": "E",
+            "telugu": "ఎ"
+        },
+        "gender": "male",
+        "language": "Telugu",
+        "religion": "Hindu",
+        "meanings": {
+            "english": "God",
+            "telugu": "దేవుడు"
+        },
+        "origin": "Sanskrit",
+        "tags": [
+            "divine",
+            "powerful"
+        ]
+    },
+    {
+        "name": {
+            "english": "Ekta",
+            "telugu": "ఏక్తా"
+        },
+        "first_letter": {
+            "english": "E",
+            "telugu": "ఎ"
+        },
+        "gender": "female",
+        "language": "Telugu",
+        "religion": "Hindu",
+        "meanings": {
+            "english": "Unity",
+            "telugu": "ఐక్యత"
+        },
+        "origin": "Sanskrit",
+        "tags": [
+            "togetherness",
+            "harmony"
+        ]
+    },
+    {
+        "name": {
+            "english": "Ekani",
+            "telugu": "ఏకని"
+        },
+        "first_letter": {
+            "english": "E",
+            "telugu": "ఎ"
+        },
+        "gender": "female",
+        "language": "Telugu",
+        "religion": "Hindu",
+        "meanings": {
+            "english": "One",
+            "telugu": "ఒకటి"
+        },
+        "origin": "Sanskrit",
+        "tags": [
+            "unique",
+            "singular"
+        ]
+    },
+    {
+        "name": {
+            "english": "Eesh",
+            "telugu": "ఈశ్"
+        },
+        "first_letter": {
+            "english": "Ee",
+            "telugu": "ఏ"
+        },
+        "gender": "male",
+        "language": "Telugu",
+        "religion": "Hindu",
+        "meanings": {
+            "english": "Lord Shiva",
+            "telugu": "శివుడు"
+        },
+        "origin": "Sanskrit",
+        "tags": [
+            "divine",
+            "powerful"
+        ]
+    },
+    {
+        "name": {
+            "english": "Eeshan",
+            "telugu": "ఈశాన్"
+        },
+        "first_letter": {
+            "english": "Ee",
+            "telugu": "ఏ"
+        },
+        "gender": "male",
+        "language": "Telugu",
+        "religion": "Hindu",
+        "meanings": {
+            "english": "Lord Shiva",
+            "telugu": "శివుడు"
+        },
+        "origin": "Sanskrit",
+        "tags": [
+            "divine",
+            "auspicious"
+        ]
+    },
+    {
+        "name": {
+            "english": "Eeksha",
+            "telugu": "ఈక్ష"
+        },
+        "first_letter": {
+            "english": "Ee",
+            "telugu": "ఏ"
+        },
+        "gender": "female",
+        "language": "Telugu",
+        "religion": "Hindu",
+        "meanings": {
+            "english": "Sight",
+            "telugu": "దృష్టి"
+        },
+        "origin": "Sanskrit",
+        "tags": [
+            "vision",
+            "observation"
+        ]
+    },
+    {
+        "name": {
+            "english": "Eshita",
+            "telugu": "ఈషిత"
+        },
+        "first_letter": {
+            "english": "Ee",
+            "telugu": "ఏ"
+        },
+        "gender": "female",
+        "language": "Telugu",
+        "religion": "Hindu",
+        "meanings": {
+            "english": "Desired",
+            "telugu": "కోరుకున్న"
+        },
+        "origin": "Sanskrit",
+        "tags": [
+            "desired",
+            "loved"
+        ]
+    },
+    {
+        "name": {
+            "english": "Aiyappan",
+            "telugu": "అయ్యప్పన్"
+        },
+        "first_letter": {
+            "english": "Ai",
+            "telugu": "ఐ"
+        },
+        "gender": "male",
+        "language": "Telugu",
+        "religion": "Hindu",
+        "meanings": {
+            "english": "Lord Ayyappa",
+            "telugu": "అయ్యప్ప స్వామి"
+        },
+        "origin": "Tamil/Sanskrit",
+        "tags": [
+            "divine",
+            "devotional"
+        ]
+    },
+    {
+        "name": {
+            "english": "Aindri",
+            "telugu": "ఐంద్రి"
+        },
+        "first_letter": {
+            "english": "Ai",
+            "telugu": "ఐ"
+        },
+        "gender": "male",
+        "language": "Telugu",
+        "religion": "Hindu",
+        "meanings": {
+            "english": "Related to Indra",
+            "telugu": "ఇంద్రునికి సంబంధించిన"
+        },
+        "origin": "Sanskrit",
+        "tags": [
+            "divine",
+            "powerful"
+        ]
+    },
+    {
+        "name": {
+            "english": "Aishani",
+            "telugu": "ఐశాని"
+        },
+        "first_letter": {
+            "english": "Ai",
+            "telugu": "ఐ"
+        },
+        "gender": "female",
+        "language": "Telugu",
+        "religion": "Hindu",
+        "meanings": {
+            "english": "Goddess Durga",
+            "telugu": "దుర్గా దేవి"
+        },
+        "origin": "Sanskrit",
+        "tags": [
+            "divine",
+            "powerful"
+        ]
+    },
+    {
+        "name": {
+            "english": "Aindrila",
+            "telugu": "ఐంద్రిల"
+        },
+        "first_letter": {
+            "english": "Ai",
+            "telugu": "ఐ"
+        },
+        "gender": "female",
+        "language": "Telugu",
+        "religion": "Hindu",
+        "meanings": {
+            "english": "Another name of Durga",
+            "telugu": "దుర్గ యొక్క మరొక పేరు"
+        },
+        "origin": "Sanskrit",
+        "tags": [
+            "divine",
+            "strong"
+        ]
+    },
+    {
+        "name": {
+            "english": "Omkar",
+            "telugu": "ఓంకార్"
+        },
+        "first_letter": {
+            "english": "O",
+            "telugu": "ఒ"
+        },
+        "gender": "male",
+        "language": "Telugu",
+        "religion": "Hindu",
+        "meanings": {
+            "english": "Sound of Om",
+            "telugu": "ఓం శబ్దం"
+        },
+        "origin": "Sanskrit",
+        "tags": [
+            "divine",
+            "sacred"
+        ]
+    },
+    {
+        "name": {
+            "english": "Ojas",
+            "telugu": "ఓజస్"
+        },
+        "first_letter": {
+            "english": "O",
+            "telugu": "ఒ"
+        },
+        "gender": "male",
+        "language": "Telugu",
+        "religion": "Hindu",
+        "meanings": {
+            "english": "Vitality",
+            "telugu": "జీవశక్తి"
+        },
+        "origin": "Sanskrit",
+        "tags": [
+            "energy",
+            "radiance"
+        ]
+    },
+    {
+        "name": {
+            "english": "Omana",
+            "telugu": "ఓమన"
+        },
+        "first_letter": {
+            "english": "O",
+            "telugu": "ఒ"
+        },
+        "gender": "female",
+        "language": "Telugu",
+        "religion": "Hindu",
+        "meanings": {
+            "english": "Auspicious",
+            "telugu": "శుభప్రదమైన"
+        },
+        "origin": "Sanskrit",
+        "tags": [
+            "fortunate",
+            "blessed"
+        ]
+    },
+    {
+        "name": {
+            "english": "Ojaswini",
+            "telugu": "ఓజస్విని"
+        },
+        "first_letter": {
+            "english": "O",
+            "telugu": "ఒ"
+        },
+        "gender": "female",
+        "language": "Telugu",
+        "religion": "Hindu",
+        "meanings": {
+            "english": "Radiant",
+            "telugu": "ప్రకాశవంతమైన"
+        },
+        "origin": "Sanskrit",
+        "tags": [
+            "bright",
+            "luminous"
+        ]
+    },
+    {
+        "name": {
+            "english": "Oorja",
+            "telugu": "ఊర్జా"
+        },
+        "first_letter": {
+            "english": "Oo",
+            "telugu": "ఓ"
+        },
+        "gender": "male",
+        "language": "Telugu",
+        "religion": "Hindu",
+        "meanings": {
+            "english": "Energy",
+            "telugu": "శక్తి"
+        },
+        "origin": "Sanskrit",
+        "tags": [
+            "power",
+            "vitality"
+        ]
+    },
+    {
+        "name": {
+            "english": "Oordhva",
+            "telugu": "ఊర్ధ్వ"
+        },
+        "first_letter": {
+            "english": "Oo",
+            "telugu": "ఓ"
+        },
+        "gender": "male",
+        "language": "Telugu",
+        "religion": "Hindu",
+        "meanings": {
+            "english": "Elevated",
+            "telugu": "ఎత్తుగా ఉన్న"
+        },
+        "origin": "Sanskrit",
+        "tags": [
+            "high",
+            "exalted"
+        ]
+    },
+    {
+        "name": {
+            "english": "Oormila",
+            "telugu": "ఊర్మిల"
+        },
+        "first_letter": {
+            "english": "Oo",
+            "telugu": "ఓ"
+        },
+        "gender": "female",
+        "language": "Telugu",
+        "religion": "Hindu",
+        "meanings": {
+            "english": "Enchantress",
+            "telugu": "మంత్రగత్తె"
+        },
+        "origin": "Sanskrit",
+        "tags": [
+            "charming",
+            "attractive"
+        ]
+    },
+    {
+        "name": {
+            "english": "Oorvi",
+            "telugu": "ఊర్వి"
+        },
+        "first_letter": {
+            "english": "Oo",
+            "telugu": "ఓ"
+        },
+        "gender": "female",
+        "language": "Telugu",
+        "religion": "Hindu",
+        "meanings": {
+            "english": "Earth",
+            "telugu": "భూమి"
+        },
+        "origin": "Sanskrit",
+        "tags": [
+            "natural",
+            "nurturing"
+        ]
+    },
+    {
+        "name": {
+            "english": "Aushadh",
+            "telugu": "ఔషధ్"
+        },
+        "first_letter": {
+            "english": "Au",
+            "telugu": "ఔ"
+        },
+        "gender": "male",
+        "language": "Telugu",
+        "religion": "Hindu",
+        "meanings": {
+            "english": "Medicine",
+            "telugu": "మందు"
+        },
+        "origin": "Sanskrit",
+        "tags": [
+            "healing",
+            "remedy"
+        ]
+    },
+    {
+        "name": {
+            "english": "Aushik",
+            "telugu": "ఔషిక్"
+        },
+        "first_letter": {
+            "english": "Au",
+            "telugu": "ఔ"
+        },
+        "gender": "male",
+        "language": "Telugu",
+        "religion": "Hindu",
+        "meanings": {
+            "english": "Belonging to Shiva",
+            "telugu": "శివునికి చెందిన"
+        },
+        "origin": "Sanskrit",
+        "tags": [
+            "divine",
+            "devoted"
+        ]
+    },
+    {
+        "name": {
+            "english": "Aushadhi",
+            "telugu": "ఔషధి"
+        },
+        "first_letter": {
+            "english": "Au",
+            "telugu": "ఔ"
+        },
+        "gender": "female",
+        "language": "Telugu",
+        "religion": "Hindu",
+        "meanings": {
+            "english": "Herb",
+            "telugu": "మూలిక"
+        },
+        "origin": "Sanskrit",
+        "tags": [
+            "medicinal",
+            "natural"
+        ]
+    },
+    {
+        "name": {
+            "english": "Aushija",
+            "telugu": "ఔషిజ"
+        },
+        "first_letter": {
+            "english": "Au",
+            "telugu": "ఔ"
+        },
+        "gender": "female",
+        "language": "Telugu",
+        "religion": "Hindu",
+        "meanings": {
+            "english": "Born during twilight",
+            "telugu": "సంధ్యా సమయంలో జన్మించిన"
+        },
+        "origin": "Sanskrit",
+        "tags": [
+            "auspicious",
+            "special"
+        ]
+    },
+    {
+        "name": {
+            "english": "Ansh",
+            "telugu": "అంశం"
+        },
+        "first_letter": {
+            "english": "Am",
+            "telugu": "అం"
+        },
+        "gender": "male",
+        "language": "Telugu",
+        "religion": "Hindu",
+        "meanings": {
+            "english": "Portion",
+            "telugu": "భాగం"
+        },
+        "origin": "Sanskrit",
+        "tags": [
+            "part",
+            "share"
+        ]
+    },
+    {
+        "name": {
+            "english": "Ankit",
+            "telugu": "అంకిత్"
+        },
+        "first_letter": {
+            "english": "Am",
+            "telugu": "అం"
+        },
+        "gender": "male",
+        "language": "Telugu",
+        "religion": "Hindu",
+        "meanings": {
+            "english": "Marked",
+            "telugu": "గుర్తించబడిన"
+        },
+        "origin": "Sanskrit",
+        "tags": [
+            "marked",
+            "dedicated"
+        ]
+    },
+    {
+        "name": {
+            "english": "Ansha",
+            "telugu": "అంశ"
+        },
+        "first_letter": {
+            "english": "Am",
+            "telugu": "అం"
+        },
+        "gender": "female",
+        "language": "Telugu",
+        "religion": "Hindu",
+        "meanings": {
+            "english": "Portion",
+            "telugu": "భాగం"
+        },
+        "origin": "Sanskrit",
+        "tags": [
+            "part",
+            "share"
+        ]
+    },
+    {
+        "name": {
+            "english": "Ankita",
+            "telugu": "అంకిత"
+        },
+        "first_letter": {
+            "english": "Am",
+            "telugu": "అం"
+        },
+        "gender": "female",
+        "language": "Telugu",
+        "religion": "Hindu",
+        "meanings": {
+            "english": "Marked",
+            "telugu": "గుర్తించబడిన"
+        },
+        "origin": "Sanskrit",
+        "tags": [
+            "dedicated",
+            "marked"
+        ]
+    },
+    {
+        "name": {
+            "english": "Ahlad",
+            "telugu": "అహ్లద్"
+        },
+        "first_letter": {
+            "english": "Ah",
+            "telugu": "అః"
+        },
+        "gender": "male",
+        "language": "Telugu",
+        "religion": "Hindu",
+        "meanings": {
+            "english": "Joy",
+            "telugu": "ఆనందం"
+        },
+        "origin": "Sanskrit",
+        "tags": [
+            "joyful",
+            "happy"
+        ]
+    },
+    {
+        "name": {
+            "english": "Ahvan",
+            "telugu": "ఆహ్వాన్"
+        },
+        "first_letter": {
+            "english": "Ah",
+            "telugu": "అః"
+        },
+        "gender": "male",
+        "language": "Telugu",
+        "religion": "Hindu",
+        "meanings": {
+            "english": "Call",
+            "telugu": "పిలుపు"
+        },
+        "origin": "Sanskrit",
+        "tags": [
+            "invitation",
+            "summons"
+        ]
+    },
+    {
+        "name": {
+            "english": "Ahilya",
+            "telugu": "అహల్య"
+        },
+        "first_letter": {
+            "english": "Ah",
+            "telugu": "అః"
+        },
+        "gender": "female",
+        "language": "Telugu",
+        "religion": "Hindu",
+        "meanings": {
+            "english": "Wife of Gautama Rishi",
+            "telugu": "గౌతమ ఋషి భార్య"
+        },
+        "origin": "Sanskrit",
+        "tags": [
+            "mythological",
+            "pure"
+        ]
+    },
+    {
+        "name": {
+            "english": "Ahalya",
+            "telugu": "అహల్య"
+        },
+        "first_letter": {
+            "english": "Ah",
+            "telugu": "అః"
+        },
+        "gender": "female",
+        "language": "Telugu",
+        "religion": "Hindu",
+        "meanings": {
+            "english": "Wife of Gautama Rishi",
+            "telugu": "గౌతమ ఋషి భార్య"
+        },
+        "origin": "Sanskrit",
+        "tags": [
+            "mythological",
+            "virtuous"
+        ]
+    },
+    {
+        "name": {
+            "english": "Karthik",
+            "telugu": "కార్తీక్"
+        },
+        "first_letter": {
+            "english": "Ka",
+            "telugu": "క"
+        },
+        "gender": "male",
+        "language": "Telugu",
+        "religion": "Hindu",
+        "meanings": {
+            "english": "Name of a month",
+            "telugu": "ఒక నెల పేరు"
+        },
+        "origin": "Sanskrit",
+        "tags": [
+            "auspicious",
+            "divine"
+        ]
+    },
+    {
+        "name": {
+            "english": "Kiran",
+            "telugu": "కిరణ్"
+        },
+        "first_letter": {
+            "english": "Ka",
+            "telugu": "క"
+        },
+        "gender": "male",
+        "language": "Telugu",
+        "religion": "Hindu",
+        "meanings": {
+            "english": "Ray of light",
+            "telugu": "కాంతి కిరణం"
+        },
+        "origin": "Sanskrit",
+        "tags": [
+            "bright",
+            "radiant"
+        ]
+    },
+    {
+        "name": {
+            "english": "Kavya",
+            "telugu": "కావ్య"
+        },
+        "first_letter": {
+            "english": "Ka",
+            "telugu": "క"
+        },
+        "gender": "female",
+        "language": "Telugu",
+        "religion": "Hindu",
+        "meanings": {
+            "english": "Poetry",
+            "telugu": "కవిత్వం"
+        },
+        "origin": "Sanskrit",
+        "tags": [
+            "poetic",
+            "artistic"
+        ]
+    },
+    {
+        "name": {
+            "english": "Kalpana",
+            "telugu": "కల్పన"
+        },
+        "first_letter": {
+            "english": "Ka",
+            "telugu": "క"
+        },
+        "gender": "female",
+        "language": "Telugu",
+        "religion": "Hindu",
+        "meanings": {
+            "english": "Imagination",
+            "telugu": "ఊహ"
+        },
+        "origin": "Sanskrit",
+        "tags": [
+            "creative",
+            "imaginative"
+        ]
+    },
+    {
+        "name": {
+            "english": "Khagesh",
+            "telugu": "ఖగేశ్"
+        },
+        "first_letter": {
+            "english": "Kha",
+            "telugu": "ఖ"
+        },
+        "gender": "male",
+        "language": "Telugu",
+        "religion": "Hindu",
+        "meanings": {
+            "english": "Lord of birds",
+            "telugu": "పక్షుల ప్రభువు"
+        },
+        "origin": "Sanskrit",
+        "tags": [
+            "divine",
+            "powerful"
+        ]
+    },
+    {
+        "name": {
+            "english": "Khamalesh",
+            "telugu": "ఖమలేష్"
+        },
+        "first_letter": {
+            "english": "Kha",
+            "telugu": "ఖ"
+        },
+        "gender": "male",
+        "language": "Telugu",
+        "religion": "Hindu",
+        "meanings": {
+            "english": "Lord of lotus",
+            "telugu": "తామర ప్రభువు"
+        },
+        "origin": "Sanskrit",
+        "tags": [
+            "divine",
+            "beautiful"
+        ]
+    },
+    {
+        "name": {
+            "english": "Khushi",
+            "telugu": "ఖుషి"
+        },
+        "first_letter": {
+            "english": "Kha",
+            "telugu": "ఖ"
+        },
+        "gender": "female",
+        "language": "Telugu",
+        "religion": "Hindu",
+        "meanings": {
+            "english": "Happiness",
+            "telugu": "సంతోషం"
+        },
+        "origin": "Hindi/Sanskrit",
+        "tags": [
+            "joyful",
+            "positive"
+        ]
+    },
+    {
+        "name": {
+            "english": "Khyati",
+            "telugu": "ఖ్యాతి"
+        },
+        "first_letter": {
+            "english": "Kha",
+            "telugu": "ఖ"
+        },
+        "gender": "female",
+        "language": "Telugu",
+        "religion": "Hindu",
+        "meanings": {
+            "english": "Fame",
+            "telugu": "కీర్తి"
+        },
+        "origin": "Sanskrit",
+        "tags": [
+            "renowned",
+            "famous"
+        ]
+    },
+    {
+        "name": {
+            "english": "Ganesh",
+            "telugu": "గణేష్"
+        },
+        "first_letter": {
+            "english": "Ga",
+            "telugu": "గ"
+        },
+        "gender": "male",
+        "language": "Telugu",
+        "religion": "Hindu",
+        "meanings": {
+            "english": "Lord of Ganas",
+            "telugu": "గణాల ప్రభువు"
+        },
+        "origin": "Sanskrit",
+        "tags": [
+            "divine",
+            "auspicious"
+        ]
+    },
+    {
+        "name": {
+            "english": "Gopal",
+            "telugu": "గోపాల్"
+        },
+        "first_letter": {
+            "english": "Ga",
+            "telugu": "గ"
+        },
+        "gender": "male",
+        "language": "Telugu",
+        "religion": "Hindu",
+        "meanings": {
+            "english": "Cowherd",
+            "telugu": "గొల్లవాడు"
+        },
+        "origin": "Sanskrit",
+        "tags": [
+            "divine",
+            "protector"
+        ]
+    },
+    {
+        "name": {
+            "english": "Gauri",
+            "telugu": "గౌరీ"
+        },
+        "first_letter": {
+            "english": "Ga",
+            "telugu": "గ"
+        },
+        "gender": "female",
+        "language": "Telugu",
+        "religion": "Hindu",
+        "meanings": {
+            "english": "Goddess Parvati",
+            "telugu": "పార్వతి దేవి"
+        },
+        "origin": "Sanskrit",
+        "tags": [
+            "divine",
+            "powerful"
+        ]
+    },
+    {
+        "name": {
+            "english": "Gayatri",
+            "telugu": "గాయత్రి"
+        },
+        "first_letter": {
+            "english": "Ga",
+            "telugu": "గ"
+        },
+        "gender": "female",
+        "language": "Telugu",
+        "religion": "Hindu",
+        "meanings": {
+            "english": "A sacred mantra",
+            "telugu": "ఒక పవిత్ర మంత్రం"
+        },
+        "origin": "Sanskrit",
+        "tags": [
+            "divine",
+            "spiritual"
+        ]
+    },
+    {
+        "name": {
+            "english": "Ghanashyam",
+            "telugu": "ఘనశ్యామ్"
+        },
+        "first_letter": {
+            "english": "Gha",
+            "telugu": "ఘ"
+        },
+        "gender": "male",
+        "language": "Telugu",
+        "religion": "Hindu",
+        "meanings": {
+            "english": "Dark cloud",
+            "telugu": "చీకటి మేఘం"
+        },
+        "origin": "Sanskrit",
+        "tags": [
+            "divine",
+            "beautiful"
+        ]
+    },
+    {
+        "name": {
+            "english": "Ghanendra",
+            "telugu": "ఘనేంద్ర"
+        },
+        "first_letter": {
+            "english": "Gha",
+            "telugu": "ఘ"
+        },
+        "gender": "male",
+        "language": "Telugu",
+        "religion": "Hindu",
+        "meanings": {
+            "english": "Lord of clouds",
+            "telugu": "మేఘాల ప్రభువు"
+        },
+        "origin": "Sanskrit",
+        "tags": [
+            "divine",
+            "powerful"
+        ]
+    },
+    {
+        "name": {
+            "english": "Ghanavi",
+            "telugu": "ఘనవి"
+        },
+        "first_letter": {
+            "english": "Gha",
+            "telugu": "ఘ"
+        },
+        "gender": "female",
+        "language": "Telugu",
+        "religion": "Hindu",
+        "meanings": {
+            "english": "Melodious",
+            "telugu": "మధురమైన"
+        },
+        "origin": "Sanskrit",
+        "tags": [
+            "musical",
+            "sweet"
+        ]
+    },
+    {
+        "name": {
+            "english": "Ghanashree",
+            "telugu": "ఘనశ్రీ"
+        },
+        "first_letter": {
+            "english": "Gha",
+            "telugu": "ఘ"
+        },
+        "gender": "female",
+        "language": "Telugu",
+        "religion": "Hindu",
+        "meanings": {
+            "english": "Goddess Lakshmi",
+            "telugu": "లక్ష్మీ దేవి"
+        },
+        "origin": "Sanskrit",
+        "tags": [
+            "divine",
+            "prosperous"
+        ]
+    },
+    {
+        "name": {
+            "english": "Jnaneshwar",
+            "telugu": "జ్ఞానేశ్వర్"
+        },
+        "first_letter": {
+            "english": "Jna",
+            "telugu": "ఙ"
+        },
+        "gender": "male",
+        "language": "Telugu",
+        "religion": "Hindu",
+        "meanings": {
+            "english": "Lord of knowledge",
+            "telugu": "జ్ఞానానికి ప్రభువు"
+        },
+        "origin": "Sanskrit",
+        "tags": [
+            "divine",
+            "wise"
+        ]
+    },
+    {
+        "name": {
+            "english": "Jnanendra",
+            "telugu": "జ్ఞానేంద్ర"
+        },
+        "first_letter": {
+            "english": "Jna",
+            "telugu": "ఙ"
+        },
+        "gender": "male",
+        "language": "Telugu",
+        "religion": "Hindu",
+        "meanings": {
+            "english": "Lord of wisdom",
+            "telugu": "వివేకానికి ప్రభువు"
+        },
+        "origin": "Sanskrit",
+        "tags": [
+            "wise",
+            "learned"
+        ]
+    },
+    {
+        "name": {
+            "english": "Jnana",
+            "telugu": "జ్ఞాన"
+        },
+        "first_letter": {
+            "english": "Jna",
+            "telugu": "ఙ"
+        },
+        "gender": "female",
+        "language": "Telugu",
+        "religion": "Hindu",
+        "meanings": {
+            "english": "Knowledge",
+            "telugu": "జ్ఞానం"
+        },
+        "origin": "Sanskrit",
+        "tags": [
+            "wise",
+            "intellectual"
+        ]
+    },
+    {
+        "name": {
+            "english": "Jnanavi",
+            "telugu": "జ్ఞానవి"
+        },
+        "first_letter": {
+            "english": "Jna",
+            "telugu": "ఙ"
+        },
+        "gender": "female",
+        "language": "Telugu",
+        "religion": "Hindu",
+        "meanings": {
+            "english": "Wise woman",
+            "telugu": "వివేకవంతురాలు"
+        },
+        "origin": "Sanskrit",
+        "tags": [
+            "wise",
+            "intelligent"
+        ]
+    },
+    {
+        "name": {
+            "english": "Chaitanya",
+            "telugu": "చైతన్య"
+        },
+        "first_letter": {
+            "english": "Cha",
+            "telugu": "చ"
+        },
+        "gender": "male",
+        "language": "Telugu",
+        "religion": "Hindu",
+        "meanings": {
+            "english": "Consciousness",
+            "telugu": "చైతన్యం"
+        },
+        "origin": "Sanskrit",
+        "tags": [
+            "aware",
+            "lively"
+        ]
+    },
+    {
+        "name": {
+            "english": "Chandrasekhar",
+            "telugu": "చంద్రశేఖర్"
+        },
+        "first_letter": {
+            "english": "Cha",
+            "telugu": "చ"
+        },
+        "gender": "male",
+        "language": "Telugu",
+        "religion": "Hindu",
+        "meanings": {
+            "english": "Lord Shiva",
+            "telugu": "శివుడు"
+        },
+        "origin": "Sanskrit",
+        "tags": [
+            "divine",
+            "powerful"
+        ]
+    },
+    {
+        "name": {
+            "english": "Charita",
+            "telugu": "చరిత"
+        },
+        "first_letter": {
+            "english": "Cha",
+            "telugu": "చ"
+        },
+        "gender": "female",
+        "language": "Telugu",
+        "religion": "Hindu",
+        "meanings": {
+            "english": "Good",
+            "telugu": "మంచి"
+        },
+        "origin": "Sanskrit",
+        "tags": [
+            "kind",
+            "virtuous"
+        ]
+    },
+    {
+        "name": {
+            "english": "Chandini",
+            "telugu": "చందిని"
+        },
+        "first_letter": {
+            "english": "Cha",
+            "telugu": "చ"
+        },
+        "gender": "female",
+        "language": "Telugu",
+        "religion": "Hindu",
+        "meanings": {
+            "english": "Moonlight",
+            "telugu": "వెన్నెల"
+        },
+        "origin": "Sanskrit",
+        "tags": [
+            "beautiful",
+            "serene"
+        ]
+    },
+    {
+        "name": {
+            "english": "Chhailbihari",
+            "telugu": "ఛైల్బిహారీ"
+        },
+        "first_letter": {
+            "english": "Chha",
+            "telugu": "ఛ"
+        },
+        "gender": "male",
+        "language": "Telugu",
+        "religion": "Hindu",
+        "meanings": {
+            "english": "Lord Krishna",
+            "telugu": "కృష్ణుడు"
+        },
+        "origin": "Sanskrit",
+        "tags": [
+            "divine",
+            "charming"
+        ]
+    },
+    {
+        "name": {
+            "english": "Chhatrapal",
+            "telugu": "ఛత్రపాల్"
+        },
+        "first_letter": {
+            "english": "Chha",
+            "telugu": "ఛ"
+        },
+        "gender": "male",
+        "language": "Telugu",
+        "religion": "Hindu",
+        "meanings": {
+            "english": "Protector",
+            "telugu": "రక్షకుడు"
+        },
+        "origin": "Sanskrit",
+        "tags": [
+            "strong",
+            "guardian"
+        ]
+    },
+    {
+        "name": {
+            "english": "Chhavi",
+            "telugu": "ఛవి"
+        },
+        "first_letter": {
+            "english": "Chha",
+            "telugu": "ఛ"
+        },
+        "gender": "female",
+        "language": "Telugu",
+        "religion": "Hindu",
+        "meanings": {
+            "english": "Reflection",
+            "telugu": "ప్రతిబింబం"
+        },
+        "origin": "Sanskrit",
+        "tags": [
+            "image",
+            "beauty"
+        ]
+    },
+    {
+        "name": {
+            "english": "Chhaya",
+            "telugu": "ఛాయ"
+        },
+        "first_letter": {
+            "english": "Chha",
+            "telugu": "ఛ"
+        },
+        "gender": "female",
+        "language": "Telugu",
+        "religion": "Hindu",
+        "meanings": {
+            "english": "Shadow",
+            "telugu": "నీడ"
+        },
+        "origin": "Sanskrit",
+        "tags": [
+            "shade",
+            "reflection"
+        ]
+    },
+    {
+        "name": {
+            "english": "Jagadish",
+            "telugu": "జగదీష్"
+        },
+        "first_letter": {
+            "english": "Ja",
+            "telugu": "జ"
+        },
+        "gender": "male",
+        "language": "Telugu",
+        "religion": "Hindu",
+        "meanings": {
+            "english": "Lord of the universe",
+            "telugu": "విశ్వానికి ప్రభువు"
+        },
+        "origin": "Sanskrit",
+        "tags": [
+            "divine",
+            "powerful"
+        ]
+    },
+    {
+        "name": {
+            "english": "Jayanth",
+            "telugu": "జయంత"
+        },
+        "first_letter": {
+            "english": "Ja",
+            "telugu": "జ"
+        },
+        "gender": "male",
+        "language": "Telugu",
+        "religion": "Hindu",
+        "meanings": {
+            "english": "Victorious",
+            "telugu": "విజయవంతమైన"
+        },
+        "origin": "Sanskrit",
+        "tags": [
+            "victorious",
+            "successful"
+        ]
+    },
+    {
+        "name": {
+            "english": "Janaki",
+            "telugu": "జానకి"
+        },
+        "first_letter": {
+            "english": "Ja",
+            "telugu": "జ"
+        },
+        "gender": "female",
+        "language": "Telugu",
+        "religion": "Hindu",
+        "meanings": {
+            "english": "Goddess Sita",
+            "telugu": "సీతా దేవి"
+        },
+        "origin": "Sanskrit",
+        "tags": [
+            "divine",
+            "virtuous"
+        ]
+    },
+    {
+        "name": {
+            "english": "Jaya",
+            "telugu": "జయ"
+        },
+        "first_letter": {
+            "english": "Ja",
+            "telugu": "జ"
+        },
+        "gender": "female",
+        "language": "Telugu",
+        "religion": "Hindu",
+        "meanings": {
+            "english": "Victory",
+            "telugu": "విజయం"
+        },
+        "origin": "Sanskrit",
+        "tags": [
+            "victorious",
+            "successful"
+        ]
+    },
+    {
+        "name": {
+            "english": "Jhanakar",
+            "telugu": "ఝణకర్"
+        },
+        "first_letter": {
+            "english": "Jha",
+            "telugu": "ఝ"
+        },
+        "gender": "male",
+        "language": "Telugu",
+        "religion": "Hindu",
+        "meanings": {
+            "english": "Musical sound",
+            "telugu": "సంగీత ధ్వని"
+        },
+        "origin": "Sanskrit",
+        "tags": [
+            "musical",
+            "melodious"
+        ]
+    },
+    {
+        "name": {
+            "english": "Jharana",
+            "telugu": "ఝరణ"
+        },
+        "first_letter": {
+            "english": "Jha",
+            "telugu": "ఝ"
+        },
+        "gender": "male",
+        "language": "Telugu",
+        "religion": "Hindu",
+        "meanings": {
+            "english": "A stream",
+            "telugu": "ఒక ప్రవాహం"
+        },
+        "origin": "Sanskrit",
+        "tags": [
+            "flowing",
+            "natural"
+        ]
+    },
+    {
+        "name": {
+            "english": "Jhanavi",
+            "telugu": "ఝానవి"
+        },
+        "first_letter": {
+            "english": "Jha",
+            "telugu": "ఝ"
+        },
+        "gender": "female",
+        "language": "Telugu",
+        "religion": "Hindu",
+        "meanings": {
+            "english": "Ganga river",
+            "telugu": "గంగా నది"
+        },
+        "origin": "Sanskrit",
+        "tags": [
+            "divine",
+            "pure"
+        ]
+    },
+    {
+        "name": {
+            "english": "Jharana",
+            "telugu": "ఝరణ"
+        },
+        "first_letter": {
+            "english": "Jha",
+            "telugu": "ఝ"
+        },
+        "gender": "female",
+        "language": "Telugu",
+        "religion": "Hindu",
+        "meanings": {
+            "english": "A stream",
+            "telugu": "ఒక ప్రవాహం"
+        },
+        "origin": "Sanskrit",
+        "tags": [
+            "natural",
+            "flowing"
+        ]
+    },
+    {
+        "name": {
+            "english": "Jnanender",
+            "telugu": "జ్ఞానేందర్"
+        },
+        "first_letter": {
+            "english": "Nya",
+            "telugu": "ఞ"
+        },
+        "gender": "male",
+        "language": "Telugu",
+        "religion": "Hindu",
+        "meanings": {
+            "english": "God of knowledge",
+            "telugu": "జ్ఞానానికి దేవుడు"
+        },
+        "origin": "Sanskrit",
+        "tags": [
+            "wise",
+            "learned"
+        ]
+    },
+    {
+        "name": {
+            "english": "Jnanadip",
+            "telugu": "జ్ఞానదీప్"
+        },
+        "first_letter": {
+            "english": "Nya",
+            "telugu": "ఞ"
+        },
+        "gender": "male",
+        "language": "Telugu",
+        "religion": "Hindu",
+        "meanings": {
+            "english": "Lamp of knowledge",
+            "telugu": "జ్ఞానపు దీపం"
+        },
+        "origin": "Sanskrit",
+        "tags": [
+            "enlightening",
+            "wise"
+        ]
+    },
+    {
+        "name": {
+            "english": "Jnanada",
+            "telugu": "జ్ఞానద"
+        },
+        "first_letter": {
+            "english": "Nya",
+            "telugu": "ఞ"
+        },
+        "gender": "female",
+        "language": "Telugu",
+        "religion": "Hindu",
+        "meanings": {
+            "english": "Giver of knowledge",
+            "telugu": "జ్ఞానాన్ని ఇచ్చేది"
+        },
+        "origin": "Sanskrit",
+        "tags": [
+            "wise",
+            "generous"
+        ]
+    },
+    {
+        "name": {
+            "english": "Jnanavi",
+            "telugu": "జ్ఞానవి"
+        },
+        "first_letter": {
+            "english": "Nya",
+            "telugu": "ఞ"
+        },
+        "gender": "female",
+        "language": "Telugu",
+        "religion": "Hindu",
+        "meanings": {
+            "english": "Wise",
+            "telugu": "వివేకవంతురాలు"
+        },
+        "origin": "Sanskrit",
+        "tags": [
+            "intelligent",
+            "learned"
+        ]
+    },
+    {
+        "name": {
+            "english": "Tarun",
+            "telugu": "తరుణ్"
+        },
+        "first_letter": {
+            "english": "Ta",
+            "telugu": "ట"
+        },
+        "gender": "male",
+        "language": "Telugu",
+        "religion": "Hindu",
+        "meanings": {
+            "english": "Young",
+            "telugu": "యువకుడు"
+        },
+        "origin": "Sanskrit",
+        "tags": [
+            "youthful",
+            "energetic"
+        ]
+    },
+    {
+        "name": {
+            "english": "Tapan",
+            "telugu": "తపన్"
+        },
+        "first_letter": {
+            "english": "Ta",
+            "telugu": "ట"
+        },
+        "gender": "male",
+        "language": "Telugu",
+        "religion": "Hindu",
+        "meanings": {
+            "english": "Sun",
+            "telugu": "సూర్యుడు"
+        },
+        "origin": "Sanskrit",
+        "tags": [
+            "bright",
+            "powerful"
+        ]
+    },
+    {
+        "name": {
+            "english": "Tanvi",
+            "telugu": "తన్వి"
+        },
+        "first_letter": {
+            "english": "Ta",
+            "telugu": "ట"
+        },
+        "gender": "female",
+        "language": "Telugu",
+        "religion": "Hindu",
+        "meanings": {
+            "english": "Slender",
+            "telugu": "సన్నని"
+        },
+        "origin": "Sanskrit",
+        "tags": [
+            "delicate",
+            "beautiful"
+        ]
+    },
+    {
+        "name": {
+            "english": "Tanushri",
+            "telugu": "తనుశ్రీ"
+        },
+        "first_letter": {
+            "english": "Ta",
+            "telugu": "ట"
+        },
+        "gender": "female",
+        "language": "Telugu",
+        "religion": "Hindu",
+        "meanings": {
+            "english": "Beautiful body",
+            "telugu": "అందమైన శరీరం"
+        },
+        "origin": "Sanskrit",
+        "tags": [
+            "beautiful",
+            "graceful"
+        ]
+    },
+    {
+        "name": {
+            "english": "Daksh",
+            "telugu": "దక్ష్"
+        },
+        "first_letter": {
+            "english": "Da",
+            "telugu": "డ"
+        },
+        "gender": "male",
+        "language": "Telugu",
+        "religion": "Hindu",
+        "meanings": {
+            "english": "Skilled",
+            "telugu": "చాకచక్యత"
+        },
+        "origin": "Sanskrit",
+        "tags": [
+            "skilled",
+            "competent"
+        ]
+    },
+    {
+        "name": {
+            "english": "Dheeraj",
+            "telugu": "ధీరజ్"
+        },
+        "first_letter": {
+            "english": "Da",
+            "telugu": "డ"
+        },
+        "gender": "male",
+        "language": "Telugu",
+        "religion": "Hindu",
+        "meanings": {
+            "english": "Courageous",
+            "telugu": "ధైర్యవంతుడు"
+        },
+        "origin": "Sanskrit",
+        "tags": [
+            "brave",
+            "bold"
+        ]
+    },
+    {
+        "name": {
+            "english": "Daksha",
+            "telugu": "దక్ష"
+        },
+        "first_letter": {
+            "english": "Da",
+            "telugu": "డ"
+        },
+        "gender": "female",
+        "language": "Telugu",
+        "religion": "Hindu",
+        "meanings": {
+            "english": "Skilled",
+            "telugu": "చాకచక్యత"
+        },
+        "origin": "Sanskrit",
+        "tags": [
+            "competent",
+            "efficient"
+        ]
+    },
+    {
+        "name": {
+            "english": "Durga",
+            "telugu": "దుర్గా"
+        },
+        "first_letter": {
+            "english": "Da",
+            "telugu": "డ"
+        },
+        "gender": "female",
+        "language": "Telugu",
+        "religion": "Hindu",
+        "meanings": {
+            "english": "Goddess Durga",
+            "telugu": "దుర్గా దేవి"
+        },
+        "origin": "Sanskrit",
+        "tags": [
+            "divine",
+            "powerful"
+        ]
+    },
+    {
+        "name": {
+            "english": "Dhaval",
+            "telugu": "ధవల్"
+        },
+        "first_letter": {
+            "english": "Dha",
+            "telugu": "ఢ"
+        },
+        "gender": "male",
+        "language": "Telugu",
+        "religion": "Hindu",
+        "meanings": {
+            "english": "White",
+            "telugu": "తెలుపు"
+        },
+        "origin": "Sanskrit",
+        "tags": [
+            "bright",
+            "pure"
+        ]
+    },
+    {
+        "name": {
+            "english": "Dhayan",
+            "telugu": "ధ్యాన్"
+        },
+        "first_letter": {
+            "english": "Dha",
+            "telugu": "ఢ"
+        },
+        "gender": "male",
+        "language": "Telugu",
+        "religion": "Hindu",
+        "meanings": {
+            "english": "Meditation",
+            "telugu": "ధ్యానం"
+        },
+        "origin": "Sanskrit",
+        "tags": [
+            "spiritual",
+            "peaceful"
+        ]
+    },
+    {
+        "name": {
+            "english": "Dhaani",
+            "telugu": "ధాని"
+        },
+        "first_letter": {
+            "english": "Dha",
+            "telugu": "ఢ"
+        },
+        "gender": "female",
+        "language": "Telugu",
+        "religion": "Hindu",
+        "meanings": {
+            "english": "Melodious",
+            "telugu": "మధురమైన"
+        },
+        "origin": "Sanskrit",
+        "tags": [
+            "musical",
+            "sweet"
+        ]
+    },
+    {
+        "name": {
+            "english": "Dhanvi",
+            "telugu": "ధన్వి"
+        },
+        "first_letter": {
+            "english": "Dha",
+            "telugu": "ఢ"
+        },
+        "gender": "female",
+        "language": "Telugu",
+        "religion": "Hindu",
+        "meanings": {
+            "english": "Wealthy",
+            "telugu": "ధనిక"
+        },
+        "origin": "Sanskrit",
+        "tags": [
+            "prosperous",
+            "rich"
+        ]
+    },
+    {
+        "name": {
+            "english": "Nandini",
+            "telugu": "నందిని"
+        },
+        "first_letter": {
+            "english": "Na",
+            "telugu": "ణ"
+        },
+        "gender": "female",
+        "language": "Telugu",
+        "religion": "Hindu",
+        "meanings": {
+            "english": "Cow",
+            "telugu": "గోవు"
+        },
+        "origin": "Sanskrit",
+        "tags": [
+            "natural",
+            "peaceful"
+        ]
+    },
+    {
+        "name": {
+            "english": "Nandish",
+            "telugu": "నందిష్"
+        },
+        "first_letter": {
+            "english": "Na",
+            "telugu": "ణ"
+        },
+        "gender": "male",
+        "language": "Telugu",
+        "religion": "Hindu",
+        "meanings": {
+            "english": "Lord Shiva",
+            "telugu": "శివుడు"
+        },
+        "origin": "Sanskrit",
+        "tags": [
+            "divine",
+            "powerful"
+        ]
+    },
+    {
+        "name": {
+            "english": "Nandin",
+            "telugu": "నందిన్"
+        },
+        "first_letter": {
+            "english": "Na",
+            "telugu": "ణ"
+        },
+        "gender": "male",
+        "language": "Telugu",
+        "religion": "Hindu",
+        "meanings": {
+            "english": "Bull",
+            "telugu": "ఎద్దు"
+        },
+        "origin": "Sanskrit",
+        "tags": [
+            "strong",
+            "powerful"
+        ]
+    },
+    {
+        "name": {
+            "english": "Nanditha",
+            "telugu": "నందిత"
+        },
+        "first_letter": {
+            "english": "Na",
+            "telugu": "ణ"
+        },
+        "gender": "female",
+        "language": "Telugu",
+        "religion": "Hindu",
+        "meanings": {
+            "english": "Beloved",
+            "telugu": "ప్రియమైన"
+        },
+        "origin": "Sanskrit",
+        "tags": [
+            "loved",
+            "cherished"
+        ]
+    },
+    {
+        "name": {
+            "english": "Tarun",
+            "telugu": "తరుణ్"
+        },
+        "first_letter": {
+            "english": "Ta",
+            "telugu": "త"
+        },
+        "gender": "male",
+        "language": "Telugu",
+        "religion": "Hindu",
+        "meanings": {
+            "english": "Young",
+            "telugu": "యువకుడు"
+        },
+        "origin": "Sanskrit",
+        "tags": [
+            "youthful",
+            "energetic"
+        ]
+    },
+    {
+        "name": {
+            "english": "Tejas",
+            "telugu": "తేజస్"
+        },
+        "first_letter": {
+            "english": "Ta",
+            "telugu": "త"
+        },
+        "gender": "male",
+        "language": "Telugu",
+        "religion": "Hindu",
+        "meanings": {
+            "english": "Splendor",
+            "telugu": "తేజస్సు"
+        },
+        "origin": "Sanskrit",
+        "tags": [
+            "radiance",
+            "brilliance"
+        ]
+    },
+    {
+        "name": {
+            "english": "Tanvi",
+            "telugu": "తన్వి"
+        },
+        "first_letter": {
+            "english": "Ta",
+            "telugu": "త"
+        },
+        "gender": "female",
+        "language": "Telugu",
+        "religion": "Hindu",
+        "meanings": {
+            "english": "Slender",
+            "telugu": "సన్నని"
+        },
+        "origin": "Sanskrit",
+        "tags": [
+            "delicate",
+            "beautiful"
+        ]
+    },
+    {
+        "name": {
+            "english": "Tanuja",
+            "telugu": "తనుజ"
+        },
+        "first_letter": {
+            "english": "Ta",
+            "telugu": "త"
+        },
+        "gender": "female",
+        "language": "Telugu",
+        "religion": "Hindu",
+        "meanings": {
+            "english": "Daughter",
+            "telugu": "కుమార్తె"
+        },
+        "origin": "Sanskrit",
+        "tags": [
+            "family",
+            "affection"
+        ]
+    },
+    {
+        "name": {
+            "english": "Tharun",
+            "telugu": "థరుణ్"
+        },
+        "first_letter": {
+            "english": "Tha",
+            "telugu": "థ"
+        },
+        "gender": "male",
+        "language": "Telugu",
+        "religion": "Hindu",
+        "meanings": {
+            "english": "Young",
+            "telugu": "యువకుడు"
+        },
+        "origin": "Sanskrit",
+        "tags": [
+            "youthful",
+            "energetic"
+        ]
+    },
+    {
+        "name": {
+            "english": "Thaman",
+            "telugu": "థమన్"
+        },
+        "first_letter": {
+            "english": "Tha",
+            "telugu": "థ"
+        },
+        "gender": "male",
+        "language": "Telugu",
+        "religion": "Hindu",
+        "meanings": {
+            "english": "Name of a God",
+            "telugu": "దేవుని పేరు"
+        },
+        "origin": "Sanskrit",
+        "tags": [
+            "divine",
+            "revered"
+        ]
+    },
+    {
+        "name": {
+            "english": "Thanuja",
+            "telugu": "థనుజ"
+        },
+        "first_letter": {
+            "english": "Tha",
+            "telugu": "థ"
+        },
+        "gender": "female",
+        "language": "Telugu",
+        "religion": "Hindu",
+        "meanings": {
+            "english": "Daughter",
+            "telugu": "కుమార్తె"
+        },
+        "origin": "Sanskrit",
+        "tags": [
+            "family",
+            "affection"
+        ]
+    },
+    {
+        "name": {
+            "english": "Thara",
+            "telugu": "థర"
+        },
+        "first_letter": {
+            "english": "Tha",
+            "telugu": "థ"
+        },
+        "gender": "female",
+        "language": "Telugu",
+        "religion": "Hindu",
+        "meanings": {
+            "english": "Star",
+            "telugu": "నక్షత్రం"
+        },
+        "origin": "Sanskrit",
+        "tags": [
+            "celestial",
+            "bright"
+        ]
+    },
+    {
+        "name": {
+            "english": "Deva",
+            "telugu": "దేవ"
+        },
+        "first_letter": {
+            "english": "Da",
+            "telugu": "ద"
+        },
+        "gender": "male",
+        "language": "Telugu",
+        "religion": "Hindu",
+        "meanings": {
+            "english": "God",
+            "telugu": "దేవుడు"
+        },
+        "origin": "Sanskrit",
+        "tags": [
+            "divine",
+            "powerful"
+        ]
+    },
+    {
+        "name": {
+            "english": "Deepak",
+            "telugu": "దీపక్"
+        },
+        "first_letter": {
+            "english": "Da",
+            "telugu": "ద"
+        },
+        "gender": "male",
+        "language": "Telugu",
+        "religion": "Hindu",
+        "meanings": {
+            "english": "Lamp",
+            "telugu": "దీపం"
+        },
+        "origin": "Sanskrit",
+        "tags": [
+            "bright",
+            "illuminating"
+        ]
+    },
+    {
+        "name": {
+            "english": "Devi",
+            "telugu": "దేవి"
+        },
+        "first_letter": {
+            "english": "Da",
+            "telugu": "ద"
+        },
+        "gender": "female",
+        "language": "Telugu",
+        "religion": "Hindu",
+        "meanings": {
+            "english": "Goddess",
+            "telugu": "దేవత"
+        },
+        "origin": "Sanskrit",
+        "tags": [
+            "divine",
+            "powerful"
+        ]
+    },
+    {
+        "name": {
+            "english": "Deepika",
+            "telugu": "దీపిక"
+        },
+        "first_letter": {
+            "english": "Da",
+            "telugu": "ద"
+        },
+        "gender": "female",
+        "language": "Telugu",
+        "religion": "Hindu",
+        "meanings": {
+            "english": "Little lamp",
+            "telugu": "చిన్న దీపం"
+        },
+        "origin": "Sanskrit",
+        "tags": [
+            "bright",
+            "illuminating"
+        ]
+    },
+    {
+        "name": {
+            "english": "Dhananjay",
+            "telugu": "ధనంజయ్"
+        },
+        "first_letter": {
+            "english": "Dha",
+            "telugu": "ధ"
+        },
+        "gender": "male",
+        "language": "Telugu",
+        "religion": "Hindu",
+        "meanings": {
+            "english": "Arjuna",
+            "telugu": "అర్జునుడు"
+        },
+        "origin": "Sanskrit",
+        "tags": [
+            "heroic",
+            "victorious"
+        ]
+    },
+    {
+        "name": {
+            "english": "Dharmesh",
+            "telugu": "ధర్మేష్"
+        },
+        "first_letter": {
+            "english": "Dha",
+            "telugu": "ధ"
+        },
+        "gender": "male",
+        "language": "Telugu",
+        "religion": "Hindu",
+        "meanings": {
+            "english": "Lord of Dharma",
+            "telugu": "ధర్మానికి ప్రభువు"
+        },
+        "origin": "Sanskrit",
+        "tags": [
+            "righteous",
+            "just"
+        ]
+    },
+    {
+        "name": {
+            "english": "Dharani",
+            "telugu": "ధరణి"
+        },
+        "first_letter": {
+            "english": "Dha",
+            "telugu": "ధ"
+        },
+        "gender": "female",
+        "language": "Telugu",
+        "religion": "Hindu",
+        "meanings": {
+            "english": "Earth",
+            "telugu": "భూమి"
+        },
+        "origin": "Sanskrit",
+        "tags": [
+            "natural",
+            "nurturing"
+        ]
+    },
+    {
+        "name": {
+            "english": "Dhanya",
+            "telugu": "ధన్య"
+        },
+        "first_letter": {
+            "english": "Dha",
+            "telugu": "ధ"
+        },
+        "gender": "female",
+        "language": "Telugu",
+        "religion": "Hindu",
+        "meanings": {
+            "english": "Grateful",
+            "telugu": "కృతజ్ఞత"
+        },
+        "origin": "Sanskrit",
+        "tags": [
+            "thankful",
+            "blessed"
+        ]
+    },
+    {
+        "name": {
+            "english": "Naveen",
+            "telugu": "నవీన్"
+        },
+        "first_letter": {
+            "english": "Na",
+            "telugu": "న"
+        },
+        "gender": "male",
+        "language": "Telugu",
+        "religion": "Hindu",
+        "meanings": {
+            "english": "New",
+            "telugu": "కొత్త"
+        },
+        "origin": "Sanskrit",
+        "tags": [
+            "fresh",
+            "modern"
+        ]
+    },
+    {
+        "name": {
+            "english": "Narayana",
+            "telugu": "నారాయణ"
+        },
+        "first_letter": {
+            "english": "Na",
+            "telugu": "న"
+        },
+        "gender": "male",
+        "language": "Telugu",
+        "religion": "Hindu",
+        "meanings": {
+            "english": "Lord Vishnu",
+            "telugu": "విష్ణువు"
+        },
+        "origin": "Sanskrit",
+        "tags": [
+            "divine",
+            "protector"
+        ]
+    },
+    {
+        "name": {
+            "english": "Nayana",
+            "telugu": "నయన"
+        },
+        "first_letter": {
+            "english": "Na",
+            "telugu": "న"
+        },
+        "gender": "female",
+        "language": "Telugu",
+        "religion": "Hindu",
+        "meanings": {
+            "english": "Eyes",
+            "telugu": "కళ్ళు"
+        },
+        "origin": "Sanskrit",
+        "tags": [
+            "beautiful",
+            "vision"
+        ]
+    },
+    {
+        "name": {
+            "english": "Namrata",
+            "telugu": "నమ్రత"
+        },
+        "first_letter": {
+            "english": "Na",
+            "telugu": "న"
+        },
+        "gender": "female",
+        "language": "Telugu",
+        "religion": "Hindu",
+        "meanings": {
+            "english": "Modesty",
+            "telugu": "వినయం"
+        },
+        "origin": "Sanskrit",
+        "tags": [
+            "humble",
+            "gentle"
+        ]
+    },
+    {
+        "name": {
+            "english": "Pavan",
+            "telugu": "పవన్"
+        },
+        "first_letter": {
+            "english": "Pa",
+            "telugu": "ప"
+        },
+        "gender": "male",
+        "language": "Telugu",
+        "religion": "Hindu",
+        "meanings": {
+            "english": "Wind",
+            "telugu": "గాలి"
+        },
+        "origin": "Sanskrit",
+        "tags": [
+            "natural",
+            "powerful"
+        ]
+    },
+    {
+        "name": {
+            "english": "Prakash",
+            "telugu": "ప్రకాష్"
+        },
+        "first_letter": {
+            "english": "Pa",
+            "telugu": "ప"
+        },
+        "gender": "male",
+        "language": "Telugu",
+        "religion": "Hindu",
+        "meanings": {
+            "english": "Light",
+            "telugu": "వెలుగు"
+        },
+        "origin": "Sanskrit",
+        "tags": [
+            "bright",
+            "radiant"
+        ]
+    },
+    {
+        "name": {
+            "english": "Padma",
+            "telugu": "పద్మ"
+        },
+        "first_letter": {
+            "english": "Pa",
+            "telugu": "ప"
+        },
+        "gender": "female",
+        "language": "Telugu",
+        "religion": "Hindu",
+        "meanings": {
+            "english": "Lotus",
+            "telugu": "తామర"
+        },
+        "origin": "Sanskrit",
+        "tags": [
+            "beautiful",
+            "pure"
+        ]
+    },
+    {
+        "name": {
+            "english": "Pooja",
+            "telugu": "పూజ"
+        },
+        "first_letter": {
+            "english": "Pa",
+            "telugu": "ప"
+        },
+        "gender": "female",
+        "language": "Telugu",
+        "religion": "Hindu",
+        "meanings": {
+            "english": "Worship",
+            "telugu": "పూజ"
+        },
+        "origin": "Sanskrit",
+        "tags": [
+            "devotional",
+            "sacred"
+        ]
+    },
+    {
+        "name": {
+            "english": "Phalgun",
+            "telugu": "ఫల్గుణ్"
+        },
+        "first_letter": {
+            "english": "Pha",
+            "telugu": "ఫ"
+        },
+        "gender": "male",
+        "language": "Telugu",
+        "religion": "Hindu",
+        "meanings": {
+            "english": "Name of a month",
+            "telugu": "ఒక నెల పేరు"
+        },
+        "origin": "Sanskrit",
+        "tags": [
+            "auspicious",
+            "seasonal"
+        ]
+    },
+    {
+        "name": {
+            "english": "Phanindra",
+            "telugu": "ఫణీంద్ర"
+        },
+        "first_letter": {
+            "english": "Pha",
+            "telugu": "ఫ"
+        },
+        "gender": "male",
+        "language": "Telugu",
+        "religion": "Hindu",
+        "meanings": {
+            "english": "Lord Shesha",
+            "telugu": "శేషుడు"
+        },
+        "origin": "Sanskrit",
+        "tags": [
+            "divine",
+            "powerful"
+        ]
+    },
+    {
+        "name": {
+            "english": "Phalguni",
+            "telugu": "ఫల్గుణి"
+        },
+        "first_letter": {
+            "english": "Pha",
+            "telugu": "ఫ"
+        },
+        "gender": "female",
+        "language": "Telugu",
+        "religion": "Hindu",
+        "meanings": {
+            "english": "Born in Phalgun",
+            "telugu": "ఫల్గుణంలో జన్మించిన"
+        },
+        "origin": "Sanskrit",
+        "tags": [
+            "auspicious",
+            "seasonal"
+        ]
+    },
+    {
+        "name": {
+            "english": "Phalavi",
+            "telugu": "ఫలవి"
+        },
+        "first_letter": {
+            "english": "Pha",
+            "telugu": "ఫ"
+        },
+        "gender": "female",
+        "language": "Telugu",
+        "religion": "Hindu",
+        "meanings": {
+            "english": "Flowering",
+            "telugu": "పువ్వులు వికసించడం"
+        },
+        "origin": "Sanskrit",
+        "tags": [
+            "natural",
+            "beautiful"
+        ]
+    },
+    {
+        "name": {
+            "english": "Balaji",
+            "telugu": "బాలాజీ"
+        },
+        "first_letter": {
+            "english": "Ba",
+            "telugu": "బ"
+        },
+        "gender": "male",
+        "language": "Telugu",
+        "religion": "Hindu",
+        "meanings": {
+            "english": "Lord Venkateswara",
+            "telugu": "వెంకటేశ్వర స్వామి"
+        },
+        "origin": "Sanskrit",
+        "tags": [
+            "divine",
+            "powerful"
+        ]
+    },
+    {
+        "name": {
+            "english": "Bharat",
+            "telugu": "భారత్"
+        },
+        "first_letter": {
+            "english": "Ba",
+            "telugu": "బ"
+        },
+        "gender": "male",
+        "language": "Telugu",
+        "religion": "Hindu",
+        "meanings": {
+            "english": "India",
+            "telugu": "భారతదేశం"
+        },
+        "origin": "Sanskrit",
+        "tags": [
+            "national",
+            "strong"
+        ]
+    },
+    {
+        "name": {
+            "english": "Bhavana",
+            "telugu": "భావన"
+        },
+        "first_letter": {
+            "english": "Ba",
+            "telugu": "బ"
+        },
+        "gender": "female",
+        "language": "Telugu",
+        "religion": "Hindu",
+        "meanings": {
+            "english": "Feelings",
+            "telugu": "భావాలు"
+        },
+        "origin": "Sanskrit",
+        "tags": [
+            "emotional",
+            "thoughtful"
+        ]
+    },
+    {
+        "name": {
+            "english": "Bindu",
+            "telugu": "బిందు"
+        },
+        "first_letter": {
+            "english": "Ba",
+            "telugu": "బ"
+        },
+        "gender": "female",
+        "language": "Telugu",
+        "religion": "Hindu",
+        "meanings": {
+            "english": "Point",
+            "telugu": "చుక్క"
+        },
+        "origin": "Sanskrit",
+        "tags": [
+            "small",
+            "significant"
+        ]
+    },
+    {
+        "name": {
+            "english": "Bhaskar",
+            "telugu": "భాస్కర్"
+        },
+        "first_letter": {
+            "english": "Bha",
+            "telugu": "భ"
+        },
+        "gender": "male",
+        "language": "Telugu",
+        "religion": "Hindu",
+        "meanings": {
+            "english": "Sun",
+            "telugu": "సూర్యుడు"
+        },
+        "origin": "Sanskrit",
+        "tags": [
+            "bright",
+            "radiant"
+        ]
+    },
+    {
+        "name": {
+            "english": "Bhavesh",
+            "telugu": "భావేష్"
+        },
+        "first_letter": {
+            "english": "Bha",
+            "telugu": "భ"
+        },
+        "gender": "male",
+        "language": "Telugu",
+        "religion": "Hindu",
+        "meanings": {
+            "english": "Lord Shiva",
+            "telugu": "శివుడు"
+        },
+        "origin": "Sanskrit",
+        "tags": [
+            "divine",
+            "powerful"
+        ]
+    },
+    {
+        "name": {
+            "english": "Bhargavi",
+            "telugu": "భార్గవి"
+        },
+        "first_letter": {
+            "english": "Bha",
+            "telugu": "భ"
+        },
+        "gender": "female",
+        "language": "Telugu",
+        "religion": "Hindu",
+        "meanings": {
+            "english": "Goddess Parvati",
+            "telugu": "పార్వతి దేవి"
+        },
+        "origin": "Sanskrit",
+        "tags": [
+            "divine",
+            "powerful"
+        ]
+    },
+    {
+        "name": {
+            "english": "Bhavya",
+            "telugu": "భవ్య"
+        },
+        "first_letter": {
+            "english": "Bha",
+            "telugu": "భ"
+        },
+        "gender": "female",
+        "language": "Telugu",
+        "religion": "Hindu",
+        "meanings": {
+            "english": "Grand",
+            "telugu": "గొప్ప"
+        },
+        "origin": "Sanskrit",
+        "tags": [
+            "magnificent",
+            "beautiful"
+        ]
+    },
+    {
+        "name": {
+            "english": "Mahesh",
+            "telugu": "మహేష్"
+        },
+        "first_letter": {
+            "english": "Ma",
+            "telugu": "మ"
+        },
+        "gender": "male",
+        "language": "Telugu",
+        "religion": "Hindu",
+        "meanings": {
+            "english": "Lord Shiva",
+            "telugu": "శివుడు"
+        },
+        "origin": "Sanskrit",
+        "tags": [
+            "divine",
+            "powerful"
+        ]
+    },
+    {
+        "name": {
+            "english": "Manish",
+            "telugu": "మనీష్"
+        },
+        "first_letter": {
+            "english": "Ma",
+            "telugu": "మ"
+        },
+        "gender": "male",
+        "language": "Telugu",
+        "religion": "Hindu",
+        "meanings": {
+            "english": "Lord of the mind",
+            "telugu": "మనస్సు యొక్క ప్రభువు"
+        },
+        "origin": "Sanskrit",
+        "tags": [
+            "wise",
+            "thoughtful"
+        ]
+    },
+    {
+        "name": {
+            "english": "Manasa",
+            "telugu": "మనస"
+        },
+        "first_letter": {
+            "english": "Ma",
+            "telugu": "మ"
+        },
+        "gender": "female",
+        "language": "Telugu",
+        "religion": "Hindu",
+        "meanings": {
+            "english": "Mind",
+            "telugu": "మనస్సు"
+        },
+        "origin": "Sanskrit",
+        "tags": [
+            "thoughtful",
+            "intellectual"
+        ]
+    },
+    {
+        "name": {
+            "english": "Madhuri",
+            "telugu": "మాధురి"
+        },
+        "first_letter": {
+            "english": "Ma",
+            "telugu": "మ"
+        },
+        "gender": "female",
+        "language": "Telugu",
+        "religion": "Hindu",
+        "meanings": {
+            "english": "Sweet",
+            "telugu": "తీపి"
+        },
+        "origin": "Sanskrit",
+        "tags": [
+            "charming",
+            "pleasant"
+        ]
+    },
+    {
+        "name": {
+            "english": "Yash",
+            "telugu": "యష్"
+        },
+        "first_letter": {
+            "english": "Ya",
+            "telugu": "య"
+        },
+        "gender": "male",
+        "language": "Telugu",
+        "religion": "Hindu",
+        "meanings": {
+            "english": "Fame",
+            "telugu": "కీర్తి"
+        },
+        "origin": "Sanskrit",
+        "tags": [
+            "renowned",
+            "famous"
+        ]
+    },
+    {
+        "name": {
+            "english": "Yatin",
+            "telugu": "యతిన్"
+        },
+        "first_letter": {
+            "english": "Ya",
+            "telugu": "య"
+        },
+        "gender": "male",
+        "language": "Telugu",
+        "religion": "Hindu",
+        "meanings": {
+            "english": "Devotee",
+            "telugu": "భక్తుడు"
+        },
+        "origin": "Sanskrit",
+        "tags": [
+            "devout",
+            "dedicated"
+        ]
+    },
+    {
+        "name": {
+            "english": "Yamini",
+            "telugu": "యామిని"
+        },
+        "first_letter": {
+            "english": "Ya",
+            "telugu": "య"
+        },
+        "gender": "female",
+        "language": "Telugu",
+        "religion": "Hindu",
+        "meanings": {
+            "english": "Night",
+            "telugu": "రాత్రి"
+        },
+        "origin": "Sanskrit",
+        "tags": [
+            "calm",
+            "serene"
+        ]
+    },
+    {
+        "name": {
+            "english": "Yashasvi",
+            "telugu": "యశస్వి"
+        },
+        "first_letter": {
+            "english": "Ya",
+            "telugu": "య"
+        },
+        "gender": "female",
+        "language": "Telugu",
+        "religion": "Hindu",
+        "meanings": {
+            "english": "Famous",
+            "telugu": "ప్రసిద్ధమైన"
+        },
+        "origin": "Sanskrit",
+        "tags": [
+            "renowned",
+            "glorious"
+        ]
+    },
+    {
+        "name": {
+            "english": "Ravi",
+            "telugu": "రవి"
+        },
+        "first_letter": {
+            "english": "Ra",
+            "telugu": "ర"
+        },
+        "gender": "male",
+        "language": "Telugu",
+        "religion": "Hindu",
+        "meanings": {
+            "english": "Sun",
+            "telugu": "సూర్యుడు"
+        },
+        "origin": "Sanskrit",
+        "tags": [
+            "bright",
+            "radiant"
+        ]
+    },
+    {
+        "name": {
+            "english": "Rajesh",
+            "telugu": "రాజేష్"
+        },
+        "first_letter": {
+            "english": "Ra",
+            "telugu": "ర"
+        },
+        "gender": "male",
+        "language": "Telugu",
+        "religion": "Hindu",
+        "meanings": {
+            "english": "King of Gods",
+            "telugu": "దేవతల రాజు"
+        },
+        "origin": "Sanskrit",
+        "tags": [
+            "divine",
+            "powerful"
+        ]
+    },
+    {
+        "name": {
+            "english": "Rani",
+            "telugu": "రాణి"
+        },
+        "first_letter": {
+            "english": "Ra",
+            "telugu": "ర"
+        },
+        "gender": "female",
+        "language": "Telugu",
+        "religion": "Hindu",
+        "meanings": {
+            "english": "Queen",
+            "telugu": "రాణి"
+        },
+        "origin": "Sanskrit",
+        "tags": [
+            "royal",
+            "regal"
+        ]
+    },
+    {
+        "name": {
+            "english": "Radha",
+            "telugu": "రాధ"
+        },
+        "first_letter": {
+            "english": "Ra",
+            "telugu": "ర"
+        },
+        "gender": "female",
+        "language": "Telugu",
+        "religion": "Hindu",
+        "meanings": {
+            "english": "Beloved of Krishna",
+            "telugu": "కృష్ణుని ప్రియురాలు"
+        },
+        "origin": "Sanskrit",
+        "tags": [
+            "divine",
+            "loving"
+        ]
+    },
+    {
+        "name": {
+            "english": "Rrudra",
+            "telugu": "ఱుద్ర"
+        },
+        "first_letter": {
+            "english": "Rra",
+            "telugu": "ఱ"
+        },
+        "gender": "male",
+        "language": "Telugu",
+        "religion": "Hindu",
+        "meanings": {
+            "english": "Fearsome",
+            "telugu": "భయంకరమైన"
+        },
+        "origin": "Sanskrit",
+        "tags": [
+            "powerful",
+            "strong"
+        ]
+    },
+    {
+        "name": {
+            "english": "Rranav",
+            "telugu": "ఱణవ్"
+        },
+        "first_letter": {
+            "english": "Rra",
+            "telugu": "ఱ"
+        },
+        "gender": "male",
+        "language": "Telugu",
+        "religion": "Hindu",
+        "meanings": {
+            "english": "Fighter",
+            "telugu": "యోధుడు"
+        },
+        "origin": "Sanskrit",
+        "tags": [
+            "brave",
+            "courageous"
+        ]
+    },
+    {
+        "name": {
+            "english": "Rriddhi",
+            "telugu": "ఱిద్ధి"
+        },
+        "first_letter": {
+            "english": "Rra",
+            "telugu": "ఱ"
+        },
+        "gender": "female",
+        "language": "Telugu",
+        "religion": "Hindu",
+        "meanings": {
+            "english": "Prosperity",
+            "telugu": "శ్రేయస్సు"
+        },
+        "origin": "Sanskrit",
+        "tags": [
+            "wealth",
+            "success"
+        ]
+    },
+    {
+        "name": {
+            "english": "Rrajani",
+            "telugu": "ఱజని"
+        },
+        "first_letter": {
+            "english": "Rra",
+            "telugu": "ఱ"
+        },
+        "gender": "female",
+        "language": "Telugu",
+        "religion": "Hindu",
+        "meanings": {
+            "english": "Night",
+            "telugu": "రాత్రి"
+        },
+        "origin": "Sanskrit",
+        "tags": [
+            "calm",
+            "serene"
+        ]
+    },
+    {
+        "name": {
+            "english": "Lakshman",
+            "telugu": "లక్ష్మణ్"
+        },
+        "first_letter": {
+            "english": "La",
+            "telugu": "ల"
+        },
+        "gender": "male",
+        "language": "Telugu",
+        "religion": "Hindu",
+        "meanings": {
+            "english": "Brother of Rama",
+            "telugu": "రాముని సోదరుడు"
+        },
+        "origin": "Sanskrit",
+        "tags": [
+            "devoted",
+            "loyal"
+        ]
+    },
+    {
+        "name": {
+            "english": "Lalith",
+            "telugu": "లలిత్"
+        },
+        "first_letter": {
+            "english": "La",
+            "telugu": "ల"
+        },
+        "gender": "male",
+        "language": "Telugu",
+        "religion": "Hindu",
+        "meanings": {
+            "english": "Beautiful",
+            "telugu": "అందమైన"
+        },
+        "origin": "Sanskrit",
+        "tags": [
+            "charming",
+            "graceful"
+        ]
+    },
+    {
+        "name": {
+            "english": "Lakshmi",
+            "telugu": "లక్ష్మి"
+        },
+        "first_letter": {
+            "english": "La",
+            "telugu": "ల"
+        },
+        "gender": "female",
+        "language": "Telugu",
+        "religion": "Hindu",
+        "meanings": {
+            "english": "Goddess of wealth",
+            "telugu": "సంపద దేవత"
+        },
+        "origin": "Sanskrit",
+        "tags": [
+            "divine",
+            "prosperous"
+        ]
+    },
+    {
+        "name": {
+            "english": "Lavanya",
+            "telugu": "లావణ్య"
+        },
+        "first_letter": {
+            "english": "La",
+            "telugu": "ల"
+        },
+        "gender": "female",
+        "language": "Telugu",
+        "religion": "Hindu",
+        "meanings": {
+            "english": "Grace",
+            "telugu": "దయ"
+        },
+        "origin": "Sanskrit",
+        "tags": [
+            "beautiful",
+            "elegant"
+        ]
+    },
+    {
+        "name": {
+            "english": "Llasith",
+            "telugu": "ళసిత్"
+        },
+        "first_letter": {
+            "english": "Lla",
+            "telugu": "ళ"
+        },
+        "gender": "male",
+        "language": "Telugu",
+        "religion": "Hindu",
+        "meanings": {
+            "english": "Shining",
+            "telugu": "ప్రకాశవంతమైన"
+        },
+        "origin": "Sanskrit",
+        "tags": [
+            "bright",
+            "radiant"
+        ]
+    },
+    {
+        "name": {
+            "english": "Llesh",
+            "telugu": "ళేష్"
+        },
+        "first_letter": {
+            "english": "Lla",
+            "telugu": "ళ"
+        },
+        "gender": "male",
+        "language": "Telugu",
+        "religion": "Hindu",
+        "meanings": {
+            "english": "God of Love",
+            "telugu": "ప్రేమ దేవుడు"
+        },
+        "origin": "Sanskrit",
+        "tags": [
+            "divine",
+            "loving"
+        ]
+    },
+    {
+        "name": {
+            "english": "Llavanya",
+            "telugu": "ళావణ్య"
+        },
+        "first_letter": {
+            "english": "Lla",
+            "telugu": "ళ"
+        },
+        "gender": "female",
+        "language": "Telugu",
+        "religion": "Hindu",
+        "meanings": {
+            "english": "Beauty",
+            "telugu": "అందం"
+        },
+        "origin": "Sanskrit",
+        "tags": [
+            "beautiful",
+            "charming"
+        ]
+    },
+    {
+        "name": {
+            "english": "Llisha",
+            "telugu": "ళిష"
+        },
+        "first_letter": {
+            "english": "Lla",
+            "telugu": "ళ"
+        },
+        "gender": "female",
+        "language": "Telugu",
+        "religion": "Hindu",
+        "meanings": {
+            "english": "Noble",
+            "telugu": "గొప్ప"
+        },
+        "origin": "Sanskrit",
+        "tags": [
+            "kind",
+            "virtuous"
+        ]
+    },
+    {
+        "name": {
+            "english": "Varun",
+            "telugu": "వరుణ్"
+        },
+        "first_letter": {
+            "english": "Va",
+            "telugu": "వ"
+        },
+        "gender": "male",
+        "language": "Telugu",
+        "religion": "Hindu",
+        "meanings": {
+            "english": "God of water",
+            "telugu": "నీటి దేవుడు"
+        },
+        "origin": "Sanskrit",
+        "tags": [
+            "divine",
+            "powerful"
+        ]
+    },
+    {
+        "name": {
+            "english": "Vikram",
+            "telugu": "విక్రమ్"
+        },
+        "first_letter": {
+            "english": "Va",
+            "telugu": "వ"
+        },
+        "gender": "male",
+        "language": "Telugu",
+        "religion": "Hindu",
+        "meanings": {
+            "english": "Valour",
+            "telugu": "పరాక్రమం"
+        },
+        "origin": "Sanskrit",
+        "tags": [
+            "brave",
+            "courageous"
+        ]
+    },
+    {
+        "name": {
+            "english": "Vanaja",
+            "telugu": "వనజ"
+        },
+        "first_letter": {
+            "english": "Va",
+            "telugu": "వ"
+        },
+        "gender": "female",
+        "language": "Telugu",
+        "religion": "Hindu",
+        "meanings": {
+            "english": "Lotus",
+            "telugu": "తామర"
+        },
+        "origin": "Sanskrit",
+        "tags": [
+            "beautiful",
+            "pure"
+        ]
+    },
+    {
+        "name": {
+            "english": "Vaishnavi",
+            "telugu": "వైష్ణవి"
+        },
+        "first_letter": {
+            "english": "Va",
+            "telugu": "వ"
+        },
+        "gender": "female",
+        "language": "Telugu",
+        "religion": "Hindu",
+        "meanings": {
+            "english": "Devotee of Vishnu",
+            "telugu": "విష్ణు భక్తురాలు"
+        },
+        "origin": "Sanskrit",
+        "tags": [
+            "divine",
+            "devout"
+        ]
+    },
+    {
+        "name": {
+            "english": "Sharad",
+            "telugu": "శరద్"
+        },
+        "first_letter": {
+            "english": "Sha",
+            "telugu": "శ"
+        },
+        "gender": "male",
+        "language": "Telugu",
+        "religion": "Hindu",
+        "meanings": {
+            "english": "Autumn",
+            "telugu": "శరదృతువు"
+        },
+        "origin": "Sanskrit",
+        "tags": [
+            "seasonal",
+            "beautiful"
+        ]
+    },
+    {
+        "name": {
+            "english": "Shashank",
+            "telugu": "శశాంక్"
+        },
+        "first_letter": {
+            "english": "Sha",
+            "telugu": "శ"
+        },
+        "gender": "male",
+        "language": "Telugu",
+        "religion": "Hindu",
+        "meanings": {
+            "english": "Moon",
+            "telugu": "చంద్రుడు"
+        },
+        "origin": "Sanskrit",
+        "tags": [
+            "calm",
+            "serene"
+        ]
+    },
+    {
+        "name": {
+            "english": "Shreya",
+            "telugu": "శ్రేయ"
+        },
+        "first_letter": {
+            "english": "Sha",
+            "telugu": "శ"
+        },
+        "gender": "female",
+        "language": "Telugu",
+        "religion": "Hindu",
+        "meanings": {
+            "english": "Auspicious",
+            "telugu": "శుభప్రదమైన"
+        },
+        "origin": "Sanskrit",
+        "tags": [
+            "fortunate",
+            "blessed"
+        ]
+    },
+    {
+        "name": {
+            "english": "Shalini",
+            "telugu": "శాలిని"
+        },
+        "first_letter": {
+            "english": "Sha",
+            "telugu": "శ"
+        },
+        "gender": "female",
+        "language": "Telugu",
+        "religion": "Hindu",
+        "meanings": {
+            "english": "Modest",
+            "telugu": "వినయపూర్వకమైన"
+        },
+        "origin": "Sanskrit",
+        "tags": [
+            "humble",
+            "gentle"
+        ]
+    },
+    {
+        "name": {
+            "english": "Shashank",
+            "telugu": "షశాంక్"
+        },
+        "first_letter": {
+            "english": "Shha",
+            "telugu": "ష"
+        },
+        "gender": "male",
+        "language": "Telugu",
+        "religion": "Hindu",
+        "meanings": {
+            "english": "Moon",
+            "telugu": "చంద్రుడు"
+        },
+        "origin": "Sanskrit",
+        "tags": [
+            "calm",
+            "serene"
+        ]
+    },
+    {
+        "name": {
+            "english": "Shanmukha",
+            "telugu": "షణ్ముఖ"
+        },
+        "first_letter": {
+            "english": "Shha",
+            "telugu": "ష"
+        },
+        "gender": "male",
+        "language": "Telugu",
+        "religion": "Hindu",
+        "meanings": {
+            "english": "Lord Kartikeya",
+            "telugu": "కార్తికేయుడు"
+        },
+        "origin": "Sanskrit",
+        "tags": [
+            "divine",
+            "powerful"
+        ]
+    },
+    {
+        "name": {
+            "english": "Shhanvi",
+            "telugu": "షణ్వి"
+        },
+        "first_letter": {
+            "english": "Shha",
+            "telugu": "ష"
+        },
+        "gender": "female",
+        "language": "Telugu",
+        "religion": "Hindu",
+        "meanings": {
+            "english": "Goddess Parvati",
+            "telugu": "పార్వతి దేవి"
+        },
+        "origin": "Sanskrit",
+        "tags": [
+            "divine",
+            "powerful"
+        ]
+    },
+    {
+        "name": {
+            "english": "Shhaili",
+            "telugu": "శైలి"
+        },
+        "first_letter": {
+            "english": "Shha",
+            "telugu": "ష"
+        },
+        "gender": "female",
+        "language": "Telugu",
+        "religion": "Hindu",
+        "meanings": {
+            "english": "Style",
+            "telugu": "శైలి"
+        },
+        "origin": "Sanskrit",
+        "tags": [
+            "unique",
+            "expressive"
+        ]
+    },
+    {
+        "name": {
+            "english": "Sandeep",
+            "telugu": "సందీప్"
+        },
+        "first_letter": {
+            "english": "Sa",
+            "telugu": "స"
+        },
+        "gender": "male",
+        "language": "Telugu",
+        "religion": "Hindu",
+        "meanings": {
+            "english": "Illuminated",
+            "telugu": "ప్రకాశవంతమైన"
+        },
+        "origin": "Sanskrit",
+        "tags": [
+            "bright",
+            "radiant"
+        ]
+    },
+    {
+        "name": {
+            "english": "Santhosh",
+            "telugu": "సంతోష్"
+        },
+        "first_letter": {
+            "english": "Sa",
+            "telugu": "స"
+        },
+        "gender": "male",
+        "language": "Telugu",
+        "religion": "Hindu",
+        "meanings": {
+            "english": "Happiness",
+            "telugu": "సంతోషం"
+        },
+        "origin": "Sanskrit",
+        "tags": [
+            "joyful",
+            "content"
+        ]
+    },
+    {
+        "name": {
+            "english": "Sanjana",
+            "telugu": "సంజన"
+        },
+        "first_letter": {
+            "english": "Sa",
+            "telugu": "స"
+        },
+        "gender": "female",
+        "language": "Telugu",
+        "religion": "Hindu",
+        "meanings": {
+            "english": "Gentle",
+            "telugu": "మృదువైన"
+        },
+        "origin": "Sanskrit",
+        "tags": [
+            "gentle",
+            "kind"
+        ]
+    },
+    {
+        "name": {
+            "english": "Saraswati",
+            "telugu": "సరస్వతి"
+        },
+        "first_letter": {
+            "english": "Sa",
+            "telugu": "స"
+        },
+        "gender": "female",
+        "language": "Telugu",
+        "religion": "Hindu",
+        "meanings": {
+            "english": "Goddess of knowledge",
+            "telugu": "జ్ఞాన దేవత"
+        },
+        "origin": "Sanskrit",
+        "tags": [
+            "divine",
+            "wise"
+        ]
+    },
+    {
+        "name": {
+            "english": "Hari",
+            "telugu": "హరి"
+        },
+        "first_letter": {
+            "english": "Ha",
+            "telugu": "హ"
+        },
+        "gender": "male",
+        "language": "Telugu",
+        "religion": "Hindu",
+        "meanings": {
+            "english": "Lord Vishnu",
+            "telugu": "విష్ణువు"
+        },
+        "origin": "Sanskrit",
+        "tags": [
+            "divine",
+            "protector"
+        ]
+    },
+    {
+        "name": {
+            "english": "Harish",
+            "telugu": "హరీష్"
+        },
+        "first_letter": {
+            "english": "Ha",
+            "telugu": "హ"
+        },
+        "gender": "male",
+        "language": "Telugu",
+        "religion": "Hindu",
+        "meanings": {
+            "english": "Lord Shiva",
+            "telugu": "శివుడు"
+        },
+        "origin": "Sanskrit",
+        "tags": [
+            "divine",
+            "powerful"
+        ]
+    },
+    {
+        "name": {
+            "english": "Hema",
+            "telugu": "హేమ"
+        },
+        "first_letter": {
+            "english": "Ha",
+            "telugu": "హ"
+        },
+        "gender": "female",
+        "language": "Telugu",
+        "religion": "Hindu",
+        "meanings": {
+            "english": "Golden",
+            "telugu": "బంగారు"
+        },
+        "origin": "Sanskrit",
+        "tags": [
+            "precious",
+            "beautiful"
+        ]
+    },
+    {
+        "name": {
+            "english": "Hasini",
+            "telugu": "హాసిని"
+        },
+        "first_letter": {
+            "english": "Ha",
+            "telugu": "హ"
+        },
+        "gender": "female",
+        "language": "Telugu",
+        "religion": "Hindu",
+        "meanings": {
+            "english": "Laughing",
+            "telugu": "నవ్వడం"
+        },
+        "origin": "Sanskrit",
+        "tags": [
+            "joyful",
+            "cheerful"
+        ]
+    },
+    {
+        "name": {
+            "english": "Alagan",
+            "telugu": "అళగన్"
+        },
+        "first_letter": {
+            "english": "Ala",
+            "telugu": "అళ"
+        },
+        "gender": "male",
+        "language": "Telugu",
+        "religion": "Hindu",
+        "meanings": {
+            "english": "Handsome",
+            "telugu": "అందమైన"
+        },
+        "origin": "Tamil/Telugu",
+        "tags": [
+            "beautiful",
+            "attractive"
+        ]
+    },
+    {
+        "name": {
+            "english": "Alagiri",
+            "telugu": "అళగిరి"
+        },
+        "first_letter": {
+            "english": "Ala",
+            "telugu": "అళ"
+        },
+        "gender": "male",
+        "language": "Telugu",
+        "religion": "Hindu",
+        "meanings": {
+            "english": "Mountain of beauty",
+            "telugu": "అందమైన పర్వతం"
+        },
+        "origin": "Tamil/Telugu",
+        "tags": [
+            "natural",
+            "beautiful"
+        ]
+    },
+    {
+        "name": {
+            "english": "Alamelu",
+            "telugu": "అళమేలు"
+        },
+        "first_letter": {
+            "english": "Ala",
+            "telugu": "అళ"
+        },
+        "gender": "female",
+        "language": "Telugu",
+        "religion": "Hindu",
+        "meanings": {
+            "english": "Goddess Lakshmi",
+            "telugu": "లక్ష్మీ దేవి"
+        },
+        "origin": "Tamil/Telugu",
+        "tags": [
+            "divine",
+            "prosperous"
+        ]
+    },
+    {
+        "name": {
+            "english": "Alagammai",
+            "telugu": "అళగమ్మై"
+        },
+        "first_letter": {
+            "english": "Ala",
+            "telugu": "అళ"
+        },
+        "gender": "female",
+        "language": "Telugu",
+        "religion": "Hindu",
+        "meanings": {
+            "english": "Beautiful woman",
+            "telugu": "అందమైన మహిళ"
+        },
+        "origin": "Tamil/Telugu",
+        "tags": [
+            "beautiful",
+            "charming"
+        ]
+    },
+    {
+        "name": {
+            "english": "Kshama",
+            "telugu": "క్షమ"
+        },
+        "first_letter": {
+            "english": "Ksha",
+            "telugu": "క్ష"
+        },
+        "gender": "female",
+        "language": "Telugu",
+        "religion": "Hindu",
+        "meanings": {
+            "english": "Forgiveness",
+            "telugu": "క్షమాపణ"
+        },
+        "origin": "Sanskrit",
+        "tags": [
+            "forgiving",
+            "compassionate"
+        ]
+    },
+    {
+        "name": {
+            "english": "Kshitinath",
+            "telugu": "క్షితినాథ్"
+        },
+        "first_letter": {
+            "english": "Ksha",
+            "telugu": "క్ష"
+        },
+        "gender": "male",
+        "language": "Telugu",
+        "religion": "Hindu",
+        "meanings": {
+            "english": "King of Earth",
+            "telugu": "భూమి రాజు"
+        },
+        "origin": "Sanskrit",
+        "tags": [
+            "powerful",
+            "royal"
+        ]
+    },
+    {
+        "name": {
+            "english": "Kshithij",
+            "telugu": "క్షితిజ్"
+        },
+        "first_letter": {
+            "english": "Ksha",
+            "telugu": "క్ష"
+        },
+        "gender": "male",
+        "language": "Telugu",
+        "religion": "Hindu",
+        "meanings": {
+            "english": "Horizon",
+            "telugu": "క్షితిజం"
+        },
+        "origin": "Sanskrit",
+        "tags": [
+            "limitless",
+            "expansive"
+        ]
+    },
+    {
+        "name": {
+            "english": "Kshirja",
+            "telugu": "క్షిర్జా"
+        },
+        "first_letter": {
+            "english": "Ksha",
+            "telugu": "క్ష"
+        },
+        "gender": "female",
+        "language": "Telugu",
+        "religion": "Hindu",
+        "meanings": {
+            "english": "Born of milk",
+            "telugu": "పాల నుండి జన్మించినది"
+        },
+        "origin": "Sanskrit",
+        "tags": [
+            "pure",
+            "divine"
+        ]
+    },
+    {
+        "name": {
+            "english": "Rraama",
+            "telugu": "ఱ్ఱామ"
+        },
+        "first_letter": {
+            "english": "Rra",
+            "telugu": "ఱ్ఱ"
+        },
+        "gender": "male",
+        "language": "Telugu",
+        "religion": "Hindu",
+        "meanings": {
+            "english": "Pleasing",
+            "telugu": "సంతోషకరమైన"
+        },
+        "origin": "Telugu",
+        "tags": [
+            "pleasant",
+            "joyful"
+        ]
+    },
+    {
+        "name": {
+            "english": "Rraaj",
+            "telugu": "ఱ్ఱాజ్"
+        },
+        "first_letter": {
+            "english": "Rra",
+            "telugu": "ఱ్ఱ"
+        },
+        "gender": "male",
+        "language": "Telugu",
+        "religion": "Hindu",
+        "meanings": {
+            "english": "King",
+            "telugu": "రాజు"
+        },
+        "origin": "Telugu",
+        "tags": [
+            "royal",
+            "powerful"
+        ]
+    },
+    {
+        "name": {
+            "english": "Rraagini",
+            "telugu": "ఱ్ఱాగిణి"
+        },
+        "first_letter": {
+            "english": "Rra",
+            "telugu": "ఱ్ఱ"
+        },
+        "gender": "female",
+        "language": "Telugu",
+        "religion": "Hindu",
+        "meanings": {
+            "english": "Melody",
+            "telugu": "రాగం"
+        },
+        "origin": "Telugu",
+        "tags": [
+            "musical",
+            "beautiful"
+        ]
+    },
+    {
+        "name": {
+            "english": "Rraadhya",
+            "telugu": "ఱ్ఱాధ్య"
+        },
+        "first_letter": {
+            "english": "Rra",
+            "telugu": "ఱ్ఱ"
+        },
+        "gender": "female",
+        "language": "Telugu",
+        "religion": "Hindu",
+        "meanings": {
+            "english": "Worthy of worship",
+            "telugu": "పూజకు అర్హమైనది"
+        },
+        "origin": "Telugu",
+        "tags": [
+            "revered",
+            "divine"
+        ]
+    },
+    {
+        "name": {
+            "english": "Rraavan",
+            "telugu": "ఱ్ఱావణ్"
+        },
+        "first_letter": {
+            "english": "Rra",
+            "telugu": "ఱ్ఱ"
+        },
+        "gender": "male",
+        "language": "Telugu",
+        "religion": "Hindu",
+        "meanings": {
+            "english": "Strong",
+            "telugu": "బలమైన"
+        },
+        "origin": "Telugu",
+        "tags": [
+            "powerful",
+            "mighty"
+        ]
+    },
+    {
+        "name": {
+            "english": "Rraam",
+            "telugu": "ఱ్ఱామ్"
+        },
+        "first_letter": {
+            "english": "Rra",
+            "telugu": "ఱ్ఱ"
+        },
+        "gender": "male",
+        "language": "Telugu",
+        "religion": "Hindu",
+        "meanings": {
+            "english": "Pleasant",
+            "telugu": "ఆనందకరమైన"
+        },
+        "origin": "Telugu",
+        "tags": [
+            "joyful",
+            "delightful"
+        ]
+    },
+    {
+        "name": {
+            "english": "Rraasi",
+            "telugu": "ఱ్ఱాసి"
+        },
+        "first_letter": {
+            "english": "Rra",
+            "telugu": "ఱ్ఱ"
+        },
+        "gender": "female",
+        "language": "Telugu",
+        "religion": "Hindu",
+        "meanings": {
+            "english": "Heap",
+            "telugu": "రాశి"
+        },
+        "origin": "Telugu",
+        "tags": [
+            "abundance",
+            "plenty"
+        ]
+    },
+    {
+        "name": {
+            "english": "Rraavani",
+            "telugu": "ఱ్ఱావణి"
+        },
+        "first_letter": {
+            "english": "Rra",
+            "telugu": "ఱ్ఱ"
+        },
+        "gender": "female",
+        "language": "Telugu",
+        "religion": "Hindu",
+        "meanings": {
+            "english": "Auspicious",
+            "telugu": "శుభప్రదమైన"
+        },
+        "origin": "Telugu",
+        "tags": [
+            "fortunate",
+            "blessed"
+        ]
+    }
+]
+{
+  name: {
+    english: 'aankita',
+    hindi: [ 'ाकिता' ],
+    bengali: [ 'অঙ্কিতা' ],
+    marathi: [ 'अंकिता' ],
+    telugu: [ 'ఆంకిత' ],
+    tamil: [ 'ஆக்கிட' ],
+    gujarati: [ 'અંકિત' ],
+    kannada: [ 'ಆತಂಕಿತ' ],
+    odia: [ 'ଆଙ୍କିତ' ],
+    malayalam: [ 'ആണെങ്കിൽ' ],
+    punjabi: [ 'ਅੰਕਿਤ' ]
+  },
+  first_letter: {
+    english: 'a',
+    hindi: 'ा',
+    bengali: 'অ',
+    marathi: 'अ',
+    telugu: 'ఆ',
+    tamil: 'ஆ',
+    gujarati: 'અ',
+    kannada: 'ಆ',
+    odia: 'ଆ',
+    malayalam: 'ആ',
+    punjabi: 'ਅ'
+  },
+  meanings: { english: 'Forgiver' },
+  taga: [],
+  gender: 'male',
+  religion: 'Muslim'
+}
+
+{
+    name: {
+      english: 'aankita',
+      hindi: 'अंकिता',
+      bengali: 'অঙ্কিতা',
+      marathi: 'अंकिता',
+      telugu: 'ఆంకిత',
+      tamil: 'ஆக்கிட',
+      gujarati: 'અંકિત',
+      kannada: 'ಆತಂಕಿತ',
+      odia: 'ଆଙ୍କିତ',
+      malayalam: 'ആണെങ്കിൽ',
+      punjabi: 'ਅੰਕਿਤ'
+    },
+    first_letter: {
+      english: 'a',
+      hindi: 'अ',
+      bengali: 'অ',
+      marathi: 'अ',
+      telugu: 'ఆ',
+      tamil: 'ஆ',
+      gujarati: 'અ',
+      kannada: 'ಆ',
+      odia: 'ଆ',
+      malayalam: 'ആ',
+      punjabi: 'ਅ'
+    },
+    meanings: { english: 'Forgiver' },
+    taga: [],
+    gender: 'male',
+    religion: 'Muslim'
+  }
+
+  {
+    name: {
+      english: 'aankita',
+      hindi: 'अंकिता',
+      bengali: 'অঙ্কিতা',
+      marathi: 'अंकिता',
+      telugu: 'ఆంకిత',
+      tamil: 'ஆக்கிட',
+      gujarati: 'અંકિત',
+      kannada: 'ಆತಂಕಿತ',
+      odia: 'ଆଙ୍କିତ',
+      malayalam: 'ആണെങ്കിൽ',
+      punjabi: 'ਅੰਕਿਤ'
+    },
+    first_letter: {
+      english: 'a',
+      hindi: 'अ',
+      bengali: 'অ',
+      marathi: 'अ',
+      telugu: 'ఆ',
+      tamil: 'ஆ',
+      gujarati: 'અ',
+      kannada: 'ಆ',
+      odia: 'ଆ',
+      malayalam: 'ആ',
+      punjabi: 'ਅ'
+    },
+    meanings: { english: 'Forgiver' },
+    taga: [],
+    gender: 'male',
+    religion: 'Muslim'
+  }
+
+  {
+    name: {
+      english: 'ankita',
+      hindi: 'अंकिता',
+      bengali: 'অঙ্কিতা',
+      marathi: 'अंकिता',
+      telugu: 'అంకిత',
+      tamil: 'என்கிட்ட',
+      gujarati: 'અંકિત',
+      kannada: 'ಅಂಕಿತ',
+      odia: 'ଅଙ୍କିତ',
+      malayalam: 'അങ്കിത',
+      punjabi: 'ਅੰਕਿਤ'
+    },
+    first_letter: {
+      english: 'a',
+      hindi: 'अ',
+      bengali: 'অ',
+      marathi: 'अ',
+      telugu: 'అ',
+      tamil: 'எ',
+      gujarati: 'અ',
+      kannada: 'ಅ',
+      odia: 'ଅ',
+      malayalam: 'അ',
+      punjabi: 'ਅ'
+    },
+    meanings: { english: 'Forgiver' },
+    taga: [],
+    gender: 'male',
+    religion: 'Muslim'
+  }
+  PS C:\User
+
+  {
+    english: "A'rab",
+    hindi: "ा'रब",
+    bengali: "এ'র্যাব",
+    marathi: "या'रब",
+    telugu: "ఆ'రబీ",
+    tamil: "எ'ரபி",
+    gujarati: "આ'રબ",
+    kannada: "ಆ'ರಬ್",
+    odia: "ଏ'ରବି
