@@ -131,6 +131,41 @@ async function translateText(text, targetLang) {
     }
 */
 
+function checkReligion(inputString) {
+    // Convert input to lowercase for case-insensitive comparison
+    const inputLower = String(inputString).toLowerCase();
+
+    // Define the groups
+    const group1 = ['christian', 'finnish', 'germanic', 'danish', 'finnish', 'greek',
+        'hebrew', 'spanish', 'dutch', 'french', 'german', 'english',
+        'scandinavian', 'norse', 'norwegian', 'scottish', 'latin',
+        'hungarian', 'american', 'nordic', 'italian', 'anglo', 'saxon',
+        'united states', 'irish', 'australian', 'swedish', 'british'];
+
+    const group2 = ['arabic', 'turkish'];
+
+    const group3 = ['tamil', 'telugu', 'gujarati', 'marathi', 'bengali', 'hindi',
+        'sanskrit', 'hindu', 'kannada'];
+
+    const group4 = ['sikh'];
+
+    // Check if any item in group is a substring of the input
+    const isMatch = (group) => group.some(item => inputLower.includes(item));
+    
+    // Determine which group matches
+    if (isMatch(group1)) {
+        return "Christian";
+    } else if (isMatch(group2)) {
+        return "Muslim";
+    } else if (isMatch(group3)) {
+        return "Hindu";
+    } else if (isMatch(group4)) {
+        return "Sikh";
+    } else {
+        return "";
+    }
+}
+
 async function tranform(data){
     let tdata = {}
     tdata.name = {}
@@ -141,11 +176,16 @@ async function tranform(data){
     let gender = data.gender;
     let meaning = data.meaning;
     let religion = String(data.religion).toLocaleLowerCase();
+    
+    if(religion == ""){
+        religion = checkReligion(data.origin).toLocaleLowerCase();
+    }
+
     tdata.meanings = {}
     tdata.meanings.english = meaning;
     tdata.taga = []
     tdata.gender = genderMap[String(gender).toLowerCase()]
-    if(religion.includes("muslim") || religion.includes("islam")){
+    if(religion.includes("hindu")){
         tdata.religion = "Hindu";
     }else if(religion.includes("muslim") || religion.includes("islam")){
         tdata.religion = "Muslim";
@@ -158,6 +198,9 @@ async function tranform(data){
     }
     
     if(!nameInEnglish || !gender || !religion){
+        console.log("-------religion resolution failed");
+        console.log("failure data")
+        console.log(nameInEnglish,gender,religion,data.origin);
         return null;
     }
     // populating name and first letter
@@ -168,6 +211,9 @@ async function tranform(data){
         tdata.name[lang] = trafWord
         tdata.first_letter[lang] = String(trafWord).charAt(0);
         if(!trafWord){
+            console.log("-------trans failed-------");
+            console.log("failure data")
+            console.log(nameInEnglish,gender,religion,data.origin);
             return null
         }
     }
@@ -211,6 +257,10 @@ async function main(){
     for(const file of files){
         let filePath = inputDir + "/" + file;
         let outputFilePath = outputDir + "/" + file;
+        if(fs.existsSync(outputFilePath)){
+            console.log(`processing already done for file ${file}`);
+            continue
+        }
         let data = JSON.parse(fs.readFileSync(filePath,'utf-8'));
         let outputData = []
         for(let document of data){
@@ -218,7 +268,7 @@ async function main(){
             if(tdocument != null){
                 outputData.push(tdocument)
             }else{
-                console.log("failed while processing a document")
+                console.log("failed while processing a document\n")
             }
         }
         
@@ -228,3 +278,4 @@ async function main(){
     // console.log(files)
 }
 main()
+// console.log(checkReligion("Indian Tamil"))
