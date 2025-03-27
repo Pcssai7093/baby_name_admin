@@ -1,0 +1,2722 @@
+[
+  {
+    "name": {
+      "english": "Ahu",
+      "hindi": "ाहु",
+      "bengali": "অহু",
+      "marathi": "पाहू",
+      "telugu": "అహు",
+      "tamil": "அது",
+      "gujarati": "હું",
+      "kannada": "ಅಹು",
+      "odia": "ଏହୁ",
+      "malayalam": "അഹ്",
+      "punjabi": "ਅਹੁ"
+    },
+    "first_letter": {
+      "english": "A",
+      "hindi": "ा",
+      "bengali": "অ",
+      "marathi": "प",
+      "telugu": "అ",
+      "tamil": "அ",
+      "gujarati": "હ",
+      "kannada": "ಅ",
+      "odia": "ଏ",
+      "malayalam": "അ",
+      "punjabi": "ਅ"
+    },
+    "meanings": {
+      "english": "Bright and beautiful"
+    },
+    "taga": [],
+    "gender": "female",
+    "religion": "Muslim"
+  },
+  {
+    "name": {
+      "english": "Ahuka",
+      "hindi": "आहुका",
+      "bengali": "আহুকা",
+      "marathi": "अंधुक",
+      "telugu": "ఐహిక",
+      "tamil": "குகை",
+      "gujarati": "હુક",
+      "kannada": "ಅಹುಕ",
+      "odia": "କୁହୁକ",
+      "malayalam": "അഹുക",
+      "punjabi": "ਅਹੁਕ"
+    },
+    "first_letter": {
+      "english": "A",
+      "hindi": "आ",
+      "bengali": "আ",
+      "marathi": "अ",
+      "telugu": "ఐ",
+      "tamil": "க",
+      "gujarati": "હ",
+      "kannada": "ಅ",
+      "odia": "କ",
+      "malayalam": "അ",
+      "punjabi": "ਅ"
+    },
+    "meanings": {
+      "english": "Offerer, Sacrificer, a person who can offer sacrifice"
+    },
+    "taga": [],
+    "gender": "female",
+    "religion": "Hindu"
+  },
+  {
+    "name": {
+      "english": "Ahurewa",
+      "hindi": "अहुरेवा",
+      "bengali": "আহারেও",
+      "marathi": "अहुरवा",
+      "telugu": "అహురేవా",
+      "tamil": "குரேவா",
+      "gujarati": "હૂરેવા",
+      "kannada": "ಅಹುರ್ವಾ",
+      "odia": "ଅହୁରିବ",
+      "malayalam": "അഹുരവെ",
+      "punjabi": "ਅਹੁਰੇਵਾ"
+    },
+    "first_letter": {
+      "english": "A",
+      "hindi": "अ",
+      "bengali": "আ",
+      "marathi": "अ",
+      "telugu": "అ",
+      "tamil": "க",
+      "gujarati": "હ",
+      "kannada": "ಅ",
+      "odia": "ଅ",
+      "malayalam": "അ",
+      "punjabi": "ਅ"
+    },
+    "meanings": {
+      "english": "A sacred place."
+    },
+    "taga": [],
+    "gender": "female",
+    "religion": "Christian"
+  },
+  {
+    "name": {
+      "english": "Ahuti",
+      "hindi": "आहुति",
+      "bengali": "আহুতি",
+      "marathi": "आहुती",
+      "telugu": "ఆహుతి",
+      "tamil": "குட்டி",
+      "gujarati": "આહુતિ",
+      "kannada": "ಆಹುತಿ",
+      "odia": "ଆହୁତି",
+      "malayalam": "ആഹുതി",
+      "punjabi": "ਅਹੁਤੀ"
+    },
+    "first_letter": {
+      "english": "A",
+      "hindi": "आ",
+      "bengali": "আ",
+      "marathi": "आ",
+      "telugu": "ఆ",
+      "tamil": "க",
+      "gujarati": "આ",
+      "kannada": "ಆ",
+      "odia": "ଆ",
+      "malayalam": "ആ",
+      "punjabi": "ਅ"
+    },
+    "meanings": {
+      "english": "sacrifice', give up, forgo, surrender"
+    },
+    "taga": [],
+    "gender": "female",
+    "religion": "Hindu"
+  },
+  {
+    "name": {
+      "english": "Ahuva",
+      "hindi": "अहुवा",
+      "bengali": "বাহুব",
+      "marathi": "अहुवा",
+      "telugu": "అహువా",
+      "tamil": "குவா",
+      "gujarati": "હુવા",
+      "kannada": "ಅಹುವ",
+      "odia": "ଅହୁଵା",
+      "malayalam": "അഹുവ",
+      "punjabi": "ਅਹੁਵਾ"
+    },
+    "first_letter": {
+      "english": "A",
+      "hindi": "अ",
+      "bengali": "ব",
+      "marathi": "अ",
+      "telugu": "అ",
+      "tamil": "க",
+      "gujarati": "હ",
+      "kannada": "ಅ",
+      "odia": "ଅ",
+      "malayalam": "അ",
+      "punjabi": "ਅ"
+    },
+    "meanings": {
+      "english": "Beloved, Liked, Favorite, much loved, darling"
+    },
+    "taga": [],
+    "gender": "female",
+    "religion": "Christian"
+  },
+  {
+    "name": {
+      "english": "Ahvana",
+      "hindi": "आह्वान",
+      "bengali": "আহ্বান",
+      "marathi": "हवन",
+      "telugu": "ఆహ్వాన",
+      "tamil": "ஆஹ்வான",
+      "gujarati": "હવાના",
+      "kannada": "ಅಹ್ವಾನ",
+      "odia": "ଆହ୍ବାନ",
+      "malayalam": "ആഹ്വാന",
+      "punjabi": "ਆਹ੍ਵਾਨ"
+    },
+    "first_letter": {
+      "english": "A",
+      "hindi": "आ",
+      "bengali": "আ",
+      "marathi": "ह",
+      "telugu": "ఆ",
+      "tamil": "ஆ",
+      "gujarati": "હ",
+      "kannada": "ಅ",
+      "odia": "ଆ",
+      "malayalam": "ആ",
+      "punjabi": "ਆ"
+    },
+    "meanings": {
+      "english": "The capital city of Cuba"
+    },
+    "taga": [],
+    "gender": "female",
+    "religion": "Christian"
+  },
+  {
+    "name": {
+      "english": "Ahzuro",
+      "hindi": "अहज़रो",
+      "bengali": "আহজুর",
+      "marathi": "हंझुरो",
+      "telugu": "ఆహాజురో",
+      "tamil": "குஸுரோ",
+      "gujarati": "હઝુરો",
+      "kannada": "ಅಹ್ಝುರೋ",
+      "odia": "ଆହଃଜ଼ଉରୋ",
+      "malayalam": "അഹ്‌സൂരോ",
+      "punjabi": "ਹਜ਼ੂਰੋਂ"
+    },
+    "first_letter": {
+      "english": "A",
+      "hindi": "अ",
+      "bengali": "আ",
+      "marathi": "ह",
+      "telugu": "ఆ",
+      "tamil": "க",
+      "gujarati": "હ",
+      "kannada": "ಅ",
+      "odia": "ଆ",
+      "malayalam": "അ",
+      "punjabi": "ਹ"
+    },
+    "meanings": {
+      "english": "Potential to attain power and authority in their life"
+    },
+    "taga": [],
+    "gender": "female",
+    "religion": "Christian"
+  },
+  {
+    "name": {
+      "english": "Aiba",
+      "hindi": "ैबा",
+      "bengali": "যাইবা",
+      "marathi": "ऐब",
+      "telugu": "ఐబీఏ",
+      "tamil": "ஐஃபா",
+      "gujarati": "ઐબ",
+      "kannada": "ಐಬಾ",
+      "odia": "ଆଇବ",
+      "malayalam": "ഐബ",
+      "punjabi": "ਐਬ"
+    },
+    "first_letter": {
+      "english": "A",
+      "hindi": "ै",
+      "bengali": "য",
+      "marathi": "ऐ",
+      "telugu": "ఐ",
+      "tamil": "ஐ",
+      "gujarati": "ઐ",
+      "kannada": "ಐ",
+      "odia": "ଆ",
+      "malayalam": "ഐ",
+      "punjabi": "ਐ"
+    },
+    "meanings": {
+      "english": "The name Aibain means \"exalted, high, or noble\" in origin."
+    },
+    "taga": [],
+    "gender": "female",
+    "religion": "Muslim"
+  },
+  {
+    "name": {
+      "english": "aibhilin",
+      "hindi": "ेभीलीन",
+      "bengali": "আইভিলিন",
+      "marathi": "ऎभिलीण",
+      "telugu": "ఐబిలిన్",
+      "tamil": "ஐபிளின்",
+      "gujarati": "એભિલીન",
+      "kannada": "ಐಭಿಲೈನ್",
+      "odia": "ଐଁଭିଲିନ",
+      "malayalam": "ഐബിളിന്",
+      "punjabi": "ਐਬਹਿਲੀਨ"
+    },
+    "first_letter": {
+      "english": "a",
+      "hindi": "े",
+      "bengali": "আ",
+      "marathi": "ऎ",
+      "telugu": "ఐ",
+      "tamil": "ஐ",
+      "gujarati": "એ",
+      "kannada": "ಐ",
+      "odia": "ଐ",
+      "malayalam": "ഐ",
+      "punjabi": "ਐ"
+    },
+    "meanings": {
+      "english": "the name aibhilin is a girl's name of irish origin. spelling variation of evelyn for those who prefer the irish way. little aibhilins could explain how to pronounce his name, but some may feel that it is worth to choose a single option."
+    },
+    "taga": [],
+    "gender": "female",
+    "religion": "Christian"
+  },
+  {
+    "name": {
+      "english": "Aicusa",
+      "hindi": "एकसा",
+      "bengali": "আইসিস",
+      "marathi": "एकस",
+      "telugu": "ఐక్యూస",
+      "tamil": "ஐஸுஸா",
+      "gujarati": "એક્યુસ",
+      "kannada": "ಐಕ್ಯೂಸ",
+      "odia": "ଐଁଚୁଶା",
+      "malayalam": "വികസ",
+      "punjabi": "ਐਕਸ"
+    },
+    "first_letter": {
+      "english": "A",
+      "hindi": "ए",
+      "bengali": "আ",
+      "marathi": "ए",
+      "telugu": "ఐ",
+      "tamil": "ஐ",
+      "gujarati": "એ",
+      "kannada": "ಐ",
+      "odia": "ଐ",
+      "malayalam": "വ",
+      "punjabi": "ਐ"
+    },
+    "meanings": {
+      "english": "Visionary, imaginative, creative"
+    },
+    "taga": [],
+    "gender": "female",
+    "religion": "Christian"
+  },
+  {
+    "name": {
+      "english": "Aida",
+      "hindi": "ैदा",
+      "bengali": "এইডা",
+      "marathi": "एड्स",
+      "telugu": "ఐదు",
+      "tamil": "எய்தா",
+      "gujarati": "આઇડા",
+      "kannada": "ಐದ",
+      "odia": "ଐଡ",
+      "malayalam": "ഐഡ",
+      "punjabi": "ਐਡਾ"
+    },
+    "first_letter": {
+      "english": "A",
+      "hindi": "ै",
+      "bengali": "এ",
+      "marathi": "ए",
+      "telugu": "ఐ",
+      "tamil": "எ",
+      "gujarati": "આ",
+      "kannada": "ಐ",
+      "odia": "ଐ",
+      "malayalam": "ഐ",
+      "punjabi": "ਐ"
+    },
+    "meanings": {
+      "english": "Visiting, Returning, Something of value given in return of some thing good, Reward in some cases it means return"
+    },
+    "taga": [],
+    "gender": "female",
+    "religion": "Muslim"
+  },
+  {
+    "name": {
+      "english": "Aidah",
+      "hindi": "ैदह",
+      "bengali": "আইদাহ",
+      "marathi": "आईदाह",
+      "telugu": "అయిదహ్",
+      "tamil": "ஐத",
+      "gujarati": "ઐદાહ",
+      "kannada": "ಐದಹ್",
+      "odia": "ଐଁଦଃ",
+      "malayalam": "ഐദഹ്",
+      "punjabi": "ਐਡਾਹ"
+    },
+    "first_letter": {
+      "english": "A",
+      "hindi": "ै",
+      "bengali": "আ",
+      "marathi": "आ",
+      "telugu": "అ",
+      "tamil": "ஐ",
+      "gujarati": "ઐ",
+      "kannada": "ಐ",
+      "odia": "ଐ",
+      "malayalam": "ഐ",
+      "punjabi": "ਐ"
+    },
+    "meanings": {
+      "english": "Visiting, Returning, Reward, Guest, the one who's returning"
+    },
+    "taga": [],
+    "gender": "female",
+    "religion": "Muslim"
+  },
+  {
+    "name": {
+      "english": "Aide",
+      "hindi": "आइडे",
+      "bengali": "আইডে",
+      "marathi": "ऐदी",
+      "telugu": "ఐదే",
+      "tamil": "ஐடி",
+      "gujarati": "આઇડે",
+      "kannada": "ಐದೇ",
+      "odia": "ଆଇଦେ",
+      "malayalam": "ഐഡി",
+      "punjabi": "ਐਡੇ"
+    },
+    "first_letter": {
+      "english": "A",
+      "hindi": "आ",
+      "bengali": "আ",
+      "marathi": "ऐ",
+      "telugu": "ఐ",
+      "tamil": "ஐ",
+      "gujarati": "આ",
+      "kannada": "ಐ",
+      "odia": "ଆ",
+      "malayalam": "ഐ",
+      "punjabi": "ਐ"
+    },
+    "meanings": {
+      "english": "Honourable, Nobel, helpful"
+    },
+    "taga": [],
+    "gender": "female",
+    "religion": "Christian"
+  },
+  {
+    "name": {
+      "english": "Aidee",
+      "hindi": "आईडी",
+      "bengali": "আইডি",
+      "marathi": "ऐदी",
+      "telugu": "ఐడీ",
+      "tamil": "ஐடி",
+      "gujarati": "આઈડી",
+      "kannada": "ಐದೇ",
+      "odia": "ଆଇଦେଇ",
+      "malayalam": "ഐടി",
+      "punjabi": "ਐਡੀ"
+    },
+    "first_letter": {
+      "english": "A",
+      "hindi": "आ",
+      "bengali": "আ",
+      "marathi": "ऐ",
+      "telugu": "ఐ",
+      "tamil": "ஐ",
+      "gujarati": "આ",
+      "kannada": "ಐ",
+      "odia": "ଆ",
+      "malayalam": "ഐ",
+      "punjabi": "ਐ"
+    },
+    "meanings": {
+      "english": "Power and Strength"
+    },
+    "taga": [],
+    "gender": "female",
+    "religion": "Muslim"
+  },
+  {
+    "name": {
+      "english": "Aideen",
+      "hindi": "ऐडीन",
+      "bengali": "আইডিন",
+      "marathi": "ऎदीन",
+      "telugu": "ఐడీన్",
+      "tamil": "ஐதீன்",
+      "gujarati": "એડિન",
+      "kannada": "ಐಡೀನ್",
+      "odia": "ଆଇଦେଇନ",
+      "malayalam": "ഐദീൻ",
+      "punjabi": "ਐਡੀਨ"
+    },
+    "first_letter": {
+      "english": "A",
+      "hindi": "ऐ",
+      "bengali": "আ",
+      "marathi": "ऎ",
+      "telugu": "ఐ",
+      "tamil": "ஐ",
+      "gujarati": "એ",
+      "kannada": "ಐ",
+      "odia": "ଆ",
+      "malayalam": "ഐ",
+      "punjabi": "ਐ"
+    },
+    "meanings": {
+      "english": "Little fire."
+    },
+    "taga": [],
+    "gender": "female",
+    "religion": "Christian"
+  },
+  {
+    "name": {
+      "english": "Aiden",
+      "hindi": "आइडें",
+      "bengali": "এইডেন",
+      "marathi": "आइडें",
+      "telugu": "ఐదేం",
+      "tamil": "ஐடென்",
+      "gujarati": "આઇડેન",
+      "kannada": "ಐಡೆಂ",
+      "odia": "ଆଇଡେନ",
+      "malayalam": "ഐഡ",
+      "punjabi": "ਐਡਨ"
+    },
+    "first_letter": {
+      "english": "A",
+      "hindi": "आ",
+      "bengali": "এ",
+      "marathi": "आ",
+      "telugu": "ఐ",
+      "tamil": "ஐ",
+      "gujarati": "આ",
+      "kannada": "ಐ",
+      "odia": "ଆ",
+      "malayalam": "ഐ",
+      "punjabi": "ਐ"
+    },
+    "meanings": {
+      "english": "Little fire."
+    },
+    "taga": [],
+    "gender": "female",
+    "religion": "Christian"
+  },
+  {
+    "name": {
+      "english": "Aieeda",
+      "hindi": "ाईदा",
+      "bengali": "আইয়াদ",
+      "marathi": "ऐईड",
+      "telugu": "అయిదా",
+      "tamil": "ஐஈட",
+      "gujarati": "એઈડ",
+      "kannada": "ಐಈದ",
+      "odia": "ଆଇଏଏଡ",
+      "malayalam": "ഐഎഎട",
+      "punjabi": "ਆਈਈਦਾ"
+    },
+    "first_letter": {
+      "english": "A",
+      "hindi": "ा",
+      "bengali": "আ",
+      "marathi": "ऐ",
+      "telugu": "అ",
+      "tamil": "ஐ",
+      "gujarati": "એ",
+      "kannada": "ಐ",
+      "odia": "ଆ",
+      "malayalam": "ഐ",
+      "punjabi": "ਆ"
+    },
+    "meanings": {
+      "english": "Returnees"
+    },
+    "taga": [],
+    "gender": "female",
+    "religion": "Muslim"
+  },
+  {
+    "name": {
+      "english": "Aiesha",
+      "hindi": "ईशा",
+      "bengali": "আইএস",
+      "marathi": "ऐश",
+      "telugu": "అయిషా",
+      "tamil": "ஆயிஷா",
+      "gujarati": "ઐશ",
+      "kannada": "ಐಎಷ",
+      "odia": "ଆଇଁଷ",
+      "malayalam": "ഐഎസ",
+      "punjabi": "ਐਏਸ਼"
+    },
+    "first_letter": {
+      "english": "A",
+      "hindi": "ई",
+      "bengali": "আ",
+      "marathi": "ऐ",
+      "telugu": "అ",
+      "tamil": "ஆ",
+      "gujarati": "ઐ",
+      "kannada": "ಐ",
+      "odia": "ଆ",
+      "malayalam": "ഐ",
+      "punjabi": "ਐ"
+    },
+    "meanings": {
+      "english": "Woman"
+    },
+    "taga": [],
+    "gender": "female",
+    "religion": "Muslim"
+  },
+  {
+    "name": {
+      "english": "Aieshah",
+      "hindi": "ईशः",
+      "bengali": "আয়েশাঃ",
+      "marathi": "ऐशह",
+      "telugu": "అయిషా",
+      "tamil": "ஆயிஷாஹ்",
+      "gujarati": "ઐશાહ",
+      "kannada": "ಐಏಷಃ",
+      "odia": "ଆଇଶହ",
+      "malayalam": "ഐഇഷാഹ്",
+      "punjabi": "ਐਏਸ਼ਾਹ"
+    },
+    "first_letter": {
+      "english": "A",
+      "hindi": "ई",
+      "bengali": "আ",
+      "marathi": "ऐ",
+      "telugu": "అ",
+      "tamil": "ஆ",
+      "gujarati": "ઐ",
+      "kannada": "ಐ",
+      "odia": "ଆ",
+      "malayalam": "ഐ",
+      "punjabi": "ਐ"
+    },
+    "meanings": {
+      "english": "Woman"
+    },
+    "taga": [],
+    "gender": "female",
+    "religion": "Muslim"
+  },
+  {
+    "name": {
+      "english": "Aiessa",
+      "hindi": "ईस्सा",
+      "bengali": "আইএসে",
+      "marathi": "एस",
+      "telugu": "ఎస్స",
+      "tamil": "ஆயிசா",
+      "gujarati": "આઇએસસ",
+      "kannada": "ಅಯ್ಸ್ಸಾ",
+      "odia": "ଆଇଏସସ",
+      "malayalam": "ഐഎസ്സ്",
+      "punjabi": "ਐਸਾ"
+    },
+    "first_letter": {
+      "english": "A",
+      "hindi": "ई",
+      "bengali": "আ",
+      "marathi": "ए",
+      "telugu": "ఎ",
+      "tamil": "ஆ",
+      "gujarati": "આ",
+      "kannada": "ಅ",
+      "odia": "ଆ",
+      "malayalam": "ഐ",
+      "punjabi": "ਐ"
+    },
+    "meanings": {
+      "english": "to be obeyed"
+    },
+    "taga": [],
+    "gender": "female",
+    "religion": "Christian"
+  },
+  {
+    "name": {
+      "english": "Aifric",
+      "hindi": "अफ्रिक",
+      "bengali": "এইফ্রিক",
+      "marathi": "ऎफ्रिक",
+      "telugu": "రిఫ్రిక్",
+      "tamil": "ஐபிரிக்",
+      "gujarati": "એફ્રિક",
+      "kannada": "ಐಫ್ರಿಕ್",
+      "odia": "ଐଫାରିଛ",
+      "malayalam": "ഐഫറിക്",
+      "punjabi": "ਐਫਰੀਕ"
+    },
+    "first_letter": {
+      "english": "A",
+      "hindi": "अ",
+      "bengali": "এ",
+      "marathi": "ऎ",
+      "telugu": "ర",
+      "tamil": "ஐ",
+      "gujarati": "એ",
+      "kannada": "ಐ",
+      "odia": "ଐ",
+      "malayalam": "ഐ",
+      "punjabi": "ਐ"
+    },
+    "meanings": {
+      "english": "Pleasant."
+    },
+    "taga": [],
+    "gender": "female",
+    "religion": "Christian"
+  },
+  {
+    "name": {
+      "english": "Aighar",
+      "hindi": "ाईघर",
+      "bengali": "এইঘর",
+      "marathi": "ऎघर",
+      "telugu": "ఐఘర్",
+      "tamil": "ஐகார",
+      "gujarati": "એઘર",
+      "kannada": "ಅಲಿಘರ್",
+      "odia": "ଏଇଘର",
+      "malayalam": "ഐക്കാർ",
+      "punjabi": "ਅਈਅਰ"
+    },
+    "first_letter": {
+      "english": "A",
+      "hindi": "ा",
+      "bengali": "এ",
+      "marathi": "ऎ",
+      "telugu": "ఐ",
+      "tamil": "ஐ",
+      "gujarati": "એ",
+      "kannada": "ಅ",
+      "odia": "ଏ",
+      "malayalam": "ഐ",
+      "punjabi": "ਅ"
+    },
+    "meanings": {
+      "english": "She was a religious, Righteous woman, A religious and righteous woman."
+    },
+    "taga": [],
+    "gender": "female",
+    "religion": "Muslim"
+  },
+  {
+    "name": {
+      "english": "Aigneis",
+      "hindi": "ैगनैंस",
+      "bengali": "আইজিনেই",
+      "marathi": "इग्नेयीस",
+      "telugu": "ఐగ్నేయస్",
+      "tamil": "ஐஃனிஸ்",
+      "gujarati": "આઇનેઇસ",
+      "kannada": "ಐಗ್ನೇಯ್ಸ್",
+      "odia": "ଐଁଗଣେଶ",
+      "malayalam": "വിഗ്‌നേയസ്",
+      "punjabi": "ਐਗਨੈਸ"
+    },
+    "first_letter": {
+      "english": "A",
+      "hindi": "ै",
+      "bengali": "আ",
+      "marathi": "इ",
+      "telugu": "ఐ",
+      "tamil": "ஐ",
+      "gujarati": "આ",
+      "kannada": "ಐ",
+      "odia": "ଐ",
+      "malayalam": "വ",
+      "punjabi": "ਐ"
+    },
+    "meanings": {
+      "english": "She who is chaste, holy"
+    },
+    "taga": [],
+    "gender": "female",
+    "religion": "Christian"
+  },
+  {
+    "name": {
+      "english": "Aihe",
+      "hindi": "अइहे",
+      "bengali": "আইহে",
+      "marathi": "आईचे",
+      "telugu": "ఐహే",
+      "tamil": "ஜஹி",
+      "gujarati": "એહે",
+      "kannada": "ಐಹ್ಯಾ",
+      "odia": "ଆଇହେ",
+      "malayalam": "ആയ",
+      "punjabi": "ਐਹੇ"
+    },
+    "first_letter": {
+      "english": "A",
+      "hindi": "अ",
+      "bengali": "আ",
+      "marathi": "आ",
+      "telugu": "ఐ",
+      "tamil": "ஜ",
+      "gujarati": "એ",
+      "kannada": "ಐ",
+      "odia": "ଆ",
+      "malayalam": "ആ",
+      "punjabi": "ਐ"
+    },
+    "meanings": {
+      "english": "Dolphin in Maori language."
+    },
+    "taga": [],
+    "gender": "female",
+    "religion": "Christian"
+  },
+  {
+    "name": {
+      "english": "Aiisha",
+      "hindi": "आईशा",
+      "bengali": "আয়িশা",
+      "marathi": "ईशा",
+      "telugu": "అయిషా",
+      "tamil": "ஆயிஷா",
+      "gujarati": "આયશા",
+      "kannada": "ಐಐಶಾ",
+      "odia": "ଅଈଶ",
+      "malayalam": "ഐറിഷ്",
+      "punjabi": "ਈਸ਼ਾ"
+    },
+    "first_letter": {
+      "english": "A",
+      "hindi": "आ",
+      "bengali": "আ",
+      "marathi": "ई",
+      "telugu": "అ",
+      "tamil": "ஆ",
+      "gujarati": "આ",
+      "kannada": "ಐ",
+      "odia": "ଅ",
+      "malayalam": "ഐ",
+      "punjabi": "ਈ"
+    },
+    "meanings": {
+      "english": "She who lives\" or \"womanly"
+    },
+    "taga": [],
+    "gender": "female",
+    "religion": "Muslim"
+  },
+  {
+    "name": {
+      "english": "Aija",
+      "hindi": "ैजा",
+      "bengali": "আইজ",
+      "marathi": "इजा",
+      "telugu": "నిజ",
+      "tamil": "ஐஐ",
+      "gujarati": "એજ",
+      "kannada": "ಐಜ",
+      "odia": "ୱାଇଜା",
+      "malayalam": "വിജ",
+      "punjabi": "ਐਜਾ"
+    },
+    "first_letter": {
+      "english": "A",
+      "hindi": "ै",
+      "bengali": "আ",
+      "marathi": "इ",
+      "telugu": "న",
+      "tamil": "ஐ",
+      "gujarati": "એ",
+      "kannada": "ಐ",
+      "odia": "ୱ",
+      "malayalam": "വ",
+      "punjabi": "ਐ"
+    },
+    "meanings": {
+      "english": "Happy, Goat, A variant of name Aja, It has a meaning of melody in Latvia"
+    },
+    "taga": [],
+    "gender": "female",
+    "religion": "Hindu"
+  },
+  {
+    "name": {
+      "english": "Aikata",
+      "hindi": "एकता",
+      "bengali": "আইকাটা",
+      "marathi": "ऐकता",
+      "telugu": "ఐక్యత",
+      "tamil": "அக்கட",
+      "gujarati": "એકતા",
+      "kannada": "ಏಕತಾ",
+      "odia": "ଐକାଟ",
+      "malayalam": "ഐകാത്ത",
+      "punjabi": "ਐਕਟ"
+    },
+    "first_letter": {
+      "english": "A",
+      "hindi": "ए",
+      "bengali": "আ",
+      "marathi": "ऐ",
+      "telugu": "ఐ",
+      "tamil": "அ",
+      "gujarati": "એ",
+      "kannada": "ಏ",
+      "odia": "ଐ",
+      "malayalam": "ഐ",
+      "punjabi": "ਐ"
+    },
+    "meanings": {
+      "english": ""
+    },
+    "taga": [],
+    "gender": "female",
+    "religion": "Hindu"
+  },
+  {
+    "name": {
+      "english": "Aikyan",
+      "hindi": "ैक्यं",
+      "bengali": "ঐক্যন",
+      "marathi": "ऐक्यानं",
+      "telugu": "ఐక్యం",
+      "tamil": "ஐயன்",
+      "gujarati": "ઐક્યન",
+      "kannada": "ಐಕ್ಯಂ",
+      "odia": "ଐକୟାଁ",
+      "malayalam": "ഐക്യൻ",
+      "punjabi": "ਐਕਯੰ"
+    },
+    "first_letter": {
+      "english": "A",
+      "hindi": "ै",
+      "bengali": "ঐ",
+      "marathi": "ऐ",
+      "telugu": "ఐ",
+      "tamil": "ஐ",
+      "gujarati": "ઐ",
+      "kannada": "ಐ",
+      "odia": "ଐ",
+      "malayalam": "ഐ",
+      "punjabi": "ਐ"
+    },
+    "meanings": {
+      "english": "Unity, one alone"
+    },
+    "taga": [],
+    "gender": "female",
+    "religion": "Hindu"
+  },
+  {
+    "name": {
+      "english": "Aila",
+      "hindi": "ैला",
+      "bengali": "আইলা",
+      "marathi": "आईला",
+      "telugu": "ఐలా",
+      "tamil": "ஜல",
+      "gujarati": "ઐલ",
+      "kannada": "ಐಲಾ",
+      "odia": "ଅଇଲା",
+      "malayalam": "വില",
+      "punjabi": "ਐਲ"
+    },
+    "first_letter": {
+      "english": "A",
+      "hindi": "ै",
+      "bengali": "আ",
+      "marathi": "आ",
+      "telugu": "ఐ",
+      "tamil": "ஜ",
+      "gujarati": "ઐ",
+      "kannada": "ಐ",
+      "odia": "ଅ",
+      "malayalam": "വ",
+      "punjabi": "ਐ"
+    },
+    "meanings": {
+      "english": "Noble, Nobel"
+    },
+    "taga": [],
+    "gender": "female",
+    "religion": "Muslim"
+  },
+  {
+    "name": {
+      "english": "Ailda",
+      "hindi": "ैलडा",
+      "bengali": "আইল্যা",
+      "marathi": "वाईल्ड",
+      "telugu": "నిల్దా",
+      "tamil": "ஐலடா",
+      "gujarati": "ઐલડા",
+      "kannada": "ಐಲ್ಡ್",
+      "odia": "ୱାଇଲ୍ଡ",
+      "malayalam": "ഐൽഡ",
+      "punjabi": "ਐਲਦਾ"
+    },
+    "first_letter": {
+      "english": "A",
+      "hindi": "ै",
+      "bengali": "আ",
+      "marathi": "व",
+      "telugu": "న",
+      "tamil": "ஐ",
+      "gujarati": "ઐ",
+      "kannada": "ಐ",
+      "odia": "ୱ",
+      "malayalam": "ഐ",
+      "punjabi": "ਐ"
+    },
+    "meanings": {
+      "english": "Noble."
+    },
+    "taga": [],
+    "gender": "female",
+    "religion": "Christian"
+  },
+  {
+    "name": {
+      "english": "Aildreda",
+      "hindi": "ाइल्डरेडा",
+      "bengali": "আইলড্রেড",
+      "marathi": "एल्ड्रेड",
+      "telugu": "ఐల్డ్రేడా",
+      "tamil": "ஐல்றேட",
+      "gujarati": "એલ્ડ્રેડ",
+      "kannada": "ಐಲ್ಡ್ರೆಡ್",
+      "odia": "ଐଁଲଡ୍ରେଡ",
+      "malayalam": "ഐല്ഡറെടാ",
+      "punjabi": "ਐਲਡਰੇਦਾ"
+    },
+    "first_letter": {
+      "english": "A",
+      "hindi": "ा",
+      "bengali": "আ",
+      "marathi": "ए",
+      "telugu": "ఐ",
+      "tamil": "ஐ",
+      "gujarati": "એ",
+      "kannada": "ಐ",
+      "odia": "ଐ",
+      "malayalam": "ഐ",
+      "punjabi": "ਐ"
+    },
+    "meanings": {
+      "english": "Ethereal, heavenly"
+    },
+    "taga": [],
+    "gender": "female",
+    "religion": "Christian"
+  },
+  {
+    "name": {
+      "english": "aileas",
+      "hindi": "ैलास",
+      "bengali": "আইলিয়াস",
+      "marathi": "एलिस",
+      "telugu": "రిలీస్",
+      "tamil": "ஜலீல்",
+      "gujarati": "એલેક્સિસ",
+      "kannada": "ಐಲೆಯಾಸ್",
+      "odia": "ଆଇଲାସ",
+      "malayalam": "ഐലീസ്",
+      "punjabi": "ਐਲੇਅਸ"
+    },
+    "first_letter": {
+      "english": "a",
+      "hindi": "ै",
+      "bengali": "আ",
+      "marathi": "ए",
+      "telugu": "ర",
+      "tamil": "ஜ",
+      "gujarati": "એ",
+      "kannada": "ಐ",
+      "odia": "ଆ",
+      "malayalam": "ഐ",
+      "punjabi": "ਐ"
+    },
+    "meanings": {
+      "english": "noble, elegant"
+    },
+    "taga": [],
+    "gender": "female",
+    "religion": "Christian"
+  },
+  {
+    "name": {
+      "english": "Ailed",
+      "hindi": "ैलेड",
+      "bengali": "আইলেড",
+      "marathi": "एलेड",
+      "telugu": "ఐల్డ్",
+      "tamil": "ஐலேட்",
+      "gujarati": "આઇલેંડ",
+      "kannada": "ಐಲೆಡ್",
+      "odia": "ଐଁଲେଡ଼",
+      "malayalam": "ഐലെട്",
+      "punjabi": "ਆਈਲੈਂਡ"
+    },
+    "first_letter": {
+      "english": "A",
+      "hindi": "ै",
+      "bengali": "আ",
+      "marathi": "ए",
+      "telugu": "ఐ",
+      "tamil": "ஐ",
+      "gujarati": "આ",
+      "kannada": "ಐ",
+      "odia": "ଐ",
+      "malayalam": "ഐ",
+      "punjabi": "ਆ"
+    },
+    "meanings": {
+      "english": "Powerful and complete"
+    },
+    "taga": [],
+    "gender": "female",
+    "religion": "Christian"
+  },
+  {
+    "name": {
+      "english": "Aileen",
+      "hindi": "अइलईं",
+      "bengali": "আইলীন",
+      "marathi": "एलईं",
+      "telugu": "ఐలీన్",
+      "tamil": "அய்லீன்",
+      "gujarati": "આયલીન",
+      "kannada": "ಐಲೀನ್",
+      "odia": "ଆଇଲଇଁ",
+      "malayalam": "ഐലീൻ",
+      "punjabi": "ਐਲੀਨ"
+    },
+    "first_letter": {
+      "english": "A",
+      "hindi": "अ",
+      "bengali": "আ",
+      "marathi": "ए",
+      "telugu": "ఐ",
+      "tamil": "அ",
+      "gujarati": "આ",
+      "kannada": "ಐ",
+      "odia": "ଆ",
+      "malayalam": "ഐ",
+      "punjabi": "ਐ"
+    },
+    "meanings": {
+      "english": "Light"
+    },
+    "taga": [],
+    "gender": "female",
+    "religion": "Christian"
+  },
+  {
+    "name": {
+      "english": "aileen",
+      "hindi": "अइलईं",
+      "bengali": "আইলীন",
+      "marathi": "एलईं",
+      "telugu": "ఐలీన్",
+      "tamil": "அய்லீன்",
+      "gujarati": "આયલીન",
+      "kannada": "ಐಲೀನ್",
+      "odia": "ଆଇଲଇଁ",
+      "malayalam": "ഐലീൻ",
+      "punjabi": "ਐਲੀਨ"
+    },
+    "first_letter": {
+      "english": "a",
+      "hindi": "अ",
+      "bengali": "আ",
+      "marathi": "ए",
+      "telugu": "ఐ",
+      "tamil": "அ",
+      "gujarati": "આ",
+      "kannada": "ಐ",
+      "odia": "ଆ",
+      "malayalam": "ഐ",
+      "punjabi": "ਐ"
+    },
+    "meanings": {
+      "english": "aileen as a girl's name is pronounced \" eye-leen. it is of norman origin. scottish variant of eileen, which may be \"bird\" means in latin. also the variant of evelyn. also the form of helen.,bright, bright, light,ray of sunshine, ray of light, radiant,torch light"
+    },
+    "taga": [],
+    "gender": "female",
+    "religion": "Christian"
+  },
+  {
+    "name": {
+      "english": "Aileene",
+      "hindi": "ैलीने",
+      "bengali": "আইলীন",
+      "marathi": "एलीने",
+      "telugu": "ఐలీనే",
+      "tamil": "ஐலேன்",
+      "gujarati": "એલીને",
+      "kannada": "ಐಲೀನ್",
+      "odia": "ଐଁଳୀନେ",
+      "malayalam": "ഐലീനെ",
+      "punjabi": "ਐਲੀਨੇ"
+    },
+    "first_letter": {
+      "english": "A",
+      "hindi": "ै",
+      "bengali": "আ",
+      "marathi": "ए",
+      "telugu": "ఐ",
+      "tamil": "ஐ",
+      "gujarati": "એ",
+      "kannada": "ಐ",
+      "odia": "ଐ",
+      "malayalam": "ഐ",
+      "punjabi": "ਐ"
+    },
+    "meanings": {
+      "english": "Variant of Evelyn."
+    },
+    "taga": [],
+    "gender": "female",
+    "religion": "Christian"
+  },
+  {
+    "name": {
+      "english": "Aileth",
+      "hindi": "ैलेथ",
+      "bengali": "আইলেটঃ",
+      "marathi": "ऐलथ",
+      "telugu": "ఐల్త్",
+      "tamil": "ஐலெத்",
+      "gujarati": "આઇલેંથ",
+      "kannada": "ಐಲೆಥ್",
+      "odia": "ଐଁଲେଥ",
+      "malayalam": "ഐലേത്",
+      "punjabi": "ਹੈਲਥ"
+    },
+    "first_letter": {
+      "english": "A",
+      "hindi": "ै",
+      "bengali": "আ",
+      "marathi": "ऐ",
+      "telugu": "ఐ",
+      "tamil": "ஐ",
+      "gujarati": "આ",
+      "kannada": "ಐ",
+      "odia": "ଐ",
+      "malayalam": "ഐ",
+      "punjabi": "ਹ"
+    },
+    "meanings": {
+      "english": "soul,"
+    },
+    "taga": [],
+    "gender": "female",
+    "religion": "Christian"
+  },
+  {
+    "name": {
+      "english": "Aileua",
+      "hindi": "ैलुए",
+      "bengali": "আইলেউয়া",
+      "marathi": "एलेऊ",
+      "telugu": "నిలువ",
+      "tamil": "ஐலேய",
+      "gujarati": "એલેઉઆ",
+      "kannada": "ಐಲೆವ",
+      "odia": "ଐଁଲେଉଆ",
+      "malayalam": "അല്അ",
+      "punjabi": "ਐਲੁਆ"
+    },
+    "first_letter": {
+      "english": "A",
+      "hindi": "ै",
+      "bengali": "আ",
+      "marathi": "ए",
+      "telugu": "న",
+      "tamil": "ஐ",
+      "gujarati": "એ",
+      "kannada": "ಐ",
+      "odia": "ଐ",
+      "malayalam": "അ",
+      "punjabi": "ਐ"
+    },
+    "meanings": {
+      "english": "Unique"
+    },
+    "taga": [],
+    "gender": "female",
+    "religion": "Christian"
+  },
+  {
+    "name": {
+      "english": "Aileve",
+      "hindi": "ऐलेवे",
+      "bengali": "আইলেভে",
+      "marathi": "एलेवे",
+      "telugu": "ఐలేవే",
+      "tamil": "ஐலேவே",
+      "gujarati": "આઈલેવે",
+      "kannada": "ಐಲೆವೆ",
+      "odia": "ଅଇଲେଭେ",
+      "malayalam": "ഐലവ്",
+      "punjabi": "ਐਲੇਵੇ"
+    },
+    "first_letter": {
+      "english": "A",
+      "hindi": "ऐ",
+      "bengali": "আ",
+      "marathi": "ए",
+      "telugu": "ఐ",
+      "tamil": "ஐ",
+      "gujarati": "આ",
+      "kannada": "ಐ",
+      "odia": "ଅ",
+      "malayalam": "ഐ",
+      "punjabi": "ਐ"
+    },
+    "meanings": {
+      "english": "friendly, likeable"
+    },
+    "taga": [],
+    "gender": "female",
+    "religion": "Christian"
+  },
+  {
+    "name": {
+      "english": "Ailey",
+      "hindi": "ैलेय",
+      "bengali": "আইলেই",
+      "marathi": "एली",
+      "telugu": "ఐలెయ్",
+      "tamil": "அதிலே",
+      "gujarati": "એલેય",
+      "kannada": "ಏಳೇ",
+      "odia": "ଐଁଲେୟା",
+      "malayalam": "അതിലെ",
+      "punjabi": "ਐਲੀ"
+    },
+    "first_letter": {
+      "english": "A",
+      "hindi": "ै",
+      "bengali": "আ",
+      "marathi": "ए",
+      "telugu": "ఐ",
+      "tamil": "அ",
+      "gujarati": "એ",
+      "kannada": "ಏ",
+      "odia": "ଐ",
+      "malayalam": "അ",
+      "punjabi": "ਐ"
+    },
+    "meanings": {
+      "english": "Light."
+    },
+    "taga": [],
+    "gender": "female",
+    "religion": "Christian"
+  },
+  {
+    "name": {
+      "english": "Ailfled",
+      "hindi": "ैलफ्लेड",
+      "bengali": "আইলফলেডি",
+      "marathi": "एल्फलेड",
+      "telugu": "ఐల్ఫ్లెడ్",
+      "tamil": "அய்லபிலேட்",
+      "gujarati": "ઐલફલેડ",
+      "kannada": "ಐಲ್ಫ್ಲೆಡ್",
+      "odia": "ଐଁଲ୍ଫଲେଡ଼",
+      "malayalam": "ഐൽഫ്ളഡ്",
+      "punjabi": "ਐਲਫਲੈਡ"
+    },
+    "first_letter": {
+      "english": "A",
+      "hindi": "ै",
+      "bengali": "আ",
+      "marathi": "ए",
+      "telugu": "ఐ",
+      "tamil": "அ",
+      "gujarati": "ઐ",
+      "kannada": "ಐ",
+      "odia": "ଐ",
+      "malayalam": "ഐ",
+      "punjabi": "ਐ"
+    },
+    "meanings": {
+      "english": "Avalee, Hazelnut"
+    },
+    "taga": [],
+    "gender": "female",
+    "religion": "Christian"
+  },
+  {
+    "name": {
+      "english": "Aili",
+      "hindi": "ैली",
+      "bengali": "আইলি",
+      "marathi": "आईला",
+      "telugu": "ఐలి",
+      "tamil": "அலி",
+      "gujarati": "એલી",
+      "kannada": "ಆಯ್ಲಿ",
+      "odia": "ଅଇଲି",
+      "malayalam": "അലി",
+      "punjabi": "ਐਲੀ"
+    },
+    "first_letter": {
+      "english": "A",
+      "hindi": "ै",
+      "bengali": "আ",
+      "marathi": "आ",
+      "telugu": "ఐ",
+      "tamil": "அ",
+      "gujarati": "એ",
+      "kannada": "ಆ",
+      "odia": "ଅ",
+      "malayalam": "അ",
+      "punjabi": "ਐ"
+    },
+    "meanings": {
+      "english": "Irish - Light, Germanic - Of a noble kind, Bright one"
+    },
+    "taga": [],
+    "gender": "female",
+    "religion": "Christian"
+  },
+  {
+    "name": {
+      "english": "Ailia",
+      "hindi": "ैलिअ",
+      "bengali": "আইলিয়া",
+      "marathi": "एलीया",
+      "telugu": "ఐలియా",
+      "tamil": "ஆயிலை",
+      "gujarati": "એલિયા",
+      "kannada": "ಐಲಿಯಾ",
+      "odia": "ଵୈଳୀରେ",
+      "malayalam": "ഐലിയ",
+      "punjabi": "ਐਲਿਆ"
+    },
+    "first_letter": {
+      "english": "A",
+      "hindi": "ै",
+      "bengali": "আ",
+      "marathi": "ए",
+      "telugu": "ఐ",
+      "tamil": "ஆ",
+      "gujarati": "એ",
+      "kannada": "ಐ",
+      "odia": "ଵ",
+      "malayalam": "ഐ",
+      "punjabi": "ਐ"
+    },
+    "meanings": {
+      "english": "Irish - Light, Germanic - Of a noble kind, Bright one, A variant of Aili"
+    },
+    "taga": [],
+    "gender": "female",
+    "religion": "Christian"
+  },
+  {
+    "name": {
+      "english": "Ailid",
+      "hindi": "आईलिड",
+      "bengali": "আইলিদ",
+      "marathi": "ऐलीड",
+      "telugu": "ఐలిడ్",
+      "tamil": "ஜலிட",
+      "gujarati": "એલિડ",
+      "kannada": "ಐಲೀದ್",
+      "odia": "ଅଇଲିଡ଼",
+      "malayalam": "ഐലീദ്",
+      "punjabi": "ਐਲਈਡੀ"
+    },
+    "first_letter": {
+      "english": "A",
+      "hindi": "आ",
+      "bengali": "আ",
+      "marathi": "ऐ",
+      "telugu": "ఐ",
+      "tamil": "ஜ",
+      "gujarati": "એ",
+      "kannada": "ಐ",
+      "odia": "ଅ",
+      "malayalam": "ഐ",
+      "punjabi": "ਐ"
+    },
+    "meanings": {
+      "english": "solid, enduring\" in Hebrew"
+    },
+    "taga": [],
+    "gender": "female",
+    "religion": "Christian"
+  },
+  {
+    "name": {
+      "english": "Ailiet",
+      "hindi": "एलिएट",
+      "bengali": "আইলিয়েট",
+      "marathi": "एलिएट",
+      "telugu": "ఐలైట్",
+      "tamil": "ஐலிட்",
+      "gujarati": "એલિયેટ",
+      "kannada": "ಏಲಿಯೆಟ್",
+      "odia": "ଅଇଲିଏଟି",
+      "malayalam": "അതിലിട്ട്",
+      "punjabi": "ਆਈਲੈਟ"
+    },
+    "first_letter": {
+      "english": "A",
+      "hindi": "ए",
+      "bengali": "আ",
+      "marathi": "ए",
+      "telugu": "ఐ",
+      "tamil": "ஐ",
+      "gujarati": "એ",
+      "kannada": "ಏ",
+      "odia": "ଅ",
+      "malayalam": "അ",
+      "punjabi": "ਆ"
+    },
+    "meanings": {
+      "english": "noble gate\tGirl\t-\tEnglish\tAahlaad, Aahlaadith, Aalhad, Ahalad, Ahaladit, Ahlad, Ahladit, Ahladith, Ailidh, Aldith, _x000D_\nAilill\tIrish baby name.\tGirl\t-\tEnglish\tAelle, Aili, Ailia, Ailiyah, Alaya, All, Alla, Alley, Allu, Ally, _x000D_\nAilina\tMessenger of God, Angel,\tGirl\t-\tEnglish\tAhilan, Ailean, Ailin, Ailne, Alam, Alane, Alani, Alann, Alen, Alian, _x000D_\nAilis\tGod is my oath\tGirl\t-\tIrish\tAalekh, Aalok, Alak, Alake, Alaqua, Aleece, Aleesha, Alek, Aleko, Aleks, _x000D_\nAilish\tvariant of Alice\tGirl\t-\tGermanic\tAalekh, Aalok, Alak, Alake, Alaqua, Aleece, Aleesha, Alek, Aleko, Aleks, _x000D_\nAiliue\tDiminutive of Ailis\tGirl\t-\tGaelic\tAelle, Aili, Ailia, Ailiyah, Alaya, All, Alla, Alley, Allu, Ally, _x000D_\nAiliva\tfriendly, likeable\tGirl\t-\tEnglish\tAalap, Ailbe, Alaap, Alabhya, Alap, Alev, Alf, Alfy, Alop, Alvi, _x000D_\nAiliya\tThe High, Exalted One\tGirl\t-\tArabic\tAelle, Aili, Ailia, Ailiyah, Alaya, All, Alla, Alley, Allu, Ally, _x000D_\nAiliyah\tA Great One and it Come Signify God\tGirl\tChristianity\tEnglish\tAelle, Aili, Ailia, Alaya, All, Alla, Alley, Allu, Ally, Auli, _x000D_\nAilla\toak tree\tGirl\t-\tEnglish\tAelle, Aili, Ailia, Ailiyah, Alaya, All, Alla, Alley, Allu, Ally, _x000D_\nAilleda\tWarrior\tGirl\t-\tBritish\tAahlaad, Aahlaadith, Aalhad, Ahalad, Ahaladit, Ahlad, Ahladit, Ahladith, Ailidh, Aldith, _x000D_\nAilleth\tOak\tGirl\t-\tEnglish\tAahlaad, Aahlaadith, Aalhad, Ahalad, Ahaladit, Ahlad, Ahladit, Ahladith, Ailidh, Aldith, _x000D_\nAilletha\tStrong\tGirl\t-\tEnglish\tAahlaad, Aahlaadith, Aalhad, Ahalad, Ahaladit, Ahlad, Ahladit, Ahladith, Ailidh, Aldith, _x000D_\nAilliva\tIdealistic\tGirl\t-\tEnglish\tAalap, Ailbe, Alaap, Alabhya, Alap, Alev, Alf, Alfy, Alop, Alvi, _x000D_\nAilna\tNoble.\tGirl\t-\tTeutonic\tAhilan, Ailean, Ailin, Ailne, Alam, Alane, Alani, Alann, Alen, Alian, _x000D_\nAilne\tGerman - Sweet, Pleasant, Of the Nobility, Noble, Kind, Diminutive of Aline\tGirl\t-\tGerman\tAhilan, Ailean, Ailin, Alam, Alane, Alani, Alann, Alen, Alian, Aliana, _x000D_\nAilnoth\tDevoted\tGirl\t-\tEnglish\tAlmeda, Almund, Alnoth, _x000D_\nAilova\tNobel, kind\tGirl\t-\tEnglish\tAalap, Ailbe, Alaap, Alabhya, Alap, Alev, Alf, Alfy, Alop, Alvi, _x000D_\nAilsa\tConsecrated To God\tGirl\t-\tScottish\tAalekh, Aalok, Alak, Alake, Alaqua, Aleece, Aleesha, Alek, Aleko, Aleks, _x000D_\nAilsi\tFrom Ailsa Craig, a rocky islet in the Scottish Firth of Clyde\tGirl\t-\tScottish\tAalekh, Aalok, Alak, Alake, Alaqua, Aleece, Aleesha, Alek, Aleko, Aleks, _x000D_\nAilufa\tWish\tGirl\t-\tEnglish\tAalap, Ailbe, Alaap, Alabhya, Alap, Alev, Alf, Alfy, Alop, Alvi, _x000D_\nAilynn\tPowerful and complete\tGirl\t-\tEnglish\tAhilan, Ailean, Ailin, Ailne, Alam, Alane, Alani, Alann, Alen, Alian, _x000D_\nAiman\tTo congratulate.\tGirl\tIslam\t-\tAahan, Aahna, Aamani, Aanan, Aayam, Ahaan, Ahan, Ahim, Ahnay, Ahnna, _x000D_\nAimberi\tBeloved\tGirl\t-\tEnglish\tAmanbir, Amanvir, Ambar, Ambra, Anoopbir, _x000D_\nAime\tbeloved"
+    },
+    "taga": [],
+    "gender": "female",
+    "religion": "Christian"
+  },
+  {
+    "name": {
+      "english": "Ailina",
+      "hindi": "ऐलिना",
+      "bengali": "আইলিনা",
+      "marathi": "एलिना",
+      "telugu": "ఐలైన",
+      "tamil": "ஐலைன",
+      "gujarati": "એલીના",
+      "kannada": "ಐಲೈನ",
+      "odia": "ଅଇଲିନ",
+      "malayalam": "ഐലൈന",
+      "punjabi": "ਐਲੀਨਾ"
+    },
+    "first_letter": {
+      "english": "A",
+      "hindi": "ऐ",
+      "bengali": "আ",
+      "marathi": "ए",
+      "telugu": "ఐ",
+      "tamil": "ஐ",
+      "gujarati": "એ",
+      "kannada": "ಐ",
+      "odia": "ଅ",
+      "malayalam": "ഐ",
+      "punjabi": "ਐ"
+    },
+    "meanings": {
+      "english": "The name Ailani means \"high chief\" in Hawaiian."
+    },
+    "taga": [],
+    "gender": "female",
+    "religion": "Christian"
+  },
+  {
+    "name": {
+      "english": "ailis",
+      "hindi": "ऐलिस",
+      "bengali": "আইলিস",
+      "marathi": "एलिस",
+      "telugu": "రిలీస్",
+      "tamil": "அலிஸ்",
+      "gujarati": "એલિસ",
+      "kannada": "ಐಲಿಸ್",
+      "odia": "ଅଇଲିସ",
+      "malayalam": "ഐറിസ്",
+      "punjabi": "ਐਲਿਸ"
+    },
+    "first_letter": {
+      "english": "a",
+      "hindi": "ऐ",
+      "bengali": "আ",
+      "marathi": "ए",
+      "telugu": "ర",
+      "tamil": "அ",
+      "gujarati": "એ",
+      "kannada": "ಐ",
+      "odia": "ଅ",
+      "malayalam": "ഐ",
+      "punjabi": "ਐ"
+    },
+    "meanings": {
+      "english": "edel"
+    },
+    "taga": [],
+    "gender": "female",
+    "religion": "Christian"
+  },
+  {
+    "name": {
+      "english": "Ailis",
+      "hindi": "ऐलिस",
+      "bengali": "আইলিস",
+      "marathi": "एलिस",
+      "telugu": "రిలీస్",
+      "tamil": "அலிஸ்",
+      "gujarati": "એલિસ",
+      "kannada": "ಐಲಿಸ್",
+      "odia": "ଅଇଲିସ",
+      "malayalam": "ഐറിസ്",
+      "punjabi": "ਐਲਿਸ"
+    },
+    "first_letter": {
+      "english": "A",
+      "hindi": "ऐ",
+      "bengali": "আ",
+      "marathi": "ए",
+      "telugu": "ర",
+      "tamil": "அ",
+      "gujarati": "એ",
+      "kannada": "ಐ",
+      "odia": "ଅ",
+      "malayalam": "ഐ",
+      "punjabi": "ਐ"
+    },
+    "meanings": {
+      "english": "The name Ailisin typically means \"noble\" or \"light\" in Irish Gaelic."
+    },
+    "taga": [],
+    "gender": "female",
+    "religion": "Christian"
+  },
+  {
+    "name": {
+      "english": "Ailish",
+      "hindi": "ाईलिश",
+      "bengali": "ইলিশ",
+      "marathi": "एलिस",
+      "telugu": "ఆయిలీష్",
+      "tamil": "ஐரிஷ்",
+      "gujarati": "એલિશ",
+      "kannada": "ಐಲಿಶ್",
+      "odia": "ଅଇଲିଶ",
+      "malayalam": "ഐറിഷ്",
+      "punjabi": "ਐਲਿਸ਼"
+    },
+    "first_letter": {
+      "english": "A",
+      "hindi": "ा",
+      "bengali": "ই",
+      "marathi": "ए",
+      "telugu": "ఆ",
+      "tamil": "ஐ",
+      "gujarati": "એ",
+      "kannada": "ಐ",
+      "odia": "ଅ",
+      "malayalam": "ഐ",
+      "punjabi": "ਐ"
+    },
+    "meanings": {
+      "english": "The name Ailishin means \"noble kind\" or \"noble sort\" in Irish."
+    },
+    "taga": [],
+    "gender": "female",
+    "religion": "Christian"
+  },
+  {
+    "name": {
+      "english": "Ailiue",
+      "hindi": "ैलिउए",
+      "bengali": "আইলিউয়ে",
+      "marathi": "इलियूए",
+      "telugu": "ఐలియూరు",
+      "tamil": "அழிவுக்கே",
+      "gujarati": "એલુએ",
+      "kannada": "ಐಲಿಯುಗ್",
+      "odia": "ଅଇଲିଓ",
+      "malayalam": "ഐലൈറ്റ്",
+      "punjabi": "ਐਲਿਊਏ"
+    },
+    "first_letter": {
+      "english": "A",
+      "hindi": "ै",
+      "bengali": "আ",
+      "marathi": "इ",
+      "telugu": "ఐ",
+      "tamil": "அ",
+      "gujarati": "એ",
+      "kannada": "ಐ",
+      "odia": "ଅ",
+      "malayalam": "ഐ",
+      "punjabi": "ਐ"
+    },
+    "meanings": {
+      "english": "The name Ailiuein is a unique and creative combination of vowels that gives a sense of mystery and individuality."
+    },
+    "taga": [],
+    "gender": "female",
+    "religion": "Christian"
+  },
+  {
+    "name": {
+      "english": "Ailiva",
+      "hindi": "ऐलीवा",
+      "bengali": "অয়লিভা",
+      "marathi": "ऐलीव",
+      "telugu": "నిలువ",
+      "tamil": "அழிவ",
+      "gujarati": "એલિવ",
+      "kannada": "ಐಲಿವ",
+      "odia": "ଅଇଲିବା",
+      "malayalam": "ഐലൈവ",
+      "punjabi": "ਐਲਿਵ"
+    },
+    "first_letter": {
+      "english": "A",
+      "hindi": "ऐ",
+      "bengali": "অ",
+      "marathi": "ऐ",
+      "telugu": "న",
+      "tamil": "அ",
+      "gujarati": "એ",
+      "kannada": "ಐ",
+      "odia": "ଅ",
+      "malayalam": "ഐ",
+      "punjabi": "ਐ"
+    },
+    "meanings": {
+      "english": "The name Ailivain means \"a warrior with a bright spirit.\""
+    },
+    "taga": [],
+    "gender": "female",
+    "religion": "Christian"
+  },
+  {
+    "name": {
+      "english": "Ailleda",
+      "hindi": "ैलेडा",
+      "bengali": "এইল্লেদ",
+      "marathi": "एल्लेद",
+      "telugu": "యిల్లెడ",
+      "tamil": "அதில்லேடா",
+      "gujarati": "ઐલલેડા",
+      "kannada": "ಅಇಲ್ಲೆಡ",
+      "odia": "ଐଁଲ୍ଲେଦା",
+      "malayalam": "ആയില്ലേടാ",
+      "punjabi": "ਐਲਦਾ"
+    },
+    "first_letter": {
+      "english": "A",
+      "hindi": "ै",
+      "bengali": "এ",
+      "marathi": "ए",
+      "telugu": "య",
+      "tamil": "அ",
+      "gujarati": "ઐ",
+      "kannada": "ಅ",
+      "odia": "ଐ",
+      "malayalam": "ആ",
+      "punjabi": "ਐ"
+    },
+    "meanings": {
+      "english": "The meaning of the name Ailledain is \"a person with splendid valor and strength.\""
+    },
+    "taga": [],
+    "gender": "female",
+    "religion": "Christian"
+  },
+  {
+    "name": {
+      "english": "Ailleth",
+      "hindi": "ैलथ",
+      "bengali": "এইল্লেথ",
+      "marathi": "ऐकलेत",
+      "telugu": "ఐల్ల్త్",
+      "tamil": "ஐலத்",
+      "gujarati": "એલ્લેથ",
+      "kannada": "ಐಲ್ಲ್ಥ್",
+      "odia": "ଐଁଲ୍ଳେଥ",
+      "malayalam": "വില്ലേത്",
+      "punjabi": "ਹੈਲਥ"
+    },
+    "first_letter": {
+      "english": "A",
+      "hindi": "ै",
+      "bengali": "এ",
+      "marathi": "ऐ",
+      "telugu": "ఐ",
+      "tamil": "ஐ",
+      "gujarati": "એ",
+      "kannada": "ಐ",
+      "odia": "ଐ",
+      "malayalam": "വ",
+      "punjabi": "ਹ"
+    },
+    "meanings": {
+      "english": "\"Aillethin: a Gaelic name meaning 'beauty' or 'grace'.\""
+    },
+    "taga": [],
+    "gender": "female",
+    "religion": "Christian"
+  },
+  {
+    "name": {
+      "english": "Ailletha",
+      "hindi": "ैलथा",
+      "bengali": "এইল্লেথ",
+      "marathi": "एल्लेथा",
+      "telugu": "యిల్లెత",
+      "tamil": "ஜலத",
+      "gujarati": "એલ્લેથ",
+      "kannada": "ಏಲ್ಲೆಥ",
+      "odia": "ଐଁଲ୍ଳେଥା",
+      "malayalam": "വില്ലത്ത",
+      "punjabi": "ਹੈਲਥ"
+    },
+    "first_letter": {
+      "english": "A",
+      "hindi": "ै",
+      "bengali": "এ",
+      "marathi": "ए",
+      "telugu": "య",
+      "tamil": "ஜ",
+      "gujarati": "એ",
+      "kannada": "ಏ",
+      "odia": "ଐ",
+      "malayalam": "വ",
+      "punjabi": "ਹ"
+    },
+    "meanings": {
+      "english": "The name Aillethain means \"radiant\" or \"shining\" in Irish."
+    },
+    "taga": [],
+    "gender": "female",
+    "religion": "Christian"
+  },
+  {
+    "name": {
+      "english": "Ailliva",
+      "hindi": "ऐलीवा",
+      "bengali": "অয়লিভা",
+      "marathi": "ऐलीव",
+      "telugu": "అల్లివ",
+      "tamil": "ஐல்லிவை",
+      "gujarati": "એલ્લીવા",
+      "kannada": "ಅಇಲ್ಲಿವ",
+      "odia": "ଆଇଲଲଇବା",
+      "malayalam": "വിളിവ",
+      "punjabi": "ਐਲਿਵ"
+    },
+    "first_letter": {
+      "english": "A",
+      "hindi": "ऐ",
+      "bengali": "অ",
+      "marathi": "ऐ",
+      "telugu": "అ",
+      "tamil": "ஐ",
+      "gujarati": "એ",
+      "kannada": "ಅ",
+      "odia": "ଆ",
+      "malayalam": "വ",
+      "punjabi": "ਐ"
+    },
+    "meanings": {
+      "english": "The name Aillivain does not have a widely-known meaning or origin."
+    },
+    "taga": [],
+    "gender": "female",
+    "religion": "Christian"
+  },
+  {
+    "name": {
+      "english": "Ailna",
+      "hindi": "ैलना",
+      "bengali": "আইলনা",
+      "marathi": "एलन",
+      "telugu": "ఐల్న",
+      "tamil": "அவைன",
+      "gujarati": "એલના",
+      "kannada": "ಆಯಿಲ್ನ",
+      "odia": "ଆଇଲନ",
+      "malayalam": "അയ്ലന്",
+      "punjabi": "ਐਲਾਨ"
+    },
+    "first_letter": {
+      "english": "A",
+      "hindi": "ै",
+      "bengali": "আ",
+      "marathi": "ए",
+      "telugu": "ఐ",
+      "tamil": "அ",
+      "gujarati": "એ",
+      "kannada": "ಆ",
+      "odia": "ଆ",
+      "malayalam": "അ",
+      "punjabi": "ਐ"
+    },
+    "meanings": {
+      "english": "The name \"Ailnain\" is of Irish origin and means \"beautiful.\""
+    },
+    "taga": [],
+    "gender": "female",
+    "religion": "Christian"
+  },
+  {
+    "name": {
+      "english": "Ailne",
+      "hindi": "ैलने",
+      "bengali": "মিলনে",
+      "marathi": "आल्याने",
+      "telugu": "అయిల్నే",
+      "tamil": "அய்லன்",
+      "gujarati": "એલને",
+      "kannada": "ಐಲ್ನ್",
+      "odia": "ଵୈଳନେ",
+      "malayalam": "ഐലന്റ്",
+      "punjabi": "ਐਲਾਨੇ"
+    },
+    "first_letter": {
+      "english": "A",
+      "hindi": "ै",
+      "bengali": "ম",
+      "marathi": "आ",
+      "telugu": "అ",
+      "tamil": "அ",
+      "gujarati": "એ",
+      "kannada": "ಐ",
+      "odia": "ଵ",
+      "malayalam": "ഐ",
+      "punjabi": "ਐ"
+    },
+    "meanings": {
+      "english": "The name Ailnein is of Irish origin and means \"beautiful and radiant.\""
+    },
+    "taga": [],
+    "gender": "female",
+    "religion": "Christian"
+  },
+  {
+    "name": {
+      "english": "Ailova",
+      "hindi": "ऐलोवा",
+      "bengali": "আইলোভা",
+      "marathi": "ऐलोवे",
+      "telugu": "ఆరిలోవ",
+      "tamil": "ஐலொவ",
+      "gujarati": "એલોવ",
+      "kannada": "ಏಳೂವ",
+      "odia": "ଵୈଳବା",
+      "malayalam": "അതിലോവ",
+      "punjabi": "ਐਲੋਵਾ"
+    },
+    "first_letter": {
+      "english": "A",
+      "hindi": "ऐ",
+      "bengali": "আ",
+      "marathi": "ऐ",
+      "telugu": "ఆ",
+      "tamil": "ஐ",
+      "gujarati": "એ",
+      "kannada": "ಏ",
+      "odia": "ଵ",
+      "malayalam": "അ",
+      "punjabi": "ਐ"
+    },
+    "meanings": {
+      "english": "The name Ailovain means \"noble friend\" in Old French."
+    },
+    "taga": [],
+    "gender": "female",
+    "religion": "Christian"
+  },
+  {
+    "name": {
+      "english": "ailsa",
+      "hindi": "ाइल्स",
+      "bengali": "আইলসা",
+      "marathi": "आल्यास",
+      "telugu": "కైలాస",
+      "tamil": "ஜல்ஸா",
+      "gujarati": "એલ્સા",
+      "kannada": "ಐಲ್ಸ",
+      "odia": "ଆଇଲସ",
+      "malayalam": "വിത്സാ",
+      "punjabi": "ਐਲਸ"
+    },
+    "first_letter": {
+      "english": "a",
+      "hindi": "ा",
+      "bengali": "আ",
+      "marathi": "आ",
+      "telugu": "క",
+      "tamil": "ஜ",
+      "gujarati": "એ",
+      "kannada": "ಐ",
+      "odia": "ଆ",
+      "malayalam": "വ",
+      "punjabi": "ਐ"
+    },
+    "meanings": {
+      "english": "ailsa as a girl's name is norse in origin, and the meaning of ailsa is \"island of alfsigr\". name: the tiny scottish island ailsa craig in the estuary of the river clyde. alfsigr is a personal name, with the meaning of \"eleven, to the magic of victory\". its use as a first name has been characterized by ealasaid, the gaelic form of elisabeth (hebrew) \"god's promise\". the name can also be used as a self-titled elsa.,eleven victoria,fairy tales, rock"
+    },
+    "taga": [],
+    "gender": "female",
+    "religion": "Christian"
+  },
+  {
+    "name": {
+      "english": "Ailufa",
+      "hindi": "ैलफा",
+      "bengali": "নিলুফা",
+      "marathi": "ऎल्युफ",
+      "telugu": "ఐలుఫా",
+      "tamil": "ஏழுபா",
+      "gujarati": "આઇલૂફા",
+      "kannada": "ಐಲುಫಾ",
+      "odia": "ଅଇଲୁଫ",
+      "malayalam": "ഐലഫ",
+      "punjabi": "ਐਲੁਫਾ"
+    },
+    "first_letter": {
+      "english": "A",
+      "hindi": "ै",
+      "bengali": "ন",
+      "marathi": "ऎ",
+      "telugu": "ఐ",
+      "tamil": "ஏ",
+      "gujarati": "આ",
+      "kannada": "ಐ",
+      "odia": "ଅ",
+      "malayalam": "ഐ",
+      "punjabi": "ਐ"
+    },
+    "meanings": {
+      "english": "The name Ailufain is of Germanic origin and means \"peaceful elf friend.\""
+    },
+    "taga": [],
+    "gender": "female",
+    "religion": "Christian"
+  },
+  {
+    "name": {
+      "english": "Aimal",
+      "hindi": "ैमल",
+      "bengali": "আইমাল",
+      "marathi": "ऍनिमल",
+      "telugu": "నిమల్",
+      "tamil": "ஜமால்",
+      "gujarati": "ઐમાલ",
+      "kannada": "ಐಮ್ಯಾಲ್",
+      "odia": "ଏଇମାଳ",
+      "malayalam": "അനിമൽ",
+      "punjabi": "ਐਮਾਲ"
+    },
+    "first_letter": {
+      "english": "A",
+      "hindi": "ै",
+      "bengali": "আ",
+      "marathi": "ऍ",
+      "telugu": "న",
+      "tamil": "ஜ",
+      "gujarati": "ઐ",
+      "kannada": "ಐ",
+      "odia": "ଏ",
+      "malayalam": "അ",
+      "punjabi": "ਐ"
+    },
+    "meanings": {
+      "english": "Hope"
+    },
+    "taga": [],
+    "gender": "female",
+    "religion": "Muslim"
+  },
+  {
+    "name": {
+      "english": "Aimberi",
+      "hindi": "ैम्बरी",
+      "bengali": "ঐম্বরি",
+      "marathi": "ऐमबेरी",
+      "telugu": "లింబరి",
+      "tamil": "ஐம்பெரு",
+      "gujarati": "એમબેરી",
+      "kannada": "ಐಂಬೇರಿ",
+      "odia": "ଆଇଁବେରି",
+      "malayalam": "ഐഎംബെറി",
+      "punjabi": "ਐਮਬੇਰੀ"
+    },
+    "first_letter": {
+      "english": "A",
+      "hindi": "ै",
+      "bengali": "ঐ",
+      "marathi": "ऐ",
+      "telugu": "ల",
+      "tamil": "ஐ",
+      "gujarati": "એ",
+      "kannada": "ಐ",
+      "odia": "ଆ",
+      "malayalam": "ഐ",
+      "punjabi": "ਐ"
+    },
+    "meanings": {
+      "english": "Aimberi is a unique and modern name with no specific meaning."
+    },
+    "taga": [],
+    "gender": "female",
+    "religion": "Christian"
+  },
+  {
+    "name": {
+      "english": "Aimee",
+      "hindi": "ऐमी",
+      "bengali": "আযমী",
+      "marathi": "एमी",
+      "telugu": "ఐమీ",
+      "tamil": "ஜமீ",
+      "gujarati": "એમી",
+      "kannada": "ಐಮೀ",
+      "odia": "ଐଁମୀ",
+      "malayalam": "ഐമീ",
+      "punjabi": "ਐਮੀ"
+    },
+    "first_letter": {
+      "english": "A",
+      "hindi": "ऐ",
+      "bengali": "আ",
+      "marathi": "ए",
+      "telugu": "ఐ",
+      "tamil": "ஜ",
+      "gujarati": "એ",
+      "kannada": "ಐ",
+      "odia": "ଐ",
+      "malayalam": "ഐ",
+      "punjabi": "ਐ"
+    },
+    "meanings": {
+      "english": "Dearly loved, Beloved"
+    },
+    "taga": [],
+    "gender": "female",
+    "religion": "Christian"
+  },
+  {
+    "name": {
+      "english": "Aimen",
+      "hindi": "ैमेन",
+      "bengali": "আইমিন",
+      "marathi": "ऎमें",
+      "telugu": "ఐమీన్",
+      "tamil": "ஜமீன்",
+      "gujarati": "આઇમેન",
+      "kannada": "ಐಮೀನ್",
+      "odia": "ଐଁମେଂ",
+      "malayalam": "ഐഎംഎൻ",
+      "punjabi": "ਐਮੇਂ"
+    },
+    "first_letter": {
+      "english": "A",
+      "hindi": "ै",
+      "bengali": "আ",
+      "marathi": "ऎ",
+      "telugu": "ఐ",
+      "tamil": "ஜ",
+      "gujarati": "આ",
+      "kannada": "ಐ",
+      "odia": "ଐ",
+      "malayalam": "ഐ",
+      "punjabi": "ਐ"
+    },
+    "meanings": {
+      "english": "Sacred, Brave, Old name of arabia, Most Congratulated."
+    },
+    "taga": [],
+    "gender": "female",
+    "religion": "Muslim"
+  },
+  {
+    "name": {
+      "english": "Aimiah",
+      "hindi": "ेमिः",
+      "bengali": "তাইমিয়াহ",
+      "marathi": "ऎमीः",
+      "telugu": "నిమియహ్",
+      "tamil": "ஐமிகு",
+      "gujarati": "ઐમીઃ",
+      "kannada": "ಐಂಈಅಹ್",
+      "odia": "ଐଁମିଃ",
+      "malayalam": "ഐമിഅഃ",
+      "punjabi": "ਐਮੀਆਹ"
+    },
+    "first_letter": {
+      "english": "A",
+      "hindi": "े",
+      "bengali": "ত",
+      "marathi": "ऎ",
+      "telugu": "న",
+      "tamil": "ஐ",
+      "gujarati": "ઐ",
+      "kannada": "ಐ",
+      "odia": "ଐ",
+      "malayalam": "ഐ",
+      "punjabi": "ਐ"
+    },
+    "meanings": {
+      "english": "perfect"
+    },
+    "taga": [],
+    "gender": "female",
+    "religion": "Hindu"
+  },
+  {
+    "name": {
+      "english": "Aimie",
+      "hindi": "ैमिए",
+      "bengali": "আইমিন",
+      "marathi": "एमए",
+      "telugu": "ఐఎంఐ",
+      "tamil": "ஜமீல்",
+      "gujarati": "એમીએ",
+      "kannada": "ಐಮ್ಯ್",
+      "odia": "ଐଁମିଏ",
+      "malayalam": "ഐഎംഇഐ",
+      "punjabi": "ਐਮੀ"
+    },
+    "first_letter": {
+      "english": "A",
+      "hindi": "ै",
+      "bengali": "আ",
+      "marathi": "ए",
+      "telugu": "ఐ",
+      "tamil": "ஜ",
+      "gujarati": "એ",
+      "kannada": "ಐ",
+      "odia": "ଐ",
+      "malayalam": "ഐ",
+      "punjabi": "ਐ"
+    },
+    "meanings": {
+      "english": "beloved"
+    },
+    "taga": [],
+    "gender": "female",
+    "religion": "Christian"
+  },
+  {
+    "name": {
+      "english": "Aimiliona",
+      "hindi": "ऐमिलिओना",
+      "bengali": "এইমিলিওনা",
+      "marathi": "ऐमिलीन",
+      "telugu": "ఐమిలియన",
+      "tamil": "ஜமிலியோன",
+      "gujarati": "એમિલીઓના",
+      "kannada": "ಐಮಿಲಿಯೋನಾ",
+      "odia": "ଐଁମିଲିୟନ",
+      "malayalam": "ഐമിലിയോണ",
+      "punjabi": "ਐਮਿਲਿਓਣਾ"
+    },
+    "first_letter": {
+      "english": "A",
+      "hindi": "ऐ",
+      "bengali": "এ",
+      "marathi": "ऐ",
+      "telugu": "ఐ",
+      "tamil": "ஜ",
+      "gujarati": "એ",
+      "kannada": "ಐ",
+      "odia": "ଐ",
+      "malayalam": "ഐ",
+      "punjabi": "ਐ"
+    },
+    "meanings": {
+      "english": "industrious, striving, work"
+    },
+    "taga": [],
+    "gender": "female",
+    "religion": "Christian"
+  },
+  {
+    "name": {
+      "english": "Aimon",
+      "hindi": "ैमों",
+      "bengali": "এমন",
+      "marathi": "एमओं",
+      "telugu": "నిమోన్",
+      "tamil": "ஐமன்",
+      "gujarati": "એમઓન",
+      "kannada": "ಐಮೋನ್",
+      "odia": "ଐଁମୋଁ",
+      "malayalam": "അജിമോൻ",
+      "punjabi": "ਐਮੋਨ"
+    },
+    "first_letter": {
+      "english": "A",
+      "hindi": "ै",
+      "bengali": "এ",
+      "marathi": "ए",
+      "telugu": "న",
+      "tamil": "ஐ",
+      "gujarati": "એ",
+      "kannada": "ಐ",
+      "odia": "ଐ",
+      "malayalam": "അ",
+      "punjabi": "ਐ"
+    },
+    "meanings": {
+      "english": "Homebody"
+    },
+    "taga": [],
+    "gender": "female",
+    "religion": "Christian"
+  },
+  {
+    "name": {
+      "english": "Ain",
+      "hindi": "ऐन",
+      "bengali": "আইন",
+      "marathi": "ऐन",
+      "telugu": "అయిన్",
+      "tamil": "ஆயின்",
+      "gujarati": "આઇન",
+      "kannada": "ಐನ್",
+      "odia": "ଆଇନ",
+      "malayalam": "ഐൻ",
+      "punjabi": "ਐਨ"
+    },
+    "first_letter": {
+      "english": "A",
+      "hindi": "ऐ",
+      "bengali": "আ",
+      "marathi": "ऐ",
+      "telugu": "అ",
+      "tamil": "ஆ",
+      "gujarati": "આ",
+      "kannada": "ಐ",
+      "odia": "ଆ",
+      "malayalam": "ഐ",
+      "punjabi": "ਐ"
+    },
+    "meanings": {
+      "english": "Eye, Thus precious"
+    },
+    "taga": [],
+    "gender": "female",
+    "religion": "Muslim"
+  },
+  {
+    "name": {
+      "english": "Ain Alsaba",
+      "hindi": "अं अलसाबा",
+      "bengali": "আইন আলসাবা",
+      "marathi": "ऐन आळसाबा",
+      "telugu": "అయిన్ అలసబా",
+      "tamil": "ஆயின் அலசபா",
+      "gujarati": "આઇન અલસબા",
+      "kannada": "ಐನ್ ಅಲ್ಸಬ",
+      "odia": "ଆଇନ ଅଲସବା",
+      "malayalam": "ഐൻ അലസഭ",
+      "punjabi": "ਐਨ ਅਲਸਬ"
+    },
+    "first_letter": {
+      "english": "A",
+      "hindi": "अ",
+      "bengali": "আ",
+      "marathi": "ऐ",
+      "telugu": "అ",
+      "tamil": "ஆ",
+      "gujarati": "આ",
+      "kannada": "ಐ",
+      "odia": "ଆ",
+      "malayalam": "ഐ",
+      "punjabi": "ਐ"
+    },
+    "meanings": {
+      "english": "Treasure of the eye"
+    },
+    "taga": [],
+    "gender": "female",
+    "religion": "Muslim"
+  },
+  {
+    "name": {
+      "english": "Aina",
+      "hindi": "ऐना",
+      "bengali": "যায়না",
+      "marathi": "ऐन",
+      "telugu": "ఐన",
+      "tamil": "ஐநா",
+      "gujarati": "એના",
+      "kannada": "ಐನ",
+      "odia": "ଆଇନ",
+      "malayalam": "അതിനാ",
+      "punjabi": "ਐਨਾ"
+    },
+    "first_letter": {
+      "english": "A",
+      "hindi": "ऐ",
+      "bengali": "য",
+      "marathi": "ऐ",
+      "telugu": "ఐ",
+      "tamil": "ஐ",
+      "gujarati": "એ",
+      "kannada": "ಐ",
+      "odia": "ଆ",
+      "malayalam": "അ",
+      "punjabi": "ਐ"
+    },
+    "meanings": {
+      "english": "Beautiful Eyed Woman"
+    },
+    "taga": [],
+    "gender": "female",
+    "religion": "Muslim"
+  },
+  {
+    "name": {
+      "english": "Ainalsaba",
+      "hindi": "ैनलसाबा",
+      "bengali": "আইনালসবা",
+      "marathi": "ऐनाळसाबा",
+      "telugu": "గాల్సాబ",
+      "tamil": "ஐநாள்சபை",
+      "gujarati": "એનાલિસાબે",
+      "kannada": "ಐನಲ್ಸಬ",
+      "odia": "ଆଇନଲସବା",
+      "malayalam": "അതിനാൽസ്ബ",
+      "punjabi": "ਐਨਾਲਸਬ"
+    },
+    "first_letter": {
+      "english": "A",
+      "hindi": "ै",
+      "bengali": "আ",
+      "marathi": "ऐ",
+      "telugu": "గ",
+      "tamil": "ஐ",
+      "gujarati": "એ",
+      "kannada": "ಐ",
+      "odia": "ଆ",
+      "malayalam": "അ",
+      "punjabi": "ਐ"
+    },
+    "meanings": {
+      "english": "Treasure of the eye"
+    },
+    "taga": [],
+    "gender": "female",
+    "religion": "Muslim"
+  },
+  {
+    "name": {
+      "english": "Ainam",
+      "hindi": "ैनम",
+      "bengali": "এনাম",
+      "marathi": "आईनं",
+      "telugu": "ఐనం",
+      "tamil": "ஜனம்",
+      "gujarati": "આઇનામ",
+      "kannada": "ಐನಂ",
+      "odia": "ଆଇନ୍ମ",
+      "malayalam": "അയനം",
+      "punjabi": "ਐਨਾਮ"
+    },
+    "first_letter": {
+      "english": "A",
+      "hindi": "ै",
+      "bengali": "এ",
+      "marathi": "आ",
+      "telugu": "ఐ",
+      "tamil": "ஜ",
+      "gujarati": "આ",
+      "kannada": "ಐ",
+      "odia": "ଆ",
+      "malayalam": "അ",
+      "punjabi": "ਐ"
+    },
+    "meanings": {
+      "english": "Two springs"
+    },
+    "taga": [],
+    "gender": "female",
+    "religion": "Muslim"
+  },
+  {
+    "name": {
+      "english": "Ainara",
+      "hindi": "ाइनारा",
+      "bengali": "আয়নার",
+      "marathi": "एणार",
+      "telugu": "గార",
+      "tamil": "அன்னாரை",
+      "gujarati": "ઐનારા",
+      "kannada": "ಐನಾರ",
+      "odia": "ଆଇନର",
+      "malayalam": "അതിൻറെ",
+      "punjabi": "ਐਨਾਰਾ"
+    },
+    "first_letter": {
+      "english": "A",
+      "hindi": "ा",
+      "bengali": "আ",
+      "marathi": "ए",
+      "telugu": "గ",
+      "tamil": "அ",
+      "gujarati": "ઐ",
+      "kannada": "ಐ",
+      "odia": "ଆ",
+      "malayalam": "അ",
+      "punjabi": "ਐ"
+    },
+    "meanings": {
+      "english": "Delicate"
+    },
+    "taga": [],
+    "gender": "female",
+    "religion": "Christian"
+  },
+  {
+    "name": {
+      "english": "Aindri",
+      "hindi": "ऐन्द्री",
+      "bengali": "ঐন্দ্রী",
+      "marathi": "ऐंद्री",
+      "telugu": "అయిండ్రి",
+      "tamil": "அன்றி",
+      "gujarati": "ઐન્દ્રી",
+      "kannada": "ಐಂದ್ರಿ",
+      "odia": "ଐନ୍ଦ୍ରୀ",
+      "malayalam": "ഐന്ദ്രി",
+      "punjabi": "ਅੰਦਰਿ"
+    },
+    "first_letter": {
+      "english": "A",
+      "hindi": "ऐ",
+      "bengali": "ঐ",
+      "marathi": "ऐ",
+      "telugu": "అ",
+      "tamil": "அ",
+      "gujarati": "ઐ",
+      "kannada": "ಐ",
+      "odia": "ଐ",
+      "malayalam": "ഐ",
+      "punjabi": "ਅ"
+    },
+    "meanings": {
+      "english": "Related to Indra, the king of gods in Hinduism"
+    },
+    "taga": [],
+    "gender": "female",
+    "religion": "Hindu"
+  },
+  {
+    "name": {
+      "english": "Aindrila",
+      "hindi": "ऐन्द्रिला",
+      "bengali": "ঐন্দ্রিলা",
+      "marathi": "ऐंद्रीला",
+      "telugu": "అయ్యిండ్రిలా",
+      "tamil": "அன்றிலை",
+      "gujarati": "ઐન્દ્રીલ",
+      "kannada": "ಐಂದ್ರಿಳ",
+      "odia": "ଐଁଡ୍ରିଲ",
+      "malayalam": "ഐന്ദ്രില",
+      "punjabi": "ਆਇੰਦ੍ਰੀਲਾ"
+    },
+    "first_letter": {
+      "english": "A",
+      "hindi": "ऐ",
+      "bengali": "ঐ",
+      "marathi": "ऐ",
+      "telugu": "అ",
+      "tamil": "அ",
+      "gujarati": "ઐ",
+      "kannada": "ಐ",
+      "odia": "ଐ",
+      "malayalam": "ഐ",
+      "punjabi": "ਆ"
+    },
+    "meanings": {
+      "english": "Female star, Female star"
+    },
+    "taga": [],
+    "gender": "female",
+    "religion": "Hindu"
+  },
+  {
+    "name": {
+      "english": "Aine",
+      "hindi": "आईने",
+      "bengali": "আইনে",
+      "marathi": "आईने",
+      "telugu": "ఆయనే",
+      "tamil": "அய்ன்",
+      "gujarati": "એને",
+      "kannada": "ಏನೇ",
+      "odia": "ଏଇନେ",
+      "malayalam": "അതിനെ",
+      "punjabi": "ਐਨੇ"
+    },
+    "first_letter": {
+      "english": "A",
+      "hindi": "आ",
+      "bengali": "আ",
+      "marathi": "आ",
+      "telugu": "ఆ",
+      "tamil": "அ",
+      "gujarati": "એ",
+      "kannada": "ಏ",
+      "odia": "ଏ",
+      "malayalam": "അ",
+      "punjabi": "ਐ"
+    },
+    "meanings": {
+      "english": "The name is derived from the Irish word \"aine,\" which means \"brightness,\" \"splendor,\" or \"radiance.\" Aine was also the name of an Irish goddess who was associated with the sun, love, and fertility. She was considered one of the most important goddesses in Irish mythology and was known for her beauty, intelligence, and strength."
+    },
+    "taga": [],
+    "gender": "female",
+    "religion": "Muslim"
+  },
+  {
+    "name": {
+      "english": "Ainee",
+      "hindi": "ऐनी",
+      "bengali": "আইনী",
+      "marathi": "आईनी",
+      "telugu": "ఐజీ",
+      "tamil": "தைநீ",
+      "gujarati": "એની",
+      "kannada": "ಏನೀ",
+      "odia": "ଆଇନୀ",
+      "malayalam": "അതിനേ",
+      "punjabi": "ਐਨੀ"
+    },
+    "first_letter": {
+      "english": "A",
+      "hindi": "ऐ",
+      "bengali": "আ",
+      "marathi": "आ",
+      "telugu": "ఐ",
+      "tamil": "த",
+      "gujarati": "એ",
+      "kannada": "ಏ",
+      "odia": "ଆ",
+      "malayalam": "അ",
+      "punjabi": "ਐ"
+    },
+    "meanings": {
+      "english": "\"Aineein is a beautiful, Irish name meaning 'radiance' or 'splendor'.\""
+    },
+    "taga": [],
+    "gender": "female",
+    "religion": "Hindu"
+  },
+  {
+    "name": {
+      "english": "Aingini",
+      "hindi": "ऐन्गिनी",
+      "bengali": "আইঙ্গিনি",
+      "marathi": "ऐंगिनी",
+      "telugu": "లింగిని",
+      "tamil": "ஐங்கினி",
+      "gujarati": "ઐન્ગીની",
+      "kannada": "ಅಇಂಜಿನಿ",
+      "odia": "ଐଁଗିନୀ",
+      "malayalam": "വിങ്ങിനി",
+      "punjabi": "ਅੰਗਿਨੀ"
+    },
+    "first_letter": {
+      "english": "A",
+      "hindi": "ऐ",
+      "bengali": "আ",
+      "marathi": "ऐ",
+      "telugu": "ల",
+      "tamil": "ஐ",
+      "gujarati": "ઐ",
+      "kannada": "ಅ",
+      "odia": "ଐ",
+      "malayalam": "വ",
+      "punjabi": "ਅ"
+    },
+    "meanings": {
+      "english": "Goddess Durga"
+    },
+    "taga": [],
+    "gender": "female",
+    "religion": "Hindu"
+  },
+  {
+    "name": {
+      "english": "Aini",
+      "hindi": "ऐनी",
+      "bengali": "আইনি",
+      "marathi": "आईनी",
+      "telugu": "ఐని",
+      "tamil": "ஐனி",
+      "gujarati": "એની",
+      "kannada": "ಐನಿ",
+      "odia": "ଅଇନି",
+      "malayalam": "അതിനി",
+      "punjabi": "ਐਨੀ"
+    },
+    "first_letter": {
+      "english": "A",
+      "hindi": "ऐ",
+      "bengali": "আ",
+      "marathi": "आ",
+      "telugu": "ఐ",
+      "tamil": "ஐ",
+      "gujarati": "એ",
+      "kannada": "ಐ",
+      "odia": "ଅ",
+      "malayalam": "അ",
+      "punjabi": "ਐ"
+    },
+    "meanings": {
+      "english": "Spring, Flower, Source, Choice"
+    },
+    "taga": [],
+    "gender": "female",
+    "religion": "Muslim"
+  }
+]
