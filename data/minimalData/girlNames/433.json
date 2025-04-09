@@ -1,0 +1,912 @@
+[
+  {
+    "id": "9e9a5a44-dac1-4769-b64a-905c5e3527ac",
+    "eng": "Tazima",
+    "fLE": "T",
+    "tel": "తజిమ",
+    "fLTel": "త",
+    "tags": [],
+    "gen": "female",
+    "rel": "Muslim"
+  },
+  {
+    "id": "9d090d72-f896-4a35-96ad-96962747bb6a",
+    "eng": "Tazkia",
+    "fLE": "T",
+    "tel": "తజకియా",
+    "fLTel": "త",
+    "tags": [],
+    "gen": "female",
+    "rel": "Muslim"
+  },
+  {
+    "id": "2c6e6b18-b0fe-4a3f-8d87-91d470d8cab1",
+    "eng": "Tazmeen",
+    "fLE": "T",
+    "tel": "తజమీం",
+    "fLTel": "త",
+    "tags": [],
+    "gen": "female",
+    "rel": "Muslim"
+  },
+  {
+    "id": "d0126a7a-c3ee-4442-843d-d4e1cd967b16",
+    "eng": "Tea",
+    "fLE": "T",
+    "tel": "టీ",
+    "fLTel": "ట",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "ad78abb8-aeca-4fe3-9772-d129ebdfa0eb",
+    "eng": "Teagan",
+    "fLE": "T",
+    "tel": "తెలగాం",
+    "fLTel": "త",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "a513e57c-920f-4893-ab08-27bcdb69b8d5",
+    "eng": "Teagann",
+    "fLE": "T",
+    "tel": "టీగన్",
+    "fLTel": "ట",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "339c8871-e484-4cd2-8878-6c3a5664fe3a",
+    "eng": "Teanawesia",
+    "fLE": "T",
+    "tel": "టీనవెసియా",
+    "fLTel": "ట",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "e7c39d19-8e4c-4137-82ba-0ddeea1d628c",
+    "eng": "Teann",
+    "fLE": "T",
+    "tel": "టెన్",
+    "fLTel": "ట",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "024e7357-df8d-4969-85bb-71374be748d3",
+    "eng": "Teanna",
+    "fLE": "T",
+    "tel": "టెన్త్",
+    "fLTel": "ట",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "37df6163-f91e-4e7f-ab28-9d910fdb4993",
+    "eng": "Tearra",
+    "fLE": "T",
+    "tel": "తెఅర్ర",
+    "fLTel": "త",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "e1312be6-3103-4f2c-b87a-83a1293a93b1",
+    "eng": "teasag",
+    "fLE": "t",
+    "tel": "టీసగ్",
+    "fLTel": "ట",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "da3badf4-bc8e-4a8c-a360-cec1d3a6a606",
+    "eng": "teasagh",
+    "fLE": "t",
+    "tel": "టీసగ్",
+    "fLTel": "ట",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "222457e5-a086-4c78-805e-98c9320d615c",
+    "eng": "teca",
+    "fLE": "t",
+    "tel": "టీకా",
+    "fLTel": "ట",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "8d88a08c-5c46-4204-9aa4-8183725ec305",
+    "eng": "Tece",
+    "fLE": "T",
+    "tel": "టెన్",
+    "fLTel": "ట",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "222ea5b7-c263-42d1-96e9-5c1b0dc68b66",
+    "eng": "Tecla",
+    "fLE": "T",
+    "tel": "టెక్ల",
+    "fLTel": "ట",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "d3399f90-2905-4d94-af2d-fb1a9e52e957",
+    "eng": "Tedra",
+    "fLE": "T",
+    "tel": "తెడ్ర",
+    "fLTel": "త",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "736ea47a-1b2c-4db2-ba90-57a0c1bdda4d",
+    "eng": "Teejal",
+    "fLE": "T",
+    "tel": "టీజర్",
+    "fLTel": "ట",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "d855b33a-688d-4e02-9e97-33efd2519ae6",
+    "eng": "Teekshika",
+    "fLE": "T",
+    "tel": "తీక్షిక",
+    "fLTel": "త",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "0daa5899-7cc3-4c2a-bc8b-058e04a448e4",
+    "eng": "Teela",
+    "fLE": "T",
+    "tel": "టీల",
+    "fLTel": "ట",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "b3c2ffa5-f664-4f4c-ab7f-a9711721fdfc",
+    "eng": "Teena",
+    "fLE": "T",
+    "tel": "టీనా",
+    "fLTel": "ట",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "ad9e3bcc-882b-4a97-8e83-67485c9ffaae",
+    "eng": "Teertah",
+    "fLE": "T",
+    "tel": "తీరతః",
+    "fLTel": "త",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "baefee0e-5e8f-485d-b9c6-60b59d2c7266",
+    "eng": "Teertha",
+    "fLE": "T",
+    "tel": "తీర్థ",
+    "fLTel": "త",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "5203ea0f-767a-448d-8395-de2efb47fbc3",
+    "eng": "Teetash",
+    "fLE": "T",
+    "tel": "టీతాష్",
+    "fLTel": "ట",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "d4fcea57-2d75-410d-b9d6-ac5f497f35c4",
+    "eng": "Teffania",
+    "fLE": "T",
+    "tel": "తెఫ్ఫాని",
+    "fLTel": "త",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "423dd2c4-cab4-4491-ac1d-e37d91bf157a",
+    "eng": "Tege",
+    "fLE": "T",
+    "tel": "తేజ్",
+    "fLTel": "త",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "4916311d-747e-41b1-ba96-087a3e987aed",
+    "eng": "Tegen",
+    "fLE": "T",
+    "tel": "తేజం",
+    "fLTel": "త",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "7ee60db9-07c4-4ee2-a972-86895d0c5552",
+    "eng": "Teghan",
+    "fLE": "T",
+    "tel": "తెఘం",
+    "fLTel": "త",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "ded231fc-f1a7-4a93-b146-3cb9bb22fd29",
+    "eng": "Tegroop",
+    "fLE": "T",
+    "tel": "తెగ్రూప్",
+    "fLTel": "త",
+    "tags": [],
+    "gen": "female",
+    "rel": "Sikh"
+  },
+  {
+    "id": "f4e7afb9-ac51-4136-a245-524a12fe81d0",
+    "eng": "Tehalya",
+    "fLE": "T",
+    "tel": "తెహల్య",
+    "fLTel": "త",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "85493374-3974-443c-a4b0-7dba873a831f",
+    "eng": "Tehani",
+    "fLE": "T",
+    "tel": "తెహని",
+    "fLTel": "త",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "aeacc201-ec39-46a3-9bfa-56c5c8d29dd4",
+    "eng": "Tehihya",
+    "fLE": "T",
+    "tel": "తెహిహ్య",
+    "fLTel": "త",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "315d4389-60c1-40b7-bdd1-4a915587e389",
+    "eng": "Tehila",
+    "fLE": "T",
+    "tel": "తెహిళ",
+    "fLTel": "త",
+    "tags": [],
+    "gen": "female",
+    "rel": "others"
+  },
+  {
+    "id": "ba01fabe-1a0e-4552-936d-7e7d1f38d653",
+    "eng": "Tehilla",
+    "fLE": "T",
+    "tel": "తెహిల్లా",
+    "fLTel": "త",
+    "tags": [],
+    "gen": "female",
+    "rel": "others"
+  },
+  {
+    "id": "3cc39288-66da-4cac-9f31-9bafb60a01b6",
+    "eng": "Tehillah",
+    "fLE": "T",
+    "tel": "తెహిల్లాహ్",
+    "fLTel": "త",
+    "tags": [],
+    "gen": "female",
+    "rel": "others"
+  },
+  {
+    "id": "76b57db9-5f86-4da1-8dd0-3149bd7d76f7",
+    "eng": "Tehiya",
+    "fLE": "T",
+    "tel": "తెహియా",
+    "fLTel": "త",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "70e495b3-ddb3-424f-a957-fd332e4ae530",
+    "eng": "Tehmeed",
+    "fLE": "T",
+    "tel": "టెహ్మీద",
+    "fLTel": "ట",
+    "tags": [],
+    "gen": "female",
+    "rel": "Muslim"
+  },
+  {
+    "id": "b7343ada-368e-4b9c-afbf-7c91120930e5",
+    "eng": "Tehmina",
+    "fLE": "T",
+    "tel": "టెహ్మైన",
+    "fLTel": "ట",
+    "tags": [],
+    "gen": "female",
+    "rel": "Muslim"
+  },
+  {
+    "id": "2d282e56-2c7b-4f5f-aabd-d9e69ead616b",
+    "eng": "Tehreek",
+    "fLE": "T",
+    "tel": "తెహ్రీక్",
+    "fLTel": "త",
+    "tags": [],
+    "gen": "female",
+    "rel": "Sikh"
+  },
+  {
+    "id": "0d7b886f-6125-4356-aaca-4e7a4cac42bc",
+    "eng": "Tehreem",
+    "fLE": "T",
+    "tel": "తెహ్రీన్",
+    "fLTel": "త",
+    "tags": [],
+    "gen": "female",
+    "rel": "Muslim"
+  },
+  {
+    "id": "aee73c59-2d00-4c1b-b26d-0e97b750f1a3",
+    "eng": "Tehya",
+    "fLE": "T",
+    "tel": "తెహ్య",
+    "fLTel": "త",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "9b419a8a-e163-4b66-affc-f4d790ba83b6",
+    "eng": "Tehzeeb",
+    "fLE": "T",
+    "tel": "తెహజీబ్",
+    "fLTel": "త",
+    "tags": [],
+    "gen": "female",
+    "rel": "Muslim"
+  },
+  {
+    "id": "48341c1c-c999-4ba8-80c3-723cec3a7221",
+    "eng": "Teia",
+    "fLE": "T",
+    "tel": "టెయిల్",
+    "fLTel": "ట",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "44b89f04-2818-4562-ac11-3566af7cf5e6",
+    "eng": "Teichuih",
+    "fLE": "T",
+    "tel": "తెరిచుఇహ్",
+    "fLTel": "త",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "dd23bd41-ccf7-4fea-adb9-004a40a37950",
+    "eng": "Teige",
+    "fLE": "T",
+    "tel": "తెలిగే",
+    "fLTel": "త",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "beba68a8-4ff5-41a9-8e13-93a238bb59ad",
+    "eng": "Teigra",
+    "fLE": "T",
+    "tel": "టెలిగ్రా",
+    "fLTel": "ట",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "227a3c27-d202-4ab1-b33b-54102a6e52e5",
+    "eng": "Teija",
+    "fLE": "T",
+    "tel": "తెలిజ",
+    "fLTel": "త",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "b3fad29c-2025-410b-937a-c3e9e793ffda",
+    "eng": "Teijinderjeet",
+    "fLE": "T",
+    "tel": "తెఇజిందర్జీత్",
+    "fLTel": "త",
+    "tags": [],
+    "gen": "female",
+    "rel": "Sikh"
+  },
+  {
+    "id": "10bb9580-b236-41d7-be8d-abadae9fc4ab",
+    "eng": "Teijinderjit",
+    "fLE": "T",
+    "tel": "తెఇజిన్దేర్జిత్",
+    "fLTel": "త",
+    "tags": [],
+    "gen": "female",
+    "rel": "Sikh"
+  },
+  {
+    "id": "89534c93-998b-4f5b-aea9-f30f3911885b",
+    "eng": "Teila",
+    "fLE": "T",
+    "tel": "టెయిల",
+    "fLTel": "ట",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "7dcaaf27-5701-404a-8bb3-ff6bee2e13dc",
+    "eng": "Teirra",
+    "fLE": "T",
+    "tel": "టెప్ర్ర",
+    "fLTel": "ట",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "84c7a41e-f8e6-4e90-a7ff-06eaa9940b2e",
+    "eng": "Teisha",
+    "fLE": "T",
+    "tel": "తెఇస్హా",
+    "fLTel": "త",
+    "tags": [],
+    "gen": "female",
+    "rel": "Muslim"
+  },
+  {
+    "id": "349ba9de-1bdc-418c-aa42-ae01b4d62714",
+    "eng": "Tej-Kaur",
+    "fLE": "T",
+    "tel": "తేజ్-కౌర్",
+    "fLTel": "త",
+    "tags": [],
+    "gen": "female",
+    "rel": "Sikh"
+  },
+  {
+    "id": "cd69f829-87cf-44b4-9d32-85de329ff716",
+    "eng": "Tej-Vani",
+    "fLE": "T",
+    "tel": "తేజ్-వాణి",
+    "fLTel": "త",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "1f4539b1-6699-49d3-b383-f404d0805b2c",
+    "eng": "Teja",
+    "fLE": "T",
+    "tel": "తేజ",
+    "fLTel": "త",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "27610ff5-ff88-444f-8729-b87d6b653783",
+    "eng": "Tejamayi",
+    "fLE": "T",
+    "tel": "తేజమాయి",
+    "fLTel": "త",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "b2e8cc11-278d-431d-ba81-6fbba51fd336",
+    "eng": "Tejana",
+    "fLE": "T",
+    "tel": "తేజను",
+    "fLTel": "త",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "dabd6a09-fbed-4722-9311-6143f9c039bf",
+    "eng": "Tejasee",
+    "fLE": "T",
+    "tel": "తేజసీ",
+    "fLTel": "త",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "22bf0763-26f6-4c1f-acd6-053347d445ec",
+    "eng": "Tejashi",
+    "fLE": "T",
+    "tel": "తేజశి",
+    "fLTel": "త",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "e0db9130-5ed1-407f-97a8-d5a1cc2e4eb1",
+    "eng": "Tejashini",
+    "fLE": "T",
+    "tel": "తేజశిని",
+    "fLTel": "త",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "b9783f5c-eb99-4b10-86f7-56a6d295af6e",
+    "eng": "Tejashita",
+    "fLE": "T",
+    "tel": "తేజశిత",
+    "fLTel": "త",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "365491bf-2d5a-422e-add7-14546c7f5985",
+    "eng": "Tejashree",
+    "fLE": "T",
+    "tel": "తేజశ్రీ",
+    "fLTel": "త",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "53eb2f1e-6b95-4f06-aac3-d49ae34bf245",
+    "eng": "Tejashri",
+    "fLE": "T",
+    "tel": "తేజశ్రీ",
+    "fLTel": "త",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "fc3537d0-0a0a-47de-888b-b92ef56c8d87",
+    "eng": "Tejashwini",
+    "fLE": "T",
+    "tel": "తేజశ్విని",
+    "fLTel": "త",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "8edf41c2-82f8-4b2d-b1b2-eb57c9345e72",
+    "eng": "Tejasi",
+    "fLE": "T",
+    "tel": "తేజసి",
+    "fLTel": "త",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "98d8ea59-3c0c-4dda-9bdc-7573250062e1",
+    "eng": "Tejasmita",
+    "fLE": "T",
+    "tel": "తేజస్మితా",
+    "fLTel": "త",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "1ae9257a-60bd-4d7f-b85a-63e4b34056ed",
+    "eng": "Tejasree",
+    "fLE": "T",
+    "tel": "తేజశ్రీ",
+    "fLTel": "త",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "52b4161c-b8b2-4ba7-970b-d77002e45448",
+    "eng": "Tejasvi",
+    "fLE": "T",
+    "tel": "తేజస్వి",
+    "fLTel": "త",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "0d69d7f5-1a03-4078-b8ab-851c7643c59c",
+    "eng": "Tejasvini",
+    "fLE": "T",
+    "tel": "తేజస్విని",
+    "fLTel": "త",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "5172ee68-e32a-497d-bd66-5ec895d70919",
+    "eng": "Tejaswari",
+    "fLE": "T",
+    "tel": "తేజేశ్వరి",
+    "fLTel": "త",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "a507c04a-2323-4b94-a607-72a3aef72c23",
+    "eng": "Tejaswi",
+    "fLE": "T",
+    "tel": "తేజస్వి",
+    "fLTel": "త",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "717f7e89-0a7b-4566-9ad1-71f3e1680dde",
+    "eng": "Tejaswinee",
+    "fLE": "T",
+    "tel": "తేజస్విని",
+    "fLTel": "త",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "3a38d9ce-39a6-49bb-8af5-2ecc565e99f6",
+    "eng": "Tejaswini",
+    "fLE": "T",
+    "tel": "తేజస్విని",
+    "fLTel": "త",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "a048fe6d-69d4-46b7-82b6-9ed0113d9d84",
+    "eng": "Tejaswita",
+    "fLE": "T",
+    "tel": "తేజస్విత",
+    "fLTel": "త",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "fc75c669-beb6-44fb-80a3-3878d9958e72",
+    "eng": "Tejesvini",
+    "fLE": "T",
+    "tel": "తేజేస్విని",
+    "fLTel": "త",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "1ec60556-5fda-4bda-ad47-b3540a1b50ff",
+    "eng": "Tejeswani",
+    "fLE": "T",
+    "tel": "తేజేశ్వని",
+    "fLTel": "త",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "9de75a3e-2dd0-4943-a2e2-9fdbd854c9d3",
+    "eng": "Tejhas",
+    "fLE": "T",
+    "tel": "తెఝాస్",
+    "fLTel": "త",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "0a6ce25e-887c-4dde-a038-99d4a0bf4753",
+    "eng": "Teji",
+    "fLE": "T",
+    "tel": "తేజ",
+    "fLTel": "త",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "0f222c6b-bb5f-4428-875d-3e87c132fb7a",
+    "eng": "Tejinderpreet",
+    "fLE": "T",
+    "tel": "తేజిందర్ప్రీత్",
+    "fLTel": "త",
+    "tags": [],
+    "gen": "female",
+    "rel": "Sikh"
+  },
+  {
+    "id": "21dfea21-a1a8-43b9-a3dd-029df7c2a9d4",
+    "eng": "Tejini",
+    "fLE": "T",
+    "tel": "తేజిని",
+    "fLTel": "త",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "7af3f360-16fb-47ef-8ab0-9b9be6ad5b2b",
+    "eng": "Tejomaya",
+    "fLE": "T",
+    "tel": "తేజోమయ",
+    "fLTel": "త",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "6cf38a5c-a256-4a05-83c4-aa8fda21fa34",
+    "eng": "Tejomayi",
+    "fLE": "T",
+    "tel": "తేజోమయి",
+    "fLTel": "త",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "ed3f1cd0-c6e4-447e-96fa-887af53e4fdc",
+    "eng": "Tejovali",
+    "fLE": "T",
+    "tel": "తేజోవాలి",
+    "fLTel": "త",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "560d051e-46b9-4b4f-9a96-1fd932e426e6",
+    "eng": "Tejowathi",
+    "fLE": "T",
+    "tel": "తేజోవతి",
+    "fLTel": "త",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "94ef7840-e773-45c4-9ef4-10c843478edf",
+    "eng": "Tejsavi",
+    "fLE": "T",
+    "tel": "తేజసావి",
+    "fLTel": "త",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "beb9e06f-df09-4a33-a111-4e30bbc4fd8f",
+    "eng": "Tejshri",
+    "fLE": "T",
+    "tel": "తేజశ్రీ",
+    "fLTel": "త",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "8b64c9ee-388b-4dc3-beda-bc7e5a56a749",
+    "eng": "Teju",
+    "fLE": "T",
+    "tel": "తేజు",
+    "fLTel": "త",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "c0ccd996-754c-45b0-b52a-3b0428d0ea61",
+    "eng": "Tejui",
+    "fLE": "T",
+    "tel": "తేజుయ్",
+    "fLTel": "త",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "6a2045fa-68b6-4902-9085-43089e23e4fe",
+    "eng": "Tekeyia",
+    "fLE": "T",
+    "tel": "టెకెయిత్",
+    "fLTel": "ట",
+    "tags": [],
+    "gen": "female",
+    "rel": "Muslim"
+  },
+  {
+    "id": "86949c5b-7a51-40ce-b0df-cbb98169fb83",
+    "eng": "Tekia",
+    "fLE": "T",
+    "tel": "టేకియా",
+    "fLTel": "ట",
+    "tags": [],
+    "gen": "female",
+    "rel": "Muslim"
+  },
+  {
+    "id": "18804d11-4327-4f16-a200-bf15ce4cf113",
+    "eng": "Tekla",
+    "fLE": "T",
+    "tel": "టేకుల",
+    "fLTel": "ట",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "7792da67-e402-4def-a429-f11f75a6ba8d",
+    "eng": "Tekli",
+    "fLE": "T",
+    "tel": "టెక్కలి",
+    "fLTel": "ట",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  }
+]

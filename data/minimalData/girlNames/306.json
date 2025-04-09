@@ -1,0 +1,942 @@
+[
+  {
+    "id": "630a3143-95bb-4cb0-af83-d11cbe004b81",
+    "eng": "Nakiya",
+    "fLE": "N",
+    "tel": "నాకియ",
+    "fLTel": "న",
+    "tags": [],
+    "gen": "female",
+    "rel": "Muslim"
+  },
+  {
+    "id": "7dc88281-e41f-45c1-8f0f-6df5a29f81e3",
+    "eng": "Nakry",
+    "fLE": "N",
+    "tel": "నాకృ",
+    "fLTel": "న",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "83ab53a9-d24b-4457-b66e-c2a63cddf211",
+    "eng": "Naksatra",
+    "fLE": "N",
+    "tel": "నక్షత్ర",
+    "fLTel": "న",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "96be5ac6-f392-4c6c-8479-34669db2732b",
+    "eng": "Naksha",
+    "fLE": "N",
+    "tel": "నక్ష",
+    "fLTel": "న",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "b2b4fee2-f572-470a-9bf2-7e4647c7bacb",
+    "eng": "Nakshathra",
+    "fLE": "N",
+    "tel": "నక్షత్ర",
+    "fLTel": "న",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "edc51fbe-da18-4a6c-9417-0b7b1d4711eb",
+    "eng": "Nakshi",
+    "fLE": "N",
+    "tel": "నక్ష",
+    "fLTel": "న",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "b1593309-060a-4889-8594-1023db378cf0",
+    "eng": "Nakshita",
+    "fLE": "N",
+    "tel": "నక్షిత",
+    "fLTel": "న",
+    "tags": [],
+    "gen": "female",
+    "rel": "others"
+  },
+  {
+    "id": "f4418661-fda4-4836-8719-b1b8836db1d8",
+    "eng": "Nakshthra",
+    "fLE": "N",
+    "tel": "నక్షత్ర",
+    "fLTel": "న",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "0ceab85d-6bf8-4122-9659-aa78979b5d8b",
+    "eng": "Nakshtra",
+    "fLE": "N",
+    "tel": "నక్షత్ర",
+    "fLTel": "న",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "fe1cb025-7902-4dba-8bb2-472354bdff53",
+    "eng": "Nakti",
+    "fLE": "N",
+    "tel": "నాకేటి",
+    "fLTel": "న",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "2613d3bf-5285-4577-9cae-bfa868ea27b9",
+    "eng": "Nakula",
+    "fLE": "N",
+    "tel": "నకుల",
+    "fLTel": "న",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "58de6f46-1c64-436b-a9ec-608891946fac",
+    "eng": "Nakusha",
+    "fLE": "N",
+    "tel": "నాకుశ",
+    "fLTel": "న",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "8c87cb29-fb8a-454d-9750-780ac34c527a",
+    "eng": "Nakushi",
+    "fLE": "N",
+    "tel": "నాకుషి",
+    "fLTel": "న",
+    "tags": [],
+    "gen": "female",
+    "rel": "others"
+  },
+  {
+    "id": "3de676dd-efdb-4b72-a3b1-6db12a007cd7",
+    "eng": "Nakya",
+    "fLE": "N",
+    "tel": "నాఖ్య",
+    "fLTel": "న",
+    "tags": [],
+    "gen": "female",
+    "rel": "Muslim"
+  },
+  {
+    "id": "a95e0eda-8349-41e5-8962-49b37923054b",
+    "eng": "Nalah",
+    "fLE": "N",
+    "tel": "నాలాహ్",
+    "fLTel": "న",
+    "tags": [],
+    "gen": "female",
+    "rel": "others"
+  },
+  {
+    "id": "73ca14f7-50c4-4ed9-892d-d62e4a7e38c0",
+    "eng": "Nalaka",
+    "fLE": "N",
+    "tel": "నలక",
+    "fLTel": "న",
+    "tags": [],
+    "gen": "female",
+    "rel": "others"
+  },
+  {
+    "id": "8897eaec-30b9-4738-9c33-96b86cabe0b6",
+    "eng": "Nalakini",
+    "fLE": "N",
+    "tel": "నలకిని",
+    "fLTel": "న",
+    "tags": [],
+    "gen": "female",
+    "rel": "others"
+  },
+  {
+    "id": "35f53f4c-b054-46fe-b322-e2800d52fc2b",
+    "eng": "Nalani",
+    "fLE": "N",
+    "tel": "నల్లని",
+    "fLTel": "న",
+    "tags": [],
+    "gen": "female",
+    "rel": "others"
+  },
+  {
+    "id": "d3bbc180-e731-44d0-978d-83f7ba946186",
+    "eng": "Nalanie",
+    "fLE": "N",
+    "tel": "నల్లనియె",
+    "fLTel": "న",
+    "tags": [],
+    "gen": "female",
+    "rel": "others"
+  },
+  {
+    "id": "e310b5ea-dcc5-41de-92da-854474e4d0ca",
+    "eng": "Nalayani",
+    "fLE": "N",
+    "tel": "నాలయాని",
+    "fLTel": "న",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "2658477b-c111-40aa-a208-f7322fdebf14",
+    "eng": "Nalayini",
+    "fLE": "N",
+    "tel": "నాలాయిని",
+    "fLTel": "న",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "19550724-5202-4c4b-b9c1-fbc6de669a35",
+    "eng": "Naledi",
+    "fLE": "N",
+    "tel": "నాళేది",
+    "fLTel": "న",
+    "tags": [],
+    "gen": "female",
+    "rel": "others"
+  },
+  {
+    "id": "7d347334-d8ea-47ea-81bd-a87d0a711990",
+    "eng": "Naleigh",
+    "fLE": "N",
+    "tel": "నాళేఇఘ్",
+    "fLTel": "న",
+    "tags": [],
+    "gen": "female",
+    "rel": "others"
+  },
+  {
+    "id": "a2e2e92a-c9d4-4f4d-bee9-5970bcaaf406",
+    "eng": "Naleighya",
+    "fLE": "N",
+    "tel": "నాళేఇగ్య",
+    "fLTel": "న",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "d21ab052-8483-4833-b203-1eeb0cfb548b",
+    "eng": "Nalen",
+    "fLE": "N",
+    "tel": "నలేం",
+    "fLTel": "న",
+    "tags": [],
+    "gen": "female",
+    "rel": "others"
+  },
+  {
+    "id": "75142e9c-3ac1-43e4-be5a-57e9596484a2",
+    "eng": "Nalika",
+    "fLE": "N",
+    "tel": "నాలిక",
+    "fLTel": "న",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "7fe42a5c-578d-4a7f-92c9-c5f7cdc8e911",
+    "eng": "Nalina",
+    "fLE": "N",
+    "tel": "నళిన",
+    "fLTel": "న",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "b3a79411-6230-4b14-be01-88475ef992d5",
+    "eng": "Nalinakanthi",
+    "fLE": "N",
+    "tel": "నళినకాంతి",
+    "fLTel": "న",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "990a2fbd-0cde-4255-a70a-7adb0e30c2f2",
+    "eng": "Nalinakshi",
+    "fLE": "N",
+    "tel": "నళినాక్షి",
+    "fLTel": "న",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "4375cd37-71bb-4715-8e23-a1e73a8abba4",
+    "eng": "Nalini",
+    "fLE": "N",
+    "tel": "నళిని",
+    "fLTel": "న",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "a5752b46-9540-4011-9666-8f0e4892a820",
+    "eng": "nalini",
+    "fLE": "n",
+    "tel": "నళిని",
+    "fLTel": "న",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "c0d7a560-3a0a-4e9a-bb49-f9444193954c",
+    "eng": "Nalitz",
+    "fLE": "N",
+    "tel": "నాలిటీస్",
+    "fLTel": "న",
+    "tags": [],
+    "gen": "female",
+    "rel": "others"
+  },
+  {
+    "id": "cf875c37-3a9f-4d7f-88fb-9fc67285a9a6",
+    "eng": "Nalla",
+    "fLE": "N",
+    "tel": "నల్ల",
+    "fLTel": "న",
+    "tags": [],
+    "gen": "female",
+    "rel": "others"
+  },
+  {
+    "id": "46e848d0-b66f-4a37-9c0c-9a42dda5816f",
+    "eng": "Nallammal",
+    "fLE": "N",
+    "tel": "నల్లమ్మాళ్",
+    "fLTel": "న",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "62a6c78c-6e4c-48e3-ae38-f16030eb8ef2",
+    "eng": "Nallarasi",
+    "fLE": "N",
+    "tel": "నల్లరాసి",
+    "fLTel": "న",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "295e19ff-5212-4af5-b1cf-b63fc61a88e4",
+    "eng": "Nalle",
+    "fLE": "N",
+    "tel": "నల్ల",
+    "fLTel": "న",
+    "tags": [],
+    "gen": "female",
+    "rel": "others"
+  },
+  {
+    "id": "63f7d6fb-9624-4203-9685-d7b9d933f083",
+    "eng": "Nalleli",
+    "fLE": "N",
+    "tel": "నల్లెలి",
+    "fLTel": "న",
+    "tags": [],
+    "gen": "female",
+    "rel": "others"
+  },
+  {
+    "id": "76e05a6b-b680-4a10-9858-998ce5b6f0f1",
+    "eng": "Nallely",
+    "fLE": "N",
+    "tel": "నల్లెలై",
+    "fLTel": "న",
+    "tags": [],
+    "gen": "female",
+    "rel": "others"
+  },
+  {
+    "id": "a4a80a79-fe38-453c-8d3f-ad92444c7153",
+    "eng": "Nalli",
+    "fLE": "N",
+    "tel": "నల్లి",
+    "fLTel": "న",
+    "tags": [],
+    "gen": "female",
+    "rel": "others"
+  },
+  {
+    "id": "2e045a4f-2d59-477c-b7f0-9fd26c3483da",
+    "eng": "Nalo",
+    "fLE": "N",
+    "tel": "నాలో",
+    "fLTel": "న",
+    "tags": [],
+    "gen": "female",
+    "rel": "others"
+  },
+  {
+    "id": "8895acf6-f8b2-41bb-ac7a-234dd593dbcd",
+    "eng": "Nalorie",
+    "fLE": "N",
+    "tel": "నాలోరీ",
+    "fLTel": "న",
+    "tags": [],
+    "gen": "female",
+    "rel": "others"
+  },
+  {
+    "id": "44eabd54-792a-4355-ad75-18abcc413caf",
+    "eng": "Nalyssa",
+    "fLE": "N",
+    "tel": "నలిస్సా",
+    "fLTel": "న",
+    "tags": [],
+    "gen": "female",
+    "rel": "others"
+  },
+  {
+    "id": "191170f6-eee4-46f1-b13d-a3624e51cdaf",
+    "eng": "Nama",
+    "fLE": "N",
+    "tel": "నమ",
+    "fLTel": "న",
+    "tags": [],
+    "gen": "female",
+    "rel": "Muslim"
+  },
+  {
+    "id": "9fc9c0ec-debb-4fa3-8a2f-74953eaf71fe",
+    "eng": "Namana",
+    "fLE": "N",
+    "tel": "నమన",
+    "fLTel": "న",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "75b87fdf-6b8b-420d-a619-0be23dc12b4b",
+    "eng": "Namanarayani",
+    "fLE": "N",
+    "tel": "నామనారాయని",
+    "fLTel": "న",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "78af2c4d-115a-4dba-b958-4672c107e317",
+    "eng": "Namankita",
+    "fLE": "N",
+    "tel": "నామాంకిత",
+    "fLTel": "న",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "b7cdcbcc-14f8-4b50-80d6-3fd59c83aa06",
+    "eng": "Namanshi",
+    "fLE": "N",
+    "tel": "నమన్షి",
+    "fLTel": "న",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "7c9f19a0-62e4-40ec-af99-8a6c1624f031",
+    "eng": "Namar",
+    "fLE": "N",
+    "tel": "నమ్మారు",
+    "fLTel": "న",
+    "tags": [],
+    "gen": "female",
+    "rel": "Muslim"
+  },
+  {
+    "id": "1216e99e-c6eb-4804-a856-a5fb544a614f",
+    "eng": "Namarata",
+    "fLE": "N",
+    "tel": "నమరట",
+    "fLTel": "న",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "0b948881-d631-4d67-beb9-a3818bd3af35",
+    "eng": "Namarta",
+    "fLE": "N",
+    "tel": "నమర్త",
+    "fLTel": "న",
+    "tags": [],
+    "gen": "female",
+    "rel": "others"
+  },
+  {
+    "id": "4da34b52-25fe-44bd-b2ee-f792909c1e0f",
+    "eng": "Namasri",
+    "fLE": "N",
+    "tel": "నమశ్రీ",
+    "fLTel": "న",
+    "tags": [],
+    "gen": "female",
+    "rel": "others"
+  },
+  {
+    "id": "0e916038-0352-47b6-86f5-38aac4dbc57f",
+    "eng": "Namasvi",
+    "fLE": "N",
+    "tel": "నమస్సావీ",
+    "fLTel": "న",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "e60460f4-2113-4a92-9afc-e0b9d4174b02",
+    "eng": "Namasya",
+    "fLE": "N",
+    "tel": "నమస్య",
+    "fLTel": "న",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "bcd56352-44dc-4d24-8dc2-e5b831d6d199",
+    "eng": "Namatha",
+    "fLE": "N",
+    "tel": "మమతా",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "1a8dc234-8a7b-410b-ae60-7ec30439a4b5",
+    "eng": "Nambini",
+    "fLE": "N",
+    "tel": "నంబిని",
+    "fLTel": "న",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "3f96bb3f-c9fe-4ecb-8b89-e4747e6ea0e0",
+    "eng": "Nameera",
+    "fLE": "N",
+    "tel": "నామీర",
+    "fLTel": "న",
+    "tags": [],
+    "gen": "female",
+    "rel": "Muslim"
+  },
+  {
+    "id": "9e79cb12-ee21-4064-ba90-93c13038b572",
+    "eng": "Nami",
+    "fLE": "N",
+    "tel": "నామి",
+    "fLTel": "న",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "56dd803d-a044-450d-9470-4ce77efb0d01",
+    "eng": "Namia",
+    "fLE": "N",
+    "tel": "నమితా",
+    "fLTel": "న",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "dad9a1e6-efec-467d-94fe-d0d493661d57",
+    "eng": "Namid",
+    "fLE": "N",
+    "tel": "నంది",
+    "fLTel": "న",
+    "tags": [],
+    "gen": "female",
+    "rel": "others"
+  },
+  {
+    "id": "f7742ee4-51a0-4f93-8053-03840d265990",
+    "eng": "Namie",
+    "fLE": "N",
+    "tel": "నమిలే",
+    "fLTel": "న",
+    "tags": [],
+    "gen": "female",
+    "rel": "others"
+  },
+  {
+    "id": "716a11e6-8705-41fc-a198-36106e8f4def",
+    "eng": "Namira",
+    "fLE": "N",
+    "tel": "నమితా",
+    "fLTel": "న",
+    "tags": [],
+    "gen": "female",
+    "rel": "Muslim"
+  },
+  {
+    "id": "f736c1ef-d4cd-4ef9-9a9e-c81ba92558d3",
+    "eng": "Namirah",
+    "fLE": "N",
+    "tel": "నామిరః",
+    "fLTel": "న",
+    "tags": [],
+    "gen": "female",
+    "rel": "Muslim"
+  },
+  {
+    "id": "f05f8b5e-5846-4493-ba39-e476ead8b918",
+    "eng": "Namisha",
+    "fLE": "N",
+    "tel": "నిమిష",
+    "fLTel": "న",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "f92afba3-edba-4018-9ca8-4db26c29aec6",
+    "eng": "Namita",
+    "fLE": "N",
+    "tel": "నమిత",
+    "fLTel": "న",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "04b10854-cc3e-41bc-92f3-8675411ecb68",
+    "eng": "Namitha",
+    "fLE": "N",
+    "tel": "నమిత",
+    "fLTel": "న",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "49a7b6db-5925-4d6c-a3f0-fe281e02e517",
+    "eng": "Namiyah",
+    "fLE": "N",
+    "tel": "నామియహ్",
+    "fLTel": "న",
+    "tags": [],
+    "gen": "female",
+    "rel": "Muslim"
+  },
+  {
+    "id": "0372ce3a-6113-4f69-8250-c8c08f1b157c",
+    "eng": "Namjas",
+    "fLE": "N",
+    "tel": "నంజస్",
+    "fLTel": "న",
+    "tags": [],
+    "gen": "female",
+    "rel": "Sikh"
+  },
+  {
+    "id": "eb940fed-1368-4b85-98f9-c87b6924562b",
+    "eng": "Namjot",
+    "fLE": "N",
+    "tel": "నంజాత్",
+    "fLTel": "న",
+    "tags": [],
+    "gen": "female",
+    "rel": "Sikh"
+  },
+  {
+    "id": "81e755f4-de65-4980-893f-8b46620d1650",
+    "eng": "Namra",
+    "fLE": "N",
+    "tel": "నమ్ర",
+    "fLTel": "న",
+    "tags": [],
+    "gen": "female",
+    "rel": "Muslim"
+  },
+  {
+    "id": "6e6b907d-3068-4dc5-8c0c-ebc36e922cb2",
+    "eng": "Namrah",
+    "fLE": "N",
+    "tel": "నమ్రాహ్",
+    "fLTel": "న",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "d2c3a09d-0fe0-4987-8996-fc6abf47c380",
+    "eng": "Namrat",
+    "fLE": "N",
+    "tel": "నమ్రత",
+    "fLTel": "న",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "27f2e819-6890-4cf2-b8d0-2dde42d08dab",
+    "eng": "Namrata",
+    "fLE": "N",
+    "tel": "నమ్రత",
+    "fLTel": "న",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "f6f68f1d-9b92-414d-8149-3ca0748888b7",
+    "eng": "Namratha",
+    "fLE": "N",
+    "tel": "నమ్రత",
+    "fLTel": "న",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "44093d0e-dead-46c5-97fc-ea9f5d554665",
+    "eng": "Namreet",
+    "fLE": "N",
+    "tel": "నాంరీటీ",
+    "fLTel": "న",
+    "tags": [],
+    "gen": "female",
+    "rel": "Sikh"
+  },
+  {
+    "id": "e4fad9a7-9f69-4518-857d-a1eed34a9469",
+    "eng": "Namrit",
+    "fLE": "N",
+    "tel": "నమ్రిత్",
+    "fLTel": "న",
+    "tags": [],
+    "gen": "female",
+    "rel": "Sikh"
+  },
+  {
+    "id": "87f9979d-e55d-4ba2-b3f6-e0e8f73663cb",
+    "eng": "Namrita",
+    "fLE": "N",
+    "tel": "నమ్రితా",
+    "fLTel": "న",
+    "tags": [],
+    "gen": "female",
+    "rel": "Sikh"
+  },
+  {
+    "id": "2579153f-fc3b-4392-bbd9-a4685d1ed13c",
+    "eng": "Namroop",
+    "fLE": "N",
+    "tel": "నామరూప్",
+    "fLTel": "న",
+    "tags": [],
+    "gen": "female",
+    "rel": "Sikh"
+  },
+  {
+    "id": "e9880610-9dd1-49bc-995f-61a2bdb2c311",
+    "eng": "Namsit",
+    "fLE": "N",
+    "tel": "నంజిత్",
+    "fLTel": "న",
+    "tags": [],
+    "gen": "female",
+    "rel": "others"
+  },
+  {
+    "id": "45c7ee5e-848b-4eef-bfe2-2142233fbb20",
+    "eng": "Namuchi",
+    "fLE": "N",
+    "tel": "నముచి",
+    "fLTel": "న",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "6d004562-5d08-4f32-b026-c520b5e19ab6",
+    "eng": "Namyla",
+    "fLE": "N",
+    "tel": "నమిలి",
+    "fLTel": "న",
+    "tags": [],
+    "gen": "female",
+    "rel": "Muslim"
+  },
+  {
+    "id": "5330b54b-8545-41aa-9564-40693bee76ed",
+    "eng": "Nan",
+    "fLE": "N",
+    "tel": "నం",
+    "fLTel": "న",
+    "tags": [],
+    "gen": "female",
+    "rel": "others"
+  },
+  {
+    "id": "6d846ebf-40a3-46d6-9b87-931d4413c52b",
+    "eng": "Nana",
+    "fLE": "N",
+    "tel": "నన",
+    "fLTel": "న",
+    "tags": [],
+    "gen": "female",
+    "rel": "others"
+  },
+  {
+    "id": "cba53309-68d7-475b-bbe2-75c628832ed8",
+    "eng": "Nanadanika",
+    "fLE": "N",
+    "tel": "ననడానికా",
+    "fLTel": "న",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "5dc73fa9-d14b-45e2-acf3-19437bcf7dab",
+    "eng": "Nanak",
+    "fLE": "N",
+    "tel": "నానక్",
+    "fLTel": "న",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "928f9c7f-fff0-4eac-8bc8-74f0e4e37448",
+    "eng": "Nanaki",
+    "fLE": "N",
+    "tel": "నాన్నకి",
+    "fLTel": "న",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "4c7585ac-cec9-4aa2-aa12-f947924456a1",
+    "eng": "Nanako",
+    "fLE": "N",
+    "tel": "నాన్నకు",
+    "fLTel": "న",
+    "tags": [],
+    "gen": "female",
+    "rel": "others"
+  },
+  {
+    "id": "7bcb8379-7714-4489-8710-1d9729f4a8c2",
+    "eng": "Nanami",
+    "fLE": "N",
+    "tel": "నమామి",
+    "fLTel": "న",
+    "tags": [],
+    "gen": "female",
+    "rel": "others"
+  },
+  {
+    "id": "a528a430-9a55-4801-9d27-c767a457bc6a",
+    "eng": "Nancee",
+    "fLE": "N",
+    "tel": "నాన్సెయే",
+    "fLTel": "న",
+    "tags": [],
+    "gen": "female",
+    "rel": "others"
+  },
+  {
+    "id": "ca4c3c9e-aba3-4827-beb0-19dbb751a21b",
+    "eng": "Nancey",
+    "fLE": "N",
+    "tel": "నాన్సెయ్",
+    "fLTel": "న",
+    "tags": [],
+    "gen": "female",
+    "rel": "others"
+  },
+  {
+    "id": "c3114337-1404-4587-826e-314bb9613cae",
+    "eng": "Nanci",
+    "fLE": "N",
+    "tel": "నాన్సీ",
+    "fLTel": "న",
+    "tags": [],
+    "gen": "female",
+    "rel": "others"
+  },
+  {
+    "id": "f0844235-7ba8-4a1c-8316-f03978d6e0a4",
+    "eng": "Nancie",
+    "fLE": "N",
+    "tel": "నాన్సియ",
+    "fLTel": "న",
+    "tags": [],
+    "gen": "female",
+    "rel": "others"
+  },
+  {
+    "id": "f490e4b8-63ac-4f05-9189-6cf56dd8e7dd",
+    "eng": "Nancijane",
+    "fLE": "N",
+    "tel": "నాన్సెజనే",
+    "fLTel": "న",
+    "tags": [],
+    "gen": "female",
+    "rel": "others"
+  },
+  {
+    "id": "cd7a35bb-cece-40d8-b02f-64091345f581",
+    "eng": "Nancy",
+    "fLE": "N",
+    "tel": "నాన్సీ",
+    "fLTel": "న",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "192581fd-339c-4db1-b501-3946540dc982",
+    "eng": "nandag",
+    "fLE": "n",
+    "tel": "నందజీ",
+    "fLTel": "న",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  }
+]

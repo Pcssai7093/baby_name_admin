@@ -1,0 +1,922 @@
+[
+  {
+    "id": "01c427bd-724f-401f-b2be-06c79fa09d03",
+    "eng": "Cidghana",
+    "fLE": "C",
+    "tel": "సిద్గ్గన",
+    "fLTel": "స",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "ec9f0843-17a7-4394-a1fb-d0f3b74a40ff",
+    "eng": "Cidrich",
+    "fLE": "C",
+    "tel": "సీడ్రిచ్",
+    "fLTel": "స",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "32bdb9b7-634e-49ae-9871-57f2b601e778",
+    "eng": "Cidrupa",
+    "fLE": "C",
+    "tel": "చిద్రూప",
+    "fLTel": "చ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "78447841-2a9f-4455-a823-35b7ddbc3b91",
+    "eng": "Cidullasa",
+    "fLE": "C",
+    "tel": "సదుల్లాస",
+    "fLTel": "స",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "fc8b8ee2-68e5-49e6-9475-ba7cc3dbfe66",
+    "eng": "Cidvilasa",
+    "fLE": "C",
+    "tel": "చిద్విలాసం",
+    "fLTel": "చ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "11e3aeca-2998-456b-90b2-9e53bb69485a",
+    "eng": "Ciedda",
+    "fLE": "C",
+    "tel": "సియెద్ద",
+    "fLTel": "స",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "4e10202d-70ba-4047-bd2b-de83c34c05ed",
+    "eng": "Cifa",
+    "fLE": "C",
+    "tel": "సిఫా",
+    "fLTel": "స",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "ea1dfa3e-b682-41a0-80bb-5db84d0768e0",
+    "eng": "Cihir",
+    "fLE": "C",
+    "tel": "సిహిర్",
+    "fLTel": "స",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "4e59fb6e-c068-496d-a10f-f11323f41855",
+    "eng": "Cikita",
+    "fLE": "C",
+    "tel": "చికిత్స",
+    "fLTel": "చ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "c0871893-26ea-47d5-8fca-51fab965f670",
+    "eng": "Ciksura",
+    "fLE": "C",
+    "tel": "సిక్సురా",
+    "fLTel": "స",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "c0489b97-b6c9-44fa-8e98-3cc67ef62e42",
+    "eng": "Cikura",
+    "fLE": "C",
+    "tel": "చికుర",
+    "fLTel": "చ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "c3349d3a-0f88-48d3-ae74-87c51e7b7933",
+    "eng": "Cilciuhinn",
+    "fLE": "C",
+    "tel": "సిల్సీయూహిన్",
+    "fLTel": "స",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "031d0dcf-f86b-44c1-888d-0cceebb82362",
+    "eng": "Cilda",
+    "fLE": "C",
+    "tel": "సీల్డా",
+    "fLTel": "స",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "66a2c9ee-4d52-47ee-bf09-434af6bca783",
+    "eng": "Cilistinu",
+    "fLE": "C",
+    "tel": "సిలిస్టిను",
+    "fLTel": "స",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "b2c1a061-39da-4b38-b24e-1be09e44b080",
+    "eng": "Cilix",
+    "fLE": "C",
+    "tel": "సిలిక్",
+    "fLTel": "స",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "e83b2d87-60b6-41e9-93ef-a6876f7c7d3c",
+    "eng": "Cillian",
+    "fLE": "C",
+    "tel": "సిలియాన్",
+    "fLTel": "స",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "817ad3d9-8f04-449d-b0d4-142000bf856e",
+    "eng": "Ciman",
+    "fLE": "C",
+    "tel": "సీమాం",
+    "fLTel": "స",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "e4d48c82-0f18-4283-b43e-4efe1eaf1d55",
+    "eng": "Cimarron",
+    "fLE": "C",
+    "tel": "సిమర్న్",
+    "fLTel": "స",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "e60b52ee-bc9f-427d-a72d-2a1a1c8c0fe2",
+    "eng": "Cimeilliauc",
+    "fLE": "C",
+    "tel": "సిమెల్లిగాయూసీ",
+    "fLTel": "స",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "b3f61760-7179-4bd6-ab9b-21bab8e1bd00",
+    "eng": "Cimesetli",
+    "fLE": "C",
+    "tel": "సిమెస్ట్లీ",
+    "fLTel": "స",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "17672e41-223e-4087-9472-8c139fe19bda",
+    "eng": "Cimorene",
+    "fLE": "C",
+    "tel": "సీమోరేనే",
+    "fLTel": "స",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "34134bcd-7f2a-4d92-9433-280d5e162080",
+    "eng": "Cinan",
+    "fLE": "C",
+    "tel": "సినాన్",
+    "fLTel": "స",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "adb64793-cfac-47e1-bd93-c2d7d155fa4a",
+    "eng": "Cinbran",
+    "fLE": "C",
+    "tel": "సీన్బ్రాన్",
+    "fLTel": "స",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "54ff3bda-cf31-4975-88fa-e591dfb05c63",
+    "eng": "Cincenn",
+    "fLE": "C",
+    "tel": "సీన్సున్న",
+    "fLTel": "స",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "55573f10-aa5f-4a29-b24c-08030a262759",
+    "eng": "Cincinnatus",
+    "fLE": "C",
+    "tel": "సిన్సినాటీస్",
+    "fLTel": "స",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "a9039b69-a9b3-4227-ae1b-bc50dfb4cecd",
+    "eng": "Cinco",
+    "fLE": "C",
+    "tel": "సింకా",
+    "fLTel": "స",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "d2fa5614-2902-444d-b948-ebec54a3ac93",
+    "eng": "Cingal",
+    "fLE": "C",
+    "tel": "సింగల్",
+    "fLTel": "స",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "840f320e-c19a-4155-9eeb-cc059b7bf66d",
+    "eng": "Cingen",
+    "fLE": "C",
+    "tel": "సింగేన",
+    "fLTel": "స",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "5414955a-6f41-40f6-8b78-4b9f0702cb3e",
+    "eng": "Cingeswell",
+    "fLE": "C",
+    "tel": "సింగేస్వేల్",
+    "fLTel": "స",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "d6cf67de-1dcb-427b-be2f-e7a1f0c3cace",
+    "eng": "Cingeswiella",
+    "fLE": "C",
+    "tel": "సింగేస్విఏళ్ల",
+    "fLTel": "స",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "901aaacc-22a5-4196-b1ec-616507a73913",
+    "eng": "Cingetorix",
+    "fLE": "C",
+    "tel": "సింగేటోరిస్",
+    "fLTel": "స",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "bdc75e42-1900-4fa8-921a-bbae26abf955",
+    "eng": "Cinglas",
+    "fLE": "C",
+    "tel": "సింగ్లాస్",
+    "fLTel": "స",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "3ea7eaf8-82ea-4bb0-bb4b-1ffc7e062f3b",
+    "eng": "Cingual",
+    "fLE": "C",
+    "tel": "సింగాల్",
+    "fLTel": "స",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "6c9352c6-fb9c-4e69-bc13-9599a924b3ac",
+    "eng": "Cingualan",
+    "fLE": "C",
+    "tel": "సింగాలం",
+    "fLTel": "స",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "ecfc2743-96d7-4216-afa8-86c6c9d5387f",
+    "eng": "Cinguali",
+    "fLE": "C",
+    "tel": "సింగాలి",
+    "fLTel": "స",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "5073f567-3580-4f72-a832-952e29d6212f",
+    "eng": "Cini",
+    "fLE": "C",
+    "tel": "సినీ",
+    "fLTel": "స",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "654445e4-a7e7-441b-bfed-25a3c92af9a3",
+    "eng": "Cinmarch",
+    "fLE": "C",
+    "tel": "సిన్మార్చ్",
+    "fLTel": "స",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "e2abf00a-9de7-4137-b697-b3760aa9c2ba",
+    "eng": "Cinmaya",
+    "fLE": "C",
+    "tel": "చిన్మయ",
+    "fLTel": "చ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "aa19c765-b739-404a-8168-7577b2f0c69a",
+    "eng": "cinna",
+    "fLE": "c",
+    "tel": "చిన్న",
+    "fLTel": "చ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "e64c2b2d-2d46-46bd-9f03-cce0a295fa11",
+    "eng": "Cinnhor",
+    "fLE": "C",
+    "tel": "సిన్హ్ర్",
+    "fLTel": "స",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "197d2675-abaa-4ff1-ada0-c7139dd34129",
+    "eng": "Cinnor",
+    "fLE": "C",
+    "tel": "సిన్నోర్",
+    "fLTel": "స",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "eebc3895-25f1-4b2d-b380-d835253c7680",
+    "eng": "Cinon",
+    "fLE": "C",
+    "tel": "సినాన్",
+    "fLTel": "స",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "02bcdda5-f8a9-4905-9813-110d9fbe48c6",
+    "eng": "Cintamari",
+    "fLE": "C",
+    "tel": "చింతమారి",
+    "fLTel": "చ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "9ae08f3c-3a45-4a9f-b847-48f42e785394",
+    "eng": "Cintan",
+    "fLE": "C",
+    "tel": "చింతన్",
+    "fLTel": "చ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "944b37d0-7019-4c36-bcf9-c6883013e449",
+    "eng": "Cintugnatus",
+    "fLE": "C",
+    "tel": "చింటుగ్నట్స్",
+    "fLTel": "చ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "aebf6547-e75a-43e0-a929-1d56033c173b",
+    "eng": "Cintusmus",
+    "fLE": "C",
+    "tel": "చింటూస్మ్స్",
+    "fLTel": "చ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "463e7826-84ca-48f9-b8be-0df3a3f85d61",
+    "eng": "Cinuin",
+    "fLE": "C",
+    "tel": "సీనియన్",
+    "fLTel": "స",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "57682cda-ff50-4fab-b1f5-950b412ea734",
+    "eng": "Cinuoc",
+    "fLE": "C",
+    "tel": "సీనులోకి",
+    "fLTel": "స",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "f9496d78-07b0-4c6d-99a4-c2606e889f48",
+    "eng": "Cinwell",
+    "fLE": "C",
+    "tel": "సీన్వేల్",
+    "fLTel": "స",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "2540401c-1c66-41bf-98c4-335e4b7a21a3",
+    "eng": "Ciolla",
+    "fLE": "C",
+    "tel": "చివుళ్ళ",
+    "fLTel": "చ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "cd68de84-c0e5-48d0-9172-c09d7e1f0fd8",
+    "eng": "Ciorra",
+    "fLE": "C",
+    "tel": "సియర్రా",
+    "fLTel": "స",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "85a1a501-a889-4cb9-a8d6-ad9c7a86e78f",
+    "eng": "Cipactli",
+    "fLE": "C",
+    "tel": "సిపాసీట్లి",
+    "fLTel": "స",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "dab38601-769d-489a-8939-114e358deb62",
+    "eng": "Cipio",
+    "fLE": "C",
+    "tel": "సిపిఒ",
+    "fLTel": "స",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "f9743296-cb3c-4de9-a16b-2e0eba346004",
+    "eng": "Cippa",
+    "fLE": "C",
+    "tel": "చిప్ప",
+    "fLTel": "చ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "1a161c58-d52f-4973-bc61-89786ec1cccc",
+    "eng": "Ciprian",
+    "fLE": "C",
+    "tel": "సిప్రియాం",
+    "fLTel": "స",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "5883265d-da0f-412c-b042-d1ddc6824818",
+    "eng": "Cipriano",
+    "fLE": "C",
+    "tel": "సిప్రియానో",
+    "fLTel": "స",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "56006c1b-36d6-4fe8-86bf-8e61efee9003",
+    "eng": "Cirajusa",
+    "fLE": "C",
+    "tel": "సిరాజుస",
+    "fLTel": "స",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "c9daf872-e065-47f0-92f6-e84c20387f31",
+    "eng": "Cirakari",
+    "fLE": "C",
+    "tel": "సిరాకరి",
+    "fLTel": "స",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "7b99143c-baae-449b-aba0-ce27584ce55e",
+    "eng": "Cirantaka",
+    "fLE": "C",
+    "tel": "సిరంతక",
+    "fLTel": "స",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "4f77a281-3177-4a73-bf4b-2a18ad0c7f89",
+    "eng": "Cirayu",
+    "fLE": "C",
+    "tel": "సరయు",
+    "fLTel": "స",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "eaa990e8-0925-4594-ac42-93ffc87a9e50",
+    "eng": "Cirayus",
+    "fLE": "C",
+    "tel": "సీరియస్",
+    "fLTel": "స",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "22c0f11e-2d75-4a34-b235-476041b206fd",
+    "eng": "Circehyll",
+    "fLE": "C",
+    "tel": "శిరసుహైల్",
+    "fLTel": "శ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "fbc80231-8821-4272-9140-c5c1b1930e6f",
+    "eng": "Ciriaco",
+    "fLE": "C",
+    "tel": "సిరియాకో",
+    "fLTel": "స",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "1305efb8-8e79-432e-8f82-c3b58adad1c2",
+    "eng": "Ciriacus",
+    "fLE": "C",
+    "tel": "సిరియాసిస్",
+    "fLTel": "స",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "4d3afc5a-f6d1-4e5d-8bcb-2497e1528a6c",
+    "eng": "Ciril",
+    "fLE": "C",
+    "tel": "సిరిల్",
+    "fLTel": "స",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "0b478f39-c573-4ccb-80c6-8fd4b828de1d",
+    "eng": "Cirilo",
+    "fLE": "C",
+    "tel": "సిరిలో",
+    "fLTel": "స",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "a9d6d1b3-5b91-4ace-9dc9-e3987725cfb2",
+    "eng": "Cirini",
+    "fLE": "C",
+    "tel": "సిరిని",
+    "fLTel": "స",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "692f4d5a-5b5f-40a6-b64c-158414ccbc0e",
+    "eng": "Cirjivaka",
+    "fLE": "C",
+    "tel": "చిరుజీవక",
+    "fLTel": "చ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "a0339fa3-2aa4-4087-9843-7a885b0064ce",
+    "eng": "Ciro",
+    "fLE": "C",
+    "tel": "సిరో",
+    "fLTel": "స",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "fe7ed066-d0d1-49fd-adf0-529c08ec99e6",
+    "eng": "Cirocco",
+    "fLE": "C",
+    "tel": "సిరోసికో",
+    "fLTel": "స",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "b7096f9a-d3c0-4785-b772-8ec26c64fbff",
+    "eng": "Cirroc",
+    "fLE": "C",
+    "tel": "సిర్రోసి",
+    "fLTel": "స",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "27d15a60-d7db-451c-b505-da66ac1a5a70",
+    "eng": "Cisco",
+    "fLE": "C",
+    "tel": "సిస్కో",
+    "fLTel": "స",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "37b280dc-8539-425b-87a4-5566803897b9",
+    "eng": "cisco",
+    "fLE": "c",
+    "tel": "సిస్కో",
+    "fLTel": "స",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "ab18ec04-51e6-441b-8650-ac255a3d8745",
+    "eng": "Ciss",
+    "fLE": "C",
+    "tel": "సీస్",
+    "fLTel": "స",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "51dc8eb3-1697-47b5-b074-36a3d40a350b",
+    "eng": "Citadhana",
+    "fLE": "C",
+    "tel": "సీతాదన",
+    "fLTel": "స",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "44015137-19cd-45f5-b568-ae9959fcfb4e",
+    "eng": "Citaka",
+    "fLE": "C",
+    "tel": "చితక",
+    "fLTel": "చ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "645d6caa-44be-414b-81ff-36950196554e",
+    "eng": "Citapati",
+    "fLE": "C",
+    "tel": "సీతాపతి",
+    "fLTel": "స",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "f62e6974-5079-4414-9132-de3762360484",
+    "eng": "Citayu",
+    "fLE": "C",
+    "tel": "సీతయు",
+    "fLTel": "స",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "36134c3b-aa11-49b4-a1b9-431a38bc6093",
+    "eng": "Citoc",
+    "fLE": "C",
+    "tel": "సీటొక",
+    "fLTel": "స",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "fe51b349-6e93-41e6-8aec-604b2419c224",
+    "eng": "Citrabahu",
+    "fLE": "C",
+    "tel": "చిత్రబాహు",
+    "fLTel": "చ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "539f25c8-1165-4d33-93b1-bf5f021b0e07",
+    "eng": "Citrabana",
+    "fLE": "C",
+    "tel": "చిత్రబాణ",
+    "fLTel": "చ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "e9a3e754-3030-40ea-abbc-3747a491e8b1",
+    "eng": "Citracapa",
+    "fLE": "C",
+    "tel": "చిత్రకప",
+    "fLTel": "చ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "7d39a680-b6bf-4af0-92e9-fd0b9901800f",
+    "eng": "Citragu",
+    "fLE": "C",
+    "tel": "చిత్రగు",
+    "fLTel": "చ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "b566697b-e4bc-4232-96e0-279ca40a3eeb",
+    "eng": "Citraka",
+    "fLE": "C",
+    "tel": "చిత్రక",
+    "fLTel": "చ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "b515d659-7e73-4bda-9be6-c8c46a05abfa",
+    "eng": "Citraketu",
+    "fLE": "C",
+    "tel": "చిత్రకేతు",
+    "fLTel": "చ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "ba6a99fc-dc85-4638-b9d7-9392467f4b1e",
+    "eng": "Citraksa",
+    "fLE": "C",
+    "tel": "సిత్రాక్ష",
+    "fLTel": "స",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "3cd21d01-c467-47f4-855e-d7e8b4e5cbdc",
+    "eng": "Citrakuta",
+    "fLE": "C",
+    "tel": "చిత్రకూట",
+    "fLTel": "చ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "8b0de825-3155-4d01-be03-89741ada7bf6",
+    "eng": "Citranga",
+    "fLE": "C",
+    "tel": "చిత్రంగా",
+    "fLTel": "చ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "3a9ed578-a06c-4cea-8830-b0663ae89cd5",
+    "eng": "Citrasena",
+    "fLE": "C",
+    "tel": "చిత్రసేన",
+    "fLTel": "చ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "86750126-0baf-4d15-9c70-4fe08621da5d",
+    "eng": "Citrasila",
+    "fLE": "C",
+    "tel": "చిత్రసీల",
+    "fLTel": "చ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "4b657f6e-ae02-439b-9308-4bb59ca5442c",
+    "eng": "Citrasva",
+    "fLE": "C",
+    "tel": "చిత్రస్వ",
+    "fLTel": "చ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "2ae2e5c4-2bc8-4f61-875a-693c14eae5be",
+    "eng": "Citravasu",
+    "fLE": "C",
+    "tel": "సిట్రవాసు",
+    "fLTel": "స",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  }
+]

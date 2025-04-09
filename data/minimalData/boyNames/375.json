@@ -1,0 +1,932 @@
+[
+  {
+    "id": "de26dfe1-a58d-4f73-a0f4-d5046e4ff197",
+    "eng": "Monank",
+    "fLE": "M",
+    "tel": "మొనన్క్",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "3b33c5e8-ffdc-4a79-ab96-a5e883740e66",
+    "eng": "Monark",
+    "fLE": "M",
+    "tel": "మోనార్క్",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "0d1867c5-5096-4b0d-b74e-30fda8c1979a",
+    "eng": "Monash",
+    "fLE": "M",
+    "tel": "మొనాష్",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "male",
+    "rel": "others"
+  },
+  {
+    "id": "c488ad06-2d26-4812-8e3e-322273e2e482",
+    "eng": "Moncef",
+    "fLE": "M",
+    "tel": "మొంసెఫ్",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "97b81380-73ee-4f6d-abf1-dac94eef8e9a",
+    "eng": "Mondem",
+    "fLE": "M",
+    "tel": "మొండెం",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "male",
+    "rel": "others"
+  },
+  {
+    "id": "66922857-a8a5-4c39-8fa0-f1d04809937f",
+    "eng": "Mondher",
+    "fLE": "M",
+    "tel": "మొందెర్",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "e6332dfb-2171-4b83-a4be-ca80e454f296",
+    "eng": "Monedorigi",
+    "fLE": "M",
+    "tel": "మోనేదొరిగి",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "male",
+    "rel": "others"
+  },
+  {
+    "id": "702dd6de-65bb-4a79-8390-b1f6ad4c367e",
+    "eng": "Monedorix",
+    "fLE": "M",
+    "tel": "మోనెడోరిస్",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "male",
+    "rel": "others"
+  },
+  {
+    "id": "69872508-40af-4e0f-90de-cc3e83555b03",
+    "eng": "Monee",
+    "fLE": "M",
+    "tel": "మోనీ",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "male",
+    "rel": "others"
+  },
+  {
+    "id": "371be332-ccb2-4503-b280-e8fb0f594b46",
+    "eng": "Moneer",
+    "fLE": "M",
+    "tel": "మొనీర్",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "f225d841-af4e-4da8-ab62-babcad53243f",
+    "eng": "Mongkut",
+    "fLE": "M",
+    "tel": "మొంఙ్కుట్",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "male",
+    "rel": "others"
+  },
+  {
+    "id": "d5012a87-e790-4933-b9f0-032b69f084cd",
+    "eng": "Moni",
+    "fLE": "M",
+    "tel": "మోని",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "440e171f-499d-4e99-b773-4ca9f87cb964",
+    "eng": "Monick",
+    "fLE": "M",
+    "tel": "మోనిక్",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "male",
+    "rel": "others"
+  },
+  {
+    "id": "cfb30ae0-540c-4e79-b733-d5354f70a091",
+    "eng": "monico",
+    "fLE": "m",
+    "tel": "మోనికా",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "81fa69ba-38e1-420a-9cf9-9507daba6314",
+    "eng": "Monik",
+    "fLE": "M",
+    "tel": "మోనిక్",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "2edbfc82-0cdc-4a49-832c-9e8319815bcf",
+    "eng": "Monim",
+    "fLE": "M",
+    "tel": "మోనిన్",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "0c1a896b-590e-4276-aef3-0482c416a9e1",
+    "eng": "Moninder",
+    "fLE": "M",
+    "tel": "మెనింద్ర్",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Sikh"
+  },
+  {
+    "id": "60bdf494-5298-45dc-b1d8-378a61c1e725",
+    "eng": "Monir",
+    "fLE": "M",
+    "tel": "మొనీర్",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "5d609fd4-5809-4c5d-b182-43fa304838b6",
+    "eng": "Monisa",
+    "fLE": "M",
+    "tel": "మోనిష",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "24ef7801-ded6-4d05-90f9-31b55b824fdd",
+    "eng": "Monish",
+    "fLE": "M",
+    "tel": "మోనిష",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "bdce0715-0517-4302-aca8-d09a92bd4b74",
+    "eng": "Monishkar",
+    "fLE": "M",
+    "tel": "మోనిష్కార్",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "male",
+    "rel": "others"
+  },
+  {
+    "id": "e65f3821-02e9-4441-bd46-aa74696fddda",
+    "eng": "Monit",
+    "fLE": "M",
+    "tel": "మోనిట",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "97b69b96-c9f6-4457-8933-e71e6619bf3d",
+    "eng": "Monji",
+    "fLE": "M",
+    "tel": "మంజి",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "0a57848f-9f8e-4cb9-9b03-6fc43a3bf59e",
+    "eng": "Mono",
+    "fLE": "M",
+    "tel": "మోనో",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "fa122639-3845-496e-8c85-1f56cba22bf5",
+    "eng": "Monohar",
+    "fLE": "M",
+    "tel": "మోనోహర్",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "male",
+    "rel": "others"
+  },
+  {
+    "id": "86ac6eed-8790-4eb8-8875-902d83eb4ef2",
+    "eng": "Monojit",
+    "fLE": "M",
+    "tel": "మోనోజిత్",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "9aa10ffb-7741-4374-8c03-54a7875398ee",
+    "eng": "Monolos",
+    "fLE": "M",
+    "tel": "మోనోలోస్",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "male",
+    "rel": "others"
+  },
+  {
+    "id": "7136b488-3d2a-4089-9945-28dd7009b44e",
+    "eng": "Monosij",
+    "fLE": "M",
+    "tel": "మోనోసైజ్",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "85bec8b4-3983-4591-bf74-aed69cc70eba",
+    "eng": "Monsef",
+    "fLE": "M",
+    "tel": "మొంసెఫ్",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "6ed519c0-87b4-4f8b-a036-d078745122cc",
+    "eng": "Monsur",
+    "fLE": "M",
+    "tel": "మోన్సూర్",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "1132078d-4e9d-4a8a-be35-a425fea9eb1b",
+    "eng": "mont",
+    "fLE": "m",
+    "tel": "మోంట్",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "e5f37722-036e-46a5-b1e6-01118e07b7c7",
+    "eng": "Montague",
+    "fLE": "M",
+    "tel": "మొంటాగు",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "male",
+    "rel": "others"
+  },
+  {
+    "id": "7dc79101-1444-410b-ada8-ec2b27cede95",
+    "eng": "montague",
+    "fLE": "m",
+    "tel": "మొంటాగు",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "1a3ce09e-595e-40db-a4d1-d58a1c5eb06d",
+    "eng": "montano",
+    "fLE": "m",
+    "tel": "మోంటానా",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "79790d51-3277-4839-9305-efb40dc75574",
+    "eng": "Montasir",
+    "fLE": "M",
+    "tel": "మొంతసీర్",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "35de8de0-4f9d-4d91-8b46-3fd9916b006c",
+    "eng": "Monte",
+    "fLE": "M",
+    "tel": "మోంటే",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "male",
+    "rel": "others"
+  },
+  {
+    "id": "4895e578-14ac-47f7-b338-cd50b4e71ad0",
+    "eng": "monte",
+    "fLE": "m",
+    "tel": "మోంటే",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "7624e740-8005-42e9-b1e2-2442c5d086c7",
+    "eng": "Montego",
+    "fLE": "M",
+    "tel": "మోంటెగో",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "male",
+    "rel": "others"
+  },
+  {
+    "id": "25e48e04-0ab5-4036-a58f-dd8e886d0d6d",
+    "eng": "montego",
+    "fLE": "m",
+    "tel": "మోంటెగో",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "3c59cae9-5c99-454d-98cb-92358d74fb0a",
+    "eng": "Montek",
+    "fLE": "M",
+    "tel": "మాంటెక్",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Sikh"
+  },
+  {
+    "id": "2bf03fbd-a822-43a8-9a79-5077c01e1764",
+    "eng": "Montel",
+    "fLE": "M",
+    "tel": "మోంటెల్",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "5978bc50-96fa-40cc-ad72-2e91348935ad",
+    "eng": "montel",
+    "fLE": "m",
+    "tel": "మోంటెల్",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "78c9cee3-1757-45a5-9726-01bc1a3711f9",
+    "eng": "Montenegro",
+    "fLE": "M",
+    "tel": "మోంటెనెగ్రో",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "male",
+    "rel": "others"
+  },
+  {
+    "id": "39095fa1-ee3c-49b3-97e2-2249cbb71e10",
+    "eng": "montenegro",
+    "fLE": "m",
+    "tel": "మోంటెనెగ్రో",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "efedf80e-5487-4515-a80a-3e42d55226e9",
+    "eng": "Monterey",
+    "fLE": "M",
+    "tel": "మోంటెరేయ్",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "male",
+    "rel": "others"
+  },
+  {
+    "id": "40611c71-c4fb-4ca4-94c3-0e56d8ba22ac",
+    "eng": "Montesh",
+    "fLE": "M",
+    "tel": "మోంటేష్",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "5b19be42-6180-4c6c-bb6b-4df342ddabcd",
+    "eng": "montez",
+    "fLE": "m",
+    "tel": "మాంటేజ్",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "a4e6c1fc-6fc2-44d9-9b32-78e9db7bc51f",
+    "eng": "Montezuma",
+    "fLE": "M",
+    "tel": "మోంటేజుమా",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "male",
+    "rel": "others"
+  },
+  {
+    "id": "60325975-6e83-4b68-99a8-bf1d9383ed19",
+    "eng": "montezuma",
+    "fLE": "m",
+    "tel": "మోంటేజుమా",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "20d5da88-2bb4-41bc-95ee-fc447a30c262",
+    "eng": "Montgomerie",
+    "fLE": "M",
+    "tel": "మోంట్గోమేరీ",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "d5008986-7eb7-47e5-8dfb-562c8c66f1a3",
+    "eng": "Montgomery",
+    "fLE": "M",
+    "tel": "మోంట్గోమేరీ",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "male",
+    "rel": "others"
+  },
+  {
+    "id": "51b0f9fd-0905-40fa-8f84-aa6f3ffbea02",
+    "eng": "montgomery",
+    "fLE": "m",
+    "tel": "మోంట్గోమేరీ",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "ff543aaa-f4f3-48c4-8337-f4825d1a9694",
+    "eng": "Montha",
+    "fLE": "M",
+    "tel": "మంథా",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "322aebfd-b461-485c-a141-c868ec2d07ab",
+    "eng": "Montie",
+    "fLE": "M",
+    "tel": "మోంటీ",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "male",
+    "rel": "others"
+  },
+  {
+    "id": "5dbbb23c-f684-4317-9608-2a991b664524",
+    "eng": "Montreal",
+    "fLE": "M",
+    "tel": "మాంట్రియల్",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "03b8f6a6-44ed-4dd4-8a19-f04d46d1fdd0",
+    "eng": "montreal",
+    "fLE": "m",
+    "tel": "మాంట్రియల్",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "6db5edd8-7a17-41ea-b0cb-25ffd9e66f69",
+    "eng": "Montrell",
+    "fLE": "M",
+    "tel": "మొంట్రెల్",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "male",
+    "rel": "others"
+  },
+  {
+    "id": "d15353fc-20e4-44e8-924d-490d9d107856",
+    "eng": "montrell",
+    "fLE": "m",
+    "tel": "మొంట్రెల్",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "25a661ff-3eee-4a26-836b-a43d566b8775",
+    "eng": "Montu",
+    "fLE": "M",
+    "tel": "మంటూ",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "a3563396-a921-4664-be87-ed99a1ffde75",
+    "eng": "Monty",
+    "fLE": "M",
+    "tel": "మోంటే",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "male",
+    "rel": "others"
+  },
+  {
+    "id": "c4c61f6a-1b8f-4c08-a26a-170a2f9a1c02",
+    "eng": "monty",
+    "fLE": "m",
+    "tel": "మోంటే",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "506039e4-e2b3-4b0d-a72b-b541edef3196",
+    "eng": "Mooaz",
+    "fLE": "M",
+    "tel": "మూయాజ్",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "aa7499eb-0b97-443a-afc1-2dedc305ec0f",
+    "eng": "Mookaiyan",
+    "fLE": "M",
+    "tel": "మూకలియన్",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "male",
+    "rel": "others"
+  },
+  {
+    "id": "17f26128-9cd8-4d94-b73e-373ad9a7fd43",
+    "eng": "Mookandi",
+    "fLE": "M",
+    "tel": "మూకండి",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "male",
+    "rel": "others"
+  },
+  {
+    "id": "c50c9ce9-ab70-4d8a-902f-c0ca6c410dba",
+    "eng": "Mookesh",
+    "fLE": "M",
+    "tel": "ముకేశ్",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "640af473-dd7e-4e64-b3e1-78cfdd88dd84",
+    "eng": "Moolavan",
+    "fLE": "M",
+    "tel": "మూలవాన్",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "male",
+    "rel": "others"
+  },
+  {
+    "id": "4b82ab84-3f14-4f3a-a659-55c280be2ecd",
+    "eng": "Mooljee",
+    "fLE": "M",
+    "tel": "మూలజీ",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "male",
+    "rel": "others"
+  },
+  {
+    "id": "0fdaa7a7-86ad-4a0b-bc49-82d54e7e22f8",
+    "eng": "Moolraj",
+    "fLE": "M",
+    "tel": "మూలరాజ్",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "male",
+    "rel": "others"
+  },
+  {
+    "id": "3e9c72e7-0b68-49b0-bdad-e4515e0c626f",
+    "eng": "Moolshanker",
+    "fLE": "M",
+    "tel": "మూలశంకర్",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "55795be7-64cf-4509-a014-bae1b5f86651",
+    "eng": "Moomal",
+    "fLE": "M",
+    "tel": "మూమల్",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "male",
+    "rel": "others"
+  },
+  {
+    "id": "6b76fc49-bba8-4b14-933b-1328521bbc7b",
+    "eng": "Moomin",
+    "fLE": "M",
+    "tel": "మోమిన్",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "189a535b-2932-41f6-b5c5-6128d4a38e68",
+    "eng": "Moon unit",
+    "fLE": "M",
+    "tel": "మూన్ యూనిట్",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "male",
+    "rel": "others"
+  },
+  {
+    "id": "41cad111-cb0a-4a3f-ad14-1a1138b2e265",
+    "eng": "Moon-unit",
+    "fLE": "M",
+    "tel": "మూన్-యూనిట్",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "male",
+    "rel": "others"
+  },
+  {
+    "id": "df5df4cf-3298-48c1-b59e-7beb04210d41",
+    "eng": "Moonesar",
+    "fLE": "M",
+    "tel": "మూనేసర్",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "male",
+    "rel": "others"
+  },
+  {
+    "id": "8b764779-396f-4b4d-a283-af5d564707eb",
+    "eng": "Moonis",
+    "fLE": "M",
+    "tel": "మోనిస్",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "d21c4eef-531a-4238-a7ed-4e91265d1d5b",
+    "eng": "Mooppan",
+    "fLE": "M",
+    "tel": "మూప్పన్",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "male",
+    "rel": "others"
+  },
+  {
+    "id": "51fc0cf8-af3d-44cc-93d0-91e6e58ab2cd",
+    "eng": "Moore",
+    "fLE": "M",
+    "tel": "మూర్",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "5fc8153b-70cd-4664-8ee8-70b8afe4b5a4",
+    "eng": "moore",
+    "fLE": "m",
+    "tel": "మూర్",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "e0c4dd4d-677b-46eb-a374-7b1833480d11",
+    "eng": "Moorea",
+    "fLE": "M",
+    "tel": "మూరీ",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "male",
+    "rel": "others"
+  },
+  {
+    "id": "f18ffbbc-d2f9-4b5f-a9dc-5b354566d837",
+    "eng": "Moorland",
+    "fLE": "M",
+    "tel": "మూర్లండ్",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "59b973ab-9de8-48e3-b7e1-97533b675272",
+    "eng": "Moorley",
+    "fLE": "M",
+    "tel": "మూర్ల్య్",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "014e74ba-ba1d-4cf3-91d1-2c876aa35820",
+    "eng": "Moorly",
+    "fLE": "M",
+    "tel": "మూరలై",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "d820ae41-3499-485a-b6d0-0748f34e5968",
+    "eng": "Moorthi",
+    "fLE": "M",
+    "tel": "మూర్తి",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "4675fa91-ed8a-4c22-a01a-f5eace79c6ca",
+    "eng": "Moorthy",
+    "fLE": "M",
+    "tel": "మూర్తి",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "male",
+    "rel": "others"
+  },
+  {
+    "id": "34bb291f-83d6-46da-8b80-f2d325bf801c",
+    "eng": "Moorti",
+    "fLE": "M",
+    "tel": "మూర్తి",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "638180dc-7653-400c-a429-e4ca13a8c86b",
+    "eng": "Moosa",
+    "fLE": "M",
+    "tel": "మూస",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "2724e4b6-8eba-4b75-a2e6-b6929b5cb1cc",
+    "eng": "Moosaakaaiim",
+    "fLE": "M",
+    "tel": "మూసాకాయ్మ్",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "67c16abd-a7ff-40b8-9056-ec6b4b29cb72",
+    "eng": "moose",
+    "fLE": "m",
+    "tel": "మూసే",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "c10b49a2-891f-47a1-8562-fa6ede8afdb9",
+    "eng": "Moovendan",
+    "fLE": "M",
+    "tel": "మూఁవేందన్",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "male",
+    "rel": "others"
+  },
+  {
+    "id": "8d9fafe3-3dbc-4009-aeb6-6f70459d871c",
+    "eng": "Moppe",
+    "fLE": "M",
+    "tel": "మొప్పె",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "male",
+    "rel": "others"
+  },
+  {
+    "id": "6b38b75e-51b0-4099-a917-49a4a9d70cc2",
+    "eng": "Mor",
+    "fLE": "M",
+    "tel": "మోర్",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "male",
+    "rel": "others"
+  },
+  {
+    "id": "e1ab48f8-1482-4925-90ee-72b4219d8ef9",
+    "eng": "Morad",
+    "fLE": "M",
+    "tel": "మోర్తాడ్",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "1016bad0-d2a2-40d4-86ab-54320b45b782",
+    "eng": "Moral",
+    "fLE": "M",
+    "tel": "మోరల్",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "male",
+    "rel": "others"
+  }
+]

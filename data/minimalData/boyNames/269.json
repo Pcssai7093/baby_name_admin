@@ -1,0 +1,832 @@
+[
+  {
+    "id": "acff56d8-9697-4cf4-af98-fc046ee5115b",
+    "eng": "Ishrant",
+    "fLE": "I",
+    "tel": "ఇశ్రాన్త",
+    "fLTel": "ఇ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "9c16c76b-39a5-4e71-99f0-071dab5cba2f",
+    "eng": "Ishrit",
+    "fLE": "I",
+    "tel": "మిశ్రిత",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "18f06857-8f0e-4219-a69d-c30eea02d1dc",
+    "eng": "Ishtani",
+    "fLE": "I",
+    "tel": "ఇష్టాన్ని",
+    "fLTel": "ఇ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "8779b5d7-4107-45f1-846d-fb4da7ddd0be",
+    "eng": "Ishtar",
+    "fLE": "I",
+    "tel": "ఇష్టార్",
+    "fLTel": "ఇ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "fb8ab2f8-d65e-4673-8941-e33e079ee9f9",
+    "eng": "Ishtarth",
+    "fLE": "I",
+    "tel": "ఇష్టర్త్",
+    "fLTel": "ఇ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "302a2176-6990-4399-b8fc-3d9c5774e575",
+    "eng": "Ishtdev",
+    "fLE": "I",
+    "tel": "ఇష్టదేవ",
+    "fLTel": "ఇ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Sikh"
+  },
+  {
+    "id": "8ccb18ca-0067-456d-af85-15d94cf6289b",
+    "eng": "Ishtiyak",
+    "fLE": "I",
+    "tel": "ఇష్టియక్",
+    "fLTel": "ఇ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "8cf3b387-cf6b-43b1-89f6-d9b08e1c710a",
+    "eng": "Ishtpreet",
+    "fLE": "I",
+    "tel": "ఇష్తప్రీత్",
+    "fLTel": "ఇ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Sikh"
+  },
+  {
+    "id": "55769110-b146-4869-918c-639ae7fbd273",
+    "eng": "Ishtwarjeet",
+    "fLE": "I",
+    "tel": "ఇష్ట్వార్జీత్",
+    "fLTel": "ఇ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Sikh"
+  },
+  {
+    "id": "0a01aba2-0330-4ed9-be95-c2cc362d1667",
+    "eng": "Ishtwarjot",
+    "fLE": "I",
+    "tel": "ఇష్ట్వార్జోత్",
+    "fLTel": "ఇ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Sikh"
+  },
+  {
+    "id": "fa7767f0-7f56-47a6-bc16-fe10882a35f4",
+    "eng": "Ishtwarmeet",
+    "fLE": "I",
+    "tel": "ఇష్ట్వార్మ్ట్",
+    "fLTel": "ఇ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Sikh"
+  },
+  {
+    "id": "543cef79-9f02-4b90-85c3-e09bdef7cd82",
+    "eng": "Ishtyak",
+    "fLE": "I",
+    "tel": "ఇష్ట్యాక్",
+    "fLTel": "ఇ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "30d80999-42a3-405e-a290-57a905980f23",
+    "eng": "Ishuk",
+    "fLE": "I",
+    "tel": "ఇషక్",
+    "fLTel": "ఇ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "ea72dabe-d76a-456b-8899-50e27546255d",
+    "eng": "Ishuka",
+    "fLE": "I",
+    "tel": "ఇషుక",
+    "fLTel": "ఇ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "89989eae-a2dd-4376-929a-b5fb72243061",
+    "eng": "Ishva",
+    "fLE": "I",
+    "tel": "ఇష్వ",
+    "fLTel": "ఇ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "e144ac11-3ad1-4f23-ac03-c9472202c982",
+    "eng": "Ishvara",
+    "fLE": "I",
+    "tel": "ఈశ్వర",
+    "fLTel": "ఈ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "6c0884cf-845a-426a-badb-3c55e86ed98f",
+    "eng": "Ishver",
+    "fLE": "I",
+    "tel": "ఇష్వర్",
+    "fLTel": "ఇ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "e54939d4-078d-4031-8573-c5e8720c48e2",
+    "eng": "ishvi",
+    "fLE": "i",
+    "tel": "యశ్వి",
+    "fLTel": "య",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "e3d53fe6-fbf1-435b-a9af-314041afbc4f",
+    "eng": "Ishwa",
+    "fLE": "I",
+    "tel": "ఈశ్వ",
+    "fLTel": "ఈ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "8fe075c6-fea1-4e5d-a2aa-960c8971b9b7",
+    "eng": "Ishwar",
+    "fLE": "I",
+    "tel": "ఈశ్వర్",
+    "fLTel": "ఈ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "e50f0037-1058-49c4-bb73-50ceeed25969",
+    "eng": "Ishwara",
+    "fLE": "I",
+    "tel": "ఈశ్వర",
+    "fLTel": "ఈ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "99868a24-f824-401b-b58f-fb3e8ca15d11",
+    "eng": "Ishwara Priya",
+    "fLE": "I",
+    "tel": "ఈశ్వర ప్రియా",
+    "fLTel": "ఈ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "69160cfb-f8a3-4e75-a105-e1fdd2ca58b9",
+    "eng": "Ishwaran",
+    "fLE": "I",
+    "tel": "ఈశ్వరన్",
+    "fLTel": "ఈ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "012d61a4-4d60-4ddc-884a-b2f629ace8f5",
+    "eng": "Ishwaraprasad",
+    "fLE": "I",
+    "tel": "ఈశ్వరప్రసాద్",
+    "fLTel": "ఈ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "31b4c5d8-493f-4d71-a267-99a1c4246137",
+    "eng": "Ishwarlal",
+    "fLE": "I",
+    "tel": "ఇశ్వర్లల్",
+    "fLTel": "ఇ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "03b07a3e-81af-459d-bbd8-d1a7b347145b",
+    "eng": "Ishwin",
+    "fLE": "I",
+    "tel": "యశ్విన్",
+    "fLTel": "య",
+    "tags": [],
+    "gen": "male",
+    "rel": "Sikh"
+  },
+  {
+    "id": "c014ce13-e72e-4ab2-9e99-8ef5393e9038",
+    "eng": "Ishwinder",
+    "fLE": "I",
+    "tel": "యశ్విన్డెర్",
+    "fLTel": "య",
+    "tags": [],
+    "gen": "male",
+    "rel": "Sikh"
+  },
+  {
+    "id": "a90ee04f-653e-4bfe-9145-7b65a68fd6a9",
+    "eng": "isiah",
+    "fLE": "i",
+    "tel": "ఇసియాహ్",
+    "fLTel": "ఇ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "25350bb2-5710-46a5-9d93-9abee3aba6ab",
+    "eng": "Isidor",
+    "fLE": "I",
+    "tel": "ఇసిడార్",
+    "fLTel": "ఇ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "818bb03c-dd30-4bbc-87e5-676d6342d5c4",
+    "eng": "Isidore",
+    "fLE": "I",
+    "tel": "ఇసిడోరె",
+    "fLTel": "ఇ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "37393498-c07a-4f14-ae03-91ca2ee507b9",
+    "eng": "isidore",
+    "fLE": "i",
+    "tel": "ఇసిడోరె",
+    "fLTel": "ఇ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "82554d99-4eae-44e6-afad-c2a2f5c4fd6c",
+    "eng": "Isidoro",
+    "fLE": "I",
+    "tel": "ఇసిడోరో",
+    "fLTel": "ఇ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "ab827259-c3a5-4730-9bac-0a93aa6a6d10",
+    "eng": "isidro",
+    "fLE": "i",
+    "tel": "ఇసిడ్రో",
+    "fLTel": "ఇ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "5c25fba2-9259-40a8-93b8-f673fae457c9",
+    "eng": "Isinachi",
+    "fLE": "I",
+    "tel": "ఇసిఞ్చి",
+    "fLTel": "ఇ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "81696ffc-1f97-4080-b64d-5940c64efc8e",
+    "eng": "Iskafi",
+    "fLE": "I",
+    "tel": "ఇసుకాఫీ",
+    "fLTel": "ఇ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "46f1eeab-7515-4bec-a965-cc98e4677443",
+    "eng": "Iskandar",
+    "fLE": "I",
+    "tel": "ఇస్కాందర్",
+    "fLTel": "ఇ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "1cbe6604-5646-4065-bb48-8f0e1e3858d0",
+    "eng": "iskandar",
+    "fLE": "i",
+    "tel": "ఇస్కాందర్",
+    "fLTel": "ఇ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "ab7936dc-5322-4aff-b6ec-be5223f79492",
+    "eng": "iskander",
+    "fLE": "i",
+    "tel": "ఇస్కాండ్ర్",
+    "fLTel": "ఇ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "46d7df7e-5aff-44dd-8c79-b604232db05f",
+    "eng": "iskinder",
+    "fLE": "i",
+    "tel": "ఇస్కిన్డెర్",
+    "fLTel": "ఇ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "1ea84c65-1d3c-4273-b0e6-e04defbd3133",
+    "eng": "Islam",
+    "fLE": "I",
+    "tel": "ఇస్లాం",
+    "fLTel": "ఇ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "70888143-a601-4c42-acf4-c6415bd3be12",
+    "eng": "Isleif",
+    "fLE": "I",
+    "tel": "ఇస్లేయ్ప్",
+    "fLTel": "ఇ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "2c415614-1fea-46f7-9f44-9bd838a727b4",
+    "eng": "Islet",
+    "fLE": "I",
+    "tel": "ఇస్లేట్",
+    "fLTel": "ఇ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "a7d22fe0-158f-4c93-bc99-4ba74b2d36ae",
+    "eng": "Islunin",
+    "fLE": "I",
+    "tel": "ఇస్సాలునిం",
+    "fLTel": "ఇ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "e25bb905-bb15-444c-8e72-8a94c1d96284",
+    "eng": "Isma'il",
+    "fLE": "I",
+    "tel": "యస్మా'ఇలా",
+    "fLTel": "య",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "2a12762e-1df0-42c1-ab34-025e89f727f6",
+    "eng": "Ismaael",
+    "fLE": "I",
+    "tel": "ఇస్మాయిల్",
+    "fLTel": "ఇ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "61bea7d0-eba8-4cf3-bcf3-e6dcee3f0b57",
+    "eng": "Ismad",
+    "fLE": "I",
+    "tel": "ఇస్మాద్",
+    "fLTel": "ఇ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "283dcda1-ea92-4b93-b10a-0bba5d156d4b",
+    "eng": "ismael",
+    "fLE": "i",
+    "tel": "ఇస్మాయిల్",
+    "fLTel": "ఇ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "36e6cc6f-3a1f-437c-a6fb-aff648ebca1a",
+    "eng": "Ismah",
+    "fLE": "I",
+    "tel": "ఇసమః",
+    "fLTel": "ఇ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "3f01993e-cdc4-40c2-8efc-6f8687582a6f",
+    "eng": "Ismail",
+    "fLE": "I",
+    "tel": "ఇస్మాయిల్",
+    "fLTel": "ఇ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "c1e54330-56ea-4db0-8a1b-90d4a35b59d5",
+    "eng": "Ismayil",
+    "fLE": "I",
+    "tel": "ఇస్మాయిల్",
+    "fLTel": "ఇ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "bd3f172a-2cbf-4f01-bc2b-422a4e6f5b5d",
+    "eng": "Ismet",
+    "fLE": "I",
+    "tel": "ఇస్మేట్",
+    "fLTel": "ఇ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "9809cb46-9050-44be-b5df-6442eb399aa2",
+    "eng": "ismet",
+    "fLE": "i",
+    "tel": "ఇస్మేట్",
+    "fLTel": "ఇ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "7c040e1d-dd09-4bbf-90ce-5a31d6b4f182",
+    "eng": "Ismin",
+    "fLE": "I",
+    "tel": "యస్మిం",
+    "fLTel": "య",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "0e565e99-c9a0-42c7-80c0-2b01d06c2901",
+    "eng": "Isminder",
+    "fLE": "I",
+    "tel": "యస్మిన్దేర్",
+    "fLTel": "య",
+    "tags": [],
+    "gen": "male",
+    "rel": "Sikh"
+  },
+  {
+    "id": "b0ed5934-f130-4f88-a756-3699a0a2f259",
+    "eng": "ismo",
+    "fLE": "i",
+    "tel": "ఇస్సామ్",
+    "fLTel": "ఇ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "b19a8bbc-02f4-4384-92b9-bc41f4476053",
+    "eng": "Isolf",
+    "fLE": "I",
+    "tel": "ఇసోల్ఫ్",
+    "fLTel": "ఇ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "d9f94ef2-0e6d-42a8-9ce8-a85519d675e3",
+    "eng": "Ison",
+    "fLE": "I",
+    "tel": "ఇసోన్",
+    "fLTel": "ఇ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "7409d345-9d07-465e-9b5a-a6061b8c1f7f",
+    "eng": "Israail",
+    "fLE": "I",
+    "tel": "ఇజ్రాయిల్",
+    "fLTel": "ఇ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "6ff88d71-d053-4add-902e-2f6929e32682",
+    "eng": "israel",
+    "fLE": "i",
+    "tel": "ఇస్రేల్",
+    "fLTel": "ఇ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "4c5ed402-5d78-49b1-acca-c4cfa37f769e",
+    "eng": "Israfel",
+    "fLE": "I",
+    "tel": "ఇష్రాఫెల్",
+    "fLTel": "ఇ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "d321355f-d53d-4f41-bf71-7babf4469aa9",
+    "eng": "Israfil",
+    "fLE": "I",
+    "tel": "ఇస్రాఫీల్",
+    "fLTel": "ఇ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "9384cca6-cce7-4c63-9f19-ffafc0385142",
+    "eng": "Israil",
+    "fLE": "I",
+    "tel": "ఇజ్రాయిల్",
+    "fLTel": "ఇ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "d3992620-7a79-407a-a223-74dca659f44e",
+    "eng": "Isral",
+    "fLE": "I",
+    "tel": "ఇజ్రాల",
+    "fLTel": "ఇ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "51790546-a0cd-4bec-bcc8-8aff60c56db3",
+    "eng": "Israr",
+    "fLE": "I",
+    "tel": "ఇస్రార్",
+    "fLTel": "ఇ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "8aa0c48c-3a42-4033-92d0-2a1b42548b41",
+    "eng": "Israt",
+    "fLE": "I",
+    "tel": "ఇష్రాత్",
+    "fLTel": "ఇ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "85b2c7c0-6593-46a1-959a-78736d8bfbcd",
+    "eng": "Isrod",
+    "fLE": "I",
+    "tel": "ఇస్రోడ్",
+    "fLTel": "ఇ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "43136a52-98b7-4f28-bed6-43a8e054a3c3",
+    "eng": "issa",
+    "fLE": "i",
+    "tel": "ఇస్సా",
+    "fLTel": "ఇ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "4796bfd4-bd7f-419f-9bff-9d4ec5e45b4f",
+    "eng": "issac",
+    "fLE": "i",
+    "tel": "ఇస్సాక్",
+    "fLTel": "ఇ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "c571cd09-bdff-41c9-ab7a-b3481da16120",
+    "eng": "Issam",
+    "fLE": "I",
+    "tel": "ఇస్సామ్",
+    "fLTel": "ఇ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "e43b4166-ab49-48e4-b24c-f024c7ab1f1b",
+    "eng": "Issar",
+    "fLE": "I",
+    "tel": "ఇస్సార్",
+    "fLTel": "ఇ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "11708f84-a801-44eb-b816-4641a7fa78a0",
+    "eng": "Issavi",
+    "fLE": "I",
+    "tel": "ఇస్సావీ",
+    "fLTel": "ఇ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "f942d631-50b0-41a0-b4d9-f979e0dbf1c4",
+    "eng": "Istakhar",
+    "fLE": "I",
+    "tel": "యిస్తఖార్",
+    "fLTel": "య",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "ed4a0422-f352-4517-8bdb-e3f34b155cde",
+    "eng": "Istakhri",
+    "fLE": "I",
+    "tel": "ఇస్తాఖ్రి",
+    "fLTel": "ఇ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "b834d2f8-6816-487b-8482-b9a1c0e2e4ca",
+    "eng": "Istifa",
+    "fLE": "I",
+    "tel": "ఇస్టిఫా",
+    "fLTel": "ఇ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "89315d69-91f0-4bbb-90aa-c3772018e91a",
+    "eng": "istvan",
+    "fLE": "i",
+    "tel": "ఇస్తవం",
+    "fLTel": "ఇ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "b2f5f1b8-c8f7-46c9-928d-686b343d3963",
+    "eng": "Isu",
+    "fLE": "I",
+    "tel": "ఐసు",
+    "fLTel": "ఐ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "46682a46-6593-45da-946e-0976f84e6cae",
+    "eng": "Isuf",
+    "fLE": "I",
+    "tel": "యుసుఫ్",
+    "fLTel": "య",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "aa4e33b6-21b0-4363-aa87-d706ae2a70af",
+    "eng": "Iswar",
+    "fLE": "I",
+    "tel": "ఈశ్వర్",
+    "fLTel": "ఈ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "20a5f3ca-be91-4f2a-87b0-9fdc0a3d8145",
+    "eng": "Iswara",
+    "fLE": "I",
+    "tel": "ఈశ్వర",
+    "fLTel": "ఈ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "b9c67740-4ddc-4958-9491-3db8f42c740f",
+    "eng": "Isyutha",
+    "fLE": "I",
+    "tel": "ఇస్యూత",
+    "fLTel": "ఇ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "974a1d73-038b-40ae-bbe1-a6126046709a",
+    "eng": "itai",
+    "fLE": "i",
+    "tel": "ఐటీఐ",
+    "fLTel": "ఐ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "eaefdd16-93d6-4202-b384-2512e9a297c5",
+    "eng": "Itakh",
+    "fLE": "I",
+    "tel": "ఇరాక్",
+    "fLTel": "ఇ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "d38a7a5f-9df1-4567-aa19-312af09b53c9",
+    "eng": "italo",
+    "fLE": "i",
+    "tel": "ఇంతలో",
+    "fLTel": "ఇ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  }
+]

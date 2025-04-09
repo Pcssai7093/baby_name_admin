@@ -1,0 +1,912 @@
+[
+  {
+    "id": "b2359a57-8ca7-45ee-b2e8-dae91045b6ce",
+    "eng": "Layyah",
+    "fLE": "L",
+    "tel": "లయ్యహ్",
+    "fLTel": "ల",
+    "tags": [],
+    "gen": "female",
+    "rel": "Muslim"
+  },
+  {
+    "id": "b5f989fd-44f9-4d70-a01f-d260f0172aef",
+    "eng": "Layyin",
+    "fLE": "L",
+    "tel": "లయిం",
+    "fLTel": "ల",
+    "tags": [],
+    "gen": "female",
+    "rel": "Muslim"
+  },
+  {
+    "id": "47d36b32-a2e6-4f52-9577-9999d9c815e6",
+    "eng": "Lazda",
+    "fLE": "L",
+    "tel": "లజడ",
+    "fLTel": "ల",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "e2762831-640d-42bd-bcbc-6118cce4be24",
+    "eng": "Lazeena",
+    "fLE": "L",
+    "tel": "లాజీనా",
+    "fLTel": "ల",
+    "tags": [],
+    "gen": "female",
+    "rel": "Muslim"
+  },
+  {
+    "id": "ae6ce23f-7482-4438-99bb-918651aa81c0",
+    "eng": "Lazuli",
+    "fLE": "L",
+    "tel": "లజులి",
+    "fLTel": "ల",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "1a23e562-5d22-4f83-b85e-cb32f1a529ec",
+    "eng": "Le",
+    "fLE": "L",
+    "tel": "లే",
+    "fLTel": "ల",
+    "tags": [],
+    "gen": "female",
+    "rel": "others"
+  },
+  {
+    "id": "97f12b79-9c36-42fe-b61b-a28e7410f58b",
+    "eng": "Lea",
+    "fLE": "L",
+    "tel": "లియా",
+    "fLTel": "ల",
+    "tags": [],
+    "gen": "female",
+    "rel": "others"
+  },
+  {
+    "id": "c012dbb3-11f0-492d-8b6e-628319a0a0be",
+    "eng": "lea",
+    "fLE": "l",
+    "tel": "లియా",
+    "fLTel": "ల",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "30e5083f-9ff1-42d4-a83f-8faa3caabd14",
+    "eng": "Leaann",
+    "fLE": "L",
+    "tel": "లీన్",
+    "fLTel": "ల",
+    "tags": [],
+    "gen": "female",
+    "rel": "others"
+  },
+  {
+    "id": "ebec3bfe-404e-4ea0-b4f5-faa740bca3e3",
+    "eng": "Leaga",
+    "fLE": "L",
+    "tel": "లీగా",
+    "fLTel": "ల",
+    "tags": [],
+    "gen": "female",
+    "rel": "others"
+  },
+  {
+    "id": "16386d01-2a3f-4b73-8af7-c86992261816",
+    "eng": "Leah",
+    "fLE": "L",
+    "tel": "లేహ్",
+    "fLTel": "ల",
+    "tags": [],
+    "gen": "female",
+    "rel": "others"
+  },
+  {
+    "id": "956bb9cf-feb9-4a72-8a6b-cb9aad5fcab6",
+    "eng": "leah",
+    "fLE": "l",
+    "tel": "లేహ్",
+    "fLTel": "ల",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "4fe04050-a102-46e8-9c21-dfce99861bb2",
+    "eng": "Leahanna",
+    "fLE": "L",
+    "tel": "లీహాన్న",
+    "fLTel": "ల",
+    "tags": [],
+    "gen": "female",
+    "rel": "others"
+  },
+  {
+    "id": "263f4eaa-779f-434b-9ab9-b1f770d584d7",
+    "eng": "Leahla",
+    "fLE": "L",
+    "tel": "లేఅహ్లా",
+    "fLTel": "ల",
+    "tags": [],
+    "gen": "female",
+    "rel": "others"
+  },
+  {
+    "id": "e07a3d0b-4921-4398-8105-84bb6e9a73fd",
+    "eng": "Leakena",
+    "fLE": "L",
+    "tel": "లీకైన",
+    "fLTel": "ల",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "1b9c59bb-11c2-4c38-a7f5-872909266216",
+    "eng": "Leal",
+    "fLE": "L",
+    "tel": "లెల్ల",
+    "fLTel": "ల",
+    "tags": [],
+    "gen": "female",
+    "rel": "others"
+  },
+  {
+    "id": "5797a71b-4cfa-4ef2-947c-e50a4fdc9da8",
+    "eng": "Leala",
+    "fLE": "L",
+    "tel": "లీలా",
+    "fLTel": "ల",
+    "tags": [],
+    "gen": "female",
+    "rel": "others"
+  },
+  {
+    "id": "9f07b16f-5a54-4f61-b749-933cb1f83838",
+    "eng": "leala",
+    "fLE": "l",
+    "tel": "లీలా",
+    "fLTel": "ల",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "1b4b7e98-4add-4302-84e0-13421866fc42",
+    "eng": "Lealand",
+    "fLE": "L",
+    "tel": "లీలను",
+    "fLTel": "ల",
+    "tags": [],
+    "gen": "female",
+    "rel": "others"
+  },
+  {
+    "id": "70e33222-7d20-4d5c-913f-a736ec23b7b1",
+    "eng": "Lealla",
+    "fLE": "L",
+    "tel": "లీలా",
+    "fLTel": "ల",
+    "tags": [],
+    "gen": "female",
+    "rel": "others"
+  },
+  {
+    "id": "f1ed22b5-ed7f-4890-9413-ce4311a6cfd1",
+    "eng": "Leana",
+    "fLE": "L",
+    "tel": "లీనా",
+    "fLTel": "ల",
+    "tags": [],
+    "gen": "female",
+    "rel": "others"
+  },
+  {
+    "id": "4a7614be-b823-4f24-b4d5-6367600ea8f5",
+    "eng": "Leandra",
+    "fLE": "L",
+    "tel": "లోఆంద్ర",
+    "fLTel": "ల",
+    "tags": [],
+    "gen": "female",
+    "rel": "others"
+  },
+  {
+    "id": "b259f734-3e80-48c5-8e34-cf981a2146b7",
+    "eng": "leandra",
+    "fLE": "l",
+    "tel": "లోఆంద్ర",
+    "fLTel": "ల",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "6487d245-976c-49ef-9da3-afa4f54a5c88",
+    "eng": "Leane",
+    "fLE": "L",
+    "tel": "లేనే",
+    "fLTel": "ల",
+    "tags": [],
+    "gen": "female",
+    "rel": "others"
+  },
+  {
+    "id": "83354f27-3fe5-4b93-be87-87199051dd2d",
+    "eng": "leane",
+    "fLE": "l",
+    "tel": "లేనే",
+    "fLTel": "ల",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "1c3cdb91-d871-4f69-9326-bf5f9c8acfbc",
+    "eng": "Leann",
+    "fLE": "L",
+    "tel": "లైన్",
+    "fLTel": "ల",
+    "tags": [],
+    "gen": "female",
+    "rel": "others"
+  },
+  {
+    "id": "913f2ec9-84c9-4cac-a3cf-a8af2ba5f960",
+    "eng": "leann",
+    "fLE": "l",
+    "tel": "లైన్",
+    "fLTel": "ల",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "15733e23-38f2-45e5-8bb3-ba4932d765fc",
+    "eng": "Leanna",
+    "fLE": "L",
+    "tel": "లేస్తోన్న",
+    "fLTel": "ల",
+    "tags": [],
+    "gen": "female",
+    "rel": "others"
+  },
+  {
+    "id": "7a7a800d-62fc-4429-955d-1d70f97735bd",
+    "eng": "leanna",
+    "fLE": "l",
+    "tel": "లేస్తోన్న",
+    "fLTel": "ల",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "fd27b357-e24e-4c8b-8fca-7bae3a2f91c9",
+    "eng": "Leanndra",
+    "fLE": "L",
+    "tel": "లేన్ద్ర",
+    "fLTel": "ల",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "52bc09b6-5dfa-4483-a05a-4fff2ffe7747",
+    "eng": "Leanne",
+    "fLE": "L",
+    "tel": "లేయాన్నే",
+    "fLTel": "ల",
+    "tags": [],
+    "gen": "female",
+    "rel": "others"
+  },
+  {
+    "id": "bc8f32b0-7546-406c-b13e-b2c5cea5871b",
+    "eng": "Leanore",
+    "fLE": "L",
+    "tel": "లేఅనోరె",
+    "fLTel": "ల",
+    "tags": [],
+    "gen": "female",
+    "rel": "others"
+  },
+  {
+    "id": "c7f2103e-a1b7-4dc5-b196-5f96c284c18e",
+    "eng": "Leasha",
+    "fLE": "L",
+    "tel": "లీషా",
+    "fLTel": "ల",
+    "tags": [],
+    "gen": "female",
+    "rel": "Muslim"
+  },
+  {
+    "id": "db88d0f7-7609-4b10-81bc-84bc212508ae",
+    "eng": "Leatha",
+    "fLE": "L",
+    "tel": "లీత",
+    "fLTel": "ల",
+    "tags": [],
+    "gen": "female",
+    "rel": "others"
+  },
+  {
+    "id": "0d2d2f9a-ecca-4637-9609-d111123f1256",
+    "eng": "Leatrice",
+    "fLE": "L",
+    "tel": "లేయాట్రిస్",
+    "fLTel": "ల",
+    "tags": [],
+    "gen": "female",
+    "rel": "others"
+  },
+  {
+    "id": "36dd84c0-0b0c-4634-887a-318964157281",
+    "eng": "leatrice",
+    "fLE": "l",
+    "tel": "లేయాట్రిస్",
+    "fLTel": "ల",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "4dd7b663-ce1b-49a1-b613-9a4a45da5632",
+    "eng": "Leatrix",
+    "fLE": "L",
+    "tel": "లేయాట్రిక్",
+    "fLTel": "ల",
+    "tags": [],
+    "gen": "female",
+    "rel": "others"
+  },
+  {
+    "id": "2eb8dfa7-827a-4b2d-99de-7c2d85cceebe",
+    "eng": "leatrix",
+    "fLE": "l",
+    "tel": "లేయాట్రిక్",
+    "fLTel": "ల",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "60cd8f1d-23df-44e5-b4c7-5a5072fb5abd",
+    "eng": "Leaundra",
+    "fLE": "L",
+    "tel": "లేఔన్ద్ర",
+    "fLTel": "ల",
+    "tags": [],
+    "gen": "female",
+    "rel": "others"
+  },
+  {
+    "id": "f087a97c-d99f-40df-ad86-f6b6dcb4b6ab",
+    "eng": "Leaxa",
+    "fLE": "L",
+    "tel": "లెక్స",
+    "fLTel": "ల",
+    "tags": [],
+    "gen": "female",
+    "rel": "others"
+  },
+  {
+    "id": "fc0914fe-8f6b-4f34-857a-71715f448996",
+    "eng": "Leba",
+    "fLE": "L",
+    "tel": "లెబా",
+    "fLTel": "ల",
+    "tags": [],
+    "gen": "female",
+    "rel": "others"
+  },
+  {
+    "id": "51f2c4a7-1c49-403c-87f5-cbe2d3b1672a",
+    "eng": "Lebechi",
+    "fLE": "L",
+    "tel": "లెబెచి",
+    "fLTel": "ల",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "8b9eb030-645f-408e-b1eb-6ddefd11ce17",
+    "eng": "Lece",
+    "fLE": "L",
+    "tel": "లెస్",
+    "fLTel": "ల",
+    "tags": [],
+    "gen": "female",
+    "rel": "others"
+  },
+  {
+    "id": "dcd443bd-8523-44a9-8a45-b7587510d808",
+    "eng": "Lecea",
+    "fLE": "L",
+    "tel": "లేసీ",
+    "fLTel": "ల",
+    "tags": [],
+    "gen": "female",
+    "rel": "others"
+  },
+  {
+    "id": "da628a57-ca8f-4a44-8d0f-76f3ffdb7ee1",
+    "eng": "lecea",
+    "fLE": "l",
+    "tel": "లేసీ",
+    "fLTel": "ల",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "8b551f02-cf8a-47c3-8a6d-cfa4248ebc58",
+    "eng": "Lecelina",
+    "fLE": "L",
+    "tel": "లెసెలినా",
+    "fLTel": "ల",
+    "tags": [],
+    "gen": "female",
+    "rel": "others"
+  },
+  {
+    "id": "c0004a37-9ba2-4380-8da6-12179d57be07",
+    "eng": "Lecenta",
+    "fLE": "L",
+    "tel": "లేచేంత",
+    "fLTel": "ల",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "5f4a0052-523b-49dc-90bf-9ef21678591a",
+    "eng": "Lecia",
+    "fLE": "L",
+    "tel": "లేసియా",
+    "fLTel": "ల",
+    "tags": [],
+    "gen": "female",
+    "rel": "others"
+  },
+  {
+    "id": "b0eef821-de6d-4568-98ae-d4c5546787e3",
+    "eng": "Lecie",
+    "fLE": "L",
+    "tel": "లేచిఈ",
+    "fLTel": "ల",
+    "tags": [],
+    "gen": "female",
+    "rel": "others"
+  },
+  {
+    "id": "63be2630-4fed-49c9-9f41-2c40948ea836",
+    "eng": "Leda",
+    "fLE": "L",
+    "tel": "లేదా",
+    "fLTel": "ల",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "ab8d87db-5d91-48aa-b525-c05e406ccacd",
+    "eng": "leda",
+    "fLE": "l",
+    "tel": "లేదా",
+    "fLTel": "ల",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "258ad0e4-6b60-4458-bd0b-d8ca06d49243",
+    "eng": "Ledell",
+    "fLE": "L",
+    "tel": "లెడెల్",
+    "fLTel": "ల",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "d846149b-aa6a-44ab-b43d-a1edc98751d3",
+    "eng": "ledell",
+    "fLE": "l",
+    "tel": "లెడెల్",
+    "fLTel": "ల",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "e086a998-3aa3-438f-a6d4-abd8ed762665",
+    "eng": "Ledora",
+    "fLE": "L",
+    "tel": "లేదురా",
+    "fLTel": "ల",
+    "tags": [],
+    "gen": "female",
+    "rel": "others"
+  },
+  {
+    "id": "e2cb422b-a2d6-472b-a509-f25760b83b33",
+    "eng": "Leea",
+    "fLE": "L",
+    "tel": "లీల",
+    "fLTel": "ల",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "0e923142-508b-4ecd-b03a-fd0ad64b8643",
+    "eng": "Leean",
+    "fLE": "L",
+    "tel": "లీయాం",
+    "fLTel": "ల",
+    "tags": [],
+    "gen": "female",
+    "rel": "others"
+  },
+  {
+    "id": "75465a4d-7a95-4138-ba66-3d0acf65d2e6",
+    "eng": "Leeann",
+    "fLE": "L",
+    "tel": "లీన్",
+    "fLTel": "ల",
+    "tags": [],
+    "gen": "female",
+    "rel": "others"
+  },
+  {
+    "id": "2a0bd708-e3f0-4424-ba6f-7f3333e977d6",
+    "eng": "Leeanne",
+    "fLE": "L",
+    "tel": "లీయాన్నే",
+    "fLTel": "ల",
+    "tags": [],
+    "gen": "female",
+    "rel": "others"
+  },
+  {
+    "id": "383ca67a-7bbe-40be-946a-858d71df5e92",
+    "eng": "Leeba",
+    "fLE": "L",
+    "tel": "లీబా",
+    "fLTel": "ల",
+    "tags": [],
+    "gen": "female",
+    "rel": "others"
+  },
+  {
+    "id": "5a9d05d7-ae37-49e4-b60f-dc4612079dbf",
+    "eng": "leeba",
+    "fLE": "l",
+    "tel": "లీబా",
+    "fLTel": "ల",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "0b6ea422-d9ac-420a-b0c3-5598b72edc7b",
+    "eng": "Leece",
+    "fLE": "L",
+    "tel": "లీన్",
+    "fLTel": "ల",
+    "tags": [],
+    "gen": "female",
+    "rel": "others"
+  },
+  {
+    "id": "b2dc00bb-d710-4a60-8ac7-dc177aab49c7",
+    "eng": "Leehi",
+    "fLE": "L",
+    "tel": "లేచి",
+    "fLTel": "ల",
+    "tags": [],
+    "gen": "female",
+    "rel": "others"
+  },
+  {
+    "id": "38e15a20-42f8-47e2-9210-37beab307be8",
+    "eng": "leehi",
+    "fLE": "l",
+    "tel": "లేచి",
+    "fLTel": "ల",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "a814d3a5-561f-40f9-87e5-8ba0472c930a",
+    "eng": "leela",
+    "fLE": "l",
+    "tel": "లీల",
+    "fLTel": "ల",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "f3137590-6b0c-4511-b463-48a6d10ed71f",
+    "eng": "Leelah",
+    "fLE": "L",
+    "tel": "లీలహ్",
+    "fLTel": "ల",
+    "tags": [],
+    "gen": "female",
+    "rel": "Muslim"
+  },
+  {
+    "id": "3ce75272-379e-40ac-8afa-65ae967a7da7",
+    "eng": "Leelamayee",
+    "fLE": "L",
+    "tel": "లీలామయీ",
+    "fLTel": "ల",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "a8c0f5a6-9ff9-4195-aa5f-56b18f8b2a6a",
+    "eng": "Leelarani",
+    "fLE": "L",
+    "tel": "లీలారని",
+    "fLTel": "ల",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "8c3eb372-fd9c-433c-9f1e-ad78d7bc0fc5",
+    "eng": "Leelavathi",
+    "fLE": "L",
+    "tel": "లీలావతి",
+    "fLTel": "ల",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "b7638656-b1a1-4e1d-8970-3f01f3a49411",
+    "eng": "Leelavati",
+    "fLE": "L",
+    "tel": "లీలావతి",
+    "fLTel": "ల",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "2c68b8ca-4f51-4567-8de4-6caf0b43adca",
+    "eng": "Leelawati",
+    "fLE": "L",
+    "tel": "లీలావతి",
+    "fLTel": "ల",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "7d932376-3ec8-4d79-a400-34e0adba6a5c",
+    "eng": "Leelima",
+    "fLE": "L",
+    "tel": "లీలిమ",
+    "fLTel": "ల",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "14866988-8b40-4271-b09f-f81e2559acc8",
+    "eng": "Leelou",
+    "fLE": "L",
+    "tel": "లీలౌ",
+    "fLTel": "ల",
+    "tags": [],
+    "gen": "female",
+    "rel": "others"
+  },
+  {
+    "id": "51365bb6-ae6c-4c85-8e63-dc4dbef546eb",
+    "eng": "Leem",
+    "fLE": "L",
+    "tel": "లీం",
+    "fLTel": "ల",
+    "tags": [],
+    "gen": "female",
+    "rel": "Muslim"
+  },
+  {
+    "id": "4f48d6c5-4e36-48ea-a529-d3812242c371",
+    "eng": "Leen",
+    "fLE": "L",
+    "tel": "లీన్",
+    "fLTel": "ల",
+    "tags": [],
+    "gen": "female",
+    "rel": "Muslim"
+  },
+  {
+    "id": "57e6a4a8-7c44-4c4d-b9b3-7c0fd7aee379",
+    "eng": "Leena",
+    "fLE": "L",
+    "tel": "లీనా",
+    "fLTel": "ల",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "009f495b-b40f-4195-b22e-ad8fdea26107",
+    "eng": "Leenata",
+    "fLE": "L",
+    "tel": "లీనత",
+    "fLTel": "ల",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "68dc5457-a6cf-48d3-9db2-4bc8443accae",
+    "eng": "Leenatha",
+    "fLE": "L",
+    "tel": "లీనత",
+    "fLTel": "ల",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "0bea50d5-1e30-44a9-9c5a-3f1091bbd2cc",
+    "eng": "Leeona",
+    "fLE": "L",
+    "tel": "లీవున",
+    "fLTel": "ల",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "b27a0421-ff6e-49d8-8f15-a0b214d54968",
+    "eng": "Leeonna",
+    "fLE": "L",
+    "tel": "లీవున్న",
+    "fLTel": "ల",
+    "tags": [],
+    "gen": "female",
+    "rel": "others"
+  },
+  {
+    "id": "49667738-a0d6-4549-a20a-6e8618d478db",
+    "eng": "Leepaakshi",
+    "fLE": "L",
+    "tel": "లేపాక్షి",
+    "fLTel": "ల",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "261a3bec-39e4-42c7-9c50-765adf1059ed",
+    "eng": "Leerisha",
+    "fLE": "L",
+    "tel": "లీరీశా",
+    "fLTel": "ల",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "6daf5296-d5be-437b-9a41-b83bde5ecd35",
+    "eng": "Leesa",
+    "fLE": "L",
+    "tel": "లీసా",
+    "fLTel": "ల",
+    "tags": [],
+    "gen": "female",
+    "rel": "others"
+  },
+  {
+    "id": "e6139da9-cedd-4b28-b738-83141c24f40b",
+    "eng": "Leesha",
+    "fLE": "L",
+    "tel": "లీషా",
+    "fLTel": "ల",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "2a5f6b0f-68f6-49b9-921b-707cd77f87ed",
+    "eng": "Leesly",
+    "fLE": "L",
+    "tel": "లీసులై",
+    "fLTel": "ల",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "3194a134-31dd-42d7-a629-d5a6677a10e2",
+    "eng": "leeto",
+    "fLE": "l",
+    "tel": "లీతో",
+    "fLTel": "ల",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "99128205-c3c8-44e2-9112-3b3e8977a5da",
+    "eng": "Leeya",
+    "fLE": "L",
+    "tel": "లీయ",
+    "fLTel": "ల",
+    "tags": [],
+    "gen": "female",
+    "rel": "others"
+  },
+  {
+    "id": "f1ea2c8b-7c29-4b38-8ff0-8082e121a1f8",
+    "eng": "Leeza",
+    "fLE": "L",
+    "tel": "లీజా",
+    "fLTel": "ల",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "2ece954c-17a5-4751-8321-f206d26909cb",
+    "eng": "Lefae",
+    "fLE": "L",
+    "tel": "లీఫాయీ",
+    "fLTel": "ల",
+    "tags": [],
+    "gen": "female",
+    "rel": "others"
+  },
+  {
+    "id": "2a9d908f-8274-4931-9e13-f2807a7c61eb",
+    "eng": "Lefchild",
+    "fLE": "L",
+    "tel": "లెఫ్చిల్డ్",
+    "fLTel": "ల",
+    "tags": [],
+    "gen": "female",
+    "rel": "others"
+  },
+  {
+    "id": "dc2c0da2-04f7-453b-b45b-70d87b488775",
+    "eng": "Leffeda",
+    "fLE": "L",
+    "tel": "లెఫ్ఫ్డా",
+    "fLTel": "ల",
+    "tags": [],
+    "gen": "female",
+    "rel": "others"
+  },
+  {
+    "id": "6c713334-c92c-49a2-b943-12c74a30b606",
+    "eng": "Lefleda",
+    "fLE": "L",
+    "tel": "లెఫ్లేదా",
+    "fLTel": "ల",
+    "tags": [],
+    "gen": "female",
+    "rel": "others"
+  }
+]

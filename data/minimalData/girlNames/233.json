@@ -1,0 +1,902 @@
+[
+  {
+    "id": "d7424919-e729-4cb7-8df2-8910d4134c9b",
+    "eng": "Koel",
+    "fLE": "K",
+    "tel": "కోయల్",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "13aa6d9a-be53-4759-a406-5f17d165ab70",
+    "eng": "Koesha",
+    "fLE": "K",
+    "tel": "కోశ",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "3ff6e0e3-b46c-4f53-923a-2f1f76ade4bc",
+    "eng": "Koganti",
+    "fLE": "K",
+    "tel": "కోగంటి",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "female",
+    "rel": "others"
+  },
+  {
+    "id": "47d8b37c-37f8-4700-aa82-f9abbedeaaef",
+    "eng": "Koge",
+    "fLE": "K",
+    "tel": "కోజ్",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "female",
+    "rel": "others"
+  },
+  {
+    "id": "9c7fdd8c-c1cf-411f-99e6-f3bc46967e69",
+    "eng": "Kogon",
+    "fLE": "K",
+    "tel": "కొగొం",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "f487b418-a0ba-46a9-a420-ac62d7a14ec4",
+    "eng": "Kohaku",
+    "fLE": "K",
+    "tel": "కొహకు",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "female",
+    "rel": "others"
+  },
+  {
+    "id": "8d2f6cab-872a-4a16-aeaf-1bc912d9e27b",
+    "eng": "Kohana",
+    "fLE": "K",
+    "tel": "కుహనా",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "fb2642fe-1b9a-4e31-9db5-9b5eafe69ab1",
+    "eng": "Koharu",
+    "fLE": "K",
+    "tel": "కొచ్చారు",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "female",
+    "rel": "others"
+  },
+  {
+    "id": "e4e42778-3548-4fdf-9772-fce86365aeb9",
+    "eng": "Kohila",
+    "fLE": "K",
+    "tel": "కోహిళ",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "39856107-4c28-4677-a881-a82b38911054",
+    "eng": "Kohinoor",
+    "fLE": "K",
+    "tel": "కోహినూర్",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "female",
+    "rel": "Muslim"
+  },
+  {
+    "id": "55ea2991-adc1-49e1-97dc-37a391dcff75",
+    "eng": "Kohinur",
+    "fLE": "K",
+    "tel": "కోహినూర్",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "380ee47f-3783-4dd2-9903-fa4e99dd942e",
+    "eng": "Kohita",
+    "fLE": "K",
+    "tel": "కోహిత",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "female",
+    "rel": "others"
+  },
+  {
+    "id": "7fb3cefb-9374-412e-a333-fd93425c2153",
+    "eng": "Kohsoom",
+    "fLE": "K",
+    "tel": "కోహ్సూమ్",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "female",
+    "rel": "others"
+  },
+  {
+    "id": "f854f1b8-ddee-4ab6-8207-faefd6a7ebb7",
+    "eng": "Koila",
+    "fLE": "K",
+    "tel": "కోయిల",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "female",
+    "rel": "Muslim"
+  },
+  {
+    "id": "b33fe8cc-309b-453f-8d6b-2d082f027564",
+    "eng": "Kokab",
+    "fLE": "K",
+    "tel": "కోకాబ్",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "female",
+    "rel": "Muslim"
+  },
+  {
+    "id": "bbc048e1-7682-443a-a7ac-4aebd359a339",
+    "eng": "Kokaha",
+    "fLE": "K",
+    "tel": "కోకాహా",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "female",
+    "rel": "others"
+  },
+  {
+    "id": "6ef6f9a6-20e7-4c61-a9aa-d828b25ef305",
+    "eng": "Kokila",
+    "fLE": "K",
+    "tel": "కోకిల",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "3040371f-4853-4555-8e6c-01f47dc6944c",
+    "eng": "Kokilapriya",
+    "fLE": "K",
+    "tel": "కోకిలప్రియ",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "cf5d7084-f22c-47db-9e09-f2083ecf6da5",
+    "eng": "Kokilavaani",
+    "fLE": "K",
+    "tel": "కోకిలవాని",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "f374d6e6-4b88-44ea-8061-4a88e1d627fa",
+    "eng": "Koko",
+    "fLE": "K",
+    "tel": "కోకో",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "58ed7e15-6bfc-4e97-b249-3a0d319b852a",
+    "eng": "Kokumo",
+    "fLE": "K",
+    "tel": "కొకుమో",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "80635262-e540-46ed-be6c-6b652c82c618",
+    "eng": "Kolab",
+    "fLE": "K",
+    "tel": "కోలాబ్",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "8331f2d4-a1a5-40a9-814e-b7e13b2f6d76",
+    "eng": "Kolala",
+    "fLE": "K",
+    "tel": "కులాల",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "female",
+    "rel": "others"
+  },
+  {
+    "id": "c0fa4d58-d4df-4824-bc32-c9ee81bc5b82",
+    "eng": "Kolam",
+    "fLE": "K",
+    "tel": "కొలం",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "19a74bc0-0d8a-4e23-8069-25620525b2bd",
+    "eng": "Kolamayil",
+    "fLE": "K",
+    "tel": "కొలమాయిల్",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "68d87e64-deb3-4f64-a587-6501bb58b503",
+    "eng": "Kolambi",
+    "fLE": "K",
+    "tel": "కొలంబి",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "female",
+    "rel": "others"
+  },
+  {
+    "id": "b3c2a650-aa17-44fb-a43e-cdcffb497604",
+    "eng": "Kolapo",
+    "fLE": "K",
+    "tel": "కోల్పొ",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "5367bd0e-d13d-4c5c-9fa1-2ab902690be0",
+    "eng": "Kolavili",
+    "fLE": "K",
+    "tel": "కోలవిలి",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "2cdeccad-2259-4aa8-8b9c-6dd3e4c2fcb3",
+    "eng": "Kolawole",
+    "fLE": "K",
+    "tel": "కొలవలె",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "019d92e3-58aa-4658-8e66-b5194af23950",
+    "eng": "Kolbie",
+    "fLE": "K",
+    "tel": "కాబిఎ",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "female",
+    "rel": "others"
+  },
+  {
+    "id": "1c26f92a-61f5-4e90-bb5e-21d25c51d1f0",
+    "eng": "Kolbrun",
+    "fLE": "K",
+    "tel": "కోలబృం",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "8960316a-a43c-4463-b2a0-10546e33c78f",
+    "eng": "Kolena",
+    "fLE": "K",
+    "tel": "కోలేనా",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "female",
+    "rel": "others"
+  },
+  {
+    "id": "c2c9e3ad-e605-4690-b43a-952dcc9b00d1",
+    "eng": "Koleta",
+    "fLE": "K",
+    "tel": "కోలాట",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "female",
+    "rel": "others"
+  },
+  {
+    "id": "eb6e54ec-521a-4b2c-9824-bc80c70c2aee",
+    "eng": "Kolette",
+    "fLE": "K",
+    "tel": "కొలెత్తే",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "female",
+    "rel": "others"
+  },
+  {
+    "id": "97e915c1-0878-44d9-bc00-cd29f237006c",
+    "eng": "Koleyna",
+    "fLE": "K",
+    "tel": "కొలువైన",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "fb200389-6e29-4254-b79b-07120371643f",
+    "eng": "Kolfinna",
+    "fLE": "K",
+    "tel": "కాఫీన్న",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "231e4fb1-987a-4dac-bd0e-80ea42f7d05a",
+    "eng": "Kolika",
+    "fLE": "K",
+    "tel": "కొలిక",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "caea32b8-30b8-4a06-b3b6-4c0546132272",
+    "eng": "Kolina",
+    "fLE": "K",
+    "tel": "కూలిన",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "female",
+    "rel": "others"
+  },
+  {
+    "id": "018440af-0396-4543-909f-28fcfdc15460",
+    "eng": "Kolka",
+    "fLE": "K",
+    "tel": "కోల్కా",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "6f4b2763-f2d3-4e0c-9db5-ac2c0d05f677",
+    "eng": "Kolour",
+    "fLE": "K",
+    "tel": "కోలార్",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "female",
+    "rel": "others"
+  },
+  {
+    "id": "f50fda3e-90f2-496d-951d-4ac0305de011",
+    "eng": "Kolthida",
+    "fLE": "K",
+    "tel": "కోల్టహిదా",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "34208742-8b72-430c-ad47-34e357681cf3",
+    "eng": "Kolynn",
+    "fLE": "K",
+    "tel": "కొలీన్",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "female",
+    "rel": "others"
+  },
+  {
+    "id": "56ba9587-93c5-4dbf-962e-a56349e6e1fc",
+    "eng": "Komaari",
+    "fLE": "K",
+    "tel": "కుమారి",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "3375324c-0811-4104-a04b-acbaa0b86c9d",
+    "eng": "Komagal",
+    "fLE": "K",
+    "tel": "కోమగళ్",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "5af8d9bb-12f1-4b4a-add0-cd0796d4521e",
+    "eng": "Komal",
+    "fLE": "K",
+    "tel": "కోమల్",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "1696ca84-dfdf-4a37-b9a6-bb5fa3e849e9",
+    "eng": "Komala",
+    "fLE": "K",
+    "tel": "కోమల",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "dfef34f1-43ef-4c42-b7d6-ff773b13a0cf",
+    "eng": "Komalata",
+    "fLE": "K",
+    "tel": "కోమలత",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "female",
+    "rel": "others"
+  },
+  {
+    "id": "c1cd5c9a-da56-4657-ade1-1f389b33673f",
+    "eng": "Komali",
+    "fLE": "K",
+    "tel": "కోమలి",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "6ccc2c96-b98d-49c4-82f2-41443e77ef43",
+    "eng": "Komalika",
+    "fLE": "K",
+    "tel": "కోమాలిక",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "8a1b9667-4acd-426e-826c-6ff12713e442",
+    "eng": "Komalini",
+    "fLE": "K",
+    "tel": "కోమలిని",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "e0b7edb2-e07d-4f72-aabb-ffd0cbacbb6e",
+    "eng": "Komaljot",
+    "fLE": "K",
+    "tel": "కోమలీజోత్",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "female",
+    "rel": "Sikh"
+  },
+  {
+    "id": "d62ae155-020b-46e1-b30c-5a9cc818d262",
+    "eng": "Komalroop",
+    "fLE": "K",
+    "tel": "కోమలరూప్",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "female",
+    "rel": "Sikh"
+  },
+  {
+    "id": "17f16e02-f486-4b7c-b692-b3f7d5a12ff9",
+    "eng": "Komatha",
+    "fLE": "K",
+    "tel": "కొమాత",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "f0e11d9c-c1a8-4c67-8394-329581c4f499",
+    "eng": "Komila",
+    "fLE": "K",
+    "tel": "కొమిలా",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "female",
+    "rel": "Muslim"
+  },
+  {
+    "id": "e66fe07d-b2d8-4265-8a19-d05761702523",
+    "eng": "Komilla",
+    "fLE": "K",
+    "tel": "కొమిళ్ళ",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "1b85ad9c-560b-4027-b115-adab1d27e263",
+    "eng": "Komlangi",
+    "fLE": "K",
+    "tel": "కోమలాంగి",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "39132a96-a476-4486-ac41-8901007d6512",
+    "eng": "Komli",
+    "fLE": "K",
+    "tel": "కోమలి",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "4f3bf58a-1ee6-4c7c-ab69-0dd2a0ddb48d",
+    "eng": "Komol",
+    "fLE": "K",
+    "tel": "కొమోల్",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "female",
+    "rel": "others"
+  },
+  {
+    "id": "b4ad1517-6ef8-4f26-b449-e6510cb13116",
+    "eng": "Kompal",
+    "fLE": "K",
+    "tel": "కొంపలు",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "31fa3ddc-2e70-42fc-a1de-d5a77797b50f",
+    "eng": "Kompali",
+    "fLE": "K",
+    "tel": "కొంపలు",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "74a95220-f370-432b-8009-9deb7c9598b9",
+    "eng": "Konalaka",
+    "fLE": "K",
+    "tel": "కొనలేక",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "female",
+    "rel": "others"
+  },
+  {
+    "id": "5128c014-e402-4e28-b106-8061e554847e",
+    "eng": "Konali",
+    "fLE": "K",
+    "tel": "కొనాలి",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "female",
+    "rel": "others"
+  },
+  {
+    "id": "0d7aee92-4174-47b0-b647-55d074262bca",
+    "eng": "Konchady",
+    "fLE": "K",
+    "tel": "కొంచండీ",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "female",
+    "rel": "others"
+  },
+  {
+    "id": "a444239e-93e0-4302-b33f-3915c7b5f1ee",
+    "eng": "Konika",
+    "fLE": "K",
+    "tel": "కొనికా",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "0a2e8b01-00a2-42fc-b53d-379489a255f1",
+    "eng": "Konila",
+    "fLE": "K",
+    "tel": "కోకిల",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "female",
+    "rel": "others"
+  },
+  {
+    "id": "30f4d746-bf09-483b-8fcc-4510443f2968",
+    "eng": "Konnie",
+    "fLE": "K",
+    "tel": "కొన్నిఈ",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "female",
+    "rel": "others"
+  },
+  {
+    "id": "fca53286-8a08-4442-bba9-636024374261",
+    "eng": "Konrada",
+    "fLE": "K",
+    "tel": "కొంటాడా",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "7b60b2dd-fb19-42cf-92ee-0efd6d2d861e",
+    "eng": "Konstantina",
+    "fLE": "K",
+    "tel": "కొన్స్టాంటైనా",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "female",
+    "rel": "others"
+  },
+  {
+    "id": "c4a4b1a1-e8f9-456d-9926-5a68985dd605",
+    "eng": "konstantina",
+    "fLE": "k",
+    "tel": "కొన్స్టాంటైనా",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "88ddafe0-5716-44a1-9f78-a7bd08d26427",
+    "eng": "Konstanz",
+    "fLE": "K",
+    "tel": "కొన్స్టన్స్",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "female",
+    "rel": "others"
+  },
+  {
+    "id": "738ba67c-c907-44cb-9915-0612ef33d133",
+    "eng": "Konstanza",
+    "fLE": "K",
+    "tel": "కాంస్టాంజా",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "f6fd4fea-f7ac-46ad-a40f-27b89b02530e",
+    "eng": "Kontara",
+    "fLE": "K",
+    "tel": "కొంటారా",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "female",
+    "rel": "Muslim"
+  },
+  {
+    "id": "e48c6b54-5cae-4d15-96ac-387465665379",
+    "eng": "Kopal",
+    "fLE": "K",
+    "tel": "కోపాల్",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "df4fb3d5-838b-4248-bdf8-e2e8931348f5",
+    "eng": "Kopisha",
+    "fLE": "K",
+    "tel": "కోపిష",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "75706936-8195-46b0-aeb2-4c8d70358338",
+    "eng": "Koral",
+    "fLE": "K",
+    "tel": "కొరల్",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "female",
+    "rel": "others"
+  },
+  {
+    "id": "38e9f06b-12a9-409e-b543-538663a8865f",
+    "eng": "koralia",
+    "fLE": "k",
+    "tel": "కోరాలిగా",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "ed1aa6e7-c0ac-4dc7-87fd-dc4e97fe93ab",
+    "eng": "Kore",
+    "fLE": "K",
+    "tel": "కోరే",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "female",
+    "rel": "others"
+  },
+  {
+    "id": "f86c3bd2-dca1-46ee-ae1d-47b4514282da",
+    "eng": "kore",
+    "fLE": "k",
+    "tel": "కోరే",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "e275add8-15fb-411c-8ac5-113fa7b92030",
+    "eng": "Korede",
+    "fLE": "K",
+    "tel": "కోరేదే",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "d73d8353-e77f-4e27-97ac-c62d0f9afe16",
+    "eng": "Koree",
+    "fLE": "K",
+    "tel": "కోరీ",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "3eb361a3-cd24-4076-a0ab-6152cf28b7ff",
+    "eng": "Koren",
+    "fLE": "K",
+    "tel": "కోరేం",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "female",
+    "rel": "others"
+  },
+  {
+    "id": "6d47bcf8-5aec-4ea9-a4ee-02d475449284",
+    "eng": "Korena",
+    "fLE": "K",
+    "tel": "కోరిన",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "female",
+    "rel": "others"
+  },
+  {
+    "id": "3586f700-c33b-417d-a75e-b636be10010d",
+    "eng": "Korene",
+    "fLE": "K",
+    "tel": "కోరినా",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "female",
+    "rel": "others"
+  },
+  {
+    "id": "a6417fad-5df6-45d0-9fc2-768be08907f6",
+    "eng": "korene",
+    "fLE": "k",
+    "tel": "కోరినా",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "2169cbe4-2f13-4cc6-87c5-4700dd8e5703",
+    "eng": "Korenia",
+    "fLE": "K",
+    "tel": "కోరేనియా",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "1c2797e7-d5e6-4e63-8b9f-932206ef824a",
+    "eng": "kori",
+    "fLE": "k",
+    "tel": "కోరి",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "9858031a-45a8-4f9c-a379-ad683f01ce3d",
+    "eng": "Koribella",
+    "fLE": "K",
+    "tel": "కోరిబేళ్ల",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "e613ca9f-784e-499a-a3c4-59ef4bc5f2dc",
+    "eng": "Korin",
+    "fLE": "K",
+    "tel": "కోరిన",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "female",
+    "rel": "others"
+  },
+  {
+    "id": "1450ae40-9808-438a-adaf-b3f19c75fa0f",
+    "eng": "Korina",
+    "fLE": "K",
+    "tel": "కోరిన",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "female",
+    "rel": "Muslim"
+  },
+  {
+    "id": "8371488b-950b-443b-897a-9d22246b77ac",
+    "eng": "korina",
+    "fLE": "k",
+    "tel": "కోరిన",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  }
+]

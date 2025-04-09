@@ -1,0 +1,982 @@
+[
+  {
+    "id": "1a1153e0-692e-47a9-ad9a-4732c81c39e3",
+    "eng": "Nikil",
+    "fLE": "N",
+    "tel": "నిఖిల్",
+    "fLTel": "న",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "66e59aa1-0d03-40d9-8fc0-ae100e163ca1",
+    "eng": "Nikilan",
+    "fLE": "N",
+    "tel": "నిఖీలం",
+    "fLTel": "న",
+    "tags": [],
+    "gen": "male",
+    "rel": "others"
+  },
+  {
+    "id": "7f00a2b1-f941-402c-81fd-7f945b5f7c4c",
+    "eng": "Nikileswar",
+    "fLE": "N",
+    "tel": "నిఖిలేశ్వర్",
+    "fLTel": "న",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "f5efb728-b6d2-4ff4-abef-9186140b1b10",
+    "eng": "Nikin",
+    "fLE": "N",
+    "tel": "నికిం",
+    "fLTel": "న",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "db86dea6-d0f7-48af-8ec3-cf6d398900d8",
+    "eng": "Nikirthan",
+    "fLE": "N",
+    "tel": "నీకీర్తన్",
+    "fLTel": "న",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "dc0d07b4-cd96-4047-834e-3ad5db58c386",
+    "eng": "Nikit",
+    "fLE": "N",
+    "tel": "నికిత",
+    "fLTel": "న",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "2f4994d8-9c39-492d-b568-d36037f3135b",
+    "eng": "Nikith",
+    "fLE": "N",
+    "tel": "నికిత",
+    "fLTel": "న",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "ad0b431f-d3d8-415b-aae3-40d78f126b60",
+    "eng": "Nikk",
+    "fLE": "N",
+    "tel": "నిక్",
+    "fLTel": "న",
+    "tags": [],
+    "gen": "male",
+    "rel": "others"
+  },
+  {
+    "id": "20345c85-9aef-4b7b-8da7-0b6ac7c4a0ef",
+    "eng": "Nikko",
+    "fLE": "N",
+    "tel": "నిక్కో",
+    "fLTel": "న",
+    "tags": [],
+    "gen": "male",
+    "rel": "others"
+  },
+  {
+    "id": "315eb2b5-964a-4beb-a79a-a9e070caec5d",
+    "eng": "Nikku",
+    "fLE": "N",
+    "tel": "నిక్కు",
+    "fLTel": "న",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "d9ebf029-9905-4f42-93a4-5074b41986c1",
+    "eng": "Nikky",
+    "fLE": "N",
+    "tel": "ణిక్కై",
+    "fLTel": "ణ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "908c6944-989e-4377-ba5a-a08d57772aec",
+    "eng": "Niklaas",
+    "fLE": "N",
+    "tel": "నిక్లాస్",
+    "fLTel": "న",
+    "tags": [],
+    "gen": "male",
+    "rel": "others"
+  },
+  {
+    "id": "9051c39a-c0c3-47fb-bd74-d894f5eae813",
+    "eng": "Niklas",
+    "fLE": "N",
+    "tel": "నికోలస్",
+    "fLTel": "న",
+    "tags": [],
+    "gen": "male",
+    "rel": "others"
+  },
+  {
+    "id": "7bbd0b7a-f8ce-44bb-b254-df648bf74202",
+    "eng": "niklas",
+    "fLE": "n",
+    "tel": "నికోలస్",
+    "fLTel": "న",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "d7ed184f-a673-424a-86bd-0d26e0942965",
+    "eng": "Niklaus",
+    "fLE": "N",
+    "tel": "నికోలస్",
+    "fLTel": "న",
+    "tags": [],
+    "gen": "male",
+    "rel": "others"
+  },
+  {
+    "id": "d27f026f-20f7-499f-894b-71a59ca91f9e",
+    "eng": "Niko",
+    "fLE": "N",
+    "tel": "నీకో",
+    "fLTel": "న",
+    "tags": [],
+    "gen": "male",
+    "rel": "others"
+  },
+  {
+    "id": "5595f85c-22d7-474e-ba23-74c23c0cb6f9",
+    "eng": "Nikodem",
+    "fLE": "N",
+    "tel": "నీకొదేము",
+    "fLTel": "న",
+    "tags": [],
+    "gen": "male",
+    "rel": "others"
+  },
+  {
+    "id": "a7d5a482-7f1e-4122-906d-27a76c98e9d7",
+    "eng": "nikodem",
+    "fLE": "n",
+    "tel": "నీకొదేము",
+    "fLTel": "న",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "28b45fbc-e3fa-4758-855f-4e0140f06502",
+    "eng": "Nikodemus",
+    "fLE": "N",
+    "tel": "నీకొదేముస్",
+    "fLTel": "న",
+    "tags": [],
+    "gen": "male",
+    "rel": "others"
+  },
+  {
+    "id": "d87a72d2-f69e-4aa3-a8b6-5be6141641a4",
+    "eng": "Nikohl",
+    "fLE": "N",
+    "tel": "నికోహ్ల్",
+    "fLTel": "న",
+    "tags": [],
+    "gen": "male",
+    "rel": "others"
+  },
+  {
+    "id": "71514024-7ddd-48b3-a29a-5a1f123f2c1d",
+    "eng": "Nikola",
+    "fLE": "N",
+    "tel": "నికోలా",
+    "fLTel": "న",
+    "tags": [],
+    "gen": "male",
+    "rel": "others"
+  },
+  {
+    "id": "f7338146-66c0-4966-903f-9149169876ea",
+    "eng": "Nikolai",
+    "fLE": "N",
+    "tel": "నీకొలాయ్",
+    "fLTel": "న",
+    "tags": [],
+    "gen": "male",
+    "rel": "others"
+  },
+  {
+    "id": "4a86e072-0b9d-4c56-8b23-822f96461285",
+    "eng": "nikolai",
+    "fLE": "n",
+    "tel": "నీకొలాయ్",
+    "fLTel": "న",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "e5a08440-ab5f-4420-8dc7-ba84110b9a83",
+    "eng": "Nikolaj",
+    "fLE": "N",
+    "tel": "నీకొలాజ్",
+    "fLTel": "న",
+    "tags": [],
+    "gen": "male",
+    "rel": "others"
+  },
+  {
+    "id": "a83c1338-eae4-4f14-bf24-7f976ee73eb5",
+    "eng": "Nikolajs",
+    "fLE": "N",
+    "tel": "నీకొలాజ్స్",
+    "fLTel": "న",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "dad07e39-263b-48c4-9204-207a3660cfd9",
+    "eng": "Nikolaos",
+    "fLE": "N",
+    "tel": "నీకొలావ్స్",
+    "fLTel": "న",
+    "tags": [],
+    "gen": "male",
+    "rel": "others"
+  },
+  {
+    "id": "9008196c-68d1-447c-b30f-b07f243951b6",
+    "eng": "nikolaos",
+    "fLE": "n",
+    "tel": "నీకొలావ్స్",
+    "fLTel": "న",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "cf3f34e4-b23c-492f-81a2-b92f97bd0b35",
+    "eng": "Nikolas",
+    "fLE": "N",
+    "tel": "నికోలస్",
+    "fLTel": "న",
+    "tags": [],
+    "gen": "male",
+    "rel": "others"
+  },
+  {
+    "id": "2faafb69-418f-4305-8c3d-311762112864",
+    "eng": "nikolas",
+    "fLE": "n",
+    "tel": "నికోలస్",
+    "fLTel": "న",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "c6bfa5da-4408-4aa0-9d1c-b275a7baaf6c",
+    "eng": "Nikolasz",
+    "fLE": "N",
+    "tel": "నీకొలాస్జ్",
+    "fLTel": "న",
+    "tags": [],
+    "gen": "male",
+    "rel": "others"
+  },
+  {
+    "id": "db48d7ce-8795-4095-b02e-cc0ce2aeca52",
+    "eng": "Nikolaus",
+    "fLE": "N",
+    "tel": "నికోలస్",
+    "fLTel": "న",
+    "tags": [],
+    "gen": "male",
+    "rel": "others"
+  },
+  {
+    "id": "308beb1e-72d1-40d4-9d67-df67c98e215e",
+    "eng": "Nikolay",
+    "fLE": "N",
+    "tel": "నీకొలాయ్",
+    "fLTel": "న",
+    "tags": [],
+    "gen": "male",
+    "rel": "others"
+  },
+  {
+    "id": "261b8e05-bbe2-4859-b8c8-35a6697e2835",
+    "eng": "Nikomedes",
+    "fLE": "N",
+    "tel": "నికోమెడిస్",
+    "fLTel": "న",
+    "tags": [],
+    "gen": "male",
+    "rel": "others"
+  },
+  {
+    "id": "1be506bf-48c7-4c99-b21e-06bd4e8e654a",
+    "eng": "Nikos",
+    "fLE": "N",
+    "tel": "నికోస్",
+    "fLTel": "న",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "b33eef84-9a08-45c4-b453-b3e08f21649b",
+    "eng": "nikostratos",
+    "fLE": "n",
+    "tel": "నికోస్ట్రాటోస్",
+    "fLTel": "న",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "d9488200-8984-4352-8e1f-351ad111f8db",
+    "eng": "Niksh",
+    "fLE": "N",
+    "tel": "నిక్స్",
+    "fLTel": "న",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "81e3d21e-ec21-4615-920f-989909c68665",
+    "eng": "Nikshan",
+    "fLE": "N",
+    "tel": "నిక్షన్",
+    "fLTel": "న",
+    "tags": [],
+    "gen": "male",
+    "rel": "others"
+  },
+  {
+    "id": "7145a382-bf02-4581-9c69-4cbc5bdd9c9d",
+    "eng": "Nikshay",
+    "fLE": "N",
+    "tel": "నిక్షయ్",
+    "fLTel": "న",
+    "tags": [],
+    "gen": "male",
+    "rel": "others"
+  },
+  {
+    "id": "0e5f185e-5426-41af-8baf-598d5ecbb96c",
+    "eng": "Nikshep",
+    "fLE": "N",
+    "tel": "నిక్షేప",
+    "fLTel": "న",
+    "tags": [],
+    "gen": "male",
+    "rel": "others"
+  },
+  {
+    "id": "3e062123-1e64-40b0-9f8a-dc24cd93aaf4",
+    "eng": "Nikshit",
+    "fLE": "N",
+    "tel": "నిక్షిత్",
+    "fLTel": "న",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "4e51eaeb-2430-4197-994a-965e8feeeba7",
+    "eng": "Nikshith",
+    "fLE": "N",
+    "tel": "నిక్షిత్",
+    "fLTel": "న",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "6704bf9c-8305-42cc-89f1-7057216e0a5f",
+    "eng": "Nikson",
+    "fLE": "N",
+    "tel": "నిక్షన్",
+    "fLTel": "న",
+    "tags": [],
+    "gen": "male",
+    "rel": "others"
+  },
+  {
+    "id": "3b80d1f5-0b36-4873-aa28-499dd1b9a548",
+    "eng": "Niku",
+    "fLE": "N",
+    "tel": "నీకు",
+    "fLTel": "న",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "a3c7b23b-9492-42fe-b244-d790f59ff8c0",
+    "eng": "Nikul",
+    "fLE": "N",
+    "tel": "నీకుల్",
+    "fLTel": "న",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "bcd85bb0-f62b-4810-bd8c-173db663d913",
+    "eng": "Nikumbh",
+    "fLE": "N",
+    "tel": "నికుంబ్",
+    "fLTel": "న",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "6f2c26a7-55ec-42f0-be56-98d157638583",
+    "eng": "Nikumbha",
+    "fLE": "N",
+    "tel": "నికుంబ్",
+    "fLTel": "న",
+    "tags": [],
+    "gen": "male",
+    "rel": "others"
+  },
+  {
+    "id": "ea9c3dcf-0801-4709-a17a-d1021a755dce",
+    "eng": "Nikunj",
+    "fLE": "N",
+    "tel": "నికుంజ్",
+    "fLTel": "న",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "df39e464-5a6a-4c18-90c5-e3314604e52a",
+    "eng": "Nikunja",
+    "fLE": "N",
+    "tel": "నికుంజ",
+    "fLTel": "న",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "826190b2-d4df-464d-a3a8-7279cef7e2a7",
+    "eng": "Niky",
+    "fLE": "N",
+    "tel": "నీకీ",
+    "fLTel": "న",
+    "tags": [],
+    "gen": "male",
+    "rel": "others"
+  },
+  {
+    "id": "03549092-2507-4ae3-b20d-d091bd5776a4",
+    "eng": "Nil",
+    "fLE": "N",
+    "tel": "నిల్",
+    "fLTel": "న",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "fe476e78-4a14-4a97-8ac0-11e58bfd50bf",
+    "eng": "Nilabh",
+    "fLE": "N",
+    "tel": "నిలభ్",
+    "fLTel": "న",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "23bc913c-c6bb-4b32-9597-7d6b6feb5223",
+    "eng": "Niladdri",
+    "fLE": "N",
+    "tel": "నిలిద్దరి",
+    "fLTel": "న",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "6285b6ad-f583-4db8-8368-31d4e4e62740",
+    "eng": "Niladevan",
+    "fLE": "N",
+    "tel": "నిలదేవన్",
+    "fLTel": "న",
+    "tags": [],
+    "gen": "male",
+    "rel": "others"
+  },
+  {
+    "id": "9a291b7e-96d3-4cff-a3c5-3d46f206f69d",
+    "eng": "Niladri",
+    "fLE": "N",
+    "tel": "నీలాద్రి",
+    "fLTel": "న",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "c30229e5-9c88-4b08-aefd-275df94533c2",
+    "eng": "Nilagagan",
+    "fLE": "N",
+    "tel": "నీలాగగన్",
+    "fLTel": "న",
+    "tags": [],
+    "gen": "male",
+    "rel": "others"
+  },
+  {
+    "id": "1100fe38-1f57-44e4-b1d6-54346ea7ad15",
+    "eng": "Nilagala",
+    "fLE": "N",
+    "tel": "నిలగల",
+    "fLTel": "న",
+    "tags": [],
+    "gen": "male",
+    "rel": "others"
+  },
+  {
+    "id": "19c62145-7d1b-4310-a5de-3a52688e0b2c",
+    "eng": "Nilagriva",
+    "fLE": "N",
+    "tel": "నీలగ్రీవ",
+    "fLTel": "న",
+    "tags": [],
+    "gen": "male",
+    "rel": "others"
+  },
+  {
+    "id": "3868becf-ed6a-4539-af7e-0fab003b994e",
+    "eng": "Nilagrivah",
+    "fLE": "N",
+    "tel": "నీలగ్రీవః",
+    "fLTel": "న",
+    "tags": [],
+    "gen": "male",
+    "rel": "others"
+  },
+  {
+    "id": "88d42e68-6f44-452f-a31d-49eb2771af68",
+    "eng": "Nilakantha",
+    "fLE": "N",
+    "tel": "నీలకంఠ",
+    "fLTel": "న",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "0994ad35-5532-4d27-b57a-9548e725db34",
+    "eng": "Nilakash",
+    "fLE": "N",
+    "tel": "నీలాకాష్",
+    "fLTel": "న",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "d0bd4026-c4ee-476a-b6f7-1ac8f5e26e22",
+    "eng": "Nilaksh",
+    "fLE": "N",
+    "tel": "నీలాక్షి",
+    "fLTel": "న",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "18e22e5c-f467-4784-a868-bb08f1abe203",
+    "eng": "Nilambaj",
+    "fLE": "N",
+    "tel": "నిలంబజ్",
+    "fLTel": "న",
+    "tags": [],
+    "gen": "male",
+    "rel": "others"
+  },
+  {
+    "id": "4ab9814d-718f-4988-8b4f-fea5cb19ec69",
+    "eng": "Nilambar",
+    "fLE": "N",
+    "tel": "నీలాంబరి",
+    "fLTel": "న",
+    "tags": [],
+    "gen": "male",
+    "rel": "others"
+  },
+  {
+    "id": "9df6a9d6-35b1-4ed9-8ab1-14327920dd79",
+    "eng": "Nilamber",
+    "fLE": "N",
+    "tel": "నీలంబెర్",
+    "fLTel": "న",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "4b3d734b-4e8e-490e-b673-239746b9f217",
+    "eng": "Nilamegh",
+    "fLE": "N",
+    "tel": "నీలమేఘ్",
+    "fLTel": "న",
+    "tags": [],
+    "gen": "male",
+    "rel": "others"
+  },
+  {
+    "id": "ff9c4dc5-c875-4ee3-8fcd-70be1864a413",
+    "eng": "Nilan",
+    "fLE": "N",
+    "tel": "నీలం",
+    "fLTel": "న",
+    "tags": [],
+    "gen": "male",
+    "rel": "others"
+  },
+  {
+    "id": "c21fb600-a4ca-43f4-9ca6-560bf66b7aee",
+    "eng": "Nilang",
+    "fLE": "N",
+    "tel": "నీలాంగ్",
+    "fLTel": "న",
+    "tags": [],
+    "gen": "male",
+    "rel": "others"
+  },
+  {
+    "id": "40a51ebf-0ccf-466a-8a03-902aff92d94d",
+    "eng": "Nilanjan",
+    "fLE": "N",
+    "tel": "నీలాంజన్",
+    "fLTel": "న",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "d814cb55-f680-46fc-a33b-2a8d267dbc6c",
+    "eng": "Nilaratan",
+    "fLE": "N",
+    "tel": "నీలరతం",
+    "fLTel": "న",
+    "tags": [],
+    "gen": "male",
+    "rel": "others"
+  },
+  {
+    "id": "6a6624d4-8b79-4ceb-befc-5ca27af87f3a",
+    "eng": "Nilash",
+    "fLE": "N",
+    "tel": "నీలాష్",
+    "fLTel": "న",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "296fc788-56fa-45d7-ac05-2da63c71cbbd",
+    "eng": "Nilav",
+    "fLE": "N",
+    "tel": "నిలవ",
+    "fLTel": "న",
+    "tags": [],
+    "gen": "male",
+    "rel": "others"
+  },
+  {
+    "id": "5ad891e7-51f7-4d16-a922-e59a8807953a",
+    "eng": "Nilavan",
+    "fLE": "N",
+    "tel": "నిలవన్",
+    "fLTel": "న",
+    "tags": [],
+    "gen": "male",
+    "rel": "others"
+  },
+  {
+    "id": "21ef3cbc-7524-4004-b2e3-0ef8a258619e",
+    "eng": "Nilax",
+    "fLE": "N",
+    "tel": "నిలక్",
+    "fLTel": "న",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "58d28fa3-8f16-4de3-9379-5f9318fc4c96",
+    "eng": "Nilay",
+    "fLE": "N",
+    "tel": "నిలయ్",
+    "fLTel": "న",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "63dd5fab-1e99-4914-b745-9c1e6c8c3523",
+    "eng": "Nilayan",
+    "fLE": "N",
+    "tel": "నిలయం",
+    "fLTel": "న",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "69fe7cd1-7060-42d7-8c06-771a8cf1ea05",
+    "eng": "Niles",
+    "fLE": "N",
+    "tel": "నైల్స్",
+    "fLTel": "న",
+    "tags": [],
+    "gen": "male",
+    "rel": "others"
+  },
+  {
+    "id": "37ac4361-f3cd-4693-94da-8dfe6389836d",
+    "eng": "niles",
+    "fLE": "n",
+    "tel": "నైల్స్",
+    "fLTel": "న",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "c7b088c6-9738-41cb-b859-ba369c95038c",
+    "eng": "Nilesh",
+    "fLE": "N",
+    "tel": "నీలేష్",
+    "fLTel": "న",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "e83fdd35-e328-4ee8-b1a1-2a2d1e482012",
+    "eng": "Nileshwar",
+    "fLE": "N",
+    "tel": "నిలేశ్వర్",
+    "fLTel": "న",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "e4163f92-a0a1-461c-a9ab-327e9ca842e6",
+    "eng": "Nilidan",
+    "fLE": "N",
+    "tel": "నిలిదం",
+    "fLTel": "న",
+    "tags": [],
+    "gen": "male",
+    "rel": "others"
+  },
+  {
+    "id": "c05787f3-19ae-494d-9eee-323bef60f37e",
+    "eng": "Nilikey",
+    "fLE": "N",
+    "tel": "నిలికీ",
+    "fLTel": "న",
+    "tags": [],
+    "gen": "male",
+    "rel": "others"
+  },
+  {
+    "id": "7bcb11d0-37da-4ce3-bf43-d31e25998b7b",
+    "eng": "Nilkanth",
+    "fLE": "N",
+    "tel": "ణికాంత్",
+    "fLTel": "ణ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "f6b9b485-4f75-4730-889f-ee5ab8398287",
+    "eng": "Nill",
+    "fLE": "N",
+    "tel": "నిల్",
+    "fLTel": "న",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "1870820e-7d77-4daa-b60f-950f6b03aa40",
+    "eng": "Nillo",
+    "fLE": "N",
+    "tel": "నిల్లో",
+    "fLTel": "న",
+    "tags": [],
+    "gen": "male",
+    "rel": "others"
+  },
+  {
+    "id": "58254163-08ef-4312-b24a-eacb14b2825c",
+    "eng": "Nilmani",
+    "fLE": "N",
+    "tel": "నీలమణి",
+    "fLTel": "న",
+    "tags": [],
+    "gen": "male",
+    "rel": "others"
+  },
+  {
+    "id": "67d1bdbf-4cd3-40fc-975d-20410d26b415",
+    "eng": "Nilmitra",
+    "fLE": "N",
+    "tel": "నిలమిత్ర",
+    "fLTel": "న",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "7a1ef42c-161d-45c8-b92a-88b6c68528e3",
+    "eng": "Nilnov",
+    "fLE": "N",
+    "tel": "ణినోవ్",
+    "fLTel": "ణ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "eda9e44c-443d-4f00-bd19-19b21835709d",
+    "eng": "Nilo",
+    "fLE": "N",
+    "tel": "నీలో",
+    "fLTel": "న",
+    "tags": [],
+    "gen": "male",
+    "rel": "others"
+  },
+  {
+    "id": "fc12e4c6-210e-401f-ae07-e0266b825637",
+    "eng": "nilo",
+    "fLE": "n",
+    "tel": "నీలో",
+    "fLTel": "న",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "2afb985f-083d-49e3-8192-2a66d66d25dc",
+    "eng": "Nilojan",
+    "fLE": "N",
+    "tel": "నిలిజం",
+    "fLTel": "న",
+    "tags": [],
+    "gen": "male",
+    "rel": "others"
+  },
+  {
+    "id": "201c73bb-df01-49e8-9ef8-6af89f805c3e",
+    "eng": "Nilothpal",
+    "fLE": "N",
+    "tel": "నీలోత్పల",
+    "fLTel": "న",
+    "tags": [],
+    "gen": "male",
+    "rel": "others"
+  },
+  {
+    "id": "73cccabe-aa1a-4098-bc46-a200180ceef2",
+    "eng": "Nilotpal",
+    "fLE": "N",
+    "tel": "నీలోత్పల",
+    "fLTel": "న",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "21bd20d9-1364-4bf3-abfe-c895cfc1c032",
+    "eng": "Nils",
+    "fLE": "N",
+    "tel": "నీళ్ళు",
+    "fLTel": "న",
+    "tags": [],
+    "gen": "male",
+    "rel": "others"
+  },
+  {
+    "id": "a9cade79-0334-4774-a263-fe310c135a7e",
+    "eng": "nils",
+    "fLE": "n",
+    "tel": "నీళ్ళు",
+    "fLTel": "న",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "7316bea3-94e1-440a-aad6-4d7f79c9f219",
+    "eng": "Nilson",
+    "fLE": "N",
+    "tel": "నీల్సన్",
+    "fLTel": "న",
+    "tags": [],
+    "gen": "male",
+    "rel": "others"
+  },
+  {
+    "id": "d6273e20-bd2d-4d7d-924d-e39532c5841b",
+    "eng": "Nilsson",
+    "fLE": "N",
+    "tel": "నిల్సన్న్",
+    "fLTel": "న",
+    "tags": [],
+    "gen": "male",
+    "rel": "others"
+  },
+  {
+    "id": "5fb50d2b-c17c-4822-a416-3aa9bee7c1ae",
+    "eng": "nilsson",
+    "fLE": "n",
+    "tel": "నిల్సన్న్",
+    "fLTel": "న",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "f2a9d5fc-542b-42ec-a6e6-e3fcc7405945",
+    "eng": "Nimai",
+    "fLE": "N",
+    "tel": "నిమి",
+    "fLTel": "న",
+    "tags": [],
+    "gen": "male",
+    "rel": "Sikh"
+  }
+]

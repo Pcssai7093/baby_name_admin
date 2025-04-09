@@ -1,0 +1,922 @@
+[
+  {
+    "id": "8524c429-ea9e-4304-927b-d15cef2483d0",
+    "eng": "Cana",
+    "fLE": "C",
+    "tel": "కానన",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "77489318-fae9-4c49-991b-f2a4de605de8",
+    "eng": "Canaan",
+    "fLE": "C",
+    "tel": "కెనాన్",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "male",
+    "rel": "others"
+  },
+  {
+    "id": "f6658c3e-1f0e-4ec0-bc48-a5c02b89ebd7",
+    "eng": "Canains",
+    "fLE": "C",
+    "tel": "కెనైన్స్",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "5fbdacc2-ad23-4ea3-8026-9ade7c66dd3f",
+    "eng": "Canaka",
+    "fLE": "C",
+    "tel": "కనక",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "f35e1dcb-b449-4d19-bd74-2bcba91fd0ef",
+    "eng": "Canakya",
+    "fLE": "C",
+    "tel": "చాణక్య",
+    "fLTel": "చ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "f6585900-7399-439b-9f1c-1d329445e7ac",
+    "eng": "Cananda",
+    "fLE": "C",
+    "tel": "కానంద",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "04cd2751-7489-435b-8073-7b6c65502b1d",
+    "eng": "Canda",
+    "fLE": "C",
+    "tel": "కాండ",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "349097c9-759a-4978-a928-12c6797b09d9",
+    "eng": "Candaka",
+    "fLE": "C",
+    "tel": "కండకా",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "2a52c487-ccd2-4eaf-a2ff-2ce333061e3c",
+    "eng": "Candana",
+    "fLE": "C",
+    "tel": "కాండను",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "1a5b0830-20b6-4112-b5d2-6e05efa4b36c",
+    "eng": "Candanin",
+    "fLE": "C",
+    "tel": "కాందానిం",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "9a2e7795-7605-4cee-a465-21ee8f423fc5",
+    "eng": "Candansu",
+    "fLE": "C",
+    "tel": "కాండాన్సు",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "4ccab4e3-5771-486e-8457-c7e53cc0e2b4",
+    "eng": "Candavega",
+    "fLE": "C",
+    "tel": "కాండావెగా",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "a7abd689-8a51-418e-92bf-7053da0571d6",
+    "eng": "Candavira",
+    "fLE": "C",
+    "tel": "కాండవిరా",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "male",
+    "rel": "others"
+  },
+  {
+    "id": "111bf2a4-d8bb-4702-bd91-bbdb6c0a7e65",
+    "eng": "Candelario",
+    "fLE": "C",
+    "tel": "కండెలరిస్తో",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "a7d4f86c-22bf-4d09-93f5-7e5967848fbf",
+    "eng": "Candid",
+    "fLE": "C",
+    "tel": "కాండీడ్",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "a78506ad-aa35-46bb-9820-9b856d5540d7",
+    "eng": "Candidasa",
+    "fLE": "C",
+    "tel": "కాండిడాస్త్",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "79d713c3-1734-4ab8-8677-c93d57b40ae4",
+    "eng": "Candido",
+    "fLE": "C",
+    "tel": "కాండిడా",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "44c90727-486a-40c1-9020-0216761e5943",
+    "eng": "Candipati",
+    "fLE": "C",
+    "tel": "కందిపతి",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "0f55a346-f4a5-412d-a364-8644d9390368",
+    "eng": "Candon",
+    "fLE": "C",
+    "tel": "కండోం",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "c23f76fa-cf2f-4aec-97ba-25e031241dd2",
+    "eng": "Candor",
+    "fLE": "C",
+    "tel": "చందోర్",
+    "fLTel": "చ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "5af90d5c-36f1-40fa-9a0b-877a6e281267",
+    "eng": "Candrabhana",
+    "fLE": "C",
+    "tel": "కాండ్రభన",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "842611d9-a75b-4c73-b659-4080ba39e557",
+    "eng": "Candraja",
+    "fLE": "C",
+    "tel": "కంద్రాజా",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "3bff774f-aebd-4b64-a741-ce3198334e46",
+    "eng": "Candraka",
+    "fLE": "C",
+    "tel": "కాండ్రక",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "31ab8f07-0f3d-4f16-9eb4-98428eb0a4a0",
+    "eng": "Candrakin",
+    "fLE": "C",
+    "tel": "కాండ్రకిన్",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "61de036a-15c0-4e98-9843-606c23cc8b05",
+    "eng": "Candranatha",
+    "fLE": "C",
+    "tel": "కంద్రనాథ",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "c0bdf07a-61a0-4217-a984-39eeca16a541",
+    "eng": "Candransu",
+    "fLE": "C",
+    "tel": "కాండ్రన్సు",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "03fb1c1b-474a-4e91-bc17-d464f9ee8b9f",
+    "eng": "Candrasurya",
+    "fLE": "C",
+    "tel": "కాండ్రసూర్య",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "male",
+    "rel": "others"
+  },
+  {
+    "id": "1b59ae8d-4a37-42e7-8559-85107efb5945",
+    "eng": "Candrata",
+    "fLE": "C",
+    "tel": "కాండ్రట",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "5bb7d1c0-5368-4ff3-806c-4eceeb3007cf",
+    "eng": "Candresa",
+    "fLE": "C",
+    "tel": "కాండ్రేస",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "f086c639-ad4c-494f-8b5a-5d8e31b35e5c",
+    "eng": "Candresta",
+    "fLE": "C",
+    "tel": "కాండ్రేస్తా",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "29f1dad3-0b69-42cb-822f-6692a211fa85",
+    "eng": "Candrin",
+    "fLE": "C",
+    "tel": "కాండ్రిం",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "77df199b-a7b0-4e8e-9ddf-eb0158980969",
+    "eng": "Canduri",
+    "fLE": "C",
+    "tel": "కాండూరి",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "7eee1c5b-09ee-4e60-a10f-788dae0ba7aa",
+    "eng": "Cane",
+    "fLE": "C",
+    "tel": "చనె",
+    "fLTel": "చ",
+    "tags": [],
+    "gen": "male",
+    "rel": "others"
+  },
+  {
+    "id": "d03ae80d-ed3a-477d-84b3-3eea3bbe7c46",
+    "eng": "Canga",
+    "fLE": "C",
+    "tel": "కాంగ",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "dc8f2f90-c201-4b71-842a-c3ac39ef8d85",
+    "eng": "Cangadasa",
+    "fLE": "C",
+    "tel": "కాంగదశ",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "0d972e27-96d2-4a4e-8101-c331d14b788d",
+    "eng": "Canh",
+    "fLE": "C",
+    "tel": "కాఞ్చ",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "male",
+    "rel": "others"
+  },
+  {
+    "id": "36a3ec7b-9d29-48a9-90ae-bcbc970b56e7",
+    "eng": "Canice",
+    "fLE": "C",
+    "tel": "చాన్స్",
+    "fLTel": "చ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "887023c4-6d43-44bb-b1dd-b03d03b4c6b1",
+    "eng": "Cannan",
+    "fLE": "C",
+    "tel": "కన్నం",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "f7f5ce56-e967-4706-84a7-512e6d246cef",
+    "eng": "Canne",
+    "fLE": "C",
+    "tel": "కన్నె",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "cf9a5d31-5ccd-4c17-88f7-8ddf95e0ffa6",
+    "eng": "Cannon",
+    "fLE": "C",
+    "tel": "కణ్ణన్",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "0ab787e3-edc8-4265-bd2c-4e9b31a883e9",
+    "eng": "Cano",
+    "fLE": "C",
+    "tel": "కానో",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "81963897-5932-4a43-9bd1-917ec6386239",
+    "eng": "Canon",
+    "fLE": "C",
+    "tel": "కేనన్",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "579d7515-8fee-4c57-96fe-e92a17a2d281",
+    "eng": "Cantiori",
+    "fLE": "C",
+    "tel": "కాంతిరి",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "80e3799a-db94-4bba-9ca7-3b8ed0b2eb81",
+    "eng": "Cantiorix",
+    "fLE": "C",
+    "tel": "కాన్షరిస్",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "91a1682c-5119-4ca3-acce-7456fbfcb0dd",
+    "eng": "canto",
+    "fLE": "c",
+    "tel": "కెంతో",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "fde850c3-b250-49f3-b16f-2e2a1e611103",
+    "eng": "Canton",
+    "fLE": "C",
+    "tel": "కాంటన్",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "4177cc76-ce44-451c-9481-bc168dcd3899",
+    "eng": "Cantwine",
+    "fLE": "C",
+    "tel": "కాన్త్వినే",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "ce0102cd-bf71-4839-ad69-16d6c3ecc1f2",
+    "eng": "Canura",
+    "fLE": "C",
+    "tel": "చాణూర",
+    "fLTel": "చ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "8e166e57-51ce-42d3-9af3-31c19474a149",
+    "eng": "Canute",
+    "fLE": "C",
+    "tel": "కనుతె",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "e95a4730-1c6c-46b5-bf82-18d8e9c9e674",
+    "eng": "Caolan",
+    "fLE": "C",
+    "tel": "కేవలం",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "7106f87e-8cc1-4e0b-a6c2-25834b5e1701",
+    "eng": "Caomh",
+    "fLE": "C",
+    "tel": "కవుమ్హ్",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "8cb20762-4ef5-4113-994e-aadca80fb14c",
+    "eng": "cap",
+    "fLE": "c",
+    "tel": "కాప్",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "d07531be-1ceb-44f0-933d-ab5a9c712471",
+    "eng": "Capala",
+    "fLE": "C",
+    "tel": "కాపలా",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "aa75cbdc-abe0-4d05-8a92-071ba878b638",
+    "eng": "capote",
+    "fLE": "c",
+    "tel": "కాపోతే",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "60a47884-7652-4941-8519-08e95dee319f",
+    "eng": "Captain",
+    "fLE": "C",
+    "tel": "కెప్టెన్",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "1ff6bcd3-ac17-4357-9e5b-dbe6b50c299a",
+    "eng": "Caractacus",
+    "fLE": "C",
+    "tel": "క్యారక్టక్స్",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "e5737dd1-6504-434f-a780-729f631bc784",
+    "eng": "Caracy",
+    "fLE": "C",
+    "tel": "కారసీ",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "c8ef7e85-7ed3-4bc8-9051-5a620cb24d99",
+    "eng": "Caradoc",
+    "fLE": "C",
+    "tel": "కార్డోక్",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "467acd0f-2bc4-464a-96f3-084199869d6f",
+    "eng": "Caradog",
+    "fLE": "C",
+    "tel": "కార్డోగ్",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "393f951d-2894-418b-8dca-d770514869ba",
+    "eng": "Carados",
+    "fLE": "C",
+    "tel": "కార్డోస్",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "1b1b0ff7-afdd-4efd-a05e-a9e0d7f91943",
+    "eng": "Caraka",
+    "fLE": "C",
+    "tel": "కారక",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "d8dbcd7c-96c7-4f4f-b0ff-dc8029cb79bf",
+    "eng": "Caranacus",
+    "fLE": "C",
+    "tel": "కారణక్స్",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "eb0c0b1d-543b-4ca6-b758-79fa3c5ef22b",
+    "eng": "Carantacvs",
+    "fLE": "C",
+    "tel": "కార్యాంతసీవ్స్",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "36e63c29-77d1-47de-86c6-2f8d64ab76ae",
+    "eng": "Carantoc",
+    "fLE": "C",
+    "tel": "కారంలోకి",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "5795d824-7e91-4d22-ba7a-12c4d6b555bc",
+    "eng": "Carantok",
+    "fLE": "C",
+    "tel": "కారంతొక్",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "1d224b67-24e5-4a79-ba22-8ebcb9229d5d",
+    "eng": "Carantorivs",
+    "fLE": "C",
+    "tel": "కారంతోటివ్స్",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "1ca7b962-08f7-4bd0-989c-ad4b7edba933",
+    "eng": "Caratacus",
+    "fLE": "C",
+    "tel": "కెరటాక్స్",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "aeba2e48-35d6-46d2-a998-a8078a7c8e53",
+    "eng": "Caratauc",
+    "fLE": "C",
+    "tel": "కెరటాయూసీ",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "267ab28c-7d07-45dc-8a09-0fd347af9a43",
+    "eng": "Carbani",
+    "fLE": "C",
+    "tel": "కార్బని",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "562fc22a-7317-4df3-8e75-5b8f7637f2c0",
+    "eng": "Carberry",
+    "fLE": "C",
+    "tel": "కార్బెర్ర్య్",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "0591c11d-98c0-410e-a1ca-7697a05b26de",
+    "eng": "Carbry",
+    "fLE": "C",
+    "tel": "కార్బరీ",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "01a7629e-84d3-4fab-ab1c-274594df34ee",
+    "eng": "Carda",
+    "fLE": "C",
+    "tel": "కదా",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "9052957e-163f-488c-ae68-c1ba9f656f98",
+    "eng": "Carden",
+    "fLE": "C",
+    "tel": "కార్డెన్",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "de7272ab-d403-46d9-a895-bf04e9f5f097",
+    "eng": "Cardiff",
+    "fLE": "C",
+    "tel": "కార్డిఫ్",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "2fac0be1-da14-4ec7-a762-9d2adbeab979",
+    "eng": "Cardwell",
+    "fLE": "C",
+    "tel": "కార్ద్వేల్",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "91c6bd40-a422-4eb5-b75b-12ec19829c50",
+    "eng": "Careem",
+    "fLE": "C",
+    "tel": "కరీం",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "414ec660-6322-45dd-aaaa-272d4825525a",
+    "eng": "Carel",
+    "fLE": "C",
+    "tel": "కార్ల్",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "de7956b6-4f4b-46c9-9c71-91a8c953ab65",
+    "eng": "Carey",
+    "fLE": "C",
+    "tel": "కారెయ్",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "36336315-13ea-4194-9cee-5a3c92a96813",
+    "eng": "Cargan",
+    "fLE": "C",
+    "tel": "కారేగాం",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "0ed19f5d-e12f-4912-ad64-c2c5b805a203",
+    "eng": "Cariann",
+    "fLE": "C",
+    "tel": "కారిన్",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "113f84c9-ef8a-4386-8e44-3c889820cbc3",
+    "eng": "Cariel",
+    "fLE": "C",
+    "tel": "కెరీర్",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "3c432dea-6587-4076-b147-b3f82221c9ea",
+    "eng": "Carileph",
+    "fLE": "C",
+    "tel": "క్యారిల్ఫ్",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "b3ca82be-3a51-43b1-aac8-58c347110289",
+    "eng": "Cariman",
+    "fLE": "C",
+    "tel": "కెరిమం",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "90be2bed-86e1-4df0-becf-f84c78a22c01",
+    "eng": "Carinu",
+    "fLE": "C",
+    "tel": "కారును",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "596192f2-f90b-4982-b58e-398d5e888f93",
+    "eng": "Cario",
+    "fLE": "C",
+    "tel": "కరువు",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "770a3df0-888a-4d75-980f-25398cbc1a7f",
+    "eng": "Cariston",
+    "fLE": "C",
+    "tel": "కరిస్తోం",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "e667e01e-b249-425d-80ce-07aaa85acd9b",
+    "eng": "Caritas",
+    "fLE": "C",
+    "tel": "కారిటాస్",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "8f429ad2-1e7b-44d9-84f4-6a54daf03c61",
+    "eng": "Caritra",
+    "fLE": "C",
+    "tel": "చరిత్ర",
+    "fLTel": "చ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "c374f1db-a6c0-4742-abd9-ba0485830d83",
+    "eng": "Carl",
+    "fLE": "C",
+    "tel": "కార్ల్",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "85f2341d-ead8-48e2-a658-395a86fbbfea",
+    "eng": "Carlatun",
+    "fLE": "C",
+    "tel": "కార్లటం",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "ff0d8484-4938-4e0c-9ce2-01ea16fd28dd",
+    "eng": "Carlay",
+    "fLE": "C",
+    "tel": "కళ్య",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "9af89377-26a6-4755-a8b7-da97dfd80a21",
+    "eng": "Carleton",
+    "fLE": "C",
+    "tel": "చార్లెట్న్",
+    "fLTel": "చ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  }
+]

@@ -1,0 +1,662 @@
+[
+  {
+    "id": "fda92a72-d563-40f0-9939-9f630a182dbf",
+    "eng": "Ekapinga",
+    "fLE": "E",
+    "tel": "ఏకపింగా",
+    "fLTel": "ఏ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "84c03515-7b9f-4979-a9e3-8df6f3728ce2",
+    "eng": "Ekaraj",
+    "fLE": "E",
+    "tel": "ఎకరాజ్",
+    "fLTel": "ఎ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "9561ceb5-5606-4336-b3d2-c35be34d1c64",
+    "eng": "Ekaraja",
+    "fLE": "E",
+    "tel": "ఎకరాజా",
+    "fLTel": "ఎ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "f11f8081-1dac-4351-9a65-d3d69875ee08",
+    "eng": "Ekas",
+    "fLE": "E",
+    "tel": "ఇకస్",
+    "fLTel": "ఇ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Sikh"
+  },
+  {
+    "id": "eb77d0cc-eede-4b51-bd7e-799939e12630",
+    "eng": "Ekasarga",
+    "fLE": "E",
+    "tel": "ఏకసర్గ",
+    "fLTel": "ఏ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "c6acd6b6-6da8-406b-8422-ae6f4164bbf0",
+    "eng": "Ekatan",
+    "fLE": "E",
+    "tel": "ఎక్కటం",
+    "fLTel": "ఎ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "5de2d205-d868-47ec-9a1a-85bf29f343b6",
+    "eng": "Ekatma",
+    "fLE": "E",
+    "tel": "ఏకాత్మ",
+    "fLTel": "ఏ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "788d8f38-76b3-4da0-b6d7-4c73647d8fc4",
+    "eng": "Ekatvacha",
+    "fLE": "E",
+    "tel": "ఏకత్వచ",
+    "fLTel": "ఏ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "954817ad-1874-48fc-b397-6205ec453a87",
+    "eng": "Ekavir",
+    "fLE": "E",
+    "tel": "ఏకవీర",
+    "fLTel": "ఏ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "a1aa68f9-58ad-495a-8b86-6345115bab55",
+    "eng": "Ekayana",
+    "fLE": "E",
+    "tel": "ఏకాయన",
+    "fLTel": "ఏ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "d8d925d4-778b-4744-9bd5-2d1736719f31",
+    "eng": "Ekayasti",
+    "fLE": "E",
+    "tel": "ఏకాయస్సాతి",
+    "fLTel": "ఏ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "0851714a-fb98-4f31-af1a-049321f994eb",
+    "eng": "Ekayavan",
+    "fLE": "E",
+    "tel": "ఏకాయవం",
+    "fLTel": "ఏ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "c0048951-53b6-482e-bb01-3e19b9d6d4af",
+    "eng": "Ekbal",
+    "fLE": "E",
+    "tel": "ఇక్బల్",
+    "fLTel": "ఇ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "98dc7f54-cadb-4d8b-9992-53b5d6ab2298",
+    "eng": "Ekbert",
+    "fLE": "E",
+    "tel": "ఏబెర్ట్",
+    "fLTel": "ఏ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "2e13b8df-ee28-4341-af91-dab3d410b5cd",
+    "eng": "Ekbir",
+    "fLE": "E",
+    "tel": "ఏబీర్",
+    "fLTel": "ఏ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Sikh"
+  },
+  {
+    "id": "35b68a10-bb5d-4293-a46b-9e9613004d34",
+    "eng": "Ekdak",
+    "fLE": "E",
+    "tel": "ఎక్కడకు",
+    "fLTel": "ఎ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "07574c98-2de2-485c-91e1-a7b0f8ec907d",
+    "eng": "Eker",
+    "fLE": "E",
+    "tel": "ఏర్",
+    "fLTel": "ఏ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "9e73c7d8-e501-45c0-a90a-3b8956cda7e0",
+    "eng": "Ekerd",
+    "fLE": "E",
+    "tel": "ఎకెర్డ్",
+    "fLTel": "ఎ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "f431ee87-ae7c-45d6-8b0b-f8f1844dc8ab",
+    "eng": "Ekesa",
+    "fLE": "E",
+    "tel": "ఈకేసు",
+    "fLTel": "ఈ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "d60ba839-8ac3-422f-aa5b-5e69d16db547",
+    "eng": "Ekesh",
+    "fLE": "E",
+    "tel": "ఎక్స్",
+    "fLTel": "ఎ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "cd6e201a-bc60-42c4-9199-3ea49e0e6f2f",
+    "eng": "Ekeswar",
+    "fLE": "E",
+    "tel": "ఏకేశ్వర్",
+    "fLTel": "ఏ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "e5e09bbd-e756-425b-abc5-298fe62510df",
+    "eng": "Ekeswara",
+    "fLE": "E",
+    "tel": "ఏకేశ్వర",
+    "fLTel": "ఏ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "e0cb6d99-f2eb-4c0d-b59b-3614a5e1bc1e",
+    "eng": "ekewaka",
+    "fLE": "e",
+    "tel": "ఏకేవాక",
+    "fLTel": "ఏ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "3ab8b7c9-1ae8-4d73-bad5-ff905274ec2a",
+    "eng": "Ekhard",
+    "fLE": "E",
+    "tel": "ఎకార్డ్",
+    "fLTel": "ఎ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "b8ae3f30-d8fa-4bfd-800c-1cc7ee631c07",
+    "eng": "Eki",
+    "fLE": "E",
+    "tel": "ఎక్కి",
+    "fLTel": "ఎ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "6e271f33-8273-4b71-8c1e-5cd5c91d6f51",
+    "eng": "Ekish",
+    "fLE": "E",
+    "tel": "ఏకిష్",
+    "fLTel": "ఏ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "c0fade3f-e0d9-4f61-b550-0e47e7ccce89",
+    "eng": "Ekjit",
+    "fLE": "E",
+    "tel": "ఎక్జిట్",
+    "fLTel": "ఎ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Sikh"
+  },
+  {
+    "id": "e5f03ee1-6a95-44b8-b4f0-1612d985e875",
+    "eng": "Ekjot",
+    "fLE": "E",
+    "tel": "ఏజాతి",
+    "fLTel": "ఏ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Sikh"
+  },
+  {
+    "id": "d4389d8f-bc3c-42c2-a9f6-0f7bdf8d76a1",
+    "eng": "Ekkari",
+    "fLE": "E",
+    "tel": "ఎక్కారు",
+    "fLTel": "ఎ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "3cf173cf-e645-4e7d-b66d-0d1bbbcfae4e",
+    "eng": "Ekke",
+    "fLE": "E",
+    "tel": "ఎక్కే",
+    "fLTel": "ఎ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "cbe01980-dfaa-42f5-b7b8-acbecb2fc18b",
+    "eng": "Ekkehard",
+    "fLE": "E",
+    "tel": "ఎక్కేహర్డ్",
+    "fLTel": "ఎ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "795c897b-39cb-4c54-8141-631f9f5ed7cf",
+    "eng": "Ekkuntal",
+    "fLE": "E",
+    "tel": "ఎక్కుంటా",
+    "fLTel": "ఎ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "c87f957b-cf96-4a0c-9153-d74dbd357465",
+    "eng": "Eklavya",
+    "fLE": "E",
+    "tel": "ఏకలవ్య",
+    "fLTel": "ఏ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "ffc55e00-c4f7-4947-81b2-4b973a8eeac3",
+    "eng": "Eklinga",
+    "fLE": "E",
+    "tel": "ఏలింగా",
+    "fLTel": "ఏ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "520e65fa-57a2-468b-8f95-27a1b3ba6688",
+    "eng": "Eknath",
+    "fLE": "E",
+    "tel": "ఎకనాథ్",
+    "fLTel": "ఎ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "3f2b91dd-ab63-40ee-9ace-ab153221ab14",
+    "eng": "Ekodar",
+    "fLE": "E",
+    "tel": "ఏకోదరః",
+    "fLTel": "ఏ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "7f1b47d0-c2f8-4560-be10-98f03e632b48",
+    "eng": "Ekodara",
+    "fLE": "E",
+    "tel": "ఏకోదర",
+    "fLTel": "ఏ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "ca1ea475-79e8-4490-8d10-dac0b61cf5b1",
+    "eng": "Ekroop",
+    "fLE": "E",
+    "tel": "ఏకరూప",
+    "fLTel": "ఏ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Sikh"
+  },
+  {
+    "id": "24b79925-c150-41e3-b0b1-62d3ae37ff3e",
+    "eng": "Ekvir",
+    "fLE": "E",
+    "tel": "ఏకవీర",
+    "fLTel": "ఏ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Sikh"
+  },
+  {
+    "id": "9fa0d678-8adb-48f6-b135-464fa89b91db",
+    "eng": "El-Amin",
+    "fLE": "E",
+    "tel": "ఎల్-అమిన్",
+    "fLTel": "ఎ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "7032100b-104f-493c-884f-0f7ca0909c53",
+    "eng": "Elad",
+    "fLE": "E",
+    "tel": "ఎలాడ్",
+    "fLTel": "ఎ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "3a97eb8a-4740-4e32-8738-37d57995ab49",
+    "eng": "Eladio",
+    "fLE": "E",
+    "tel": "ఎల్డివు",
+    "fLTel": "ఎ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "71b1805f-145b-4213-8a7f-af3a7dffc661",
+    "eng": "Elaf",
+    "fLE": "E",
+    "tel": "ఎలాఫ్",
+    "fLTel": "ఎ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "ed776505-fc53-475f-b687-150d644f25d3",
+    "eng": "Elah",
+    "fLE": "E",
+    "tel": "ఇలాహ్",
+    "fLTel": "ఇ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "4212f946-7414-4724-b4ab-d81864c22d51",
+    "eng": "Elais",
+    "fLE": "E",
+    "tel": "ఎలైన్",
+    "fLTel": "ఎ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "8ac765fd-c7fe-4679-bf93-b3d020d35c6a",
+    "eng": "Elaisa",
+    "fLE": "E",
+    "tel": "ఎలీస",
+    "fLTel": "ఎ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "1153774a-6a17-498d-8ef0-2cb4b3a23cbb",
+    "eng": "Elakiyan",
+    "fLE": "E",
+    "tel": "ఎలాకియాన్",
+    "fLTel": "ఎ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "8cd11076-ddbb-4938-b285-b7d6d281b9ca",
+    "eng": "Elakkiyan",
+    "fLE": "E",
+    "tel": "ఎలక్కియం",
+    "fLTel": "ఎ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "c1fc6df4-53f0-4c95-b7b5-480f81fb3909",
+    "eng": "Elam",
+    "fLE": "E",
+    "tel": "ెలం",
+    "fLTel": "ె",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "15d060a1-1183-45b1-b923-063c7f200af9",
+    "eng": "Elamaran",
+    "fLE": "E",
+    "tel": "ఎలామారం",
+    "fLTel": "ఎ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "fea73a2a-b13c-445a-b523-ec7a49309890",
+    "eng": "Elamin",
+    "fLE": "E",
+    "tel": "ఎలమిన్",
+    "fLTel": "ఎ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "f40d9f03-5db6-4675-86c3-3525061a372f",
+    "eng": "Elan",
+    "fLE": "E",
+    "tel": "ఎలాన్",
+    "fLTel": "ఎ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "ce34b8ab-6fe0-44f0-b6d1-9ad1ae51ea1b",
+    "eng": "eland",
+    "fLE": "e",
+    "tel": "లేలాండ్",
+    "fLTel": "ల",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "d4471aa6-96a7-4f14-b978-7ae633c592e6",
+    "eng": "Elango",
+    "fLE": "E",
+    "tel": "ఎలాంగో",
+    "fLTel": "ఎ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "02bbb05d-4f8c-41b4-8516-2b22bdb85845",
+    "eng": "Elanora",
+    "fLE": "E",
+    "tel": "ఏలనోరా",
+    "fLTel": "ఏ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "20c19e6d-5e93-4cc3-b51b-12ec699683d7",
+    "eng": "Elaparna",
+    "fLE": "E",
+    "tel": "ఎలాపర్ణ",
+    "fLTel": "ఎ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "70ee9d33-7cbe-455c-8812-20ec6f94fbdb",
+    "eng": "Elaputra",
+    "fLE": "E",
+    "tel": "ఎలాపుత్ర",
+    "fLTel": "ఎ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "034b07d0-0d07-4358-8009-7840caf686be",
+    "eng": "Elavarasan",
+    "fLE": "E",
+    "tel": "ఎలావరసం",
+    "fLTel": "ఎ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "c007c83d-4f38-4ce5-ab85-dfedff09aec0",
+    "eng": "Elavarasu",
+    "fLE": "E",
+    "tel": "ఇళవరసి",
+    "fLTel": "ఇ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "47017a2e-62f2-4a23-8ace-ffc8703ed4ba",
+    "eng": "Elave",
+    "fLE": "E",
+    "tel": "ఎలావే",
+    "fLTel": "ఎ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "48ae5b84-6df4-481d-b516-f059b98ba2ad",
+    "eng": "Elavendhan",
+    "fLE": "E",
+    "tel": "ఇలవేందన్",
+    "fLTel": "ఇ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "45a36315-b76d-4272-81c7-ba0ccdeb5de5",
+    "eng": "Elayaraja",
+    "fLE": "E",
+    "tel": "ఇళయరాజా",
+    "fLTel": "ఇ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "d6638126-6145-4e3b-bb01-eb757acd83c8",
+    "eng": "Elazar",
+    "fLE": "E",
+    "tel": "ఎలాజర్",
+    "fLTel": "ఎ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "bd9420a9-b14c-4d58-b976-e0cdfaccc970",
+    "eng": "elazer",
+    "fLE": "e",
+    "tel": "ఎలాజర్",
+    "fLTel": "ఎ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "b5b459dd-1607-49a9-9ed6-882048951414",
+    "eng": "Elbert",
+    "fLE": "E",
+    "tel": "ఎల్బెర్ట్",
+    "fLTel": "ఎ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "4a2acd52-a6d3-4cca-96a6-9c00c012b5f9",
+    "eng": "Elberte",
+    "fLE": "E",
+    "tel": "ఎల్బెర్ట్",
+    "fLTel": "ఎ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  }
+]

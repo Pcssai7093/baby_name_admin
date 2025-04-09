@@ -1,0 +1,962 @@
+[
+  {
+    "id": "d23599c2-dc5b-4fe4-9235-62c952839fae",
+    "eng": "Barrah",
+    "fLE": "B",
+    "tel": "బర్రాహ్",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Muslim"
+  },
+  {
+    "id": "7ab45e4b-cc9c-414b-b90d-4ad56f600e8c",
+    "eng": "Barrett",
+    "fLE": "B",
+    "tel": "బార్ట్",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "f9e598ba-1d7a-4d72-9e9d-918ac0b3a08c",
+    "eng": "Barsa",
+    "fLE": "B",
+    "tel": "బర్సా",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Muslim"
+  },
+  {
+    "id": "075b279d-7d19-40e5-a166-faedd8171ccc",
+    "eng": "Barsala",
+    "fLE": "B",
+    "tel": "బారసాల",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Muslim"
+  },
+  {
+    "id": "e06246a3-563a-4119-83e8-2506443056c2",
+    "eng": "Barsana",
+    "fLE": "B",
+    "tel": "బర్సానా",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "3e743a5c-548e-4adf-805d-6829d0d6a3f6",
+    "eng": "Barsha",
+    "fLE": "B",
+    "tel": "బార్ష",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "ddba181d-57a5-4869-b8e0-1898594b81a1",
+    "eng": "Barshana",
+    "fLE": "B",
+    "tel": "బార్షణ",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "d8ec143a-0444-4039-82de-d95b85bf761a",
+    "eng": "Barta",
+    "fLE": "B",
+    "tel": "భర్త",
+    "fLTel": "భ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "d8f6b1f9-17d1-49a4-b842-7f983b2ce984",
+    "eng": "Baruna",
+    "fLE": "B",
+    "tel": "బారిన",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "c78d1ae6-b985-4a5e-b002-b7db185372fe",
+    "eng": "Baruni",
+    "fLE": "B",
+    "tel": "బారుని",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "acd513e5-9f7a-4b59-b3a7-0332725b90bc",
+    "eng": "Barunka",
+    "fLE": "B",
+    "tel": "బరుఁక",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "af104346-1857-4371-9da8-02fe399c915e",
+    "eng": "Barzah",
+    "fLE": "B",
+    "tel": "బెజాహ్",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Muslim"
+  },
+  {
+    "id": "8c3f7737-d644-41bd-9a79-6bdfa8130db9",
+    "eng": "Basaaria",
+    "fLE": "B",
+    "tel": "బసారిఆ",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Muslim"
+  },
+  {
+    "id": "83d47b10-0100-425a-8339-aa2d34698a86",
+    "eng": "Basabi",
+    "fLE": "B",
+    "tel": "భాషాభి",
+    "fLTel": "భ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "16af5b66-598a-4c6e-b64b-440271ee95fa",
+    "eng": "Basafa",
+    "fLE": "B",
+    "tel": "బాసఫా",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Muslim"
+  },
+  {
+    "id": "6a1be0f9-3f66-4d35-985c-c0947f6b9562",
+    "eng": "basak",
+    "fLE": "b",
+    "tel": "బాస్క్",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Muslim"
+  },
+  {
+    "id": "09fd5609-cca2-45aa-878e-202427da717d",
+    "eng": "Basan",
+    "fLE": "B",
+    "tel": "బాసన్",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Muslim"
+  },
+  {
+    "id": "2cfc6512-df41-40b8-bc4e-c7aa53d61e77",
+    "eng": "Basanti",
+    "fLE": "B",
+    "tel": "బసంతి",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "e9e2be9e-80e5-4209-8e97-d2b7668e9026",
+    "eng": "Basbas",
+    "fLE": "B",
+    "tel": "బాసుబాస్",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Muslim"
+  },
+  {
+    "id": "bd91080b-1ff1-47db-aef8-e35559a99734",
+    "eng": "Baseema",
+    "fLE": "B",
+    "tel": "బాసీమ",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Muslim"
+  },
+  {
+    "id": "862aa439-0a84-457a-be19-5513c280120b",
+    "eng": "Baseera",
+    "fLE": "B",
+    "tel": "బసేరా",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Muslim"
+  },
+  {
+    "id": "76b1511c-981b-4ade-9773-9a96e22e91c4",
+    "eng": "Bashair",
+    "fLE": "B",
+    "tel": "భాషైర్",
+    "fLTel": "భ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Muslim"
+  },
+  {
+    "id": "db834da6-01cc-4781-ae71-a9c7dffb417e",
+    "eng": "Bashasha",
+    "fLE": "B",
+    "tel": "బాషశ",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Muslim"
+  },
+  {
+    "id": "b839d9ba-b90b-4ca8-ae9b-049f56d54db1",
+    "eng": "Basheera",
+    "fLE": "B",
+    "tel": "బషీరు",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Muslim"
+  },
+  {
+    "id": "6ce6c6c2-bbb6-41fd-af6c-b4cdd1a533e4",
+    "eng": "Bashemath",
+    "fLE": "B",
+    "tel": "బాశెమత్",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "female",
+    "rel": "others"
+  },
+  {
+    "id": "c981a9d5-1c58-4cc4-b448-9aa41d29cb66",
+    "eng": "Bashia",
+    "fLE": "B",
+    "tel": "బషీర్",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "female",
+    "rel": "others"
+  },
+  {
+    "id": "ff6bdca2-8de1-4a41-847c-87d306a9817e",
+    "eng": "Bashiga",
+    "fLE": "B",
+    "tel": "బాషిగా",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Muslim"
+  },
+  {
+    "id": "945cc810-ab8c-4c60-bede-0c50d903284f",
+    "eng": "Bashira",
+    "fLE": "B",
+    "tel": "బధిర",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Muslim"
+  },
+  {
+    "id": "71d9477d-121c-4164-812e-544893199211",
+    "eng": "Bashirah",
+    "fLE": "B",
+    "tel": "బశిరః",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Muslim"
+  },
+  {
+    "id": "f7e5d3ae-e4f1-46de-a743-bacf5dd52ec1",
+    "eng": "Bashita",
+    "fLE": "B",
+    "tel": "బాధిత",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Muslim"
+  },
+  {
+    "id": "91571b91-81ae-417f-9f9d-e86c43f1556f",
+    "eng": "Bashiyra",
+    "fLE": "B",
+    "tel": "బాషియర",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Muslim"
+  },
+  {
+    "id": "cc0e1a89-f5a0-49ce-9272-11bd5bf7625e",
+    "eng": "Bashnin",
+    "fLE": "B",
+    "tel": "బాషనిన్",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Muslim"
+  },
+  {
+    "id": "dd4ffbeb-5557-4dbd-b31a-d1cf9034df23",
+    "eng": "Bashumati",
+    "fLE": "B",
+    "tel": "భషుమతి",
+    "fLTel": "భ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "be2c0a30-282c-46de-b323-06e7a62478f3",
+    "eng": "Bashundhara",
+    "fLE": "B",
+    "tel": "భశుంధార",
+    "fLTel": "భ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "61a5f1ff-4066-4487-b8d4-87943d89ea15",
+    "eng": "Basia",
+    "fLE": "B",
+    "tel": "బాసిత్",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "4600f903-5572-4823-883f-f1563a4ca5d9",
+    "eng": "basia",
+    "fLE": "b",
+    "tel": "బాసిత్",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "98866d5e-81d2-44bc-a3eb-3dae896da6f3",
+    "eng": "Basila",
+    "fLE": "B",
+    "tel": "బ్యాసిల",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Muslim"
+  },
+  {
+    "id": "4f27da6a-4cd7-47ca-bb13-fabf903e0646",
+    "eng": "Basilah",
+    "fLE": "B",
+    "tel": "బాసిలాహ్",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Muslim"
+  },
+  {
+    "id": "fde04d14-1b94-4c3c-bbf5-77ab03a0d532",
+    "eng": "Basili",
+    "fLE": "B",
+    "tel": "బాసిలి",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Muslim"
+  },
+  {
+    "id": "b894b45a-fea8-4f1d-9bdf-f5c594c09299",
+    "eng": "Basilia",
+    "fLE": "B",
+    "tel": "బాసిలియా",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "8bb8abad-ec89-41bc-96e3-e626438292e1",
+    "eng": "basilia",
+    "fLE": "b",
+    "tel": "బాసిలియా",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "c8b6b714-4764-4001-8b0c-584c09aca989",
+    "eng": "Basilie",
+    "fLE": "B",
+    "tel": "బాసిలై",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "77651a4e-2302-40e1-8b88-69fbc9bd758d",
+    "eng": "Basilissa",
+    "fLE": "B",
+    "tel": "బాసిలిస్సా",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "a39fadb5-7ccd-436f-a64e-04da332a9e1b",
+    "eng": "Basima",
+    "fLE": "B",
+    "tel": "బాసీమ",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Muslim"
+  },
+  {
+    "id": "75058f00-7b85-4734-9ef6-701cd8fb7d6d",
+    "eng": "basima",
+    "fLE": "b",
+    "tel": "బాసీమ",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Muslim"
+  },
+  {
+    "id": "65024c33-a74e-4d6a-9422-c52abbad9a0b",
+    "eng": "Basimah",
+    "fLE": "B",
+    "tel": "బాసిమః",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Muslim"
+  },
+  {
+    "id": "30eebf29-d5aa-4188-ae69-5bf4beef9984",
+    "eng": "Basinah",
+    "fLE": "B",
+    "tel": "బాసినః",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Muslim"
+  },
+  {
+    "id": "57122bcd-52d8-49cc-8986-1b3c6d329ae6",
+    "eng": "Basira",
+    "fLE": "B",
+    "tel": "బాసిరా",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Muslim"
+  },
+  {
+    "id": "865ce421-ba59-4078-83e4-e8a59e0bebe7",
+    "eng": "Basirah",
+    "fLE": "B",
+    "tel": "బశిరః",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Muslim"
+  },
+  {
+    "id": "81d18f97-98c5-45f1-ba98-9f5f28727802",
+    "eng": "Baskarya",
+    "fLE": "B",
+    "tel": "బాస్కర్య",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "3cdd7cf7-cb0e-493c-85b7-5d5cf47eb195",
+    "eng": "Basm",
+    "fLE": "B",
+    "tel": "బస్సామ్",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Muslim"
+  },
+  {
+    "id": "793c8d22-d597-42d9-a3c5-f80afddac314",
+    "eng": "Basma",
+    "fLE": "B",
+    "tel": "భస్మ",
+    "fLTel": "భ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Muslim"
+  },
+  {
+    "id": "402c2a51-96d3-44a0-b6b2-17754369f1d4",
+    "eng": "Basmah",
+    "fLE": "B",
+    "tel": "బాసమః",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Muslim"
+  },
+  {
+    "id": "4cd45774-174d-4a72-ad72-98de4b2cfa07",
+    "eng": "Basmat",
+    "fLE": "B",
+    "tel": "బాస్మతి",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Muslim"
+  },
+  {
+    "id": "348ddcb2-b9f7-4588-8ecd-d15e5593b25f",
+    "eng": "Basmati",
+    "fLE": "B",
+    "tel": "బాసుమతి",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "c9e4bf1d-93e8-4fb6-b170-65e4a2de55c5",
+    "eng": "Basoos",
+    "fLE": "B",
+    "tel": "బాసూస్",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Muslim"
+  },
+  {
+    "id": "2d403c23-cc24-4645-93bc-7d53d4f095e8",
+    "eng": "Bassama",
+    "fLE": "B",
+    "tel": "బస్సామ",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Muslim"
+  },
+  {
+    "id": "affc8409-e632-42e9-be8d-ace946c966e3",
+    "eng": "Bassamat",
+    "fLE": "B",
+    "tel": "బస్సామాతి",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Muslim"
+  },
+  {
+    "id": "5a7ae86a-370e-44d0-8e7f-5130a4ce91f9",
+    "eng": "Bassima",
+    "fLE": "B",
+    "tel": "బాషిమా",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Muslim"
+  },
+  {
+    "id": "81f4c133-89e5-414b-a9bc-819a5bdbe1d8",
+    "eng": "Bassma",
+    "fLE": "B",
+    "tel": "బాసుమ",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Muslim"
+  },
+  {
+    "id": "28852d29-9581-42f3-abd5-f5e26e6b98ab",
+    "eng": "Basudhara",
+    "fLE": "B",
+    "tel": "బాసుధారా",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "8311d1c1-84d2-424d-9462-6b7d74537f83",
+    "eng": "Basundhara",
+    "fLE": "B",
+    "tel": "బాసుంధర",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "a7989344-708a-4bf6-9a00-0e56ca5b2468",
+    "eng": "Basus",
+    "fLE": "B",
+    "tel": "బసుస్",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Muslim"
+  },
+  {
+    "id": "a76f9a85-ead8-4bbe-8c7e-23756daedcee",
+    "eng": "batel",
+    "fLE": "b",
+    "tel": "బాటిల్",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "2f859d42-a392-48e0-99c1-b11ae15b5982",
+    "eng": "Baterich",
+    "fLE": "B",
+    "tel": "బాటెరిచ్",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "696dc417-4284-4587-bb28-894300cbf538",
+    "eng": "Bathild",
+    "fLE": "B",
+    "tel": "బథిల్డ్",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "d8ba56c5-9bf6-47f4-a9d7-671e1e2dd8db",
+    "eng": "Bathilda",
+    "fLE": "B",
+    "tel": "బతిలాదా",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "f95f6f62-f9f4-4dfe-8eae-ac5da7cfd480",
+    "eng": "bathilda",
+    "fLE": "b",
+    "tel": "బతిలాదా",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "288da3f6-e251-407b-8b48-661bafb6267d",
+    "eng": "Bathilde",
+    "fLE": "B",
+    "tel": "బతిలాడే",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "ae9c81db-7896-43ef-8b40-81615bad393a",
+    "eng": "Bathsheba",
+    "fLE": "B",
+    "tel": "బాధ్షెబ",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "cff8e902-6da7-44b5-9627-633aad096b30",
+    "eng": "Bathshira",
+    "fLE": "B",
+    "tel": "బాధ్శిరా",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Muslim"
+  },
+  {
+    "id": "e4e24ebb-3d2c-49e7-b82c-8f3a07db737a",
+    "eng": "bathshira",
+    "fLE": "b",
+    "tel": "బాధ్శిరా",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Muslim"
+  },
+  {
+    "id": "445f6c54-c6a0-47ae-9ace-be1fc330bbf1",
+    "eng": "Bathshua",
+    "fLE": "B",
+    "tel": "బాధ్షుల",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "female",
+    "rel": "others"
+  },
+  {
+    "id": "cf209f18-20c1-42db-9366-62f382cead2d",
+    "eng": "Bathsira",
+    "fLE": "B",
+    "tel": "బాధ్సిరా",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Muslim"
+  },
+  {
+    "id": "220795cf-c776-4075-9b76-ae85dbf6f9df",
+    "eng": "Bathsua",
+    "fLE": "B",
+    "tel": "భత్సుయా",
+    "fLTel": "భ",
+    "tags": [],
+    "gen": "female",
+    "rel": "others"
+  },
+  {
+    "id": "078a7d67-370b-4b50-a071-63a04b56db7b",
+    "eng": "Batilda",
+    "fLE": "B",
+    "tel": "బాటిల్డా",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "fcafe8cd-e5ff-4dcc-8a0d-0de1cd9153be",
+    "eng": "Batina",
+    "fLE": "B",
+    "tel": "బత్తిన",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Muslim"
+  },
+  {
+    "id": "32f5f008-a3bf-4f24-8fd1-092d9aabc261",
+    "eng": "Batinah",
+    "fLE": "B",
+    "tel": "బతినః",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Muslim"
+  },
+  {
+    "id": "19d1ad15-cb51-4123-81cb-5c5ad697380c",
+    "eng": "Batool",
+    "fLE": "B",
+    "tel": "బ్యాతోల్",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Muslim"
+  },
+  {
+    "id": "0fc7534d-e19b-4c80-a70b-4404badf5c35",
+    "eng": "Batoul",
+    "fLE": "B",
+    "tel": "బాటూల్",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Muslim"
+  },
+  {
+    "id": "37c5290e-9f8d-4efe-a22f-6f701136b2eb",
+    "eng": "Batrisyia",
+    "fLE": "B",
+    "tel": "బ్యాట్రీషియా",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Muslim"
+  },
+  {
+    "id": "021b96fc-7403-4117-a6b3-ff93f0b20311",
+    "eng": "Batsheva",
+    "fLE": "B",
+    "tel": "బత్షెవ",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "female",
+    "rel": "others"
+  },
+  {
+    "id": "7af207bb-06e1-45f4-b5a4-c65ec57c4291",
+    "eng": "Batty",
+    "fLE": "B",
+    "tel": "బట్టి",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "female",
+    "rel": "others"
+  },
+  {
+    "id": "c915fc46-e752-404a-8290-1f1543ac4ab6",
+    "eng": "Batul",
+    "fLE": "B",
+    "tel": "బాతులు",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Muslim"
+  },
+  {
+    "id": "322b1df2-ad82-4ea3-90da-f7e33fe8fb66",
+    "eng": "Batula",
+    "fLE": "B",
+    "tel": "బాతులా",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Muslim"
+  },
+  {
+    "id": "8116ca44-e999-4dac-9656-2f1b831a0f0d",
+    "eng": "Batya",
+    "fLE": "B",
+    "tel": "భార్య",
+    "fLTel": "భ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "785c6f0a-e6f9-41e8-bda3-5716ffa5935d",
+    "eng": "Baubie",
+    "fLE": "B",
+    "tel": "బయూబీఎ",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "2d25d2e3-b21f-48f5-85d6-059702dac462",
+    "eng": "Baumathi",
+    "fLE": "B",
+    "tel": "భానుమతి",
+    "fLTel": "భ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "78709377-632c-4b31-95ae-23ff542e1770",
+    "eng": "Bavadarany",
+    "fLE": "B",
+    "tel": "బండారనీ",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "4c9604d5-68f1-47b0-b11a-09364a2ed81e",
+    "eng": "Bavalosini",
+    "fLE": "B",
+    "tel": "బావలోసిని",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "92f25dd0-926f-4c24-a90c-0f0d7a8239d8",
+    "eng": "Bavana",
+    "fLE": "B",
+    "tel": "భావన",
+    "fLTel": "భ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "9b87a51e-ed6b-42a1-88cb-9bc8495d84d2",
+    "eng": "Bavanya",
+    "fLE": "B",
+    "tel": "బావణ్య",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "5cbee9b2-c219-4a5e-baeb-e3433b9d0f1e",
+    "eng": "Bavataraani",
+    "fLE": "B",
+    "tel": "బావతారాణి",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "a0602f74-52b7-469a-bc0b-61625cd48aa7",
+    "eng": "Bavina",
+    "fLE": "B",
+    "tel": "బావిని",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "d1991adf-8404-466f-a650-e307d60e74d6",
+    "eng": "Bavisha",
+    "fLE": "B",
+    "tel": "బవిశ్య",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "8ab30a51-a87a-4f46-bac4-a98540a3122e",
+    "eng": "Bavishya",
+    "fLE": "B",
+    "tel": "భవిష్య",
+    "fLTel": "భ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  }
+]

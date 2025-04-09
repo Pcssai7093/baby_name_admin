@@ -1,0 +1,872 @@
+[
+  {
+    "id": "599b1196-05e4-4066-9501-3981fc7adb60",
+    "eng": "Roji",
+    "fLE": "R",
+    "tel": "రోజీ",
+    "fLTel": "ర",
+    "tags": [],
+    "gen": "female",
+    "rel": "Sikh"
+  },
+  {
+    "id": "b9dac89c-fadd-45ed-b4e0-299971b3996e",
+    "eng": "Rojin",
+    "fLE": "R",
+    "tel": "రోజైన",
+    "fLTel": "ర",
+    "tags": [],
+    "gen": "female",
+    "rel": "Muslim"
+  },
+  {
+    "id": "fba718bf-b700-4d67-8fcc-1cf0bc337e91",
+    "eng": "Rojita",
+    "fLE": "R",
+    "tel": "రోజిత",
+    "fLTel": "ర",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "2ca5776d-221a-414f-9e0d-38d4b94e47b8",
+    "eng": "Rojitha",
+    "fLE": "R",
+    "tel": "రోజిత",
+    "fLTel": "ర",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "a209ae51-3e04-4feb-a264-0416d57a0b32",
+    "eng": "Rokilda",
+    "fLE": "R",
+    "tel": "రోకిల్డా",
+    "fLTel": "ర",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "7c07ac75-23ff-4b85-9220-38bda99b3481",
+    "eng": "Roksana",
+    "fLE": "R",
+    "tel": "రోక్సానా",
+    "fLTel": "ర",
+    "tags": [],
+    "gen": "female",
+    "rel": "Muslim"
+  },
+  {
+    "id": "8ec1775d-257b-4751-a04b-ee8298dfb8a9",
+    "eng": "Roktima",
+    "fLE": "R",
+    "tel": "రోకటిమ",
+    "fLTel": "ర",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "09202522-c4ce-4181-abad-1f3ab922bcad",
+    "eng": "Rola",
+    "fLE": "R",
+    "tel": "రోలా",
+    "fLTel": "ర",
+    "tags": [],
+    "gen": "female",
+    "rel": "Muslim"
+  },
+  {
+    "id": "7fff8ab2-d9b8-498e-91d7-654926075bf1",
+    "eng": "Rolanda",
+    "fLE": "R",
+    "tel": "రోలంద",
+    "fLTel": "ర",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "3225b985-ec0a-4c7f-b8f9-9351918fe986",
+    "eng": "Rolande",
+    "fLE": "R",
+    "tel": "రోలాండ్",
+    "fLTel": "ర",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "14080b87-02a1-4600-9a33-ab9af990949e",
+    "eng": "Rolee",
+    "fLE": "R",
+    "tel": "రోలీ",
+    "fLTel": "ర",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "01cf32bb-6582-4ba0-846f-44c8d32f62af",
+    "eng": "Roli",
+    "fLE": "R",
+    "tel": "రోలీ",
+    "fLTel": "ర",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "04c83479-a4fa-4f32-8018-c314a49590a6",
+    "eng": "Rollande",
+    "fLE": "R",
+    "tel": "రోళ్ళండే",
+    "fLTel": "ర",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "db3cfd26-4af2-4d6a-a175-9103163bb8a3",
+    "eng": "Roly",
+    "fLE": "R",
+    "tel": "రోలీ",
+    "fLTel": "ర",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "2fdef828-23dc-4039-a157-8e989e7b8d3b",
+    "eng": "Romaana",
+    "fLE": "R",
+    "tel": "రొమాన్",
+    "fLTel": "ర",
+    "tags": [],
+    "gen": "female",
+    "rel": "Muslim"
+  },
+  {
+    "id": "5f5feb07-d206-4b7c-9274-4ad21f95c767",
+    "eng": "Romaicia",
+    "fLE": "R",
+    "tel": "రోమిష",
+    "fLTel": "ర",
+    "tags": [],
+    "gen": "female",
+    "rel": "Muslim"
+  },
+  {
+    "id": "8ed15ea1-8a49-4348-8f7f-69ee9f63223a",
+    "eng": "Romaine",
+    "fLE": "R",
+    "tel": "రొమైన్",
+    "fLTel": "ర",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "b9162212-3648-4a7f-929b-3d44b9ccc878",
+    "eng": "Romaisa",
+    "fLE": "R",
+    "tel": "రొమైస",
+    "fLTel": "ర",
+    "tags": [],
+    "gen": "female",
+    "rel": "Muslim"
+  },
+  {
+    "id": "10615cfe-0566-42a7-bb5a-38b3e60e9a0e",
+    "eng": "Romana",
+    "fLE": "R",
+    "tel": "రోమన్",
+    "fLTel": "ర",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "17b4cafb-c49b-492f-b3fc-e7d8d6f3d974",
+    "eng": "Romane",
+    "fLE": "R",
+    "tel": "రోమన్",
+    "fLTel": "ర",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "a3844da3-382c-4ba0-b21c-035363ecd891",
+    "eng": "Romanitza",
+    "fLE": "R",
+    "tel": "రొమానిటజా",
+    "fLTel": "ర",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "a3abeb3b-9aa6-43f1-afc7-73db7fd2a008",
+    "eng": "Romasha",
+    "fLE": "R",
+    "tel": "రోమశ",
+    "fLTel": "ర",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "4102bf0a-81ec-496a-82a9-4e4ace6574c9",
+    "eng": "Romeeka",
+    "fLE": "R",
+    "tel": "రోమీక",
+    "fLTel": "ర",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "9c1d4719-7dc8-42e0-9519-836c67282c03",
+    "eng": "Romeesa",
+    "fLE": "R",
+    "tel": "రోమీస",
+    "fLTel": "ర",
+    "tags": [],
+    "gen": "female",
+    "rel": "Muslim"
+  },
+  {
+    "id": "82b46242-2a99-47b7-b732-de328bda32e7",
+    "eng": "Romena",
+    "fLE": "R",
+    "tel": "రామేణ",
+    "fLTel": "ర",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "0127470f-f586-4eb4-a49f-2db6df3b6199",
+    "eng": "Romhilda",
+    "fLE": "R",
+    "tel": "రొంహిల్డా",
+    "fLTel": "ర",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "de906c5d-db6b-40e3-84c6-775e36f122ec",
+    "eng": "Romi",
+    "fLE": "R",
+    "tel": "రోమి",
+    "fLTel": "ర",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "d05209a2-c459-4d9a-9664-a14f1fcbff93",
+    "eng": "Romica",
+    "fLE": "R",
+    "tel": "రోమికే",
+    "fLTel": "ర",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "9d51bb38-78dd-4256-8bc8-fa378446db9e",
+    "eng": "Romil",
+    "fLE": "R",
+    "tel": "రోమిల్",
+    "fLTel": "ర",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "995f3134-dd18-4a16-8d58-7470c697deb6",
+    "eng": "Romila",
+    "fLE": "R",
+    "tel": "రొమిలా",
+    "fLTel": "ర",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "316140fc-7ab7-4c4b-a7a3-15b9f438aa4b",
+    "eng": "Romilda",
+    "fLE": "R",
+    "tel": "రొమిలాడ",
+    "fLTel": "ర",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "082b52f3-d074-4764-b76b-a0af8a8d31e0",
+    "eng": "Romilly",
+    "fLE": "R",
+    "tel": "రోమిలీ",
+    "fLTel": "ర",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "ed89fb71-5dd0-4356-8b8d-9cb57c45586a",
+    "eng": "Romily",
+    "fLE": "R",
+    "tel": "రోమిల్య్",
+    "fLTel": "ర",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "79c0d8fd-39ce-4466-a774-d4a6f72e51fd",
+    "eng": "Romina",
+    "fLE": "R",
+    "tel": "రోమిన",
+    "fLTel": "ర",
+    "tags": [],
+    "gen": "female",
+    "rel": "Muslim"
+  },
+  {
+    "id": "4064dba7-6274-4194-9495-7b7cc225af74",
+    "eng": "Rominah",
+    "fLE": "R",
+    "tel": "రోమినః",
+    "fLTel": "ర",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "3936de3e-b7d2-4fa6-a1b4-b9e4921ded91",
+    "eng": "Romini",
+    "fLE": "R",
+    "tel": "రోమిని",
+    "fLTel": "ర",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "8357bac8-ad39-4c72-85ca-9dfdbd520a68",
+    "eng": "Romna",
+    "fLE": "R",
+    "tel": "రోంన",
+    "fLTel": "ర",
+    "tags": [],
+    "gen": "female",
+    "rel": "Muslim"
+  },
+  {
+    "id": "a228f2ff-a7cf-48bb-939f-70c96235d657",
+    "eng": "Romola",
+    "fLE": "R",
+    "tel": "రొమెలా",
+    "fLTel": "ర",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "16109013-fc8b-4e59-855a-2a87cbb169f9",
+    "eng": "romola",
+    "fLE": "r",
+    "tel": "రొమెలా",
+    "fLTel": "ర",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "c843366b-3032-4000-a2eb-b91015694d24",
+    "eng": "Romona",
+    "fLE": "R",
+    "tel": "రొమోన్",
+    "fLTel": "ర",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "21ef7755-2279-40bb-a614-07a19aa206bd",
+    "eng": "romona",
+    "fLE": "r",
+    "tel": "రొమోన్",
+    "fLTel": "ర",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "7c641e9f-2ae0-48bb-b2bb-4410e544536b",
+    "eng": "Romula",
+    "fLE": "R",
+    "tel": "రాముల",
+    "fLTel": "ర",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "7467bef5-1e7e-4dc4-9c2e-b1f6cb5a8942",
+    "eng": "Rona",
+    "fLE": "R",
+    "tel": "రానా",
+    "fLTel": "ర",
+    "tags": [],
+    "gen": "female",
+    "rel": "Muslim"
+  },
+  {
+    "id": "9f75560a-27bd-4d74-ae7a-92dd22d00097",
+    "eng": "rona",
+    "fLE": "r",
+    "tel": "రానా",
+    "fLTel": "ర",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "36519a74-3570-4eb6-bdeb-3198082d584d",
+    "eng": "Ronaele",
+    "fLE": "R",
+    "tel": "రొనాల్",
+    "fLTel": "ర",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "55fd5c9d-7ee0-4700-8e01-13d5cb836ea8",
+    "eng": "ronalda",
+    "fLE": "r",
+    "tel": "రొనాల్డా",
+    "fLTel": "ర",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "8e71fdba-c709-4793-a9ab-43bc3883882d",
+    "eng": "Ronaleah",
+    "fLE": "R",
+    "tel": "రోనాలీహ్",
+    "fLTel": "ర",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "9a353ba1-db19-4655-a51f-32b3210acc0a",
+    "eng": "Ronalee",
+    "fLE": "R",
+    "tel": "రోనాలీ",
+    "fLTel": "ర",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "c252ebb9-40fb-4b51-8422-469ef1bd7f72",
+    "eng": "Ronat",
+    "fLE": "R",
+    "tel": "రోనాటి",
+    "fLTel": "ర",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "6686f560-1c1e-48a5-a9dc-45d697e91afd",
+    "eng": "Rond",
+    "fLE": "R",
+    "tel": "రొండు",
+    "fLTel": "ర",
+    "tags": [],
+    "gen": "female",
+    "rel": "Muslim"
+  },
+  {
+    "id": "c1a2db95-17b5-4e37-9316-2cc267d6aff2",
+    "eng": "Ronda",
+    "fLE": "R",
+    "tel": "రొండా",
+    "fLTel": "ర",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "ff7f2ed8-9381-40d2-927a-946976aebc14",
+    "eng": "Rondalyn",
+    "fLE": "R",
+    "tel": "రొండలిన్",
+    "fLTel": "ర",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "5804142e-543b-45e3-b459-57ccfbab9cda",
+    "eng": "Rondzona",
+    "fLE": "R",
+    "tel": "రొండిజోనా",
+    "fLTel": "ర",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "feeda9b2-53e6-4fa5-aad3-ccdf47533f63",
+    "eng": "Ronette",
+    "fLE": "R",
+    "tel": "రోనెట్టే",
+    "fLTel": "ర",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "da446542-ae58-4cb6-bdd5-f1b42cfb14fc",
+    "eng": "Ronia",
+    "fLE": "R",
+    "tel": "రాని",
+    "fLTel": "ర",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "166402da-0dae-48cb-97d3-db57bb68f695",
+    "eng": "Ronika",
+    "fLE": "R",
+    "tel": "రోనికా",
+    "fLTel": "ర",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "8c39f49d-1243-4467-a653-205a41a2d372",
+    "eng": "Ronilda",
+    "fLE": "R",
+    "tel": "రోనిల్దా",
+    "fLTel": "ర",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "5ca9d905-617d-4162-b412-e90f2a249a27",
+    "eng": "Ronita",
+    "fLE": "R",
+    "tel": "రానిత",
+    "fLTel": "ర",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "ff846156-796c-440c-a7b7-374e902a52cd",
+    "eng": "Ronja",
+    "fLE": "R",
+    "tel": "రానా",
+    "fLTel": "ర",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "3b7203ee-1e8a-4b92-ae7e-a7fe6cf0289d",
+    "eng": "Ronna",
+    "fLE": "R",
+    "tel": "రానా",
+    "fLTel": "ర",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "78cfb361-2f17-489b-bea6-e5b25e45714d",
+    "eng": "Ronni",
+    "fLE": "R",
+    "tel": "రాన్ని",
+    "fLTel": "ర",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "ceb1d66b-e595-46ad-9e17-36768950501d",
+    "eng": "Ronya",
+    "fLE": "R",
+    "tel": "రొంయ",
+    "fLTel": "ర",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "5a7dc65e-e405-4c85-a341-bf27f9e188a6",
+    "eng": "Ronza",
+    "fLE": "R",
+    "tel": "రొంజా",
+    "fLTel": "ర",
+    "tags": [],
+    "gen": "female",
+    "rel": "Muslim"
+  },
+  {
+    "id": "da5fd9f8-5403-4508-aba3-3915abe84ea2",
+    "eng": "Roobee",
+    "fLE": "R",
+    "tel": "రూబీ",
+    "fLTel": "ర",
+    "tags": [],
+    "gen": "female",
+    "rel": "Muslim"
+  },
+  {
+    "id": "8c8a6172-4a1b-419f-b18f-71d4797b135f",
+    "eng": "Roobi",
+    "fLE": "R",
+    "tel": "రూబీ",
+    "fLTel": "ర",
+    "tags": [],
+    "gen": "female",
+    "rel": "Muslim"
+  },
+  {
+    "id": "998f72c6-f6fe-40ae-8952-3c27411536f9",
+    "eng": "Roochie",
+    "fLE": "R",
+    "tel": "రూచియే",
+    "fLTel": "ర",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "e06c39d3-5c7f-42aa-988c-d329382e477f",
+    "eng": "Roohee",
+    "fLE": "R",
+    "tel": "రూహీ",
+    "fLTel": "ర",
+    "tags": [],
+    "gen": "female",
+    "rel": "Muslim"
+  },
+  {
+    "id": "cb967f15-dda6-4577-bc21-0b9ab4d017af",
+    "eng": "Roohi",
+    "fLE": "R",
+    "tel": "రూహి",
+    "fLTel": "ర",
+    "tags": [],
+    "gen": "female",
+    "rel": "Muslim"
+  },
+  {
+    "id": "46486f18-0175-4e13-9f9e-ba047cb4d8b9",
+    "eng": "Rooma",
+    "fLE": "R",
+    "tel": "రూమా",
+    "fLTel": "ర",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "2274ebf5-2323-49a6-8129-b7da8da47746",
+    "eng": "Roonhi",
+    "fLE": "R",
+    "tel": "రూఞ్హి",
+    "fLTel": "ర",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "9d5056d9-ca25-4b97-a2d9-b3a5408f6ad5",
+    "eng": "Rooni",
+    "fLE": "R",
+    "tel": "రూనీ",
+    "fLTel": "ర",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "fccc9c05-91db-4446-b145-4af9984bfd6c",
+    "eng": "Roop",
+    "fLE": "R",
+    "tel": "రూప్",
+    "fLTel": "ర",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "e337ecaf-6e0c-4f26-ab2a-265bea862cc5",
+    "eng": "Roopa",
+    "fLE": "R",
+    "tel": "రూప",
+    "fLTel": "ర",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "6c0f10ea-67b6-4276-8815-030d75d6a3db",
+    "eng": "Roopal",
+    "fLE": "R",
+    "tel": "రూపాలు",
+    "fLTel": "ర",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "f5076fc5-1872-4fdd-a543-a2826acf8c69",
+    "eng": "Roopala",
+    "fLE": "R",
+    "tel": "రూపాల",
+    "fLTel": "ర",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "91421b19-968d-4ddd-9e7f-93dd5a98a310",
+    "eng": "Roopali",
+    "fLE": "R",
+    "tel": "రూపాలు",
+    "fLTel": "ర",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "b757d09b-da67-4a2f-b210-0c1a5ec07013",
+    "eng": "Roopan",
+    "fLE": "R",
+    "tel": "రూపం",
+    "fLTel": "ర",
+    "tags": [],
+    "gen": "female",
+    "rel": "Sikh"
+  },
+  {
+    "id": "2efc5575-2170-4320-a9ca-afd00f6643bb",
+    "eng": "Roopashri",
+    "fLE": "R",
+    "tel": "రూపశ్రీ",
+    "fLTel": "ర",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "67facbc9-ea7f-4e49-ab26-7179e3ba5f4e",
+    "eng": "Roopavathi",
+    "fLE": "R",
+    "tel": "రూపవతి",
+    "fLTel": "ర",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "1de7cae5-d034-4f5e-9c18-9c62e6d5733b",
+    "eng": "Roopeshwari",
+    "fLE": "R",
+    "tel": "రూపేశ్వరి",
+    "fLTel": "ర",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "39e6fa0d-6cbc-45ef-9505-0f28732bf6ce",
+    "eng": "Roopindar",
+    "fLE": "R",
+    "tel": "రూపిందర్",
+    "fLTel": "ర",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "1c879eb2-1655-470f-82f0-e17254653c16",
+    "eng": "Roopinder",
+    "fLE": "R",
+    "tel": "రూపిండెర్",
+    "fLTel": "ర",
+    "tags": [],
+    "gen": "female",
+    "rel": "Sikh"
+  },
+  {
+    "id": "c73c3e6c-5512-4771-828a-e8ad32c878d0",
+    "eng": "Roopini",
+    "fLE": "R",
+    "tel": "రూపిని",
+    "fLTel": "ర",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "b8997642-4dad-4f36-8d08-be269ce818fc",
+    "eng": "Roopjot",
+    "fLE": "R",
+    "tel": "రూపఃజోత్",
+    "fLTel": "ర",
+    "tags": [],
+    "gen": "female",
+    "rel": "Sikh"
+  },
+  {
+    "id": "624ba8b1-186f-4f38-bec8-66cc6380c3e4",
+    "eng": "Roopkamal",
+    "fLE": "R",
+    "tel": "రూపకమాల్",
+    "fLTel": "ర",
+    "tags": [],
+    "gen": "female",
+    "rel": "Sikh"
+  },
+  {
+    "id": "dd607706-df42-4d7d-bcb6-5c5153e9dacb",
+    "eng": "Roopraaz",
+    "fLE": "R",
+    "tel": "రూపరాజ్",
+    "fLTel": "ర",
+    "tags": [],
+    "gen": "female",
+    "rel": "Sikh"
+  },
+  {
+    "id": "b5c9bcfb-85a8-4b38-be7e-2e16c3c77de2",
+    "eng": "Roopshika",
+    "fLE": "R",
+    "tel": "రూపశిక",
+    "fLTel": "ర",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  }
+]

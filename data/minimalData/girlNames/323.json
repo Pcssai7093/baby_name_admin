@@ -1,0 +1,922 @@
+[
+  {
+    "id": "f6ede0d4-939d-4d14-9547-9235b0534938",
+    "eng": "Nudra",
+    "fLE": "N",
+    "tel": "ముద్ర",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Muslim"
+  },
+  {
+    "id": "17c766e2-0d03-4fe4-aa7d-0e086ce01f06",
+    "eng": "Nudrat",
+    "fLE": "N",
+    "tel": "ముద్రతె",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Muslim"
+  },
+  {
+    "id": "0faed3d9-5829-45e2-b0ab-319746566a67",
+    "eng": "Nuen",
+    "fLE": "N",
+    "tel": "నుఎం",
+    "fLTel": "న",
+    "tags": [],
+    "gen": "female",
+    "rel": "others"
+  },
+  {
+    "id": "9373de11-385d-449f-942b-fa278daa1ae3",
+    "eng": "Nufaisa",
+    "fLE": "N",
+    "tel": "ముఫైసా",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Muslim"
+  },
+  {
+    "id": "630626ff-3a0d-42a1-b3e9-f58104ba3802",
+    "eng": "Nufaysah",
+    "fLE": "N",
+    "tel": "ముఫయిష",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Muslim"
+  },
+  {
+    "id": "673383c0-4ce8-4c4c-bc9f-30d0a2aef8a5",
+    "eng": "Nuha",
+    "fLE": "N",
+    "tel": "నుహ",
+    "fLTel": "న",
+    "tags": [],
+    "gen": "female",
+    "rel": "Muslim"
+  },
+  {
+    "id": "fac5f899-8c92-495d-ba05-0cc1802f310b",
+    "eng": "Nuhaa",
+    "fLE": "N",
+    "tel": "నిహా",
+    "fLTel": "న",
+    "tags": [],
+    "gen": "female",
+    "rel": "Muslim"
+  },
+  {
+    "id": "1e143fda-18cc-4b6c-a169-b88076430cc1",
+    "eng": "Nujan",
+    "fLE": "N",
+    "tel": "నిజం",
+    "fLTel": "న",
+    "tags": [],
+    "gen": "female",
+    "rel": "Muslim"
+  },
+  {
+    "id": "ed2e1d53-c5de-49e2-8949-42d961568b85",
+    "eng": "Nujat",
+    "fLE": "N",
+    "tel": "నిజాత్",
+    "fLTel": "న",
+    "tags": [],
+    "gen": "female",
+    "rel": "Muslim"
+  },
+  {
+    "id": "e442a541-9535-4e96-bbe7-e927d526eabf",
+    "eng": "Nujood",
+    "fLE": "N",
+    "tel": "నుజూడఁ",
+    "fLTel": "న",
+    "tags": [],
+    "gen": "female",
+    "rel": "Muslim"
+  },
+  {
+    "id": "db71316c-0f71-4aef-a81d-3986f093e5b8",
+    "eng": "Nujud",
+    "fLE": "N",
+    "tel": "కుజుడి",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "female",
+    "rel": "Muslim"
+  },
+  {
+    "id": "0b310744-7750-4aa9-845a-1e16dda586cf",
+    "eng": "Nuka",
+    "fLE": "N",
+    "tel": "నూక",
+    "fLTel": "న",
+    "tags": [],
+    "gen": "female",
+    "rel": "others"
+  },
+  {
+    "id": "5665508b-c0a8-4b7d-8dda-5b502e5718d7",
+    "eng": "Nukriti",
+    "fLE": "N",
+    "tel": "నుకృతి",
+    "fLTel": "న",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "a0733ffb-d76d-44a0-98ab-1aa58874668c",
+    "eng": "Num",
+    "fLE": "N",
+    "tel": "నుం",
+    "fLTel": "న",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "aa1a685e-5eaa-429e-9163-b869292b9c68",
+    "eng": "Numa",
+    "fLE": "N",
+    "tel": "నుమా",
+    "fLTel": "న",
+    "tags": [],
+    "gen": "female",
+    "rel": "Muslim"
+  },
+  {
+    "id": "f1f6620e-5ea1-4cfd-ba71-96217e21422e",
+    "eng": "Nunah",
+    "fLE": "N",
+    "tel": "ముఞ్చ",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Muslim"
+  },
+  {
+    "id": "f4111f44-6fa7-4388-9c2e-6593ae2a1a4c",
+    "eng": "Nunzia",
+    "fLE": "N",
+    "tel": "నుంజిత్",
+    "fLTel": "న",
+    "tags": [],
+    "gen": "female",
+    "rel": "others"
+  },
+  {
+    "id": "75346745-87d8-4b0b-9cd4-c4fe1f8befc6",
+    "eng": "Nunziatina",
+    "fLE": "N",
+    "tel": "నుంజిట్టిన",
+    "fLTel": "న",
+    "tags": [],
+    "gen": "female",
+    "rel": "others"
+  },
+  {
+    "id": "4f9b5cb8-95fa-4866-ad57-ab082809297e",
+    "eng": "Nuo",
+    "fLE": "N",
+    "tel": "నువు",
+    "fLTel": "న",
+    "tags": [],
+    "gen": "female",
+    "rel": "others"
+  },
+  {
+    "id": "956dce69-439a-4523-9df9-8ec3d2caefba",
+    "eng": "Nuon",
+    "fLE": "N",
+    "tel": "నూన్",
+    "fLTel": "న",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "77f12c20-8b72-4224-8b3a-aa9c9a3bed80",
+    "eng": "Nupoor",
+    "fLE": "N",
+    "tel": "నుపుర్",
+    "fLTel": "న",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "b9aedba2-d742-42ea-b4e9-e20af4979e6b",
+    "eng": "Nupur",
+    "fLE": "N",
+    "tel": "నుపుర్",
+    "fLTel": "న",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "fd1d1cd5-6a95-4236-acf5-0b8f51a8c9c2",
+    "eng": "Nupura",
+    "fLE": "N",
+    "tel": "నూపుర",
+    "fLTel": "న",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "e4de9f06-d993-4863-832f-94fad21353e8",
+    "eng": "Nur",
+    "fLE": "N",
+    "tel": "నూర్",
+    "fLTel": "న",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "42c083cf-4653-4432-ac10-84c234ccbe83",
+    "eng": "Nur Al Huda",
+    "fLE": "N",
+    "tel": "నూర్ అల హుడా",
+    "fLTel": "న",
+    "tags": [],
+    "gen": "female",
+    "rel": "Muslim"
+  },
+  {
+    "id": "bb3d3881-eeed-4378-a4d6-b81a75be1c15",
+    "eng": "Nura",
+    "fLE": "N",
+    "tel": "నుర",
+    "fLTel": "న",
+    "tags": [],
+    "gen": "female",
+    "rel": "Muslim"
+  },
+  {
+    "id": "3fef58d4-55dc-4b3c-8904-99a4bc9d5c2e",
+    "eng": "Nurah",
+    "fLE": "N",
+    "tel": "నురహ్",
+    "fLTel": "న",
+    "tags": [],
+    "gen": "female",
+    "rel": "Muslim"
+  },
+  {
+    "id": "aef7f130-7b04-4f93-9ca2-b93424457dc5",
+    "eng": "Nuralain",
+    "fLE": "N",
+    "tel": "న్యూరాన్",
+    "fLTel": "న",
+    "tags": [],
+    "gen": "female",
+    "rel": "Muslim"
+  },
+  {
+    "id": "b75343de-5b84-4fc4-98f4-f70ceb8f7a0a",
+    "eng": "Nuralhuda",
+    "fLE": "N",
+    "tel": "నూఱాళ్హుదా",
+    "fLTel": "న",
+    "tags": [],
+    "gen": "female",
+    "rel": "Muslim"
+  },
+  {
+    "id": "1e6fe197-94a6-4f91-9d0c-8ceb6965e26b",
+    "eng": "Nuray",
+    "fLE": "N",
+    "tel": "నూరాయ్",
+    "fLTel": "న",
+    "tags": [],
+    "gen": "female",
+    "rel": "Muslim"
+  },
+  {
+    "id": "d4c92853-155c-45f5-83a9-0b80bd4ba0cc",
+    "eng": "Nurayda",
+    "fLE": "N",
+    "tel": "నూరేదా",
+    "fLTel": "న",
+    "tags": [],
+    "gen": "female",
+    "rel": "Muslim"
+  },
+  {
+    "id": "975fce44-56e5-4ebb-b8bc-413ef37d699c",
+    "eng": "Nureen",
+    "fLE": "N",
+    "tel": "నూరీన్",
+    "fLTel": "న",
+    "tags": [],
+    "gen": "female",
+    "rel": "Muslim"
+  },
+  {
+    "id": "813b191c-d9c0-427c-ac71-cb06032de327",
+    "eng": "Nuria",
+    "fLE": "N",
+    "tel": "నూరియా",
+    "fLTel": "న",
+    "tags": [],
+    "gen": "female",
+    "rel": "others"
+  },
+  {
+    "id": "78fe4bed-b30f-4d4e-860e-f432178cfd8a",
+    "eng": "Nuriah",
+    "fLE": "N",
+    "tel": "నురయ్య",
+    "fLTel": "న",
+    "tags": [],
+    "gen": "female",
+    "rel": "others"
+  },
+  {
+    "id": "efabfaca-5f17-4cda-a077-e03db015e62a",
+    "eng": "Nurin",
+    "fLE": "N",
+    "tel": "నూరిన",
+    "fLTel": "న",
+    "tags": [],
+    "gen": "female",
+    "rel": "Muslim"
+  },
+  {
+    "id": "9bf259d1-d354-4923-b7f1-84c82e06ab76",
+    "eng": "Nuris",
+    "fLE": "N",
+    "tel": "నూరీస్",
+    "fLTel": "న",
+    "tags": [],
+    "gen": "female",
+    "rel": "others"
+  },
+  {
+    "id": "b0bfc340-255c-4651-91e0-198b4a8e914e",
+    "eng": "Nurit",
+    "fLE": "N",
+    "tel": "నూరిటి",
+    "fLTel": "న",
+    "tags": [],
+    "gen": "female",
+    "rel": "others"
+  },
+  {
+    "id": "ff8c803c-56bf-465d-ae5a-33ead38ba2fe",
+    "eng": "Nuriya",
+    "fLE": "N",
+    "tel": "నూరియా",
+    "fLTel": "న",
+    "tags": [],
+    "gen": "female",
+    "rel": "Muslim"
+  },
+  {
+    "id": "7a13febc-4e41-455a-8378-3ea14dadcd44",
+    "eng": "Nuriyah",
+    "fLE": "N",
+    "tel": "నూరియాహ్",
+    "fLTel": "న",
+    "tags": [],
+    "gen": "female",
+    "rel": "Muslim"
+  },
+  {
+    "id": "87884da0-9dca-4aaa-8cc8-427404c0149a",
+    "eng": "Nurjahan",
+    "fLE": "N",
+    "tel": "నూర్జహాన్",
+    "fLTel": "న",
+    "tags": [],
+    "gen": "female",
+    "rel": "Muslim"
+  },
+  {
+    "id": "b013eb91-d4ad-4c65-ab37-ed76cf54fc7a",
+    "eng": "Nurjamal",
+    "fLE": "N",
+    "tel": "నూర్జామల్",
+    "fLTel": "న",
+    "tags": [],
+    "gen": "female",
+    "rel": "Muslim"
+  },
+  {
+    "id": "f370f22a-ca50-43f2-8e09-5ee290fe42e8",
+    "eng": "Nurjenna",
+    "fLE": "N",
+    "tel": "నూర్జిన్న",
+    "fLTel": "న",
+    "tags": [],
+    "gen": "female",
+    "rel": "Muslim"
+  },
+  {
+    "id": "89955053-4507-4593-8c46-ca00b1b63d5e",
+    "eng": "nurten",
+    "fLE": "n",
+    "tel": "నూరైన్",
+    "fLTel": "న",
+    "tags": [],
+    "gen": "female",
+    "rel": "Muslim"
+  },
+  {
+    "id": "144cfbcb-2aa5-43af-9925-e296c458420a",
+    "eng": "Nuru",
+    "fLE": "N",
+    "tel": "నూరు",
+    "fLTel": "న",
+    "tags": [],
+    "gen": "female",
+    "rel": "Muslim"
+  },
+  {
+    "id": "f18b5724-505a-4518-a63c-9b7336e131bf",
+    "eng": "Nurul",
+    "fLE": "N",
+    "tel": "నూరుల్",
+    "fLTel": "న",
+    "tags": [],
+    "gen": "female",
+    "rel": "Muslim"
+  },
+  {
+    "id": "1298582c-fdd7-4ddc-b2c3-fd6fda04d4a2",
+    "eng": "Nurul Sahar",
+    "fLE": "N",
+    "tel": "నూరుల్ సహారా",
+    "fLTel": "న",
+    "tags": [],
+    "gen": "female",
+    "rel": "Muslim"
+  },
+  {
+    "id": "b1f30052-a1e4-4479-8cd6-356f212b637f",
+    "eng": "Nuryn",
+    "fLE": "N",
+    "tel": "నూరీన్",
+    "fLTel": "న",
+    "tags": [],
+    "gen": "female",
+    "rel": "Muslim"
+  },
+  {
+    "id": "b2c01222-3e1f-46a7-ae1b-96bb6ffa1f21",
+    "eng": "Nusa",
+    "fLE": "N",
+    "tel": "నుసి",
+    "fLTel": "న",
+    "tags": [],
+    "gen": "female",
+    "rel": "others"
+  },
+  {
+    "id": "c0217b0f-1022-4c51-bb48-20bb13bdddba",
+    "eng": "Nusaiba",
+    "fLE": "N",
+    "tel": "ముసాయిబా",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Muslim"
+  },
+  {
+    "id": "c54608f8-5f73-4651-afd5-8e3dc405a407",
+    "eng": "Nusaibah",
+    "fLE": "N",
+    "tel": "న్యూసైబ",
+    "fLTel": "న",
+    "tags": [],
+    "gen": "female",
+    "rel": "Muslim"
+  },
+  {
+    "id": "05f5ccb5-f608-4f0c-8a4d-4fe873908320",
+    "eng": "Nusayba",
+    "fLE": "N",
+    "tel": "ముసాయిబా",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Muslim"
+  },
+  {
+    "id": "100aedaf-a2ae-49b0-b1ea-988aea33ec22",
+    "eng": "Nusaybah",
+    "fLE": "N",
+    "tel": "న్యూసైబ",
+    "fLTel": "న",
+    "tags": [],
+    "gen": "female",
+    "rel": "Muslim"
+  },
+  {
+    "id": "6f7a3fa9-9304-4c8a-903a-c7404e1019c7",
+    "eng": "Nushi",
+    "fLE": "N",
+    "tel": "నిశి",
+    "fLTel": "న",
+    "tags": [],
+    "gen": "female",
+    "rel": "others"
+  },
+  {
+    "id": "0c21a5a5-be48-4bd2-bd93-b0fe83e00e28",
+    "eng": "Nushita",
+    "fLE": "N",
+    "tel": "నిశిత",
+    "fLTel": "న",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "efb2c705-0664-4900-b9b8-bf964b57caf9",
+    "eng": "Nushka",
+    "fLE": "N",
+    "tel": "నుష్క",
+    "fLTel": "న",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "f6997edf-4866-41e0-8a8c-77d83a2d36a5",
+    "eng": "Nusrah",
+    "fLE": "N",
+    "tel": "నుస్రహ్",
+    "fLTel": "న",
+    "tags": [],
+    "gen": "female",
+    "rel": "Muslim"
+  },
+  {
+    "id": "2b0e748c-e000-4cd9-b815-478c5eb28019",
+    "eng": "Nusrath",
+    "fLE": "N",
+    "tel": "నుస్రత్",
+    "fLTel": "న",
+    "tags": [],
+    "gen": "female",
+    "rel": "Muslim"
+  },
+  {
+    "id": "ac1b5e74-1123-4239-abfc-9d98bea40a50",
+    "eng": "Nusreta",
+    "fLE": "N",
+    "tel": "నుసరిత",
+    "fLTel": "న",
+    "tags": [],
+    "gen": "female",
+    "rel": "Muslim"
+  },
+  {
+    "id": "77243101-d387-4573-af7c-60fcc6f9fbdf",
+    "eng": "Nutan",
+    "fLE": "N",
+    "tel": "నూతన",
+    "fLTel": "న",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "1e581b11-7ba9-4ca9-8793-25344449067a",
+    "eng": "Nuthan",
+    "fLE": "N",
+    "tel": "నూతన",
+    "fLTel": "న",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "21a237cf-a510-4fbb-bb91-9ef5a6697802",
+    "eng": "Nuthana",
+    "fLE": "N",
+    "tel": "నూతన",
+    "fLTel": "న",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "1103599a-b514-408e-bd0a-dd823d1f6b62",
+    "eng": "Nuthija",
+    "fLE": "N",
+    "tel": "నుతిజ",
+    "fLTel": "న",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "e934920c-89dd-4d0d-8724-e4a7baf82df7",
+    "eng": "Nuti",
+    "fLE": "N",
+    "tel": "నూతి",
+    "fLTel": "న",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "cbfb5d49-e201-47cd-9dcd-79e10b5bfee7",
+    "eng": "Nuwa",
+    "fLE": "N",
+    "tel": "నువ",
+    "fLTel": "న",
+    "tags": [],
+    "gen": "female",
+    "rel": "others"
+  },
+  {
+    "id": "220a6152-5329-4e42-90b4-9bc288715899",
+    "eng": "Nuwaira",
+    "fLE": "N",
+    "tel": "నువైర",
+    "fLTel": "న",
+    "tags": [],
+    "gen": "female",
+    "rel": "Muslim"
+  },
+  {
+    "id": "6703c8ca-5b88-4a99-b32a-18077453aade",
+    "eng": "Nuwairah",
+    "fLE": "N",
+    "tel": "నువైరహ్",
+    "fLTel": "న",
+    "tags": [],
+    "gen": "female",
+    "rel": "Muslim"
+  },
+  {
+    "id": "6ea934d8-4d72-4d6a-aa52-76f28941cad9",
+    "eng": "Nuwayla",
+    "fLE": "N",
+    "tel": "నువేల",
+    "fLTel": "న",
+    "tags": [],
+    "gen": "female",
+    "rel": "Muslim"
+  },
+  {
+    "id": "a5937137-bd76-4547-83a6-b06e25b9717c",
+    "eng": "Nuwaylah",
+    "fLE": "N",
+    "tel": "నువేలహ్",
+    "fLTel": "న",
+    "tags": [],
+    "gen": "female",
+    "rel": "Muslim"
+  },
+  {
+    "id": "60a9d286-f15d-4b32-a8b3-1ee96efe9d25",
+    "eng": "Nuwayrah",
+    "fLE": "N",
+    "tel": "నువేరః",
+    "fLTel": "న",
+    "tags": [],
+    "gen": "female",
+    "rel": "Muslim"
+  },
+  {
+    "id": "7c247ab3-89d5-483d-bc5d-f1ce6932e742",
+    "eng": "Nuzar",
+    "fLE": "N",
+    "tel": "నిజార్",
+    "fLTel": "న",
+    "tags": [],
+    "gen": "female",
+    "rel": "Muslim"
+  },
+  {
+    "id": "c63b2d09-7d97-4e9f-a0bf-a8119f58b6fc",
+    "eng": "Nuzha",
+    "fLE": "N",
+    "tel": "నిజ",
+    "fLTel": "న",
+    "tags": [],
+    "gen": "female",
+    "rel": "Muslim"
+  },
+  {
+    "id": "6f1f6d99-0c32-44a0-a80f-8e338f99aa7b",
+    "eng": "Nuzhah",
+    "fLE": "N",
+    "tel": "నుజహ్",
+    "fLTel": "న",
+    "tags": [],
+    "gen": "female",
+    "rel": "Muslim"
+  },
+  {
+    "id": "1e07ada8-5ca9-46df-96cf-9e42e5c0c139",
+    "eng": "Nuzhat",
+    "fLE": "N",
+    "tel": "నుజట్",
+    "fLTel": "న",
+    "tags": [],
+    "gen": "female",
+    "rel": "Muslim"
+  },
+  {
+    "id": "3bfc141c-699f-4ce3-a20f-9e209834b509",
+    "eng": "Nweh",
+    "fLE": "N",
+    "tel": "న్వేహ్",
+    "fLTel": "న",
+    "tags": [],
+    "gen": "female",
+    "rel": "others"
+  },
+  {
+    "id": "27a4af34-5427-42e1-aa6f-731dd28d16b3",
+    "eng": "Nyaguthii",
+    "fLE": "N",
+    "tel": "న్యగుత్తి",
+    "fLTel": "న",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "5accfb34-6659-4490-96e5-0aacf7b95821",
+    "eng": "Nyah",
+    "fLE": "N",
+    "tel": "ణ్యాహ",
+    "fLTel": "ణ",
+    "tags": [],
+    "gen": "female",
+    "rel": "others"
+  },
+  {
+    "id": "3a395312-b377-48e7-ae75-cf59474b4f4d",
+    "eng": "Nyaja",
+    "fLE": "N",
+    "tel": "న్యజ",
+    "fLTel": "న",
+    "tags": [],
+    "gen": "female",
+    "rel": "others"
+  },
+  {
+    "id": "d6d169bf-ceb1-40c5-b8ac-915e0d8c1f92",
+    "eng": "Nyakio",
+    "fLE": "N",
+    "tel": "న్యకియో",
+    "fLTel": "న",
+    "tags": [],
+    "gen": "female",
+    "rel": "others"
+  },
+  {
+    "id": "05b8c451-9ca6-4129-a385-33fd5f277e32",
+    "eng": "Nyala",
+    "fLE": "N",
+    "tel": "న్యాల",
+    "fLTel": "న",
+    "tags": [],
+    "gen": "female",
+    "rel": "others"
+  },
+  {
+    "id": "d0ca1eb0-aadf-414b-8a39-892c14129411",
+    "eng": "Nyambura",
+    "fLE": "N",
+    "tel": "న్యంబురా",
+    "fLTel": "న",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "af7e9860-d3d0-49eb-9095-89adaef37611",
+    "eng": "Nyanjera",
+    "fLE": "N",
+    "tel": "నీఅంజీర",
+    "fLTel": "న",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "1c708032-3406-4dd1-bfbc-0e84a9b33ae8",
+    "eng": "Nyarai",
+    "fLE": "N",
+    "tel": "నయరై",
+    "fLTel": "న",
+    "tags": [],
+    "gen": "female",
+    "rel": "others"
+  },
+  {
+    "id": "16d710b4-d3de-43d3-9774-bd4902f9edd6",
+    "eng": "Nyari",
+    "fLE": "N",
+    "tel": "న్యరి",
+    "fLTel": "న",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "7283dce4-5b2d-4d7f-96a9-712f007ea5e4",
+    "eng": "Nyasa",
+    "fLE": "N",
+    "tel": "న్యాస",
+    "fLTel": "న",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "01a58b79-f204-4773-abd5-1fbd1958ac33",
+    "eng": "Nyasha",
+    "fLE": "N",
+    "tel": "న్యశ",
+    "fLTel": "న",
+    "tags": [],
+    "gen": "female",
+    "rel": "others"
+  },
+  {
+    "id": "91d1f81e-f158-4ff3-83b1-9bad7062a728",
+    "eng": "Nyasia",
+    "fLE": "N",
+    "tel": "న్యాసియా",
+    "fLTel": "న",
+    "tags": [],
+    "gen": "female",
+    "rel": "Muslim"
+  },
+  {
+    "id": "ce87b1bd-1b9e-4308-a391-becd146f8e83",
+    "eng": "Nyathera",
+    "fLE": "N",
+    "tel": "న్యథేరా",
+    "fLTel": "న",
+    "tags": [],
+    "gen": "female",
+    "rel": "others"
+  },
+  {
+    "id": "a4c396e8-0dac-4762-b94b-6f659c359787",
+    "eng": "Nyawira",
+    "fLE": "N",
+    "tel": "న్యవిరా",
+    "fLTel": "న",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "e75ffa7e-75f9-4c87-b4c7-801986357b1c",
+    "eng": "Nyaya",
+    "fLE": "N",
+    "tel": "న్యాయ",
+    "fLTel": "న",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "5d4b1094-3f48-4a1c-ae40-36f966114138",
+    "eng": "Nycole",
+    "fLE": "N",
+    "tel": "నీకాలే",
+    "fLTel": "న",
+    "tags": [],
+    "gen": "female",
+    "rel": "others"
+  },
+  {
+    "id": "d1a93858-176f-4171-b4a2-35b42a94e2cb",
+    "eng": "Nydhile",
+    "fLE": "N",
+    "tel": "నీదిలే",
+    "fLTel": "న",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "ce802486-7b60-4b57-bee3-6fd023f9136b",
+    "eng": "Nydia",
+    "fLE": "N",
+    "tel": "నీడై",
+    "fLTel": "న",
+    "tags": [],
+    "gen": "female",
+    "rel": "others"
+  }
+]

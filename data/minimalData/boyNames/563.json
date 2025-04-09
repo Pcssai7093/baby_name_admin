@@ -1,0 +1,862 @@
+[
+  {
+    "id": "46629258-ac33-4825-b2a2-aa15c69fb731",
+    "eng": "Unal",
+    "fLE": "U",
+    "tel": "కునాల్",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "d55af33b-7e09-4a97-88e8-3a0af974fdca",
+    "eng": "Unam",
+    "fLE": "U",
+    "tel": "ఉనం",
+    "fLTel": "ఉ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "d4159a2a-2f07-459e-85d8-d7f8cb5e0ce6",
+    "eng": "Unays",
+    "fLE": "U",
+    "tel": "ఉనాయ్స్",
+    "fLTel": "ఉ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "b5e334c2-b550-4742-8836-778ca54bb136",
+    "eng": "Unferth",
+    "fLE": "U",
+    "tel": "ఉంఫత్",
+    "fLTel": "ఉ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "d8c9d723-027b-4b5a-9da5-fe857b3bdea2",
+    "eng": "Uninaj",
+    "fLE": "U",
+    "tel": "అనిఞ్జ",
+    "fLTel": "అ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "371bf33e-4b97-4310-a33f-b2c71dde14e8",
+    "eng": "Uninesh",
+    "fLE": "U",
+    "tel": "యూనిన్స్",
+    "fLTel": "య",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "56303489-b7ca-455d-ab80-44ff52f4b692",
+    "eng": "Unkar",
+    "fLE": "U",
+    "tel": "ఉన్కార్",
+    "fLTel": "ఉ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Sikh"
+  },
+  {
+    "id": "f08b110e-90b4-460c-961a-4ddee6842bee",
+    "eng": "Unkarjit",
+    "fLE": "U",
+    "tel": "ఉంకర్జిత్",
+    "fLTel": "ఉ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Sikh"
+  },
+  {
+    "id": "b7e3309d-2e6c-4e36-b962-2ffaa1ce8b3c",
+    "eng": "Unkarpreet",
+    "fLE": "U",
+    "tel": "ఉన్కార్ప్రీత్",
+    "fLTel": "ఉ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Sikh"
+  },
+  {
+    "id": "240004ed-d898-400b-b5dc-418f030935e7",
+    "eng": "Unlaf",
+    "fLE": "U",
+    "tel": "ఉంలాఫ్",
+    "fLTel": "ఉ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "57da835f-2418-4631-b2cb-9e0a9f6ebadd",
+    "eng": "Unmaan",
+    "fLE": "U",
+    "tel": "ఉన్మాన్",
+    "fLTel": "ఉ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Sikh"
+  },
+  {
+    "id": "2f3f0bce-74c9-4cff-806b-eda656cfd86e",
+    "eng": "Unmaivilambi",
+    "fLE": "U",
+    "tel": "ఉన్మివిళంబి",
+    "fLTel": "ఉ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "b950e33f-4c02-4c8c-9695-3a636af7c418",
+    "eng": "Unmaivirumbi",
+    "fLE": "U",
+    "tel": "ఉన్మివిరుంబి",
+    "fLTel": "ఉ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "74baf2b0-25b0-4fea-bd28-3577f9737d67",
+    "eng": "Unmesh",
+    "fLE": "U",
+    "tel": "ఉన్మేష",
+    "fLTel": "ఉ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "6716c3ff-830d-43ea-8a52-2df15ca8b1ff",
+    "eng": "Unnabh",
+    "fLE": "U",
+    "tel": "ఉన్నభ",
+    "fLTel": "ఉ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "20d6618b-a994-4995-b450-b513f40eb495",
+    "eng": "Unnamed",
+    "fLE": "U",
+    "tel": "ఉన్నమెద్",
+    "fLTel": "ఉ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "1a71edd1-b520-4264-8ab7-ece0ec836a67",
+    "eng": "Unnat",
+    "fLE": "U",
+    "tel": "ఉన్నత",
+    "fLTel": "ఉ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "5ed9b963-5e84-42e1-b228-370513e23dca",
+    "eng": "Unnatish",
+    "fLE": "U",
+    "tel": "ఉన్నతిష్",
+    "fLTel": "ఉ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "8a4576a8-ec27-4e52-be3e-319289392f74",
+    "eng": "Unnikrishnan",
+    "fLE": "U",
+    "tel": "ఉన్నికృష్ణన్",
+    "fLTel": "ఉ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "09bcd69d-80b8-40b4-929f-8389ff42f472",
+    "eng": "Uno",
+    "fLE": "U",
+    "tel": "అనో",
+    "fLTel": "అ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "29f75554-bff6-4a52-932e-7bfe3a5b7675",
+    "eng": "Unsar",
+    "fLE": "U",
+    "tel": "ఆన్సర్",
+    "fLTel": "ఆ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "553d1a4f-ef8f-4ce1-b632-c1f3e9d190af",
+    "eng": "Unwine",
+    "fLE": "U",
+    "tel": "ఉంవినే",
+    "fLTel": "ఉ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "abe68ed3-ac3f-4436-a8e2-9f9e42069e9b",
+    "eng": "Unwinn",
+    "fLE": "U",
+    "tel": "ఉంవిన్",
+    "fLTel": "ఉ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "0ca874ba-83e2-4940-af4b-061fe520737c",
+    "eng": "Unwona",
+    "fLE": "U",
+    "tel": "ఉంవన",
+    "fLTel": "ఉ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "f990d131-d601-4070-9d9b-e23877484595",
+    "eng": "Upachithra",
+    "fLE": "U",
+    "tel": "ఉపచిత్ర",
+    "fLTel": "ఉ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "bf211ac0-94b3-442f-be7c-85d1e45761b1",
+    "eng": "Upadesh",
+    "fLE": "U",
+    "tel": "ఉపదేశ్",
+    "fLTel": "ఉ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "3307160e-6e0d-4d3c-ae32-23b3db7757a4",
+    "eng": "Upagupta",
+    "fLE": "U",
+    "tel": "ఉపగుప్త",
+    "fLTel": "ఉ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "1ffb8dbb-5cd9-492b-850d-d1d5c603ca3f",
+    "eng": "Upahar",
+    "fLE": "U",
+    "tel": "ఉపహార్",
+    "fLTel": "ఉ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "ad9b8caa-25de-471e-acc8-30df31a11a17",
+    "eng": "Upakaar",
+    "fLE": "U",
+    "tel": "ఉపకార",
+    "fLTel": "ఉ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "5f1b2588-2040-4282-a521-96a33c7ddc54",
+    "eng": "Upal",
+    "fLE": "U",
+    "tel": "ఉప్పల్",
+    "fLTel": "ఉ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "e0917bc2-b990-4cc6-8b2b-7e3b9323b2fc",
+    "eng": "Upam",
+    "fLE": "U",
+    "tel": "ఉపాయం",
+    "fLTel": "ఉ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "406fa7d5-1284-4cb3-86a6-9f89d838fcca",
+    "eng": "Upamanyu",
+    "fLE": "U",
+    "tel": "ఉపమన్యు",
+    "fLTel": "ఉ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "c6178dd6-dcfe-4d28-9c58-bd5b3f86d00b",
+    "eng": "Upananda",
+    "fLE": "U",
+    "tel": "ఉపనన్ద",
+    "fLTel": "ఉ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "3c57a3b2-5fb7-49c4-a543-ad2ca2b48036",
+    "eng": "Upanay",
+    "fLE": "U",
+    "tel": "ఉపనయ్",
+    "fLTel": "ఉ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "4c940521-5508-4bd4-a09f-2f9e1564f5aa",
+    "eng": "Upanayik",
+    "fLE": "U",
+    "tel": "ఉపనాయిక్",
+    "fLTel": "ఉ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "612a65f4-8b77-4e06-9f88-9cf2e9726bed",
+    "eng": "Upang",
+    "fLE": "U",
+    "tel": "ఉపాంగ్",
+    "fLTel": "ఉ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "30d70bfb-e501-4b11-ad6a-f2749c63479a",
+    "eng": "Upangshu",
+    "fLE": "U",
+    "tel": "ఉపాంగ్షు",
+    "fLTel": "ఉ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "3766024b-1bfb-48e9-92b4-2ad53771c879",
+    "eng": "Upanshu",
+    "fLE": "U",
+    "tel": "ఉపాంశు",
+    "fLTel": "ఉ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "71228d84-9e5f-4d9d-89e2-006cbce7b44e",
+    "eng": "Uparvin",
+    "fLE": "U",
+    "tel": "ఉపాథివీం",
+    "fLTel": "ఉ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "6980207f-7a52-42c3-9325-1bf426135079",
+    "eng": "Upasan",
+    "fLE": "U",
+    "tel": "ఉపాసన",
+    "fLTel": "ఉ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "00d5ce8a-7044-4fa0-827d-a46f5f7cbc38",
+    "eng": "Upashubh",
+    "fLE": "U",
+    "tel": "ఉపశుభ్",
+    "fLTel": "ఉ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "eb6f1aa4-7ee3-4b4f-a10c-5dc65cbd2f15",
+    "eng": "Upavan",
+    "fLE": "U",
+    "tel": "ఉపవాన్",
+    "fLTel": "ఉ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Sikh"
+  },
+  {
+    "id": "d232d860-c98c-4968-a010-686ff6707215",
+    "eng": "Upavi",
+    "fLE": "U",
+    "tel": "ఉపవీ",
+    "fLTel": "ఉ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "e1684622-6631-4382-9962-4c1925773a33",
+    "eng": "Upayan",
+    "fLE": "U",
+    "tel": "ఉపాయం",
+    "fLTel": "ఉ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "9b85d827-991a-4c0c-a855-7de9cf161ea8",
+    "eng": "Upchurch",
+    "fLE": "U",
+    "tel": "ఉపచర్చ",
+    "fLTel": "ఉ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "17498df8-ce24-4a73-bed0-556bf7cf89b9",
+    "eng": "Updes",
+    "fLE": "U",
+    "tel": "ఉపదేశ్",
+    "fLTel": "ఉ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "07cdf72d-6f9a-4920-80c4-c3e8169483db",
+    "eng": "Updesh",
+    "fLE": "U",
+    "tel": "ఉపదేశ్",
+    "fLTel": "ఉ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Sikh"
+  },
+  {
+    "id": "bc94bebc-af5b-4c9c-b4af-596553857b5b",
+    "eng": "Upeksh",
+    "fLE": "U",
+    "tel": "ఉపేక్ష",
+    "fLTel": "ఉ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "2e257ff0-c759-4f63-b086-99a45f980345",
+    "eng": "Upendar",
+    "fLE": "U",
+    "tel": "ఉపేందర్",
+    "fLTel": "ఉ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "d8d13834-1752-4356-ad8a-b4ed65089882",
+    "eng": "Upender",
+    "fLE": "U",
+    "tel": "ఉపేందర్",
+    "fLTel": "ఉ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "0bcc943a-6e0c-4e49-ac44-16363d885a6a",
+    "eng": "Upendra",
+    "fLE": "U",
+    "tel": "ఉపేంద్ర",
+    "fLTel": "ఉ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "aa489571-bd5a-4c5d-bdb6-abff100fc730",
+    "eng": "Upendrakishore",
+    "fLE": "U",
+    "tel": "ఉపేంద్రకిశోరే",
+    "fLTel": "ఉ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "c0dae086-c1e9-4439-a803-dd2bdc2605f7",
+    "eng": "Upendran",
+    "fLE": "U",
+    "tel": "ఉపేంద్రన్",
+    "fLTel": "ఉ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "8560bcff-e16b-4dae-bc17-451cd867f9ba",
+    "eng": "Upendranath",
+    "fLE": "U",
+    "tel": "ఉపేంద్రనాథ్",
+    "fLTel": "ఉ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "d4d32a04-bfc7-4bdb-8d64-f5542a7e72ea",
+    "eng": "Upesh",
+    "fLE": "U",
+    "tel": "ఉపేష్",
+    "fLTel": "ఉ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "510af65a-b911-4407-ae64-59936bb3640d",
+    "eng": "Upinder",
+    "fLE": "U",
+    "tel": "ఊపిందర్",
+    "fLTel": "ఊ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Sikh"
+  },
+  {
+    "id": "b43398e3-bdd3-410d-abf1-a0357896f313",
+    "eng": "Upinderjit",
+    "fLE": "U",
+    "tel": "ఆపిందెర్జిత్",
+    "fLTel": "ఆ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Sikh"
+  },
+  {
+    "id": "ff741224-0a7c-48b5-a6a4-6c23b230c9c0",
+    "eng": "Upinderjot",
+    "fLE": "U",
+    "tel": "ఆపిందెఱఁజోత్",
+    "fLTel": "ఆ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Sikh"
+  },
+  {
+    "id": "126a96a2-ba8f-4a8a-ba9a-7e8e3d767c3e",
+    "eng": "Upindermeet",
+    "fLE": "U",
+    "tel": "ఉపిండెర్మ్ట్",
+    "fLTel": "ఉ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Sikh"
+  },
+  {
+    "id": "48e86508-0668-412b-98ac-9df8355ad056",
+    "eng": "Upinderpreet",
+    "fLE": "U",
+    "tel": "ఆపిందెర్ప్రీత్",
+    "fLTel": "ఆ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Sikh"
+  },
+  {
+    "id": "3f6b6cf6-aaf8-4226-841e-15286bba7c2a",
+    "eng": "Upjas",
+    "fLE": "U",
+    "tel": "ఉపజాస్",
+    "fLTel": "ఉ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "3ec9595c-df00-4282-aebf-d0841a9f72e9",
+    "eng": "Upjay",
+    "fLE": "U",
+    "tel": "ఉపజాయ్",
+    "fLTel": "ఉ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "6abf8c93-b4d8-48e3-a6b7-fff14b473d9e",
+    "eng": "Upjeet",
+    "fLE": "U",
+    "tel": "యూపీజీటీ",
+    "fLTel": "య",
+    "tags": [],
+    "gen": "male",
+    "rel": "Sikh"
+  },
+  {
+    "id": "bfaafed2-18bb-48c7-98bf-ff38a10a2f7c",
+    "eng": "Upjeeth",
+    "fLE": "U",
+    "tel": "ఉపజీత్",
+    "fLTel": "ఉ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "1f1bd7a2-fb55-456d-889b-6f99ce790749",
+    "eng": "Upjit",
+    "fLE": "U",
+    "tel": "ఉపజిత్",
+    "fLTel": "ఉ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "3dd28c4d-b78d-43c6-9155-3f2c7d718494",
+    "eng": "Upkaar",
+    "fLE": "U",
+    "tel": "ఉపకార",
+    "fLTel": "ఉ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Sikh"
+  },
+  {
+    "id": "f59af2e7-d293-43b2-a03c-a9318c3cc9ba",
+    "eng": "Upkar",
+    "fLE": "U",
+    "tel": "ఉపకార",
+    "fLTel": "ఉ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "b18eab48-8c91-499d-9dda-6dfee9e1fbff",
+    "eng": "Upkaram",
+    "fLE": "U",
+    "tel": "ఉపకారం",
+    "fLTel": "ఉ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Sikh"
+  },
+  {
+    "id": "40fa8759-2319-4545-b741-53287e30f5c1",
+    "eng": "Upkash",
+    "fLE": "U",
+    "tel": "ఉపకాశ్",
+    "fLTel": "ఉ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "ed0f5901-8de3-453a-b587-a7460eef8210",
+    "eng": "Upkeerat",
+    "fLE": "U",
+    "tel": "ఉపకీరత్",
+    "fLTel": "ఉ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Sikh"
+  },
+  {
+    "id": "1f4507e6-454e-49d6-8285-8d73d6a88326",
+    "eng": "Upkosh",
+    "fLE": "U",
+    "tel": "అప్కోస్",
+    "fLTel": "అ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "e32abdb5-7a08-4797-92bc-22a5a1a04211",
+    "eng": "Upneet",
+    "fLE": "U",
+    "tel": "ఉపనేత",
+    "fLTel": "ఉ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Sikh"
+  },
+  {
+    "id": "98b28fbd-da50-401c-9a7a-2f790b2efc7f",
+    "eng": "Upodayam",
+    "fLE": "U",
+    "tel": "ఉపాదాయం",
+    "fLTel": "ఉ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "c15668c4-cda7-4b0a-95de-ffcfd4586e53",
+    "eng": "Upoddath",
+    "fLE": "U",
+    "tel": "ఉపొద్దత్",
+    "fLTel": "ఉ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "27790483-2e1e-41f1-b5ec-33c35d41de66",
+    "eng": "Upol",
+    "fLE": "U",
+    "tel": "ఉపోల్",
+    "fLTel": "ఉ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "35c61b0b-d386-4e16-8a89-d27749f7bf71",
+    "eng": "Uppal",
+    "fLE": "U",
+    "tel": "ఉప్పల్",
+    "fLTel": "ఉ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "e281dd10-2325-4489-bdbd-3213fc53325b",
+    "eng": "Uppas",
+    "fLE": "U",
+    "tel": "ఉప్పస్",
+    "fLTel": "ఉ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "f141a095-7040-4d8d-807d-01ace19340aa",
+    "eng": "Upraj",
+    "fLE": "U",
+    "tel": "ఉప్రజ్",
+    "fLTel": "ఉ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Sikh"
+  },
+  {
+    "id": "51c04474-8b25-4451-b57d-bcaceccc3060",
+    "eng": "Upravda",
+    "fLE": "U",
+    "tel": "ఉప్రవద",
+    "fLTel": "ఉ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "7132a415-9fc4-4f0e-8a81-acd0ea52549f",
+    "eng": "Upshobhin",
+    "fLE": "U",
+    "tel": "ఉపశోభిం",
+    "fLTel": "ఉ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "d77fe415-8876-45bd-a022-2eae566e64f3",
+    "eng": "upton",
+    "fLE": "u",
+    "tel": "యూపీతోన్",
+    "fLTel": "య",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "882d719a-2fed-4d85-a02d-59fb8691bf5b",
+    "eng": "Uptonn",
+    "fLE": "U",
+    "tel": "యూపీతోన్న",
+    "fLTel": "య",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "479413e2-c0d0-4093-944a-9ee353cf8c0f",
+    "eng": "Uptun",
+    "fLE": "U",
+    "tel": "ఉప్తుం",
+    "fLTel": "ఉ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "4831a7ae-efe3-4248-86fd-1058d5e1e898",
+    "eng": "Upvan",
+    "fLE": "U",
+    "tel": "ఉపవాన్",
+    "fLTel": "ఉ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "70ec2569-9072-4e96-843a-6bec35df93de",
+    "eng": "Upwode",
+    "fLE": "U",
+    "tel": "ఉపవడే",
+    "fLTel": "ఉ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "41a99444-4b05-4180-a60b-171cb11766cd",
+    "eng": "upwood",
+    "fLE": "u",
+    "tel": "ఉపవూడ్",
+    "fLTel": "ఉ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  }
+]

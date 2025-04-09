@@ -1,0 +1,922 @@
+[
+  {
+    "id": "27890ab2-7e12-40c1-a1c1-2ea0192a2b1b",
+    "eng": "fanny",
+    "fLE": "f",
+    "tel": "ఫన్నీ",
+    "fLTel": "ఫ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "b55d7939-8c8c-4ff5-b236-d721382425dd",
+    "eng": "Fantasia",
+    "fLE": "F",
+    "tel": "ఫాంటాసియా",
+    "fLTel": "ఫ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "121ca65b-a68a-4c4e-b21c-ea5cf28fa10e",
+    "eng": "fantasia",
+    "fLE": "f",
+    "tel": "ఫాంటాసియా",
+    "fLTel": "ఫ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "d623a165-9002-496e-9a78-4a4aa4ebe51e",
+    "eng": "Fantina",
+    "fLE": "F",
+    "tel": "ఫాంటైనా",
+    "fLTel": "ఫ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "6e93fd74-3c3e-4cc1-9c9a-91207b2635ad",
+    "eng": "Fantine",
+    "fLE": "F",
+    "tel": "ఫాంటీనే",
+    "fLTel": "ఫ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "a0568410-df30-4823-be55-6701e3d1651d",
+    "eng": "fantine",
+    "fLE": "f",
+    "tel": "ఫాంటీనే",
+    "fLTel": "ఫ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "4aaefb8e-bae2-4fcf-a2c1-acdf3bcf698a",
+    "eng": "Fara",
+    "fLE": "F",
+    "tel": "ఫెరా",
+    "fLTel": "ఫ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Muslim"
+  },
+  {
+    "id": "7ba125a1-15b7-4a68-a0b6-6b8bec8b74d1",
+    "eng": "Faraah",
+    "fLE": "F",
+    "tel": "ఫరాహ్",
+    "fLTel": "ఫ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "a359ad32-11fb-445f-8f9b-5910c023abbd",
+    "eng": "Faraal",
+    "fLE": "F",
+    "tel": "ఫారాలు",
+    "fLTel": "ఫ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Muslim"
+  },
+  {
+    "id": "63d09efe-6d5c-4f08-bd08-a642e8d35043",
+    "eng": "Farah",
+    "fLE": "F",
+    "tel": "ఫరాహ్",
+    "fLTel": "ఫ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Muslim"
+  },
+  {
+    "id": "f3e698fc-83c5-4851-8df2-801c36e4aa99",
+    "eng": "Farahilde",
+    "fLE": "F",
+    "tel": "ఫేరాహిల్డ్",
+    "fLTel": "ఫ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "05c2a1c3-b294-47fe-ad8f-6a2370681e10",
+    "eng": "Farahnaz",
+    "fLE": "F",
+    "tel": "ఫేరాహ్ణజ్",
+    "fLTel": "ఫ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Muslim"
+  },
+  {
+    "id": "8afeeb2c-79ee-41da-ab4f-e6e4ac177fdf",
+    "eng": "Farahnoush",
+    "fLE": "F",
+    "tel": "ఫరాహ్నౌష్",
+    "fLTel": "ఫ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Muslim"
+  },
+  {
+    "id": "553b57ff-53f0-4b5f-9bb7-e99e2f89f8c0",
+    "eng": "Faraja",
+    "fLE": "F",
+    "tel": "ఫేరాజా",
+    "fLTel": "ఫ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "c4870504-abd9-4d21-8ea2-e43438fc2d14",
+    "eng": "Farakh",
+    "fLE": "F",
+    "tel": "ఫరేఖ్",
+    "fLTel": "ఫ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Muslim"
+  },
+  {
+    "id": "13b7e681-4856-4288-8aac-dc5cfab9c54b",
+    "eng": "Faranaaz",
+    "fLE": "F",
+    "tel": "ఫరనాజ్",
+    "fLTel": "ఫ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Muslim"
+  },
+  {
+    "id": "8a375d68-572c-40e7-af47-d9d0554e4ec3",
+    "eng": "Faranah",
+    "fLE": "F",
+    "tel": "ఫరణః",
+    "fLTel": "ఫ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Muslim"
+  },
+  {
+    "id": "1c5b8bd9-a2b7-45c8-893e-a7cd0a960727",
+    "eng": "Farani",
+    "fLE": "F",
+    "tel": "ఫారాన్ని",
+    "fLTel": "ఫ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Muslim"
+  },
+  {
+    "id": "9f7496d5-8ccf-4e3f-9999-51ba57a992a1",
+    "eng": "farasha",
+    "fLE": "f",
+    "tel": "ఫరష",
+    "fLTel": "ఫ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Muslim"
+  },
+  {
+    "id": "ae2d61c5-9104-47f8-bb31-a07fbf5d828c",
+    "eng": "Farashah",
+    "fLE": "F",
+    "tel": "ఫేరాషా",
+    "fLTel": "ఫ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Muslim"
+  },
+  {
+    "id": "7bdc11b8-9367-450a-8bc1-ed9405a0dd2f",
+    "eng": "Farashuu",
+    "fLE": "F",
+    "tel": "ఫేరాశులు",
+    "fLTel": "ఫ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "8e009dba-2ada-4179-8546-2de4ee0bcfdb",
+    "eng": "Faraza",
+    "fLE": "F",
+    "tel": "ఫేరాజా",
+    "fLTel": "ఫ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Muslim"
+  },
+  {
+    "id": "36ece2ca-f628-47dd-886e-069adb84b032",
+    "eng": "Fardoos",
+    "fLE": "F",
+    "tel": "ఫేర్దూస్",
+    "fLTel": "ఫ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Muslim"
+  },
+  {
+    "id": "316e879f-57a2-40c6-adeb-0e74ad550bf2",
+    "eng": "Fardowsa",
+    "fLE": "F",
+    "tel": "ఫార్దౌస",
+    "fLTel": "ఫ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Muslim"
+  },
+  {
+    "id": "2a623cfa-3f1b-4c99-8482-bc10a2ced64c",
+    "eng": "Fareeda",
+    "fLE": "F",
+    "tel": "ఫరీదా",
+    "fLTel": "ఫ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Muslim"
+  },
+  {
+    "id": "73652e0d-8aa2-4971-bbe9-65770d63f298",
+    "eng": "fareeda",
+    "fLE": "f",
+    "tel": "ఫరీదా",
+    "fLTel": "ఫ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Muslim"
+  },
+  {
+    "id": "05a451f7-d62c-4524-ad5c-1767ef3741cf",
+    "eng": "Fareedah",
+    "fLE": "F",
+    "tel": "ఫ్రీదః",
+    "fLTel": "ఫ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Muslim"
+  },
+  {
+    "id": "b343afe0-77b1-4d15-b83b-75acad4d6bdc",
+    "eng": "Fareefta",
+    "fLE": "F",
+    "tel": "ఫ్రీఫ్తా",
+    "fLTel": "ఫ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Muslim"
+  },
+  {
+    "id": "d71aca1a-39de-4e7d-9937-3c77d669bcf9",
+    "eng": "Fareeha",
+    "fLE": "F",
+    "tel": "ఫేరీహ",
+    "fLTel": "ఫ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Muslim"
+  },
+  {
+    "id": "a7f9fb42-6c4e-411b-9e1b-d75f962fa13e",
+    "eng": "Fareena",
+    "fLE": "F",
+    "tel": "ఫ్రీన",
+    "fLTel": "ఫ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Muslim"
+  },
+  {
+    "id": "839d3706-558f-4468-abbe-d30beccb5824",
+    "eng": "Fareess",
+    "fLE": "F",
+    "tel": "ప్యారీస్",
+    "fLTel": "ప",
+    "tags": [],
+    "gen": "female",
+    "rel": "Muslim"
+  },
+  {
+    "id": "785935a5-57f1-4010-a217-4a3c63692f8b",
+    "eng": "Fareeza",
+    "fLE": "F",
+    "tel": "ఫ్రీజ",
+    "fLTel": "ఫ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Muslim"
+  },
+  {
+    "id": "b200ccfb-ad6f-4ad6-911b-66968946c3a9",
+    "eng": "Faren",
+    "fLE": "F",
+    "tel": "ఫారెన్",
+    "fLTel": "ఫ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "a3c6ccc1-f155-4380-aeb6-486ef78be620",
+    "eng": "Farfalla",
+    "fLE": "F",
+    "tel": "ఫెర్ఫాల్ల",
+    "fLTel": "ఫ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "fc733bfe-392e-4465-86e7-ebabaafb601c",
+    "eng": "Farha",
+    "fLE": "F",
+    "tel": "ఫర్హ",
+    "fLTel": "ఫ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Muslim"
+  },
+  {
+    "id": "ffa7cc61-8eed-4e89-81f4-87c133d2697c",
+    "eng": "Farhaana",
+    "fLE": "F",
+    "tel": "ఫర్హానా",
+    "fLTel": "ఫ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Muslim"
+  },
+  {
+    "id": "9ef8c796-2c03-48f4-8100-832327e85bec",
+    "eng": "Farhah",
+    "fLE": "F",
+    "tel": "ఫర్హాహ్",
+    "fLTel": "ఫ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Muslim"
+  },
+  {
+    "id": "7b81761d-15b3-4dd6-88ee-8e46c6248c53",
+    "eng": "Farhana",
+    "fLE": "F",
+    "tel": "ఫర్హానా",
+    "fLTel": "ఫ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Muslim"
+  },
+  {
+    "id": "b0606b22-f940-43b4-bf6b-6f9bbbb329d0",
+    "eng": "Farhanaa",
+    "fLE": "F",
+    "tel": "ఫర్హానా",
+    "fLTel": "ఫ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "3217408b-767f-4bad-b31b-b3ededc8c32e",
+    "eng": "Farhanah",
+    "fLE": "F",
+    "tel": "ఫర్హణః",
+    "fLTel": "ఫ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Muslim"
+  },
+  {
+    "id": "1bb9ce56-980a-40df-8aea-39bd89d42606",
+    "eng": "Farhannah",
+    "fLE": "F",
+    "tel": "ఫర్హానాహ్",
+    "fLTel": "ఫ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Muslim"
+  },
+  {
+    "id": "8d6f1449-2bab-4b12-9b90-8f64dcb34ab0",
+    "eng": "Farheen",
+    "fLE": "F",
+    "tel": "ఫరహీన్",
+    "fLTel": "ఫ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Muslim"
+  },
+  {
+    "id": "e1edc3c8-e264-4421-82a3-274522f46826",
+    "eng": "Farhi",
+    "fLE": "F",
+    "tel": "ఫేర్హి",
+    "fLTel": "ఫ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Muslim"
+  },
+  {
+    "id": "5cf57c8c-ffd7-43fb-b15a-42239b45a6b8",
+    "eng": "Farhin",
+    "fLE": "F",
+    "tel": "ఫేర్హిం",
+    "fLTel": "ఫ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Muslim"
+  },
+  {
+    "id": "bebff38c-f9a5-492b-a0bb-22f206b5e320",
+    "eng": "Farhina",
+    "fLE": "F",
+    "tel": "ఫేర్హిణ",
+    "fLTel": "ఫ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Muslim"
+  },
+  {
+    "id": "f117588c-8ead-45c7-a46e-34c75461b4c3",
+    "eng": "Farhiya",
+    "fLE": "F",
+    "tel": "ఫేర్హియ",
+    "fLTel": "ఫ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Muslim"
+  },
+  {
+    "id": "b24326bc-3c8d-445b-b7b8-d99c43de367b",
+    "eng": "Fari",
+    "fLE": "F",
+    "tel": "ఫ్రీ",
+    "fLTel": "ఫ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "a4a0ecc6-954c-4117-a8ab-809e8b6a76cf",
+    "eng": "Fari'ah",
+    "fLE": "F",
+    "tel": "ఫ్రీ'అహ్",
+    "fLTel": "ఫ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Muslim"
+  },
+  {
+    "id": "41ab54ae-6241-41c7-b71d-2360f16543c1",
+    "eng": "Faria",
+    "fLE": "F",
+    "tel": "ఫ్రీగా",
+    "fLTel": "ఫ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Muslim"
+  },
+  {
+    "id": "3c058e64-ef89-425c-90b6-b69111c77568",
+    "eng": "Fariah",
+    "fLE": "F",
+    "tel": "ఫరిదిహ్",
+    "fLTel": "ఫ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "ec2030d6-eeb2-46ed-a70c-fb4c90efd14c",
+    "eng": "Fariba",
+    "fLE": "F",
+    "tel": "ఫేరీబా",
+    "fLTel": "ఫ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Muslim"
+  },
+  {
+    "id": "ae94a523-31fa-4b10-acf1-ddc2fc443cde",
+    "eng": "Farica",
+    "fLE": "F",
+    "tel": "ఫ్రీకా",
+    "fLTel": "ఫ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "a5751b00-9a32-4d8c-ad30-e2fec945c2b1",
+    "eng": "farica",
+    "fLE": "f",
+    "tel": "ఫ్రీకా",
+    "fLTel": "ఫ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "cfae8347-76fb-4255-a59d-81e42bb9bf97",
+    "eng": "Farida",
+    "fLE": "F",
+    "tel": "ఫరీదా",
+    "fLTel": "ఫ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Muslim"
+  },
+  {
+    "id": "05a23a69-c1fe-421b-a880-e72ba2e21a90",
+    "eng": "Faridah",
+    "fLE": "F",
+    "tel": "ఫ్రీదః",
+    "fLTel": "ఫ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Muslim"
+  },
+  {
+    "id": "08d60d6c-16a0-4b06-a818-30b8a9d3994d",
+    "eng": "Farideh",
+    "fLE": "F",
+    "tel": "ఫరిదిహ్",
+    "fLTel": "ఫ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Muslim"
+  },
+  {
+    "id": "a43a5f55-dd6e-44bf-8756-852ec90123d6",
+    "eng": "Fariha",
+    "fLE": "F",
+    "tel": "ఫారిహ",
+    "fLTel": "ఫ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Muslim"
+  },
+  {
+    "id": "08e54333-1ed4-4452-883b-da1703edcb22",
+    "eng": "Farihah",
+    "fLE": "F",
+    "tel": "ఫ్రీహః",
+    "fLTel": "ఫ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Muslim"
+  },
+  {
+    "id": "01f4e039-23a0-45ac-9b50-7241e35d4aff",
+    "eng": "Fariishta",
+    "fLE": "F",
+    "tel": "ఫ్రీఇష్ట",
+    "fLTel": "ఫ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Muslim"
+  },
+  {
+    "id": "9813419b-aae4-4fd0-bca6-03161e723f3d",
+    "eng": "Farin",
+    "fLE": "F",
+    "tel": "ఫారిన్",
+    "fLTel": "ఫ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "791c5ffa-88b5-4273-9d6e-e67dc3251755",
+    "eng": "Farisha",
+    "fLE": "F",
+    "tel": "ఫేరీశా",
+    "fLTel": "ఫ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Muslim"
+  },
+  {
+    "id": "50f0e032-8bbb-483e-bacf-32b6ddea905a",
+    "eng": "Farishta",
+    "fLE": "F",
+    "tel": "ఫరిష్తా",
+    "fLTel": "ఫ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Muslim"
+  },
+  {
+    "id": "db80bf9b-c64a-40a0-8886-3989a75c9c11",
+    "eng": "Fariyal",
+    "fLE": "F",
+    "tel": "ఫారియల్",
+    "fLTel": "ఫ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Muslim"
+  },
+  {
+    "id": "1153ed0a-28cb-48a0-98de-cd3494b2e2f0",
+    "eng": "Fariza",
+    "fLE": "F",
+    "tel": "ఫ్రీజ",
+    "fLTel": "ఫ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Muslim"
+  },
+  {
+    "id": "97dc14ed-b397-4742-90c5-a7b3a047ef05",
+    "eng": "Farizah",
+    "fLE": "F",
+    "tel": "ఫ్రీజహ్",
+    "fLTel": "ఫ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Muslim"
+  },
+  {
+    "id": "d468bc97-2a0c-4170-b7ae-66848c52cf88",
+    "eng": "Farj",
+    "fLE": "F",
+    "tel": "ఫార్జ్",
+    "fLTel": "ఫ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Muslim"
+  },
+  {
+    "id": "56dbeb9b-275a-430c-a0cf-80ff0d266748",
+    "eng": "Farjana",
+    "fLE": "F",
+    "tel": "ఫర్జానా",
+    "fLTel": "ఫ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Muslim"
+  },
+  {
+    "id": "53b4af46-9f0f-4154-a742-e31983721076",
+    "eng": "Farkhanda",
+    "fLE": "F",
+    "tel": "ఫేర్ఖండా",
+    "fLTel": "ఫ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Muslim"
+  },
+  {
+    "id": "9a5e9fdd-1f62-4212-abfc-18d62aa2fa31",
+    "eng": "Farkhandah",
+    "fLE": "F",
+    "tel": "ఫేర్ఖందః",
+    "fLTel": "ఫ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Muslim"
+  },
+  {
+    "id": "8923bd7c-521b-4356-bb35-e47599e8cda9",
+    "eng": "Farkhande",
+    "fLE": "F",
+    "tel": "ఫేర్ఖండే",
+    "fLTel": "ఫ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Muslim"
+  },
+  {
+    "id": "5a886b66-3a8f-4422-b488-1f5184c03c84",
+    "eng": "Farkhondah",
+    "fLE": "F",
+    "tel": "ఫారుఖ్ఒందః",
+    "fLTel": "ఫ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Muslim"
+  },
+  {
+    "id": "9437fe5a-46a8-46df-9287-619eacf699b2",
+    "eng": "Farkhondeh",
+    "fLE": "F",
+    "tel": "ఫారుఖ్ఒందేహ్",
+    "fLTel": "ఫ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Muslim"
+  },
+  {
+    "id": "4c4537f6-b816-4a80-be05-ab28966d13fd",
+    "eng": "Farnaz",
+    "fLE": "F",
+    "tel": "ఫర్నేస్",
+    "fLTel": "ఫ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Muslim"
+  },
+  {
+    "id": "1afcfd8c-8de5-49a6-9906-d4e5349304ed",
+    "eng": "Farnaza",
+    "fLE": "F",
+    "tel": "ఫెర్నాజా",
+    "fLTel": "ఫ",
+    "tags": [],
+    "gen": "female",
+    "rel": "others"
+  },
+  {
+    "id": "ebe9ea44-0fc9-4e6a-9759-e8496d4e1f8b",
+    "eng": "Faroshan",
+    "fLE": "F",
+    "tel": "ఫరోషన్",
+    "fLTel": "ఫ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Muslim"
+  },
+  {
+    "id": "a9179f21-04b7-4c61-99e1-2ae6f3628316",
+    "eng": "Farra",
+    "fLE": "F",
+    "tel": "ఫర్రా",
+    "fLTel": "ఫ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "15f94fa1-b06d-461a-a7e0-6913b5227c15",
+    "eng": "Farrah",
+    "fLE": "F",
+    "tel": "ఫర్రాహ్",
+    "fLTel": "ఫ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Muslim"
+  },
+  {
+    "id": "3b4432a3-7f58-42eb-96e4-3afa120dc885",
+    "eng": "Farsiris",
+    "fLE": "F",
+    "tel": "ఫార్సీరీస్",
+    "fLTel": "ఫ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Muslim"
+  },
+  {
+    "id": "efde581d-0257-45e2-b3b5-70628b7660fe",
+    "eng": "Faru",
+    "fLE": "F",
+    "tel": "ప్యారు",
+    "fLTel": "ప",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "7aaa386a-6d48-4e9e-9ffc-31462e8ad645",
+    "eng": "Farvardin",
+    "fLE": "F",
+    "tel": "ఫార్వార్డిం",
+    "fLTel": "ఫ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Muslim"
+  },
+  {
+    "id": "5f190140-e280-4ded-8faa-7d3e5bf5b2a8",
+    "eng": "Farwa",
+    "fLE": "F",
+    "tel": "ఫర్వా",
+    "fLTel": "ఫ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Muslim"
+  },
+  {
+    "id": "298c7f70-0c8d-43c0-8ae9-c144dbed3345",
+    "eng": "Faryal",
+    "fLE": "F",
+    "tel": "ఫర్యాల్",
+    "fLTel": "ఫ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Muslim"
+  },
+  {
+    "id": "0876a001-650e-49f7-848d-b6fd3bd19c79",
+    "eng": "Faryat",
+    "fLE": "F",
+    "tel": "ఫర్యాత్",
+    "fLTel": "ఫ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Muslim"
+  },
+  {
+    "id": "7fd9eef5-3e76-4d11-bd1c-14bd39810f3d",
+    "eng": "Farzaana",
+    "fLE": "F",
+    "tel": "ఫరజాణా",
+    "fLTel": "ఫ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Muslim"
+  },
+  {
+    "id": "8359563b-1a7c-488a-9e1d-2e1a69ac133f",
+    "eng": "Farzana",
+    "fLE": "F",
+    "tel": "ఫరజాణా",
+    "fLTel": "ఫ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Muslim"
+  },
+  {
+    "id": "5a6e2976-916e-4d7d-ba4f-e85afdb8053f",
+    "eng": "Farzanah",
+    "fLE": "F",
+    "tel": "ఫారాజానః",
+    "fLTel": "ఫ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Muslim"
+  },
+  {
+    "id": "215a9489-ecd0-4382-9060-686bd659d211",
+    "eng": "Farzaneh",
+    "fLE": "F",
+    "tel": "ఫారిజాన్హ్",
+    "fLTel": "ఫ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Muslim"
+  },
+  {
+    "id": "87ab2fe8-f77e-4212-a56e-cff2ab5f9fbe",
+    "eng": "Farzia",
+    "fLE": "F",
+    "tel": "ఫాజిల్",
+    "fLTel": "ఫ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Muslim"
+  },
+  {
+    "id": "c7107bb4-3e01-4e6f-920c-e7aeaf071602",
+    "eng": "Farzin",
+    "fLE": "F",
+    "tel": "ఫజిన్",
+    "fLTel": "ఫ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Muslim"
+  },
+  {
+    "id": "b1969ee3-0945-4522-9097-c61299c46d41",
+    "eng": "Fascienne",
+    "fLE": "F",
+    "tel": "ఫేసైంనే",
+    "fLTel": "ఫ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "e7beb6fd-0563-4d3e-b9ac-b79059c2d533",
+    "eng": "Faseaha",
+    "fLE": "F",
+    "tel": "ఫసీహ",
+    "fLTel": "ఫ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Muslim"
+  },
+  {
+    "id": "c44c45ef-7efc-4a07-bacc-c2fae98e0740",
+    "eng": "Faseehah",
+    "fLE": "F",
+    "tel": "ఫసీహహ్",
+    "fLTel": "ఫ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Muslim"
+  }
+]

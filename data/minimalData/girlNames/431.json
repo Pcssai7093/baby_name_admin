@@ -1,0 +1,942 @@
+[
+  {
+    "id": "7f8fd07e-fee5-4015-9251-2b70584a9b16",
+    "eng": "Tarnija",
+    "fLE": "T",
+    "tel": "తరణిజ",
+    "fLTel": "త",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "9b562ca4-8a42-4f76-b98c-63eca8456cbb",
+    "eng": "Tarnvir",
+    "fLE": "T",
+    "tel": "తరన్వీర్",
+    "fLTel": "త",
+    "tags": [],
+    "gen": "female",
+    "rel": "Sikh"
+  },
+  {
+    "id": "0523b508-e1c0-4fb4-89e3-6e31e06dd6c3",
+    "eng": "Taroob",
+    "fLE": "T",
+    "tel": "ట్రూబీ",
+    "fLTel": "ట",
+    "tags": [],
+    "gen": "female",
+    "rel": "Muslim"
+  },
+  {
+    "id": "bcb93c6e-83c6-433e-a93e-50f7e0f2de28",
+    "eng": "Tarpana",
+    "fLE": "T",
+    "tel": "తర్పణ",
+    "fLTel": "త",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "207189b5-8865-438a-be2b-847a441adda4",
+    "eng": "Tarpani",
+    "fLE": "T",
+    "tel": "తర్పని",
+    "fLTel": "త",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "fcda0331-294d-4fb3-8460-530d828891cc",
+    "eng": "Tarpini",
+    "fLE": "T",
+    "tel": "తర్పిని",
+    "fLTel": "త",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "dde45abf-2967-4aa7-9a89-13d59e2867aa",
+    "eng": "Tarra",
+    "fLE": "T",
+    "tel": "తర్ర",
+    "fLTel": "త",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "0355ab02-5d27-4e36-918e-1026390258b8",
+    "eng": "tarragon",
+    "fLE": "t",
+    "tel": "తర్రగొం",
+    "fLTel": "త",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "dcef02af-3fde-41f6-9d82-cf11c5961fd3",
+    "eng": "Tarrah",
+    "fLE": "T",
+    "tel": "తర్రహ్",
+    "fLTel": "త",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "ad6aa2d9-09ed-47c3-a9b8-c4a9174a4f4e",
+    "eng": "Tarsha",
+    "fLE": "T",
+    "tel": "టార్ష",
+    "fLTel": "ట",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "8a839654-387d-4be9-85ba-9a2cc8c81ab4",
+    "eng": "Tarshini",
+    "fLE": "T",
+    "tel": "దార్శిని",
+    "fLTel": "ద",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "cfb3c8c7-f823-4394-9826-5f0327eb2d62",
+    "eng": "Tarshita",
+    "fLE": "T",
+    "tel": "దార్శిత",
+    "fLTel": "ద",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "e32e0580-a915-4b0c-9d63-70e518b192e1",
+    "eng": "Taruh",
+    "fLE": "T",
+    "tel": "తరహా",
+    "fLTel": "త",
+    "tags": [],
+    "gen": "female",
+    "rel": "Muslim"
+  },
+  {
+    "id": "c19f104f-b04e-417e-a8f8-c57eacaadb20",
+    "eng": "Tarul",
+    "fLE": "T",
+    "tel": "తరుల్",
+    "fLTel": "త",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "62d69a70-0e97-4888-bfde-bd6bc4ecdf53",
+    "eng": "Tarulata",
+    "fLE": "T",
+    "tel": "తరులట",
+    "fLTel": "త",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "99d3f369-eccb-470e-86ae-c81ee6f33845",
+    "eng": "Tarulatha",
+    "fLE": "T",
+    "tel": "తరులత",
+    "fLTel": "త",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "a7d9814d-9a2f-462d-8c3b-9c89cbe82924",
+    "eng": "Taruna",
+    "fLE": "T",
+    "tel": "తరుణ",
+    "fLTel": "త",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "d6694590-33bd-4cd9-92b5-a4ae895fb0da",
+    "eng": "Tarunee",
+    "fLE": "T",
+    "tel": "తరుణీ",
+    "fLTel": "త",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "53c97cbb-abfa-4eaf-909d-7a77d2b22be2",
+    "eng": "Taruni",
+    "fLE": "T",
+    "tel": "తరుణీ",
+    "fLTel": "త",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "491f1fc1-8cec-4af9-ae5b-68e2ab6cab0f",
+    "eng": "Tarunii",
+    "fLE": "T",
+    "tel": "తరానికి",
+    "fLTel": "త",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "19f34568-a741-4903-a53f-50e792963be7",
+    "eng": "Tarunika",
+    "fLE": "T",
+    "tel": "తరుణిగా",
+    "fLTel": "త",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "3b4a4122-815f-451e-b479-c8910bf2e46e",
+    "eng": "Tarunikaa",
+    "fLE": "T",
+    "tel": "తరుణికా",
+    "fLTel": "త",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "a07185c1-7a4d-49bf-ade5-791c97bad5da",
+    "eng": "Tarunima",
+    "fLE": "T",
+    "tel": "తరుణిమ",
+    "fLTel": "త",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "8db75939-ea85-4a93-8d07-5364911c73bd",
+    "eng": "Tarunlata",
+    "fLE": "T",
+    "tel": "త్రుంలట",
+    "fLTel": "త",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "cf4f1d97-71c2-4732-846c-84919304af6e",
+    "eng": "Tarushi",
+    "fLE": "T",
+    "tel": "తరుషి",
+    "fLTel": "త",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "a57af99f-bcc4-4126-b998-443ebe4c092b",
+    "eng": "Tarushree",
+    "fLE": "T",
+    "tel": "తరుశ్రీ",
+    "fLTel": "త",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "95a2f577-5f78-4504-a68f-b23affb1b698",
+    "eng": "Tarynn",
+    "fLE": "T",
+    "tel": "తరిన్",
+    "fLTel": "త",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "72cf241a-d6d0-45bf-aa0e-9a98808bbc28",
+    "eng": "Tarz",
+    "fLE": "T",
+    "tel": "టాజ్",
+    "fLTel": "ట",
+    "tags": [],
+    "gen": "female",
+    "rel": "Muslim"
+  },
+  {
+    "id": "0931fb92-7f50-4f4a-86b5-6205648d223c",
+    "eng": "Tasa",
+    "fLE": "T",
+    "tel": "తాజా",
+    "fLTel": "త",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "39ca4217-cca0-4712-a1bb-9c12b69c22fb",
+    "eng": "Tasahni",
+    "fLE": "T",
+    "tel": "తాసాహ్ని",
+    "fLTel": "త",
+    "tags": [],
+    "gen": "female",
+    "rel": "Muslim"
+  },
+  {
+    "id": "784f3cec-fac5-4691-89e5-3d8120e02a04",
+    "eng": "Tasanee",
+    "fLE": "T",
+    "tel": "తసనీ",
+    "fLTel": "త",
+    "tags": [],
+    "gen": "female",
+    "rel": "others"
+  },
+  {
+    "id": "4e27af6e-53f0-46a1-99a9-2c1e0c185e91",
+    "eng": "Tasavur",
+    "fLE": "T",
+    "tel": "తాసావుర్",
+    "fLTel": "త",
+    "tags": [],
+    "gen": "female",
+    "rel": "Muslim"
+  },
+  {
+    "id": "affdd37f-fecb-472e-8d9a-fa3fa824e791",
+    "eng": "Tasbi",
+    "fLE": "T",
+    "tel": "తసబి",
+    "fLTel": "త",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "aecae6f7-4191-4ac0-82b0-a4abaa66fa6c",
+    "eng": "Tasbir",
+    "fLE": "T",
+    "tel": "తసబీర్",
+    "fLTel": "త",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "949e2fac-01d0-4d75-873d-dc6a25297c83",
+    "eng": "Taseefa",
+    "fLE": "T",
+    "tel": "తాసీఫా",
+    "fLTel": "త",
+    "tags": [],
+    "gen": "female",
+    "rel": "Muslim"
+  },
+  {
+    "id": "aa497d03-8b1f-43cb-a9f3-9b0f8c1d3183",
+    "eng": "Tasenka",
+    "fLE": "T",
+    "tel": "తెసేంకా",
+    "fLTel": "త",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "db944a97-2baa-4f5f-84a4-e7640ca9db34",
+    "eng": "Tasfia",
+    "fLE": "T",
+    "tel": "తసుఫియా",
+    "fLTel": "త",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "f1b0e1bd-c037-4a62-b22a-0ba9041ec4a4",
+    "eng": "tasha",
+    "fLE": "t",
+    "tel": "తాషా",
+    "fLTel": "త",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "75f2499b-698b-4377-a7a9-a298aa8d8397",
+    "eng": "Tashana",
+    "fLE": "T",
+    "tel": "తక్షణ",
+    "fLTel": "త",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "ec11276b-c101-446a-aa37-6a533d504a44",
+    "eng": "Tashanay",
+    "fLE": "T",
+    "tel": "తషనే",
+    "fLTel": "త",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "b49461cd-772f-4e4a-b5f7-d1154d1b5ddb",
+    "eng": "Tasheen",
+    "fLE": "T",
+    "tel": "తాషీన్",
+    "fLTel": "త",
+    "tags": [],
+    "gen": "female",
+    "rel": "Muslim"
+  },
+  {
+    "id": "5655abe7-dfa0-4eac-bd47-7e4e71111c0b",
+    "eng": "Tashelle",
+    "fLE": "T",
+    "tel": "టషెల్లే",
+    "fLTel": "ట",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "23460edb-9a7a-4a3f-8161-1ff87bf3d39c",
+    "eng": "Tashi",
+    "fLE": "T",
+    "tel": "రాశి",
+    "fLTel": "ర",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "572e7d80-e7e4-43eb-a9a3-be247e23f959",
+    "eng": "Tashia",
+    "fLE": "T",
+    "tel": "తాషియా",
+    "fLTel": "త",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "a8d6c7e4-0a5a-4dad-96fc-831df1adf07f",
+    "eng": "Tashina",
+    "fLE": "T",
+    "tel": "తాషీనా",
+    "fLTel": "త",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "c6dedeac-0f47-4025-9cb4-1e3c75e5714b",
+    "eng": "Tashu",
+    "fLE": "T",
+    "tel": "తషు",
+    "fLTel": "త",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "81830fd3-df41-4df9-ac81-b790d5053421",
+    "eng": "Tashveer",
+    "fLE": "T",
+    "tel": "తశ్వీర్",
+    "fLTel": "త",
+    "tags": [],
+    "gen": "female",
+    "rel": "Muslim"
+  },
+  {
+    "id": "02a97e01-31d3-444f-9908-91cbf8567e2d",
+    "eng": "Tashvi",
+    "fLE": "T",
+    "tel": "యశ్వి",
+    "fLTel": "య",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "19bb2450-0ea2-4e1e-b1f3-de1cd1a4d3de",
+    "eng": "Tashwini",
+    "fLE": "T",
+    "tel": "యశ్విని",
+    "fLTel": "య",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "37800c61-14ec-4940-b862-625fb107f92a",
+    "eng": "Tasia",
+    "fLE": "T",
+    "tel": "తాసియా",
+    "fLTel": "త",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "ecfc3243-1298-483b-a872-2e5b04ee70d7",
+    "eng": "tasia",
+    "fLE": "t",
+    "tel": "తాసియా",
+    "fLTel": "త",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "7662090f-4317-4be0-be9c-87d132e52a56",
+    "eng": "Tasiyah",
+    "fLE": "T",
+    "tel": "తాసియహ్",
+    "fLTel": "త",
+    "tags": [],
+    "gen": "female",
+    "rel": "Muslim"
+  },
+  {
+    "id": "c57bca66-daa0-4030-8cba-35e46c614b02",
+    "eng": "Taska",
+    "fLE": "T",
+    "tel": "టాస్క",
+    "fLTel": "ట",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "3e6fbde6-dc58-42ba-9976-ce3cb55a58b3",
+    "eng": "Taskeen",
+    "fLE": "T",
+    "tel": "తస్కీం",
+    "fLTel": "త",
+    "tags": [],
+    "gen": "female",
+    "rel": "Muslim"
+  },
+  {
+    "id": "994c78c7-1f11-4a3e-8dc8-a388815cba06",
+    "eng": "Taskin",
+    "fLE": "T",
+    "tel": "తస్మిన్",
+    "fLTel": "త",
+    "tags": [],
+    "gen": "female",
+    "rel": "Muslim"
+  },
+  {
+    "id": "74d1ba3f-847e-4d1d-a468-82f35e1f98f4",
+    "eng": "Tasleem",
+    "fLE": "T",
+    "tel": "తస్లీమా",
+    "fLTel": "త",
+    "tags": [],
+    "gen": "female",
+    "rel": "Muslim"
+  },
+  {
+    "id": "37723c7e-61a9-46d9-a560-2fe56fd04985",
+    "eng": "Tasleemah",
+    "fLE": "T",
+    "tel": "తస్లీమాహ్",
+    "fLTel": "త",
+    "tags": [],
+    "gen": "female",
+    "rel": "Muslim"
+  },
+  {
+    "id": "6b33b24a-3b9a-44bc-aefe-6e5a24ea147e",
+    "eng": "Taslima",
+    "fLE": "T",
+    "tel": "తస్లిమా",
+    "fLTel": "త",
+    "tags": [],
+    "gen": "female",
+    "rel": "Muslim"
+  },
+  {
+    "id": "3ce16186-3d63-4c00-82fc-566454b28b00",
+    "eng": "Taslimah",
+    "fLE": "T",
+    "tel": "తస్లిమాహ్",
+    "fLTel": "త",
+    "tags": [],
+    "gen": "female",
+    "rel": "Muslim"
+  },
+  {
+    "id": "96d8db11-ecbe-4325-abc0-f724292426d9",
+    "eng": "Taslin",
+    "fLE": "T",
+    "tel": "తస్లిన్",
+    "fLTel": "త",
+    "tags": [],
+    "gen": "female",
+    "rel": "Muslim"
+  },
+  {
+    "id": "cb1f002b-88e5-4fc3-9a9b-111ad05137c1",
+    "eng": "Tasliymah",
+    "fLE": "T",
+    "tel": "తస్లీయమః",
+    "fLTel": "త",
+    "tags": [],
+    "gen": "female",
+    "rel": "Muslim"
+  },
+  {
+    "id": "d0e0b2da-f6a5-43b7-a4b3-1b8970f1cfab",
+    "eng": "tasma",
+    "fLE": "t",
+    "tel": "తస్మా",
+    "fLTel": "త",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "ec372515-599c-4666-9695-3878271f2d09",
+    "eng": "Tasmeea",
+    "fLE": "T",
+    "tel": "తస్సామీతి",
+    "fLTel": "త",
+    "tags": [],
+    "gen": "female",
+    "rel": "Muslim"
+  },
+  {
+    "id": "dd9d2331-05ac-4d46-a3aa-a304a78eec48",
+    "eng": "Tasmeeah",
+    "fLE": "T",
+    "tel": "తస్సామీతిహ్",
+    "fLTel": "త",
+    "tags": [],
+    "gen": "female",
+    "rel": "Muslim"
+  },
+  {
+    "id": "1c251ddb-7c1e-42b8-a492-61539b046df6",
+    "eng": "Tasmeekh",
+    "fLE": "T",
+    "tel": "తసమీక్",
+    "fLTel": "త",
+    "tags": [],
+    "gen": "female",
+    "rel": "Muslim"
+  },
+  {
+    "id": "010aa21a-c42a-49df-8854-a8c5d0f93c29",
+    "eng": "Tasmia",
+    "fLE": "T",
+    "tel": "తస్మియా",
+    "fLTel": "త",
+    "tags": [],
+    "gen": "female",
+    "rel": "Muslim"
+  },
+  {
+    "id": "08c1b757-c861-4cf9-bafa-560eba8903f6",
+    "eng": "Tasmin",
+    "fLE": "T",
+    "tel": "తస్మిం",
+    "fLTel": "త",
+    "tags": [],
+    "gen": "female",
+    "rel": "Muslim"
+  },
+  {
+    "id": "3dde9fb8-52c0-404b-a6c4-dc0f9cc4c98c",
+    "eng": "Tasmine",
+    "fLE": "T",
+    "tel": "తస్మిన్",
+    "fLTel": "త",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "bd173cc9-f36d-49b6-8094-64b120a8a7af",
+    "eng": "Tasneam",
+    "fLE": "T",
+    "tel": "తస్నేరం",
+    "fLTel": "త",
+    "tags": [],
+    "gen": "female",
+    "rel": "Muslim"
+  },
+  {
+    "id": "b7097021-0f4f-4771-a8df-a5c784942ec4",
+    "eng": "Tasneem",
+    "fLE": "T",
+    "tel": "తస్సానీమ్",
+    "fLTel": "త",
+    "tags": [],
+    "gen": "female",
+    "rel": "Muslim"
+  },
+  {
+    "id": "8e28a7ee-1e77-4a1c-90a6-835a77d3b837",
+    "eng": "Tasneema",
+    "fLE": "T",
+    "tel": "తస్సానీమా",
+    "fLTel": "త",
+    "tags": [],
+    "gen": "female",
+    "rel": "Muslim"
+  },
+  {
+    "id": "b08fd25c-524a-47c1-ae80-3f7765c9b45f",
+    "eng": "Tasnuva",
+    "fLE": "T",
+    "tel": "తస్సానువా",
+    "fLTel": "త",
+    "tags": [],
+    "gen": "female",
+    "rel": "Muslim"
+  },
+  {
+    "id": "c22acde2-32ed-48a5-b885-6958ecc97528",
+    "eng": "Tassa",
+    "fLE": "T",
+    "tel": "తస్స",
+    "fLTel": "త",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "0f582512-8cfc-4322-b9df-afd21029ace4",
+    "eng": "tassia",
+    "fLE": "t",
+    "tel": "తస్సియా",
+    "fLTel": "త",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "710635a5-b9d3-4a9f-8f14-5d220a630722",
+    "eng": "Tassiana",
+    "fLE": "T",
+    "tel": "రాసిన",
+    "fLTel": "ర",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "7c5c3e0c-c15a-4ac8-9a7a-baf20797ec58",
+    "eng": "Tassie",
+    "fLE": "T",
+    "tel": "యస్సై",
+    "fLTel": "య",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "050eba06-1793-4f4c-aa73-c8bf1317cc1e",
+    "eng": "Tassy",
+    "fLE": "T",
+    "tel": "టాస్క్",
+    "fLTel": "ట",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "0b836468-75b7-4c55-b036-71d24475e0f8",
+    "eng": "Tasveer",
+    "fLE": "T",
+    "tel": "తస్వేర్",
+    "fLTel": "త",
+    "tags": [],
+    "gen": "female",
+    "rel": "Muslim"
+  },
+  {
+    "id": "9d575810-40d2-4007-b43d-cb60b0337ce3",
+    "eng": "Tasweeb",
+    "fLE": "T",
+    "tel": "తస్వీబీ",
+    "fLTel": "త",
+    "tags": [],
+    "gen": "female",
+    "rel": "Muslim"
+  },
+  {
+    "id": "20f0874e-b06a-4670-a899-96609a3badef",
+    "eng": "Tata",
+    "fLE": "T",
+    "tel": "టాటా",
+    "fLTel": "ట",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "cc2568a2-8d8b-4e1d-b961-34655f85548f",
+    "eng": "Tatai",
+    "fLE": "T",
+    "tel": "తాట",
+    "fLTel": "త",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "ea9988ee-fc3e-4c73-ae95-3e7fd052a48e",
+    "eng": "Tataka",
+    "fLE": "T",
+    "tel": "తాటక",
+    "fLTel": "త",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "849a5973-4768-4e68-9e06-c6086ae33fbc",
+    "eng": "Tatan",
+    "fLE": "T",
+    "tel": "తతం",
+    "fLTel": "త",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "2f42a0f6-d9ed-49b1-a429-72a6a47cbdb3",
+    "eng": "Tata¡na",
+    "fLE": "T",
+    "tel": "టాటా¡న",
+    "fLTel": "ట",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "afae4dcf-fdd2-4fe6-9d53-11c3edc595d2",
+    "eng": "Tateleigh",
+    "fLE": "T",
+    "tel": "తాతేలేఇఘ్",
+    "fLTel": "త",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "0ef98f40-04a9-495a-b13c-adf83b6b3c81",
+    "eng": "Tatem",
+    "fLE": "T",
+    "tel": "తటమ్",
+    "fLTel": "త",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "e4c5bdd3-83cf-4596-8be3-0f5c9668c899",
+    "eng": "Tateum",
+    "fLE": "T",
+    "tel": "తతియం",
+    "fLTel": "త",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "c7f9488b-d431-4db5-8a51-ca504f82f6a3",
+    "eng": "tatewin",
+    "fLE": "t",
+    "tel": "తటువిం",
+    "fLTel": "త",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "d3f7d0db-9727-4f24-bc87-04e3708e8e14",
+    "eng": "Tatha",
+    "fLE": "T",
+    "tel": "తథ",
+    "fLTel": "త",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "d37c2d41-1fcc-4373-9dec-a88e3860266e",
+    "eng": "Tathere",
+    "fLE": "T",
+    "tel": "తథేరే",
+    "fLTel": "త",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "4db6de7a-f17c-43d7-9c4e-f06bfbda9f96",
+    "eng": "Tati",
+    "fLE": "T",
+    "tel": "తాటి",
+    "fLTel": "త",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "9e0709ee-a809-4677-8bb2-2d39d82f27e0",
+    "eng": "Tatia",
+    "fLE": "T",
+    "tel": "తతియే",
+    "fLTel": "త",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "42e80587-7a20-4ab5-8659-0790e1429772",
+    "eng": "Tatiana",
+    "fLE": "T",
+    "tel": "దాటినా",
+    "fLTel": "ద",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "b1debea9-8c02-4363-899c-b5b65eac1d22",
+    "eng": "Tatianna",
+    "fLE": "T",
+    "tel": "తాటియాన్న",
+    "fLTel": "త",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  }
+]

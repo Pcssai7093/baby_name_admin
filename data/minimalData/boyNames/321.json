@@ -1,0 +1,912 @@
+[
+  {
+    "id": "5e994406-0a02-44f1-9824-84925a28443e",
+    "eng": "Kori",
+    "fLE": "K",
+    "tel": "కోరి",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "male",
+    "rel": "others"
+  },
+  {
+    "id": "ed731bcc-c1e5-4090-aad2-2d43ff3846e0",
+    "eng": "Korian",
+    "fLE": "K",
+    "tel": "కొరియన్",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "a3bf7857-adbf-4ac4-970f-c5128182fb49",
+    "eng": "Korie",
+    "fLE": "K",
+    "tel": "కోరీ",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "b42fab6a-a6dd-4e21-bbd7-815925483994",
+    "eng": "Kornal",
+    "fLE": "K",
+    "tel": "కొర్నేలీ",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "male",
+    "rel": "others"
+  },
+  {
+    "id": "ed048236-3db5-410a-bcea-fa7010a32a0f",
+    "eng": "Kornel",
+    "fLE": "K",
+    "tel": "కొర్నేలీ",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "male",
+    "rel": "others"
+  },
+  {
+    "id": "f38dd4c9-5fb0-4b12-be0e-0adf5e48196f",
+    "eng": "kornel",
+    "fLE": "k",
+    "tel": "కొర్నేలీ",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "01d3688a-844c-4f57-9f02-db67db7efdb9",
+    "eng": "Korragos",
+    "fLE": "K",
+    "tel": "కొర్రగోస్",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "1454f947-ca73-4662-84ef-6f7f1d7867e9",
+    "eng": "Korrigan",
+    "fLE": "K",
+    "tel": "కొర్రిగాన్",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "male",
+    "rel": "others"
+  },
+  {
+    "id": "f42e8bf6-c983-4fc4-9736-34916f81374b",
+    "eng": "Kort",
+    "fLE": "K",
+    "tel": "కోర్ట్",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "25c1d60a-5a45-4b84-8347-ef2f9743d503",
+    "eng": "kort",
+    "fLE": "k",
+    "tel": "కోర్ట్",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "d54ce45a-8f39-477e-a8ca-2d6fd5a2c8ac",
+    "eng": "Kosal",
+    "fLE": "K",
+    "tel": "కోసల",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "f66b9002-b077-48f6-9c42-bb9ed8aecab1",
+    "eng": "Kosala",
+    "fLE": "K",
+    "tel": "కోసల",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "male",
+    "rel": "others"
+  },
+  {
+    "id": "2bd32c47-8068-4b8b-8dbd-1ad1eda0f262",
+    "eng": "Kosalram",
+    "fLE": "K",
+    "tel": "కొసలురం",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "b1ab2cf7-6383-4631-a3d4-0e6baf07bb0b",
+    "eng": "Koshal",
+    "fLE": "K",
+    "tel": "కుషాల్",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "1035a862-73a2-456c-9512-98cb9937beba",
+    "eng": "Koshin",
+    "fLE": "K",
+    "tel": "కోషిన్",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "f51dec5c-7a21-4086-b3be-f5a96cbeb1e8",
+    "eng": "Koshing",
+    "fLE": "K",
+    "tel": "కొషింగ్",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "male",
+    "rel": "others"
+  },
+  {
+    "id": "6799e425-da18-4c57-b2a8-f83712659cfc",
+    "eng": "Koshon",
+    "fLE": "K",
+    "tel": "కోషాన్",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "male",
+    "rel": "others"
+  },
+  {
+    "id": "0d79c136-d6ab-40f0-bf9c-63b9a5b2e153",
+    "eng": "koshon",
+    "fLE": "k",
+    "tel": "కోషాన్",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "485683ff-f84d-4069-848b-affb2fbca734",
+    "eng": "Kosigan",
+    "fLE": "K",
+    "tel": "కోసాగాం",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "male",
+    "rel": "others"
+  },
+  {
+    "id": "457eb8ad-5ab1-4585-a43c-a08e854925cd",
+    "eng": "Kosmas",
+    "fLE": "K",
+    "tel": "కోసమస్",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "male",
+    "rel": "others"
+  },
+  {
+    "id": "7102bd11-f66b-4c32-97ba-e191efd568c2",
+    "eng": "Kosta",
+    "fLE": "K",
+    "tel": "కోస్త",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "a4d85bb2-1ae7-4fb2-a2ef-b67057dac0dd",
+    "eng": "Kostadin",
+    "fLE": "K",
+    "tel": "కోస్టాడిం",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "0f2c5450-0c66-4c68-bbad-f18efa189c69",
+    "eng": "Kostandin",
+    "fLE": "K",
+    "tel": "కోస్తాందిన్",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "male",
+    "rel": "others"
+  },
+  {
+    "id": "8341d3b0-ae2b-40de-a421-8a1cc86e2e66",
+    "eng": "Kostas",
+    "fLE": "K",
+    "tel": "కోస్టాస్",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "male",
+    "rel": "others"
+  },
+  {
+    "id": "7e0ba2d5-e60e-4611-a15f-c204664b0689",
+    "eng": "Kostubh",
+    "fLE": "K",
+    "tel": "కోష్టుభ్",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "d963792e-1e5a-48e9-8403-8b0db08b4a73",
+    "eng": "Kostya",
+    "fLE": "K",
+    "tel": "కోస్తా",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "male",
+    "rel": "others"
+  },
+  {
+    "id": "593d3204-b0a4-4201-b798-3885132ef1b6",
+    "eng": "kostya",
+    "fLE": "k",
+    "tel": "కోస్తా",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "3a6b2638-a315-45de-b517-218e6999ffdf",
+    "eng": "Kostyantyn",
+    "fLE": "K",
+    "tel": "కోస్తానత్తిన్",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "5b368d46-855b-44a5-9ec6-0c9d14b52f30",
+    "eng": "Kota",
+    "fLE": "K",
+    "tel": "కోట",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "male",
+    "rel": "others"
+  },
+  {
+    "id": "b5a54010-ebe9-4bb6-a804-f0fb264d9bbe",
+    "eng": "Kotapa",
+    "fLE": "K",
+    "tel": "కోటప్ప",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "8c625e6b-8831-453e-b1ea-2b7c3a5025b6",
+    "eng": "Kotari",
+    "fLE": "K",
+    "tel": "కొఠారి",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "male",
+    "rel": "others"
+  },
+  {
+    "id": "052081a6-741a-4067-b5a6-7ce43f0cfe2d",
+    "eng": "Kotavi",
+    "fLE": "K",
+    "tel": "కొత్తవి",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "male",
+    "rel": "others"
+  },
+  {
+    "id": "7c41341e-0a71-40bb-98a2-a9bd1af4860f",
+    "eng": "Kotes",
+    "fLE": "K",
+    "tel": "కోట్లు",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "45a1b9eb-f842-4c4d-9296-4dbb51005d94",
+    "eng": "Koteshwarlu",
+    "fLE": "K",
+    "tel": "కోటేశ్వర్లు",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "c01e8f94-f561-4376-b9c6-b00d90173752",
+    "eng": "Kothandapani",
+    "fLE": "K",
+    "tel": "కొత్తనడపని",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "16822ba9-cec7-4fe9-88ae-4391c7c13925",
+    "eng": "Kothandarama",
+    "fLE": "K",
+    "tel": "కొతండరమ",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "male",
+    "rel": "others"
+  },
+  {
+    "id": "dae35e7b-b2d1-4399-9af6-1e0aae0e1a8a",
+    "eng": "Kotijit",
+    "fLE": "K",
+    "tel": "కోటిజిత్",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "479e9828-75a7-4165-ae4b-c60ea569c510",
+    "eng": "Kotir",
+    "fLE": "K",
+    "tel": "కోతిర్",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "c9c989d1-d430-4b9e-b6a2-e2dc12c2d27a",
+    "eng": "Kotisha",
+    "fLE": "K",
+    "tel": "కోటిశ",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "male",
+    "rel": "others"
+  },
+  {
+    "id": "1ac3a86f-9941-4b09-946d-2134cf95be89",
+    "eng": "Kotisuyra",
+    "fLE": "K",
+    "tel": "కోటిసూయరా",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "f776b65e-8399-435d-b169-f030a4512419",
+    "eng": "Koto",
+    "fLE": "K",
+    "tel": "కోట",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "male",
+    "rel": "others"
+  },
+  {
+    "id": "912ae408-032d-45d8-ba42-00fb2422e261",
+    "eng": "Kotravan",
+    "fLE": "K",
+    "tel": "కోఠీరవం",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "male",
+    "rel": "others"
+  },
+  {
+    "id": "f7520654-291a-470f-a9f3-193bb74ad657",
+    "eng": "Kotresh",
+    "fLE": "K",
+    "tel": "కొత్రేషు",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "47822d15-6085-4d26-88ab-1d802e9fa379",
+    "eng": "Kotresha",
+    "fLE": "K",
+    "tel": "కుట్రేష",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "b5bad132-a181-4855-9b61-679bf2acc2fa",
+    "eng": "Kotta",
+    "fLE": "K",
+    "tel": "కొత్త",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "male",
+    "rel": "others"
+  },
+  {
+    "id": "88a56bd4-9605-41c2-833b-179660046d1c",
+    "eng": "Kouichi",
+    "fLE": "K",
+    "tel": "కౌఇచి",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "male",
+    "rel": "others"
+  },
+  {
+    "id": "c6bdecdc-468c-480d-aff5-ccafc44f8845",
+    "eng": "Kouki",
+    "fLE": "K",
+    "tel": "కౌకి",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "male",
+    "rel": "others"
+  },
+  {
+    "id": "e5fd532c-88e0-4ff0-8def-1584db3caeda",
+    "eng": "Koundinya",
+    "fLE": "K",
+    "tel": "కౌండిన్య",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "9285399e-195d-4ea6-ab98-f1c498d1dcb0",
+    "eng": "Kounish",
+    "fLE": "K",
+    "tel": "కౌనిష్",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "716bd5b4-c9af-4d17-96b2-ae83d4f85c08",
+    "eng": "Kourosh",
+    "fLE": "K",
+    "tel": "కౌరోష్",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "male",
+    "rel": "others"
+  },
+  {
+    "id": "fca01cda-91d7-4889-9146-ef1fcea95f0a",
+    "eng": "Kousal",
+    "fLE": "K",
+    "tel": "కౌశల్",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "16cf5894-4a04-4405-8fc6-cba6cae2f97f",
+    "eng": "Koushal",
+    "fLE": "K",
+    "tel": "కౌశల్",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "6601fd31-dbd6-4260-adf4-ae5ae729c0bb",
+    "eng": "Koushik",
+    "fLE": "K",
+    "tel": "కౌశిక్",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "ea3c478f-60d9-4f98-a0ea-64d32facd8df",
+    "eng": "Kousik",
+    "fLE": "K",
+    "tel": "కౌశిక్",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "6976428f-fee4-48e6-b8c3-925e9cc6f4c6",
+    "eng": "Koustab",
+    "fLE": "K",
+    "tel": "కోస్టబ్",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "3f9c211e-4184-4431-b70f-3269ab49019f",
+    "eng": "Koustav",
+    "fLE": "K",
+    "tel": "కౌస్తావ్",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "afc872cd-33b1-4c68-abe0-d04e8245df60",
+    "eng": "Koustub",
+    "fLE": "K",
+    "tel": "కౌస్తుబ్",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "male",
+    "rel": "others"
+  },
+  {
+    "id": "8c266a5a-3212-4351-8a65-f0a1a620c6bb",
+    "eng": "Koustubh",
+    "fLE": "K",
+    "tel": "కౌస్తుభ",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "15d1e125-e5c9-49cf-8f3b-b97dab7ccc9b",
+    "eng": "Kousuke",
+    "fLE": "K",
+    "tel": "కౌసుకే",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "male",
+    "rel": "others"
+  },
+  {
+    "id": "061f9d44-8ef4-4c93-b2d1-709a8e50682a",
+    "eng": "Koutilya",
+    "fLE": "K",
+    "tel": "కౌటిల్య",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "male",
+    "rel": "others"
+  },
+  {
+    "id": "ba98f641-462d-40d3-a011-5fddc12009e5",
+    "eng": "Kovalan",
+    "fLE": "K",
+    "tel": "కోవాలని",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "male",
+    "rel": "others"
+  },
+  {
+    "id": "31d707f7-c590-4f2d-b66b-1a760a675ecc",
+    "eng": "Kovalum",
+    "fLE": "K",
+    "tel": "కోవాలం",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "a61a246a-2429-4629-8a9a-87e4a4f174cf",
+    "eng": "Kovendan",
+    "fLE": "K",
+    "tel": "కోవేందన్",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "61efd3da-164c-4e97-bb26-780d2491c2ee",
+    "eng": "Kovendhan",
+    "fLE": "K",
+    "tel": "కోవేందన్",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "349c29d2-e11c-45af-ac57-c1bcb9dbdfd9",
+    "eng": "Kovid",
+    "fLE": "K",
+    "tel": "కోవిద్",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "4904e33c-d881-41a3-8ed3-f5c36e3017bf",
+    "eng": "Kovida",
+    "fLE": "K",
+    "tel": "కోవిద",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "2f35a544-8ce1-466e-b69c-acd872f39742",
+    "eng": "Koviddh",
+    "fLE": "K",
+    "tel": "కోవిద్",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "04350c15-65db-41fc-813e-ba4b24f19fe7",
+    "eng": "Kovidh",
+    "fLE": "K",
+    "tel": "కోవిద్",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "cd16ef56-1de8-4fc9-a577-d018a954b1b0",
+    "eng": "Kovidha",
+    "fLE": "K",
+    "tel": "కోవిద",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "b8057a08-7cea-4e56-8a0f-0b65694230ee",
+    "eng": "Kovit",
+    "fLE": "K",
+    "tel": "కువైట్",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "male",
+    "rel": "others"
+  },
+  {
+    "id": "e748e8e9-7972-4cca-a05d-79c5f212c208",
+    "eng": "Kovith",
+    "fLE": "K",
+    "tel": "కోవిత్",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "male",
+    "rel": "others"
+  },
+  {
+    "id": "59c86797-7ca7-4944-be1d-8359ca5b9f5b",
+    "eng": "Kowshik",
+    "fLE": "K",
+    "tel": "కౌశిక్",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "0d1e8f7b-0f7f-4802-9dfb-2e4e00cc8c1f",
+    "eng": "Kowshika",
+    "fLE": "K",
+    "tel": "కౌశిక",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "c24991fd-6612-4018-ae93-b3bdd4e5418b",
+    "eng": "Kowsik",
+    "fLE": "K",
+    "tel": "కౌశిక్",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "89c15ceb-a2ec-4780-8f08-e57c3fe71379",
+    "eng": "Kowsikan",
+    "fLE": "K",
+    "tel": "కౌశికన్",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "d91804b7-23bd-4152-a475-6d9e5e72f90c",
+    "eng": "Kowstubh",
+    "fLE": "K",
+    "tel": "కౌస్తుభ",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "male",
+    "rel": "others"
+  },
+  {
+    "id": "65401235-db0a-4ce5-be7a-daa37e641f74",
+    "eng": "Koya",
+    "fLE": "K",
+    "tel": "కోయ",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "male",
+    "rel": "others"
+  },
+  {
+    "id": "536031ba-4df3-4ca7-aad5-7436713da1b7",
+    "eng": "Koyalidar",
+    "fLE": "K",
+    "tel": "కోయాళీదర్",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "38258f38-c28f-4d04-a91d-bd748038c66d",
+    "eng": "Koyan",
+    "fLE": "K",
+    "tel": "కోయం",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "male",
+    "rel": "others"
+  },
+  {
+    "id": "e28043ec-a424-4952-b0b6-58703ddc91ff",
+    "eng": "Koyilkani",
+    "fLE": "K",
+    "tel": "కోయిలకని",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "male",
+    "rel": "others"
+  },
+  {
+    "id": "bfbdae7d-4539-46d5-a22d-48df0b23d8d1",
+    "eng": "Kozhikkodiyon",
+    "fLE": "K",
+    "tel": "కోజ్హిక్కోడియోన్",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "b86b7059-38ad-497d-bbec-d8ee5de776bc",
+    "eng": "Kplorm",
+    "fLE": "K",
+    "tel": "కప్లోర్మ్",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "b2238be3-7013-4246-ba0f-219bc0652a1c",
+    "eng": "Kraanti",
+    "fLE": "K",
+    "tel": "క్రాంతి",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "9822dc88-d615-421c-ba68-b198310bf02e",
+    "eng": "Kradhana",
+    "fLE": "K",
+    "tel": "క్రోధన",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "eec18540-585d-4695-9830-184b6803cdbc",
+    "eng": "Kraig",
+    "fLE": "K",
+    "tel": "క్రైగ్",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "male",
+    "rel": "others"
+  },
+  {
+    "id": "25f6b5d9-ab09-45bf-b664-051026fc4acc",
+    "eng": "Kraisee",
+    "fLE": "K",
+    "tel": "క్రైసీ",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "male",
+    "rel": "others"
+  },
+  {
+    "id": "5e80bb9f-9ebc-43e0-b2c3-a896c7a7ee11",
+    "eng": "Krakaca",
+    "fLE": "K",
+    "tel": "క్రాకకే",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "male",
+    "rel": "others"
+  },
+  {
+    "id": "af8e120d-4010-40fa-9448-a719fa3a4451",
+    "eng": "Kram",
+    "fLE": "K",
+    "tel": "క్రీం",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "ddb8f0fa-b056-440e-bbbc-e1cba9670f73",
+    "eng": "Krama",
+    "fLE": "K",
+    "tel": "క్రమ",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "male",
+    "rel": "others"
+  },
+  {
+    "id": "1e351902-6f7d-41a1-a007-0574deed6c66",
+    "eng": "Kraman",
+    "fLE": "K",
+    "tel": "క్రమం",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "a540df59-f976-445b-ae2c-019006e23330",
+    "eng": "Kramer",
+    "fLE": "K",
+    "tel": "క్రెమెర్",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "male",
+    "rel": "others"
+  }
+]

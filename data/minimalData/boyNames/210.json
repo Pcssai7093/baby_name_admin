@@ -1,0 +1,752 @@
+[
+  {
+    "id": "c4e7f925-393c-498a-b9cc-9c7af656db47",
+    "eng": "Gandhesa",
+    "fLE": "G",
+    "tel": "గాంధేశ",
+    "fLTel": "గ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "953659f1-113c-4eaf-b7e0-9bd430e78708",
+    "eng": "Gandhi",
+    "fLE": "G",
+    "tel": "గాంధీ",
+    "fLTel": "గ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "0737b29f-6933-405c-95d7-86716fa61db1",
+    "eng": "Gandhik",
+    "fLE": "G",
+    "tel": "గాంధీకి",
+    "fLTel": "గ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "51ca8647-7003-4206-b02a-7053fef322ef",
+    "eng": "Gandhika",
+    "fLE": "G",
+    "tel": "గాంధీకే",
+    "fLTel": "గ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "b28f6dcb-c3bf-4e66-b449-3ef1f486eb70",
+    "eng": "Gandira",
+    "fLE": "G",
+    "tel": "గండిరా",
+    "fLTel": "గ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "ab0f634e-b1f1-47fe-9a7a-8862f9774f21",
+    "eng": "Gandiva",
+    "fLE": "G",
+    "tel": "గాండీవ",
+    "fLTel": "గ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "0fa303f8-c948-470b-bbbc-065a14470342",
+    "eng": "Gandivdhanav",
+    "fLE": "G",
+    "tel": "గాండీవిధఞావ్",
+    "fLTel": "గ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "53663556-e4cb-41ae-b5eb-5ce00341edf2",
+    "eng": "gandy",
+    "fLE": "g",
+    "tel": "గుండె",
+    "fLTel": "గ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "c861cbf5-066d-4157-a39b-38366609c21e",
+    "eng": "Ganel",
+    "fLE": "G",
+    "tel": "గణేల్",
+    "fLTel": "గ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "7b5a6a1b-a1a5-4496-83d0-96d0c265a11a",
+    "eng": "Ganender",
+    "fLE": "G",
+    "tel": "గనెండెర్",
+    "fLTel": "గ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "2beeaa18-1ffb-4bb2-ad47-61ae4bceaba9",
+    "eng": "Ganendra",
+    "fLE": "G",
+    "tel": "గనెన్ద్ర",
+    "fLTel": "గ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "3481aee2-2c2e-40ca-92fa-26592359f110",
+    "eng": "Ganesan",
+    "fLE": "G",
+    "tel": "గణేశన్",
+    "fLTel": "గ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "40ec689d-720e-4c08-966e-411fc98c224b",
+    "eng": "Ganesh",
+    "fLE": "G",
+    "tel": "గణేష్",
+    "fLTel": "గ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "f6638604-0995-42c6-bc10-e5c44e2ac5c7",
+    "eng": "Ganesha",
+    "fLE": "G",
+    "tel": "గణేశా",
+    "fLTel": "గ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "d50aafb4-0777-45ce-a0a7-5817309b3be4",
+    "eng": "Ganeshchandra",
+    "fLE": "G",
+    "tel": "గణేశ్చంద్ర",
+    "fLTel": "గ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "35840fa5-c4db-4362-9b16-8d019cf31d9a",
+    "eng": "Ganeswar",
+    "fLE": "G",
+    "tel": "గణేశ్వర్",
+    "fLTel": "గ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "9d50b77e-fd0e-48ca-a8dd-3c64f3d38529",
+    "eng": "Ganeve",
+    "fLE": "G",
+    "tel": "గనేవే",
+    "fLTel": "గ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Sikh"
+  },
+  {
+    "id": "ab026b99-dccd-4d80-b220-fb0337c95754",
+    "eng": "Gang",
+    "fLE": "G",
+    "tel": "గ్యాంగ్",
+    "fLTel": "గ",
+    "tags": [],
+    "gen": "male",
+    "rel": "others"
+  },
+  {
+    "id": "83190b30-37d8-4ce5-b372-0d8d0d4cc9b5",
+    "eng": "Ganga-Dharan",
+    "fLE": "G",
+    "tel": "గంగ-ధరన్",
+    "fLTel": "గ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "69b68e8b-963a-41e9-a854-6fe074c2e6a2",
+    "eng": "Gangaadatt",
+    "fLE": "G",
+    "tel": "గంగాదత్",
+    "fLTel": "గ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "06cf6253-fee0-427a-8c7f-851ea366d42d",
+    "eng": "Gangadatt",
+    "fLE": "G",
+    "tel": "గంగాదత్",
+    "fLTel": "గ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "f3428205-a6c5-47ce-87e4-6a753f76a9d4",
+    "eng": "Gangadhar",
+    "fLE": "G",
+    "tel": "గంగాధర్",
+    "fLTel": "గ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "7a3b3c5d-316b-448a-bf3d-e68d20a21dd6",
+    "eng": "Gangadhara",
+    "fLE": "G",
+    "tel": "గంగాధర",
+    "fLTel": "గ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "46062b05-2cf2-49e9-a43c-fa1c7a401bae",
+    "eng": "Gangadutt",
+    "fLE": "G",
+    "tel": "గంగాడట",
+    "fLTel": "గ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "1033dae4-f0e0-49a8-b070-dc3372b6b595",
+    "eng": "Gangadwara",
+    "fLE": "G",
+    "tel": "గంగాద్వారా",
+    "fLTel": "గ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "f2f75582-caa0-4a9f-ae8e-32e077f7e39e",
+    "eng": "Gangaiah",
+    "fLE": "G",
+    "tel": "గంగయ్య",
+    "fLTel": "గ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "56d523fc-0372-4bc3-b339-3da0676bd3ce",
+    "eng": "Gangaiarasan",
+    "fLE": "G",
+    "tel": "గాంగేయరసం",
+    "fLTel": "గ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "55e5f75f-1759-4648-b82d-c133d93d5f2d",
+    "eng": "Gangaj",
+    "fLE": "G",
+    "tel": "గంగాజ్",
+    "fLTel": "గ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "2aaebef5-737a-4263-a744-8b2a07b74e63",
+    "eng": "Gangaja",
+    "fLE": "G",
+    "tel": "గంగాజ",
+    "fLTel": "గ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "1f24c710-7f54-464f-9582-23245aac10ff",
+    "eng": "Gangamaindan",
+    "fLE": "G",
+    "tel": "గంగమైందం",
+    "fLTel": "గ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "c945daa8-c7d9-4265-ab92-375cee7d37e6",
+    "eng": "Gangaraaju",
+    "fLE": "G",
+    "tel": "గంగరాజు",
+    "fLTel": "గ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "e69167f8-f82f-4d48-9c07-9d88299f58d0",
+    "eng": "Gangasiruvan",
+    "fLE": "G",
+    "tel": "గంగసిరువాం",
+    "fLTel": "గ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "3d47dbfd-b860-492b-aea5-7e6bcb07fccb",
+    "eng": "Gangavar",
+    "fLE": "G",
+    "tel": "గంగ్వార్",
+    "fLTel": "గ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "7b30b393-5520-470f-afbe-180ac866c209",
+    "eng": "Ganger",
+    "fLE": "G",
+    "tel": "గాంగేర్",
+    "fLTel": "గ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "92b706ed-8ad4-4a01-99ee-1039c48c5729",
+    "eng": "Gangesa",
+    "fLE": "G",
+    "tel": "గాంగేసా",
+    "fLTel": "గ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "6b08fe8f-22c7-4b6e-8210-4a52142fca34",
+    "eng": "Gangesh",
+    "fLE": "G",
+    "tel": "గాంగేష్",
+    "fLTel": "గ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "406abb17-3a1c-4503-9963-77f4651fb582",
+    "eng": "Gangesha",
+    "fLE": "G",
+    "tel": "గాంగేశా",
+    "fLTel": "గ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "e0e4e921-acdc-428d-abb8-5638676136c4",
+    "eng": "Gangeswar",
+    "fLE": "G",
+    "tel": "గంగేశ్వర్",
+    "fLTel": "గ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "9a843557-a494-42df-8ce3-a2d954fff2bc",
+    "eng": "Gangeya",
+    "fLE": "G",
+    "tel": "గాంగేయ",
+    "fLTel": "గ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "eb091894-be09-476e-8bfa-04a7840f8ab5",
+    "eng": "Gangeyan",
+    "fLE": "G",
+    "tel": "గాంగేయన్",
+    "fLTel": "గ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "84c6b37c-fc7e-4ac8-af0a-5366c44c5bad",
+    "eng": "Gangol",
+    "fLE": "G",
+    "tel": "గంగూలీ",
+    "fLTel": "గ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "7e48afbc-6b3c-47ab-b4d7-776cd3af0690",
+    "eng": "Ganhardin",
+    "fLE": "G",
+    "tel": "గణ్హర్డీన్",
+    "fLTel": "గ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "54316539-f327-4b65-9e80-da5131435622",
+    "eng": "Ganib",
+    "fLE": "G",
+    "tel": "గనిబ్",
+    "fLTel": "గ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "245b58c3-4eff-4ae8-bfe5-d496c7c524bd",
+    "eng": "Ganikaa",
+    "fLE": "G",
+    "tel": "గణికా",
+    "fLTel": "గ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "4ce353e9-5f4d-4781-8679-66fc654a1029",
+    "eng": "Ganimedes",
+    "fLE": "G",
+    "tel": "గనిమెడేస్",
+    "fLTel": "గ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "e07329ff-89d1-4297-96b5-9bd34d6b33bc",
+    "eng": "Ganin",
+    "fLE": "G",
+    "tel": "గణిం",
+    "fLTel": "గ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "33556c65-5f49-4823-96d8-20a7b4f2a0c1",
+    "eng": "Ganiru",
+    "fLE": "G",
+    "tel": "గునీరు",
+    "fLTel": "గ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "772ea139-778f-4553-ae9a-d3c5d63ce3d0",
+    "eng": "Ganishth",
+    "fLE": "G",
+    "tel": "గనిషత్",
+    "fLTel": "గ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "9e10f055-6efd-4a5e-90f3-28f624bb1376",
+    "eng": "Ganit",
+    "fLE": "G",
+    "tel": "గణిత",
+    "fLTel": "గ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "9114d683-9045-4de1-a8f5-6446bcce1a05",
+    "eng": "Ganith",
+    "fLE": "G",
+    "tel": "గణిత",
+    "fLTel": "గ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "bcd38703-04f6-46f8-9836-d3d581a90733",
+    "eng": "Ganix",
+    "fLE": "G",
+    "tel": "గిన్నిస్",
+    "fLTel": "గ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "ffa4e030-a1cc-4776-ac7f-4dbf67443a11",
+    "eng": "Gankappa",
+    "fLE": "G",
+    "tel": "గంకప్ప",
+    "fLTel": "గ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "16c08faa-69b8-46ed-b78e-9a9498b4d817",
+    "eng": "Gann",
+    "fLE": "G",
+    "tel": "గాన్",
+    "fLTel": "గ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "8006a61f-c53b-46bb-acd4-ff53ec34a6b0",
+    "eng": "Gannath",
+    "fLE": "G",
+    "tel": "గన్నాధ్",
+    "fLTel": "గ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "f5a27be7-55d0-4096-a5f6-dce61aa53e7a",
+    "eng": "Gannon",
+    "fLE": "G",
+    "tel": "గన్నోన్",
+    "fLTel": "గ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "b135c6cb-1071-40e9-8d14-4176f43b3511",
+    "eng": "Ganora",
+    "fLE": "G",
+    "tel": "గనోరా",
+    "fLTel": "గ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "24e285d7-1812-4128-8761-698ce239e8fc",
+    "eng": "Ganpat",
+    "fLE": "G",
+    "tel": "గంపేట్",
+    "fLTel": "గ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "3c04e65e-07f1-4560-a6d6-5d6f28d1104f",
+    "eng": "Ganpati",
+    "fLE": "G",
+    "tel": "గణపతి",
+    "fLTel": "గ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "1aeb287c-9e31-4cc5-ae05-dc38a195d7ef",
+    "eng": "Gansh",
+    "fLE": "G",
+    "tel": "గన్స్",
+    "fLTel": "గ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "628b58fa-9eba-4260-a1bd-7f5a9c7f7051",
+    "eng": "Ganulf",
+    "fLE": "G",
+    "tel": "గనుల్ఫ్",
+    "fLTel": "గ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "7f696762-c8a3-4ff4-ad19-5225e0559828",
+    "eng": "Gaodhasti",
+    "fLE": "G",
+    "tel": "గవదాస్తి",
+    "fLTel": "గ",
+    "tags": [],
+    "gen": "male",
+    "rel": "others"
+  },
+  {
+    "id": "dc7a2e59-e52d-497f-b6d1-2153deb88eee",
+    "eng": "Gaoushik",
+    "fLE": "G",
+    "tel": "గయోషిక్",
+    "fLTel": "గ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "04e2a5ff-cc59-40c1-b61a-e6eb8ad7630e",
+    "eng": "Gaousik",
+    "fLE": "G",
+    "tel": "గయోసిక్",
+    "fLTel": "గ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "f0dd73b6-315b-41b5-82c4-66434b59ba83",
+    "eng": "Gar",
+    "fLE": "G",
+    "tel": "గర్",
+    "fLTel": "గ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "cbb7cd19-bff3-4aec-8754-667e0b44ee1b",
+    "eng": "Garaden",
+    "fLE": "G",
+    "tel": "గార్డెన్",
+    "fLTel": "గ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "3b968032-b9fc-4720-a6af-db10909b19f3",
+    "eng": "Garadin",
+    "fLE": "G",
+    "tel": "గారడి",
+    "fLTel": "గ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "140ae024-c83b-4f94-a5c9-de5990588186",
+    "eng": "Garadun",
+    "fLE": "G",
+    "tel": "గరదుం",
+    "fLTel": "గ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "25e352f5-e76d-4c7b-b47d-8a166506d434",
+    "eng": "Garadyn",
+    "fLE": "G",
+    "tel": "గారడీన్",
+    "fLTel": "గ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "6f919530-7109-4b38-8f52-8f8a013f90bf",
+    "eng": "Garafeld",
+    "fLE": "G",
+    "tel": "గారాఫెల్డ్",
+    "fLTel": "గ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "dde106a1-7e6d-4a2b-8c30-3e80791d5aae",
+    "eng": "Garald",
+    "fLE": "G",
+    "tel": "గరల్డ్",
+    "fLTel": "గ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "8be51d70-fd67-4a2c-8bec-a61c09b248ad",
+    "eng": "Garan",
+    "fLE": "G",
+    "tel": "గరం",
+    "fLTel": "గ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "f1abdbc9-a74d-42ea-9f09-5764300734d8",
+    "eng": "Garatun",
+    "fLE": "G",
+    "tel": "గరాటును",
+    "fLTel": "గ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "d6f6f310-f189-47e8-b5cf-59d30c780fae",
+    "eng": "Garaut",
+    "fLE": "G",
+    "tel": "గరుత",
+    "fLTel": "గ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "dc7635de-7e2f-4fc8-b149-77e5dc508d2b",
+    "eng": "Garbeorht",
+    "fLE": "G",
+    "tel": "గార్బెర్హ్ట్",
+    "fLTel": "గ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "91231ce2-48a2-4f11-be16-fc030d4f8339",
+    "eng": "Garbha",
+    "fLE": "G",
+    "tel": "గర్భ",
+    "fLTel": "గ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  }
+]

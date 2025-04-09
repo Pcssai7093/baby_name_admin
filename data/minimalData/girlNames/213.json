@@ -1,0 +1,842 @@
+[
+  {
+    "id": "19e14563-0990-4bf1-a825-2054d1bb2b18",
+    "eng": "Kalajot",
+    "fLE": "K",
+    "tel": "కళాజాత",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "female",
+    "rel": "Sikh"
+  },
+  {
+    "id": "d6d4ea31-369c-4d81-ae29-a40db034e824",
+    "eng": "Kalaka",
+    "fLE": "K",
+    "tel": "కాలాక",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "765d6312-3046-4a18-a8b8-c030808d27d2",
+    "eng": "Kalakaanti",
+    "fLE": "K",
+    "tel": "కళాకాంతి",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "01300f0d-133e-43e2-b163-929e5a18d5fd",
+    "eng": "Kalakarni",
+    "fLE": "K",
+    "tel": "కళాకారిణి",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "21ad7efa-b951-4187-a772-c71c6b8e8568",
+    "eng": "Kalamanjiiraranjini",
+    "fLE": "K",
+    "tel": "కాలమంజీరరంజిని",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "8c5994f9-b19c-468d-9e34-bbacbe59a705",
+    "eng": "Kalamathi",
+    "fLE": "K",
+    "tel": "కాలమతి",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "31a6bd9d-6f42-4e16-8960-5e29f186ee97",
+    "eng": "Kalan",
+    "fLE": "K",
+    "tel": "కాలం",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "591a0f75-672d-4e1b-b12e-eaebb690c371",
+    "eng": "Kalandhika",
+    "fLE": "K",
+    "tel": "కాలందాకా",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "d7867bda-1066-493e-a2b9-f5c6ca3beec4",
+    "eng": "Kalanidhi",
+    "fLE": "K",
+    "tel": "కళానిధి",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "46a5475f-0e73-4286-9a14-ab84c76157e9",
+    "eng": "Kalanjali",
+    "fLE": "K",
+    "tel": "కళాంజలి",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "2a9e01cc-ca1c-4145-b21a-781b5dd92f06",
+    "eng": "Kalapi",
+    "fLE": "K",
+    "tel": "కలపి",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "b6723083-3818-4933-9e0d-c484353d197c",
+    "eng": "Kalapini",
+    "fLE": "K",
+    "tel": "కలపైని",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "1802a753-d1f3-43c4-8075-ab2a041bcc88",
+    "eng": "Kalarani",
+    "fLE": "K",
+    "tel": "కలరని",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "4dbc1454-59da-4723-99e3-be1f3197d37a",
+    "eng": "Kalare",
+    "fLE": "K",
+    "tel": "కలర్",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "46b38451-6d10-42f8-927a-c9c3a1da7637",
+    "eng": "Kalasaveri",
+    "fLE": "K",
+    "tel": "కలసావేరి",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "a860d654-f164-4aa2-aeb8-965160d55b11",
+    "eng": "Kalavathi",
+    "fLE": "K",
+    "tel": "కళావతి",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "777237cc-a222-49be-92dd-a2a4c0a56ef2",
+    "eng": "Kalavathy",
+    "fLE": "K",
+    "tel": "కలవతే",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "79659925-abd2-4a90-aa00-c2c1732b30fa",
+    "eng": "Kalavati",
+    "fLE": "K",
+    "tel": "కళావతి",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "ffa67a11-d31d-45d1-be5a-bdcc6acc989f",
+    "eng": "Kalawanti",
+    "fLE": "K",
+    "tel": "కలవన్తి",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "724f4042-cf4a-441f-87fa-bb12838d5779",
+    "eng": "Kalbinder",
+    "fLE": "K",
+    "tel": "కాల్బిన్డెర్",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "female",
+    "rel": "Sikh"
+  },
+  {
+    "id": "f50a543d-9e2b-4c6c-8672-83bdb5faef0b",
+    "eng": "Kalee",
+    "fLE": "K",
+    "tel": "కాళీ",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "d74939a2-7887-4ca2-a01b-a637bae63889",
+    "eng": "Kaleela",
+    "fLE": "K",
+    "tel": "ఖాళీల",
+    "fLTel": "ఖ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Muslim"
+  },
+  {
+    "id": "a3264100-7402-4c47-82d6-92742fc109ff",
+    "eng": "Kaleema",
+    "fLE": "K",
+    "tel": "కాళీమా",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "female",
+    "rel": "Muslim"
+  },
+  {
+    "id": "1bc4f3ca-f2bb-498a-8602-c4b566619a91",
+    "eng": "Kaleemah",
+    "fLE": "K",
+    "tel": "కాళీమాహ్",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "female",
+    "rel": "Muslim"
+  },
+  {
+    "id": "f819578b-e456-406c-881c-bf5cf6ece725",
+    "eng": "Kaleena",
+    "fLE": "K",
+    "tel": "కాలీన",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "female",
+    "rel": "others"
+  },
+  {
+    "id": "07d43667-e3f6-4ab8-b53f-6cbb76fda491",
+    "eng": "Kaleeswari",
+    "fLE": "K",
+    "tel": "కాళీశ్వరి",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "0f04dfe6-f0a0-4fb8-a34d-687664867591",
+    "eng": "Kaleia",
+    "fLE": "K",
+    "tel": "కాలేయ",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "f8d3318f-a32c-4ad3-b20e-3015ef0f2a85",
+    "eng": "Kaleigh",
+    "fLE": "K",
+    "tel": "కాలేఇఘ్",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "dd84035b-0308-4124-a258-351a43d0434a",
+    "eng": "Kaleighia",
+    "fLE": "K",
+    "tel": "కలియుగీత్",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "female",
+    "rel": "others"
+  },
+  {
+    "id": "7f1b39fc-0019-4aed-ac7b-06515b17d0e5",
+    "eng": "Kaleisha",
+    "fLE": "K",
+    "tel": "కాలేఇస్హా",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "8a4a0a8f-891d-4f68-91fd-10eb2b7127b5",
+    "eng": "Kalena",
+    "fLE": "K",
+    "tel": "కలేనా",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "female",
+    "rel": "others"
+  },
+  {
+    "id": "dede34b4-7366-4958-9b37-34fce493b4f4",
+    "eng": "kalena",
+    "fLE": "k",
+    "tel": "కలేనా",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "1da427d9-bf13-40cd-a647-bd9112428dcd",
+    "eng": "Kalene",
+    "fLE": "K",
+    "tel": "కాలేని",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "d7117f68-4435-40a3-a7ee-955101c34a90",
+    "eng": "Kalera",
+    "fLE": "K",
+    "tel": "కాలేరు",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "1c21b73e-b706-417b-a769-c89a08d3af37",
+    "eng": "Kalgi",
+    "fLE": "K",
+    "tel": "కల్గి",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "853a9361-49f4-43c6-8416-56e787faa296",
+    "eng": "Kali",
+    "fLE": "K",
+    "tel": "కాళీ",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "73d5ee1f-41aa-4e36-9dd8-8ccd19d1e543",
+    "eng": "kali",
+    "fLE": "k",
+    "tel": "కాళీ",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "03314581-e6b9-4ee2-9333-974a65e4c518",
+    "eng": "Kalida",
+    "fLE": "K",
+    "tel": "ఖలీదా",
+    "fLTel": "ఖ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "c3d54b52-d177-41d4-aa91-775b2bc28492",
+    "eng": "Kalie",
+    "fLE": "K",
+    "tel": "కలియ",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "5782d871-ee39-4800-a993-f7afe3c9b16e",
+    "eng": "Kalifa",
+    "fLE": "K",
+    "tel": "ఖలీఫా",
+    "fLTel": "ఖ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Muslim"
+  },
+  {
+    "id": "d621bbcc-5fd7-4ef2-88ff-ac8bc37dd650",
+    "eng": "Kalika",
+    "fLE": "K",
+    "tel": "కాళికా",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "c47e488f-64de-47cf-a09d-9387021c5c70",
+    "eng": "Kalila",
+    "fLE": "K",
+    "tel": "ఖాళీల",
+    "fLTel": "ఖ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Muslim"
+  },
+  {
+    "id": "cf079a18-ace9-43b2-969e-a0927ba11339",
+    "eng": "kalila",
+    "fLE": "k",
+    "tel": "ఖాళీల",
+    "fLTel": "ఖ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Muslim"
+  },
+  {
+    "id": "136f4b01-3af5-41f0-83fb-1f3b08a77f2e",
+    "eng": "Kalilah",
+    "fLE": "K",
+    "tel": "కలీలహ్",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "female",
+    "rel": "Muslim"
+  },
+  {
+    "id": "4237b7ba-d50a-4ca7-84d8-852a9a570545",
+    "eng": "Kalilla",
+    "fLE": "K",
+    "tel": "కాళిలా",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "female",
+    "rel": "Muslim"
+  },
+  {
+    "id": "e1f22165-29a5-4a7b-8eda-78080d989c3d",
+    "eng": "Kalima",
+    "fLE": "K",
+    "tel": "కాలిమ",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "female",
+    "rel": "Muslim"
+  },
+  {
+    "id": "374ce29f-bf69-4aa4-aadc-214846c48bd0",
+    "eng": "Kalimba",
+    "fLE": "K",
+    "tel": "కాలింబా",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "15be94d1-ca51-486c-85a4-bccfe7f2eb85",
+    "eng": "Kalina",
+    "fLE": "K",
+    "tel": "కాలిన",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "7c3ea425-2e1d-40a8-af85-21542164d80e",
+    "eng": "Kalinda",
+    "fLE": "K",
+    "tel": "కాలిందా",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "fbb14fc2-cb76-4651-954b-4d4580794bf9",
+    "eng": "kalinda",
+    "fLE": "k",
+    "tel": "కాలిందా",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "2fcb659b-047d-4d9f-b087-5574a1ec43d2",
+    "eng": "Kalindha",
+    "fLE": "K",
+    "tel": "కాలిందా",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "f06a059d-8c4e-42b1-8972-abfb29379a6c",
+    "eng": "Kalindi",
+    "fLE": "K",
+    "tel": "కాలింది",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "afa3e0a1-113e-4d2f-a877-68f638861224",
+    "eng": "Kalini",
+    "fLE": "K",
+    "tel": "కాలిని",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "5eb2e62c-f7a9-4f12-b54a-849d62bd302a",
+    "eng": "Kaliope",
+    "fLE": "K",
+    "tel": "కలిప్",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "0e984f4c-d252-4698-b38e-cb01839c8c85",
+    "eng": "Kalira",
+    "fLE": "K",
+    "tel": "కలిరా",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "female",
+    "rel": "Sikh"
+  },
+  {
+    "id": "f3bd68f9-28ac-4457-a32d-61cd600b8fb6",
+    "eng": "Kalisa",
+    "fLE": "K",
+    "tel": "కలిసి",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "80d1a309-79ca-41f9-be71-471639bc310f",
+    "eng": "Kalisha",
+    "fLE": "K",
+    "tel": "కలిశా",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "e0b941dd-c064-4969-8531-13fd5b9f4e75",
+    "eng": "kalisha",
+    "fLE": "k",
+    "tel": "కలిశా",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "eefeea05-ad12-49c1-9326-de95cc3c993e",
+    "eng": "Kaliska",
+    "fLE": "K",
+    "tel": "కలిసాక",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "0b00992e-5590-47a3-8876-988b67d5b26a",
+    "eng": "Kalissa",
+    "fLE": "K",
+    "tel": "కలిసే",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "d30d84d6-3a40-4b2c-a928-5949e2f041fe",
+    "eng": "Kalista",
+    "fLE": "K",
+    "tel": "కలిస్తా",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "afcd0195-6cb0-483b-bc13-ba32852e02e8",
+    "eng": "Kalita",
+    "fLE": "K",
+    "tel": "కలిత",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "090a9572-4bcc-40a5-9220-b859734fb067",
+    "eng": "Kaliyammal",
+    "fLE": "K",
+    "tel": "కలియమ్మాళ్",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "e39fdaeb-87a4-4e50-b3b4-ad091a56dd48",
+    "eng": "Kaliyan",
+    "fLE": "K",
+    "tel": "కలియన్",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "female",
+    "rel": "Muslim"
+  },
+  {
+    "id": "0b783267-13dd-45c9-b843-2981b36fd3ab",
+    "eng": "Kaliyanei",
+    "fLE": "K",
+    "tel": "కలియనియు",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "05a70ab6-1ba3-43ed-a772-6b0ee314e6e0",
+    "eng": "Kalka",
+    "fLE": "K",
+    "tel": "కల్కా",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "a3d84e14-c386-4a37-8ca1-4d70a2fcc9c7",
+    "eng": "Kallai",
+    "fLE": "K",
+    "tel": "కల్లై",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "c0c432ac-8a18-4ec0-afa5-9a622b77ecb1",
+    "eng": "Kallen",
+    "fLE": "K",
+    "tel": "కళ్ళెం",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "2b37f7dd-b5ac-4eaf-9df4-178d40a81d27",
+    "eng": "Kalli",
+    "fLE": "K",
+    "tel": "కళ్ళు",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "c9dbbf9f-1d2f-427b-92da-06933ffad5cd",
+    "eng": "Kallie",
+    "fLE": "K",
+    "tel": "కలియ",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "female",
+    "rel": "others"
+  },
+  {
+    "id": "c0d92128-290b-4b3c-a962-311951c1e5d5",
+    "eng": "kallie",
+    "fLE": "k",
+    "tel": "కలియ",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "67486ee2-7465-429a-81e1-f68a1c8e35c3",
+    "eng": "Kallima",
+    "fLE": "K",
+    "tel": "కాలిమ",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "101a2f5a-7755-4a26-b3f3-1e3e306996cb",
+    "eng": "Kalliope",
+    "fLE": "K",
+    "tel": "కలిపే",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "04da33a3-18c7-4b11-b0b7-645b5d98f693",
+    "eng": "kalliope",
+    "fLE": "k",
+    "tel": "కలిపే",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "0adebf74-6258-4dce-8426-39d990dd8b54",
+    "eng": "Kalliopi",
+    "fLE": "K",
+    "tel": "కలిపి",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "a9de721d-6e9e-4d34-84df-1575b582a6ec",
+    "eng": "kalliroi",
+    "fLE": "k",
+    "tel": "కల్లిరోయ్",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "fe753f19-3219-42e7-85dc-06a24582b89b",
+    "eng": "Kallista",
+    "fLE": "K",
+    "tel": "కలిస్తా",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "38faadc7-6c7c-4fa4-9046-b44904e47b5d",
+    "eng": "kallista",
+    "fLE": "k",
+    "tel": "కలిస్తా",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "a1e94565-3b5e-4c9e-87f5-a6c561f1c362",
+    "eng": "kallisto",
+    "fLE": "k",
+    "tel": "కల్లిస్తో",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "3976a2c3-a24d-4c8d-8f62-a970f1a814b6",
+    "eng": "Kallita",
+    "fLE": "K",
+    "tel": "కలిత",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "22dfd3ba-43c8-41cd-8e89-8e16a5dec74e",
+    "eng": "Kallol",
+    "fLE": "K",
+    "tel": "కల్లోలం",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "94e36971-72a4-41f0-8c78-8847989362ed",
+    "eng": "Kallola",
+    "fLE": "K",
+    "tel": "కల్లోల",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "fd84b449-0aa9-43ce-861e-e1dbca351e06",
+    "eng": "Kallolee",
+    "fLE": "K",
+    "tel": "కలౌలీ",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "53df0eb5-99f2-4dae-b196-ec796421007a",
+    "eng": "Kallolini",
+    "fLE": "K",
+    "tel": "కల్లోలిని",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  }
+]

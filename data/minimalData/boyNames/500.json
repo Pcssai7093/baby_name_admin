@@ -1,0 +1,932 @@
+[
+  {
+    "id": "b3d32e93-3ad8-41ec-8d7b-83bf45319d6a",
+    "eng": "Shajar",
+    "fLE": "S",
+    "tel": "షాజార్",
+    "fLTel": "ష",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "b35991b7-44f3-4f1e-8bb7-82ccd8a1c432",
+    "eng": "Shajee",
+    "fLE": "S",
+    "tel": "షాజీ",
+    "fLTel": "ష",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "3567b74f-e6cd-4053-89f0-fd418c959aa8",
+    "eng": "Shaji",
+    "fLE": "S",
+    "tel": "షాజీ",
+    "fLTel": "ష",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "28a8ac91-ce6c-4467-a694-c07d65979d5d",
+    "eng": "Shakaib",
+    "fLE": "S",
+    "tel": "షాకిబ్",
+    "fLTel": "ష",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "dd5ef19e-37e8-4600-bfa7-2fd6c47560b5",
+    "eng": "Shakale",
+    "fLE": "S",
+    "tel": "శాఖలే",
+    "fLTel": "శ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "bcf8214f-9038-432c-8369-cd347d2ffb1d",
+    "eng": "Shakar",
+    "fLE": "S",
+    "tel": "శంకర్",
+    "fLTel": "శ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "134759b9-9a56-4305-83e0-eb1224147259",
+    "eng": "Shakeb",
+    "fLE": "S",
+    "tel": "షాకిబ్",
+    "fLTel": "ష",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "72f4b993-4655-4ca2-b5c0-004e856fa117",
+    "eng": "Shakeel",
+    "fLE": "S",
+    "tel": "షకీల్",
+    "fLTel": "ష",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "4a99aa86-236c-4279-9e11-4ea25be9c01b",
+    "eng": "Shakeer",
+    "fLE": "S",
+    "tel": "షాకీర్",
+    "fLTel": "ష",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "6639f037-97a5-43c1-86bd-ba8c918c1822",
+    "eng": "Shaker",
+    "fLE": "S",
+    "tel": "షేకర్",
+    "fLTel": "ష",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "11c1e1e4-318c-4adc-902b-7a70c4e61ad0",
+    "eng": "Shakerah",
+    "fLE": "S",
+    "tel": "శాఖేరః",
+    "fLTel": "శ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "50ca1e9a-db28-4cfa-b1ef-f37e4b381712",
+    "eng": "Shaki",
+    "fLE": "S",
+    "tel": "షాకి",
+    "fLTel": "ష",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "aea8e27a-3e7c-4644-be05-6719e1212f7c",
+    "eng": "Shakib",
+    "fLE": "S",
+    "tel": "షకీబ్",
+    "fLTel": "ష",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "64aa30fc-e84e-4397-8655-3a638adbc37a",
+    "eng": "Shakil",
+    "fLE": "S",
+    "tel": "షకీల్",
+    "fLTel": "ష",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "18e55ba3-745f-49e9-8f17-9fdcfcfd7eaf",
+    "eng": "shakil",
+    "fLE": "s",
+    "tel": "షకీల్",
+    "fLTel": "ష",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "7590683e-2fa6-4407-8f06-10a3575fc532",
+    "eng": "Shakir",
+    "fLE": "S",
+    "tel": "షాకీర్",
+    "fLTel": "ష",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "c9402a79-67dc-41a9-af29-cc99b8f56f7d",
+    "eng": "shakir",
+    "fLE": "s",
+    "tel": "షాకీర్",
+    "fLTel": "ష",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "73748f49-8c42-4217-9a0f-718c4efafe06",
+    "eng": "Shakoor",
+    "fLE": "S",
+    "tel": "షాకూర్",
+    "fLTel": "ష",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "a40c85bf-c8df-4dbd-8499-95b8eb8bc13e",
+    "eng": "Shaktidhar",
+    "fLE": "S",
+    "tel": "శక్తిధర్",
+    "fLTel": "శ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "ef604970-0001-46a7-8713-6fcf9a7fc6cc",
+    "eng": "Shaktiparwah",
+    "fLE": "S",
+    "tel": "శక్తిపర్వాహ",
+    "fLTel": "శ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Sikh"
+  },
+  {
+    "id": "2bcd475f-3613-4f9f-bc5b-e259a8eb940e",
+    "eng": "Shaktiraj",
+    "fLE": "S",
+    "tel": "శక్తిరాజ్",
+    "fLTel": "శ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "bf3f6a0a-c3da-4989-a955-1fde1aee7e2e",
+    "eng": "Shaku",
+    "fLE": "S",
+    "tel": "షాకు",
+    "fLTel": "ష",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "6b7f919e-7c0e-4dd5-bda3-a49bbfdf0f84",
+    "eng": "Shakun",
+    "fLE": "S",
+    "tel": "శకం",
+    "fLTel": "శ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "d1c28280-5e44-4481-a38c-9db81c070399",
+    "eng": "Shakuni",
+    "fLE": "S",
+    "tel": "శకుని",
+    "fLTel": "శ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "1e7d6a83-0e87-45e3-8188-bfa4cc6aa10f",
+    "eng": "Shakunt",
+    "fLE": "S",
+    "tel": "శాకున్త",
+    "fLTel": "శ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "5c28f826-44a5-4f0e-a5d4-9557d8c2cbd1",
+    "eng": "Shakunth",
+    "fLE": "S",
+    "tel": "శాకున్త",
+    "fLTel": "శ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "ef53ec49-dbb5-4af1-932e-25598018ae22",
+    "eng": "Shakyasinha",
+    "fLE": "S",
+    "tel": "శక్యసింహ",
+    "fLTel": "శ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "ad59d347-7e1a-4574-91c4-6ab2e75ad42e",
+    "eng": "Shalabh",
+    "fLE": "S",
+    "tel": "శలభ్",
+    "fLTel": "శ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "ea687b9c-feb3-4d8a-aedd-7f09c515534d",
+    "eng": "Shalang",
+    "fLE": "S",
+    "tel": "షాలాంగ్",
+    "fLTel": "ష",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "71ef8a10-c519-43cf-b3f4-08798bd41d69",
+    "eng": "Shalauddin",
+    "fLE": "S",
+    "tel": "శలాఉద్దీన్",
+    "fLTel": "శ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "afa1b6c6-5bac-4f69-98b5-8380b8965f96",
+    "eng": "Shalen",
+    "fLE": "S",
+    "tel": "షాలేం",
+    "fLTel": "ష",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "aac93232-05a2-4f97-8b05-f44d3fcb29fa",
+    "eng": "Shalev",
+    "fLE": "S",
+    "tel": "షాలేవీ",
+    "fLTel": "ష",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "03df0e5f-96f4-42aa-879b-c538e5fa335b",
+    "eng": "Shaligram",
+    "fLE": "S",
+    "tel": "శాలిగ్రామ్",
+    "fLTel": "శ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "75868da5-71a3-4b64-a92b-5036c160000f",
+    "eng": "Shalik",
+    "fLE": "S",
+    "tel": "శాలిక్",
+    "fLTel": "శ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "86b401cc-1264-4886-a4f2-ffec4fff098f",
+    "eng": "Shalimoon",
+    "fLE": "S",
+    "tel": "శాలిమూన్",
+    "fLTel": "శ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "12b25325-1ba6-4a59-ae0e-d45e67445a54",
+    "eng": "Shalina",
+    "fLE": "S",
+    "tel": "షాలిని",
+    "fLTel": "ష",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "8e01c5ef-17b0-4bca-af7f-7e26f2fd35b3",
+    "eng": "Shaline",
+    "fLE": "S",
+    "tel": "షాలిని",
+    "fLTel": "ష",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "4960e8d9-22a7-45ec-85c9-b5fb17d7f44c",
+    "eng": "Shalit",
+    "fLE": "S",
+    "tel": "షాలిటీ",
+    "fLTel": "ష",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "5c83d721-96ba-4dd1-bcc0-824d47e42bb0",
+    "eng": "Shalivahan",
+    "fLE": "S",
+    "tel": "శాలివాహన",
+    "fLTel": "శ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "a45f5c53-f7d7-4463-9f67-362d1991fd59",
+    "eng": "Shallal",
+    "fLE": "S",
+    "tel": "షాల్లాల్",
+    "fLTel": "ష",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "36b91d09-abcc-48ea-bedc-8d329201150c",
+    "eng": "Shallum",
+    "fLE": "S",
+    "tel": "షల్లూము",
+    "fLTel": "ష",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "959c320a-d8a9-4dd0-bd01-ab7d427f76a6",
+    "eng": "Shalva",
+    "fLE": "S",
+    "tel": "శాలువా",
+    "fLTel": "శ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "3ad13d9d-9b78-41e1-ba4d-955083e614dc",
+    "eng": "Shalya",
+    "fLE": "S",
+    "tel": "శల్య",
+    "fLTel": "శ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "83d26228-a56c-440d-8fde-07c11aecacc9",
+    "eng": "Shamail",
+    "fLE": "S",
+    "tel": "షామిలి",
+    "fLTel": "ష",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "f3a8968f-80c1-407a-bcb3-4b37da1c8d95",
+    "eng": "Shamak",
+    "fLE": "S",
+    "tel": "శమ్క",
+    "fLTel": "శ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "d8233259-239c-4099-8180-cd59cbda9e81",
+    "eng": "Shamakarn",
+    "fLE": "S",
+    "tel": "శంకరన్",
+    "fLTel": "శ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "e46eb25b-9141-46de-a040-4f4a2e2dc503",
+    "eng": "Shamakarna",
+    "fLE": "S",
+    "tel": "శంకరం",
+    "fLTel": "శ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "2fe7b172-2177-4a5b-99c8-fc7a3e3f9b7a",
+    "eng": "Shaman",
+    "fLE": "S",
+    "tel": "షమన్",
+    "fLTel": "ష",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "c15c925c-81f0-4207-8ef0-3656442c0771",
+    "eng": "Shamant",
+    "fLE": "S",
+    "tel": "శమంత",
+    "fLTel": "శ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "0fce789b-529e-4be0-8862-84e308da3384",
+    "eng": "Shamanth",
+    "fLE": "S",
+    "tel": "సామంత్",
+    "fLTel": "స",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "8725bee2-61ca-46c7-86fe-f6c37c7561a0",
+    "eng": "Shamar",
+    "fLE": "S",
+    "tel": "సామర్",
+    "fLTel": "స",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "e4289c7c-5cdc-4231-8406-0176c3d568f8",
+    "eng": "shamar",
+    "fLE": "s",
+    "tel": "సామర్",
+    "fLTel": "స",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "fae9f77b-e899-45c2-823c-52e3be0974cd",
+    "eng": "Shamarih",
+    "fLE": "S",
+    "tel": "శమరిహ",
+    "fLTel": "శ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "adb547be-be95-4cb6-96ed-a43846a837b9",
+    "eng": "Shamas",
+    "fLE": "S",
+    "tel": "శాంటాస్",
+    "fLTel": "శ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "96426d5e-9c0e-499e-b099-50465eccb541",
+    "eng": "Shamash",
+    "fLE": "S",
+    "tel": "శంషు",
+    "fLTel": "శ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "b50e5cc3-4379-45fa-b7b6-8397059d29ff",
+    "eng": "Shamath",
+    "fLE": "S",
+    "tel": "శమత్",
+    "fLTel": "శ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "e513198b-f36a-4ad6-a58a-d0b6c179b513",
+    "eng": "Shambhaiah",
+    "fLE": "S",
+    "tel": "శంభయ్య",
+    "fLTel": "శ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "950cc91a-92b3-4922-add8-f67f68d90787",
+    "eng": "Shambho",
+    "fLE": "S",
+    "tel": "శంభో",
+    "fLTel": "శ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "8bbda209-997d-4376-baf1-d8e4319e9e4e",
+    "eng": "Shambhu",
+    "fLE": "S",
+    "tel": "శంభు",
+    "fLTel": "శ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "9c24c774-2b58-4b8b-82e2-4ce19bbff773",
+    "eng": "Shameej",
+    "fLE": "S",
+    "tel": "షమీజ్",
+    "fLTel": "ష",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "6683d1dd-7c63-44f2-8641-a95c362c1fd0",
+    "eng": "Shameek",
+    "fLE": "S",
+    "tel": "శమీకు",
+    "fLTel": "శ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "d88f3348-73fd-448a-acaa-43e1fbd37087",
+    "eng": "Shameel",
+    "fLE": "S",
+    "tel": "శామీర్",
+    "fLTel": "శ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "865df97d-e6bf-466e-ae8b-4cd8dc7cbe4a",
+    "eng": "Shameem",
+    "fLE": "S",
+    "tel": "షమీమ్",
+    "fLTel": "ష",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "710bb748-4004-4060-8635-38629eec1c8b",
+    "eng": "Shameer",
+    "fLE": "S",
+    "tel": "శామీర్",
+    "fLTel": "శ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "1899d684-28ea-42b6-a11d-178b1f8137ea",
+    "eng": "Shamel",
+    "fLE": "S",
+    "tel": "షామిలి",
+    "fLTel": "ష",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "5bc46546-7de2-4f83-8a1d-5fd3d07d9cf1",
+    "eng": "Shamen",
+    "fLE": "S",
+    "tel": "షమీన్",
+    "fLTel": "ష",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "a9820205-c90a-4940-8741-a4d8145a02ca",
+    "eng": "Shami",
+    "fLE": "S",
+    "tel": "షమీ",
+    "fLTel": "ష",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "9ba73dc0-4cfe-47c6-b4c8-44a0b480b731",
+    "eng": "Shamik",
+    "fLE": "S",
+    "tel": "షామిక్",
+    "fLTel": "ష",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "78573872-45f9-4e08-9f78-4d250aa431c5",
+    "eng": "Shamikh",
+    "fLE": "S",
+    "tel": "షామిక్",
+    "fLTel": "ష",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "2a25dd4b-5fa5-4c2e-9a38-cdb4787f0f89",
+    "eng": "Shamil",
+    "fLE": "S",
+    "tel": "షామిలి",
+    "fLTel": "ష",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "3f7e5a6a-e9dd-4957-9c10-9f3d3a47945c",
+    "eng": "Shamim",
+    "fLE": "S",
+    "tel": "షమీమ్",
+    "fLTel": "ష",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "b726bd32-09ea-49f2-879f-3fa89db149b0",
+    "eng": "Shamimara",
+    "fLE": "S",
+    "tel": "శామిమారా",
+    "fLTel": "శ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "879fedaa-b185-485a-b90b-2e2a53e0240f",
+    "eng": "Shaminderpal",
+    "fLE": "S",
+    "tel": "శమిందెర్పాల్",
+    "fLTel": "శ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Sikh"
+  },
+  {
+    "id": "105daa3a-3923-4e9c-8f53-44e5de623ee1",
+    "eng": "Shamindra",
+    "fLE": "S",
+    "tel": "శమీంద్ర",
+    "fLTel": "శ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "1f7346eb-f982-437d-ad71-d46d0e7b246f",
+    "eng": "Shamir",
+    "fLE": "S",
+    "tel": "శామీర్",
+    "fLTel": "శ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "53d8e177-3c88-40b3-8ca6-6daba19b560e",
+    "eng": "Shamish",
+    "fLE": "S",
+    "tel": "షామిష్",
+    "fLTel": "ష",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "f1a8ea2c-28bc-44ea-ac95-05ca77883598",
+    "eng": "Shamit",
+    "fLE": "S",
+    "tel": "షామిటీ",
+    "fLTel": "ష",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "7d3e4d85-d3ef-4201-9435-2ad287fc3d9d",
+    "eng": "Shamith",
+    "fLE": "S",
+    "tel": "షామిత్",
+    "fLTel": "ష",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "31f2122a-0259-415d-a229-5d38ea4e3e0a",
+    "eng": "Shamji",
+    "fLE": "S",
+    "tel": "షాంజి",
+    "fLTel": "ష",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "3b2dd0d5-337b-4662-90a3-821df9bb3a5f",
+    "eng": "Shammah",
+    "fLE": "S",
+    "tel": "షమ్మహ్",
+    "fLTel": "ష",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "fc650e7a-191f-448a-b275-bf4237b91a2a",
+    "eng": "Shammas",
+    "fLE": "S",
+    "tel": "షమ్మన్",
+    "fLTel": "ష",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "459d758b-6fbd-4071-841a-4d40be010635",
+    "eng": "Shammya",
+    "fLE": "S",
+    "tel": "షాంమ్య",
+    "fLTel": "ష",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "0ef61a00-0715-40f3-8b3f-980e54fa6b3c",
+    "eng": "Shammyn",
+    "fLE": "S",
+    "tel": "షమ్మీన్",
+    "fLTel": "ష",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "e8f4e2e9-53c4-4707-9519-fe2fbd6df629",
+    "eng": "Shamoil",
+    "fLE": "S",
+    "tel": "శమొయిల్",
+    "fLTel": "శ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "ac51e45f-2f7b-44ff-aaa4-ec75612d3e11",
+    "eng": "Shamoun",
+    "fLE": "S",
+    "tel": "శమౌన్",
+    "fLTel": "శ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "dca24753-1fa8-4448-b922-e4945e1ce570",
+    "eng": "Shamreas",
+    "fLE": "S",
+    "tel": "షాంరీస్",
+    "fLTel": "ష",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "1f02e751-09ee-4816-864f-70d92c026296",
+    "eng": "Shams",
+    "fLE": "S",
+    "tel": "షామ్స్",
+    "fLTel": "ష",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "ff2046d5-b5ff-49cf-af5d-bc5f948170fd",
+    "eng": "Shams Al Din",
+    "fLE": "S",
+    "tel": "షామ్స్ ఆల్ దిన్",
+    "fLTel": "ష",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "4bf7024b-fd15-4a8f-bcbf-ad1d170b2e38",
+    "eng": "Shamsaldin",
+    "fLE": "S",
+    "tel": "శంసలండి",
+    "fLTel": "శ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "3ace58d6-0e3e-47b4-bb0b-6898ea47773b",
+    "eng": "Shamsh",
+    "fLE": "S",
+    "tel": "షంషు",
+    "fLTel": "ష",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "cba1e22c-7756-47e8-a1b2-08617088bfd6",
+    "eng": "Shamshad",
+    "fLE": "S",
+    "tel": "షంషాద్",
+    "fLTel": "ష",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "9808cc83-4d67-4a12-ba55-bcd61b8168b4",
+    "eng": "Shamshair",
+    "fLE": "S",
+    "tel": "షాంషైర్",
+    "fLTel": "ష",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "c415dc02-12c4-42cc-af08-331fc3ff4bd7",
+    "eng": "Shamsheer",
+    "fLE": "S",
+    "tel": "షంషేర్",
+    "fLTel": "ష",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  }
+]

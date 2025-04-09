@@ -1,0 +1,962 @@
+[
+  {
+    "id": "36f8a25c-db3c-41c8-9c4a-3602674c46ca",
+    "eng": "mari",
+    "fLE": "m",
+    "tel": "మరి",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "f60f5e97-381e-4396-933a-a7d8a532d614",
+    "eng": "Maria",
+    "fLE": "M",
+    "tel": "మరియా",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Muslim"
+  },
+  {
+    "id": "1f598f42-edd6-48ae-a597-51de3955301a",
+    "eng": "Mariabella",
+    "fLE": "M",
+    "tel": "మరిఅబేళ్ల",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "female",
+    "rel": "others"
+  },
+  {
+    "id": "0655553b-1900-406c-8bf0-a6db1e2e2dfe",
+    "eng": "Mariagart",
+    "fLE": "M",
+    "tel": "మరియాగార్త్",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "female",
+    "rel": "others"
+  },
+  {
+    "id": "3e973730-2e9d-4a6a-b36c-7b584d487131",
+    "eng": "Mariah",
+    "fLE": "M",
+    "tel": "మారయ్య",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "female",
+    "rel": "others"
+  },
+  {
+    "id": "f7d9a8dc-f474-48aa-9741-590d7d66c5fe",
+    "eng": "mariah",
+    "fLE": "m",
+    "tel": "మారయ్య",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "9b7ec618-76fd-47af-97fa-6370896b21b4",
+    "eng": "Mariajose",
+    "fLE": "M",
+    "tel": "మరియాజొసె",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "female",
+    "rel": "others"
+  },
+  {
+    "id": "26978a4d-ae73-4536-913d-3edb07d4f62b",
+    "eng": "Marialena",
+    "fLE": "M",
+    "tel": "మరియాలేనా",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "female",
+    "rel": "others"
+  },
+  {
+    "id": "e46c4603-54e7-4d11-852b-0d61c2e52b6d",
+    "eng": "Mariam",
+    "fLE": "M",
+    "tel": "మ్రిం",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Muslim"
+  },
+  {
+    "id": "55b09903-a81b-4960-9767-815b2c9a1f89",
+    "eng": "Mariama",
+    "fLE": "M",
+    "tel": "మ్రింగా",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Muslim"
+  },
+  {
+    "id": "599bc917-1029-48b5-9292-3caca84b9996",
+    "eng": "Mariamne",
+    "fLE": "M",
+    "tel": "మ్రింనే",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "female",
+    "rel": "others"
+  },
+  {
+    "id": "4fa250dc-3d8e-4952-9a2e-ab54574cb07e",
+    "eng": "Marian",
+    "fLE": "M",
+    "tel": "మరియన్",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "female",
+    "rel": "others"
+  },
+  {
+    "id": "3d829343-89f7-4c72-96cb-e336aef74330",
+    "eng": "marian",
+    "fLE": "m",
+    "tel": "మరియన్",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "b1d51adc-9179-46dd-82a2-2a593a9a8e59",
+    "eng": "Mariana",
+    "fLE": "M",
+    "tel": "మారిన",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "female",
+    "rel": "others"
+  },
+  {
+    "id": "6eda1254-d76e-4da5-b0a3-1d4a31ab58fb",
+    "eng": "mariana",
+    "fLE": "m",
+    "tel": "మారిన",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "4d984059-caaf-4b13-9f0d-b56f29601f50",
+    "eng": "Mariane",
+    "fLE": "M",
+    "tel": "మరియన్",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "female",
+    "rel": "others"
+  },
+  {
+    "id": "bad84c05-9d47-4eda-a2e3-c13737d917f6",
+    "eng": "Marianela",
+    "fLE": "M",
+    "tel": "మరియన్ల",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "female",
+    "rel": "others"
+  },
+  {
+    "id": "dd8ff89c-6db3-4ca0-aa01-70ee5b36b1ed",
+    "eng": "marianela",
+    "fLE": "m",
+    "tel": "మరియన్ల",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "a1fd3ce2-c3ea-429b-aaf1-b633804d95a3",
+    "eng": "Mariangela",
+    "fLE": "M",
+    "tel": "మరీఅంగేలా",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "female",
+    "rel": "others"
+  },
+  {
+    "id": "05687c1a-f860-4b7b-ba17-fe3c5692aec4",
+    "eng": "mariangely",
+    "fLE": "m",
+    "tel": "మరీఅంగెల్య్",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "0d5eecd8-4fdb-4e1e-9237-01bc73f3131f",
+    "eng": "Mariann",
+    "fLE": "M",
+    "tel": "మారిన్",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "female",
+    "rel": "others"
+  },
+  {
+    "id": "c1b1387a-1a91-4d48-8153-f9f338f79311",
+    "eng": "Marianna",
+    "fLE": "M",
+    "tel": "మారుస్తోన్న",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "female",
+    "rel": "others"
+  },
+  {
+    "id": "2c836ef6-fb60-4283-959b-16443358539e",
+    "eng": "marianna",
+    "fLE": "m",
+    "tel": "మారుస్తోన్న",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "27ea2fe3-78ef-4553-81f4-50134e5c12f9",
+    "eng": "Marianne",
+    "fLE": "M",
+    "tel": "మరియాన్నే",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "female",
+    "rel": "others"
+  },
+  {
+    "id": "52ab3eb0-cc63-48de-85e0-8219c60cc696",
+    "eng": "marianne",
+    "fLE": "m",
+    "tel": "మరియాన్నే",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "26c92e03-d1be-4296-a2a8-eae5255447aa",
+    "eng": "Mariappan",
+    "fLE": "M",
+    "tel": "మరియప్పన్",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "b293414c-71c8-4b30-a4a1-927b346ed56d",
+    "eng": "Mariasha",
+    "fLE": "M",
+    "tel": "మరియాశ",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "female",
+    "rel": "others"
+  },
+  {
+    "id": "d66ee155-3d8e-437d-9d13-48ec6dd4034a",
+    "eng": "Mariateresa",
+    "fLE": "M",
+    "tel": "మారిటరేశా",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "f8487296-8a44-4273-aaee-6f963264da80",
+    "eng": "mariazinha",
+    "fLE": "m",
+    "tel": "మరియాజిన్హా",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "7ef710e3-d70d-4e34-bf18-33bad7c10f07",
+    "eng": "Marib",
+    "fLE": "M",
+    "tel": "మరిబ్",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Muslim"
+  },
+  {
+    "id": "fc500c2f-6ed7-4766-88f2-988df499c0c2",
+    "eng": "Maribel",
+    "fLE": "M",
+    "tel": "మరిబెల్",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "female",
+    "rel": "others"
+  },
+  {
+    "id": "42404638-d7e4-4b14-82fd-e5113318a319",
+    "eng": "maribel",
+    "fLE": "m",
+    "tel": "మరిబెల్",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "6a9c1db4-03e3-4df6-b4c1-1c0a14cdc8cf",
+    "eng": "Maribelle",
+    "fLE": "M",
+    "tel": "మరిబెల్లె",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "female",
+    "rel": "others"
+  },
+  {
+    "id": "191dffa1-0ed4-422b-a771-908e2d325217",
+    "eng": "Maribeth",
+    "fLE": "M",
+    "tel": "మరిబెత్",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "female",
+    "rel": "others"
+  },
+  {
+    "id": "c5150abf-e6a9-44f7-9f4c-c6c9424b8bbf",
+    "eng": "Marica",
+    "fLE": "M",
+    "tel": "మరిచా",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "female",
+    "rel": "others"
+  },
+  {
+    "id": "eafae1e9-dd50-4c7b-8263-4fecbe08a7bf",
+    "eng": "Maricara",
+    "fLE": "M",
+    "tel": "మరిచారా",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "4ede94ef-5379-4179-b5f1-cdc2d02395d0",
+    "eng": "Maricarmen",
+    "fLE": "M",
+    "tel": "మరికార్మెన్",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "female",
+    "rel": "others"
+  },
+  {
+    "id": "cada9d41-1128-433e-a39d-89ac6d8498f1",
+    "eng": "Maricel",
+    "fLE": "M",
+    "tel": "మరికల్",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "female",
+    "rel": "others"
+  },
+  {
+    "id": "bac4c28f-c9ed-463c-bcfd-7d7c7a6ca162",
+    "eng": "Maricela",
+    "fLE": "M",
+    "tel": "మరిచేలా",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "female",
+    "rel": "others"
+  },
+  {
+    "id": "8187bdfa-e128-47cf-8f9d-93bb68694489",
+    "eng": "maricela",
+    "fLE": "m",
+    "tel": "మరిచేలా",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "d01cdfbf-6839-49f5-84cf-d56c3b012e68",
+    "eng": "Maricha",
+    "fLE": "M",
+    "tel": "మరిచా",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "female",
+    "rel": "others"
+  },
+  {
+    "id": "6669ab00-df93-4d84-8658-db2d0a441c0c",
+    "eng": "Marichi",
+    "fLE": "M",
+    "tel": "మరిచి",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "2529b1e8-d657-41b9-bbf4-5a5882177e8d",
+    "eng": "Marichika",
+    "fLE": "M",
+    "tel": "మరిచిక",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "1a1f3a77-8c4b-48b8-ba01-70c2313aa9cd",
+    "eng": "Marichka",
+    "fLE": "M",
+    "tel": "మరీచ్కా",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "0929889b-29ce-48b7-9fcd-af0f28993066",
+    "eng": "Marici",
+    "fLE": "M",
+    "tel": "మరిచి",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "female",
+    "rel": "others"
+  },
+  {
+    "id": "1d5a75d1-9240-4c6c-ba6a-9671ae3c3017",
+    "eng": "Maricia",
+    "fLE": "M",
+    "tel": "మెరిసినా",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "female",
+    "rel": "others"
+  },
+  {
+    "id": "699d50bb-93d8-4cb8-9e81-f74a99887f09",
+    "eng": "Mariclare",
+    "fLE": "M",
+    "tel": "మరిక్లేర్",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "female",
+    "rel": "others"
+  },
+  {
+    "id": "e038d56b-b68f-4ba9-8a9c-2f5a98f72e19",
+    "eng": "Maricris",
+    "fLE": "M",
+    "tel": "మరిక్రిస్",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "female",
+    "rel": "others"
+  },
+  {
+    "id": "cf35a3e1-966e-4a04-a9bb-bfa1bcab6f08",
+    "eng": "Maricruz",
+    "fLE": "M",
+    "tel": "మరిక్కురూజ్",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "female",
+    "rel": "others"
+  },
+  {
+    "id": "28b9ae4c-517e-4641-984a-3fe9ab2772b3",
+    "eng": "maricruz",
+    "fLE": "m",
+    "tel": "మరిక్కురూజ్",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "3274eec8-3a41-413f-a114-efebd7bd85ba",
+    "eng": "Maricza",
+    "fLE": "M",
+    "tel": "మరిసిజా",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "female",
+    "rel": "others"
+  },
+  {
+    "id": "9ea20f20-a083-4ad4-9d64-d0dbbbf89452",
+    "eng": "Maridah",
+    "fLE": "M",
+    "tel": "మరిదిహ్",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Muslim"
+  },
+  {
+    "id": "c82abcb3-67b5-43d7-b567-6504f0ec876c",
+    "eng": "Marie",
+    "fLE": "M",
+    "tel": "మరీ",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "female",
+    "rel": "others"
+  },
+  {
+    "id": "1d1b754e-9f72-4733-bd88-a976676c94fa",
+    "eng": "marie",
+    "fLE": "m",
+    "tel": "మరీ",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "0a237774-4a62-4ecf-ab4d-3f0856db00de",
+    "eng": "Marieke",
+    "fLE": "M",
+    "tel": "మరీకే",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "female",
+    "rel": "others"
+  },
+  {
+    "id": "54a9a52e-e5b8-451e-ad75-188e03d96ef3",
+    "eng": "marieke",
+    "fLE": "m",
+    "tel": "మరీకే",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "6c0c3bca-6719-4eb8-8a30-f9959a81a99d",
+    "eng": "Mariela",
+    "fLE": "M",
+    "tel": "మారీల",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "female",
+    "rel": "others"
+  },
+  {
+    "id": "46969356-1eec-45fa-94d9-985d604eecc6",
+    "eng": "mariela",
+    "fLE": "m",
+    "tel": "మారీల",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "c9c18c3a-b4da-4862-b44a-8bdd9f5f63ea",
+    "eng": "Mariele",
+    "fLE": "M",
+    "tel": "మరీలే",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "female",
+    "rel": "others"
+  },
+  {
+    "id": "bc5a59ee-78c8-45c2-be66-656f32bf36f9",
+    "eng": "Marielena",
+    "fLE": "M",
+    "tel": "మరిఎలీనా",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "female",
+    "rel": "others"
+  },
+  {
+    "id": "a2b642e6-83d9-4029-b9ff-5c6e5023b6fc",
+    "eng": "Mariella",
+    "fLE": "M",
+    "tel": "మరియళ్ళ",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "female",
+    "rel": "others"
+  },
+  {
+    "id": "8e78f3f6-fb76-4b62-acd7-15d030d821b4",
+    "eng": "mariella",
+    "fLE": "m",
+    "tel": "మరియళ్ళ",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "98ee34db-5f52-46cc-b10b-292ecfd3729b",
+    "eng": "Marielle",
+    "fLE": "M",
+    "tel": "మరైళ్ళే",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "female",
+    "rel": "others"
+  },
+  {
+    "id": "c2bcd132-b4a0-4101-99cf-e9d767bbfe76",
+    "eng": "marielle",
+    "fLE": "m",
+    "tel": "మరైళ్ళే",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "b3581f56-15d4-4f8b-b96c-751b126b2b0f",
+    "eng": "Mariem",
+    "fLE": "M",
+    "tel": "మరియం",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "female",
+    "rel": "others"
+  },
+  {
+    "id": "6af09160-411c-4c18-ac9d-f9445b56223a",
+    "eng": "Marien",
+    "fLE": "M",
+    "tel": "మెరైన్",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "female",
+    "rel": "others"
+  },
+  {
+    "id": "cabf8853-8306-42a5-ab12-16224c3f5629",
+    "eng": "Mariena",
+    "fLE": "M",
+    "tel": "మరీనా",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "female",
+    "rel": "others"
+  },
+  {
+    "id": "0d7025ac-4c50-4ced-94ae-299f7c34c613",
+    "eng": "Mariene",
+    "fLE": "M",
+    "tel": "మెరైన్",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "female",
+    "rel": "others"
+  },
+  {
+    "id": "797195d3-eb19-496b-a66a-677d7fc047a0",
+    "eng": "Marienna",
+    "fLE": "M",
+    "tel": "మరీనా",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "female",
+    "rel": "others"
+  },
+  {
+    "id": "863b6dee-4ed5-41d1-b74b-7cb302635b0c",
+    "eng": "Mariet",
+    "fLE": "M",
+    "tel": "మారియట్",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "female",
+    "rel": "others"
+  },
+  {
+    "id": "701229de-8c98-447d-9eb1-381430fd0aa7",
+    "eng": "Marieta",
+    "fLE": "M",
+    "tel": "మరైతే",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "female",
+    "rel": "others"
+  },
+  {
+    "id": "2346bf1d-6451-4aed-b42a-8c22f60abcdb",
+    "eng": "Marietta",
+    "fLE": "M",
+    "tel": "మరియెట్టా",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "female",
+    "rel": "others"
+  },
+  {
+    "id": "7de2547f-e7a0-439c-b39e-c231ed13e655",
+    "eng": "marietta",
+    "fLE": "m",
+    "tel": "మరియెట్టా",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "27b8edf8-e0e0-40b8-8389-a61daa56ed5a",
+    "eng": "Mariette",
+    "fLE": "M",
+    "tel": "మరిఎత్తే",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "female",
+    "rel": "others"
+  },
+  {
+    "id": "692bc6a9-dbec-4098-b2d0-a424570010cd",
+    "eng": "mariette",
+    "fLE": "m",
+    "tel": "మరిఎత్తే",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "f2134813-726f-4f16-9dab-e3ef76fa1a11",
+    "eng": "Marifel",
+    "fLE": "M",
+    "tel": "మరిఫెల్",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "female",
+    "rel": "others"
+  },
+  {
+    "id": "f10d742c-6aef-469a-94c8-4e1e40823131",
+    "eng": "Marig",
+    "fLE": "M",
+    "tel": "మరిగి",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "female",
+    "rel": "others"
+  },
+  {
+    "id": "5c903746-91aa-4393-9541-9524aa996680",
+    "eng": "Marigny",
+    "fLE": "M",
+    "tel": "మరిగినై",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "female",
+    "rel": "others"
+  },
+  {
+    "id": "52110153-21bb-4c21-a0b5-aa5a9d19e975",
+    "eng": "Marigold",
+    "fLE": "M",
+    "tel": "మారిగోల్డ్",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "260d5c24-de04-456e-abbd-0981b97501ed",
+    "eng": "marigold",
+    "fLE": "m",
+    "tel": "మారిగోల్డ్",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "7e199465-936d-48bb-bdbb-42c23eb330df",
+    "eng": "Marigot",
+    "fLE": "M",
+    "tel": "మారిగోట్",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "female",
+    "rel": "others"
+  },
+  {
+    "id": "cc1f56a4-bd16-4cfd-81f2-1b03a9fa54c2",
+    "eng": "Mariha",
+    "fLE": "M",
+    "tel": "మరియా",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Muslim"
+  },
+  {
+    "id": "c2fafab8-1aab-498e-9d21-8751cd3f43b3",
+    "eng": "Mariichi",
+    "fLE": "M",
+    "tel": "మరియుచు",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "0d3da6e0-30b6-45ba-9e67-23c10fd48fd8",
+    "eng": "Marija",
+    "fLE": "M",
+    "tel": "మరిజ",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "female",
+    "rel": "others"
+  },
+  {
+    "id": "056ed227-5b50-4fbf-b316-3cb9a1858c3b",
+    "eng": "Marijana",
+    "fLE": "M",
+    "tel": "మరిజన",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "female",
+    "rel": "others"
+  },
+  {
+    "id": "d86633e2-7abf-4812-8796-cb59789279bd",
+    "eng": "marije",
+    "fLE": "m",
+    "tel": "మరిజే",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "632338d3-e268-4290-8746-12c5fa65782a",
+    "eng": "Marijka",
+    "fLE": "M",
+    "tel": "మరఙ్క",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "female",
+    "rel": "others"
+  },
+  {
+    "id": "f33d4ff2-c38e-49a8-bd37-3e95332df899",
+    "eng": "Marijke",
+    "fLE": "M",
+    "tel": "మఱిఙ్కే",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "female",
+    "rel": "others"
+  },
+  {
+    "id": "f662d3a8-bc30-44bc-8fcc-bf15589b0f7c",
+    "eng": "marijke",
+    "fLE": "m",
+    "tel": "మఱిఙ్కే",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "fc967879-0b6f-4890-9b05-99a3315100fc",
+    "eng": "Marijn",
+    "fLE": "M",
+    "tel": "మరిజన్",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "female",
+    "rel": "others"
+  },
+  {
+    "id": "ab450186-8b5a-49b0-8966-09058e4655e2",
+    "eng": "Marika",
+    "fLE": "M",
+    "tel": "మరిక",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "female",
+    "rel": "others"
+  },
+  {
+    "id": "d5375fe0-3c44-4955-8822-dab8bc5685f1",
+    "eng": "marika",
+    "fLE": "m",
+    "tel": "మరిక",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "a578c048-66ed-410d-9cb4-811bc4fdb7a5",
+    "eng": "Marike",
+    "fLE": "M",
+    "tel": "మరికే",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "female",
+    "rel": "others"
+  },
+  {
+    "id": "46c47b02-8a05-45ba-b492-dd0d56d49a80",
+    "eng": "marike",
+    "fLE": "m",
+    "tel": "మరికే",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "d5e8b506-70f3-4ba8-9f7e-f69cc074ba93",
+    "eng": "Marikka",
+    "fLE": "M",
+    "tel": "మరిక్క",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "female",
+    "rel": "others"
+  },
+  {
+    "id": "1301d29f-002c-43eb-8426-e43749ceab45",
+    "eng": "Mariko",
+    "fLE": "M",
+    "tel": "మరికో",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "female",
+    "rel": "others"
+  }
+]

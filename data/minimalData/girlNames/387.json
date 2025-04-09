@@ -1,0 +1,902 @@
+[
+  {
+    "id": "647209da-40bc-432f-834f-03cb244f3e1d",
+    "eng": "Seema",
+    "fLE": "S",
+    "tel": "సీమ",
+    "fLTel": "స",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "65465755-44ac-42b0-b3f8-d0a44aaaf999",
+    "eng": "Seemal",
+    "fLE": "S",
+    "tel": "సీమల",
+    "fLTel": "స",
+    "tags": [],
+    "gen": "female",
+    "rel": "Muslim"
+  },
+  {
+    "id": "c07b1a6c-1fdf-42fe-921e-688455869404",
+    "eng": "Seemanti",
+    "fLE": "S",
+    "tel": "సీమంతి",
+    "fLTel": "స",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "961d37f0-b0cb-44c0-9d29-ca76396824c6",
+    "eng": "Seemantini",
+    "fLE": "S",
+    "tel": "సీమంతిని",
+    "fLTel": "స",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "249f2698-7e10-4cd7-910f-e2b916f54777",
+    "eng": "Seemha",
+    "fLE": "S",
+    "tel": "సిమ్హ",
+    "fLTel": "స",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "0b55f507-ace8-4649-962d-6849fc2ee595",
+    "eng": "Seena",
+    "fLE": "S",
+    "tel": "సీన",
+    "fLTel": "స",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "ef06f717-38dd-4dec-af16-8bcb18be7a97",
+    "eng": "Seentahna",
+    "fLE": "S",
+    "tel": "సీనతన",
+    "fLTel": "స",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "470fd557-92fe-49da-9620-58e38f840bd7",
+    "eng": "Seera",
+    "fLE": "S",
+    "tel": "సీర",
+    "fLTel": "స",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "285dfa23-ac0b-48eb-9cc7-559f57d603f4",
+    "eng": "Seerat",
+    "fLE": "S",
+    "tel": "సీరత్",
+    "fLTel": "స",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "b45654a6-b835-4146-b4d1-020f0326b016",
+    "eng": "Seersha",
+    "fLE": "S",
+    "tel": "శీర్ష",
+    "fLTel": "శ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "d5429715-d96c-4413-a586-ab027b3dd342",
+    "eng": "Seershika",
+    "fLE": "S",
+    "tel": "శీర్షిక",
+    "fLTel": "శ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "98b5bd28-cd95-4509-a5bf-51a94527d7f1",
+    "eng": "Seeta",
+    "fLE": "S",
+    "tel": "సీత",
+    "fLTel": "స",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "a62f3933-dce1-4a6e-ad0b-8c8f6f5c4a5b",
+    "eng": "Seetasree",
+    "fLE": "S",
+    "tel": "సీతాశ్రీ",
+    "fLTel": "స",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "ecbd1739-a1b8-4937-9f8e-2fa3fe6d002f",
+    "eng": "Seetha",
+    "fLE": "S",
+    "tel": "సీత",
+    "fLTel": "స",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "50f8af8e-7f83-4b22-8963-8cbfea12c266",
+    "eng": "Seethal",
+    "fLE": "S",
+    "tel": "సీతల్",
+    "fLTel": "స",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "2bf6f8be-d5a6-4d2d-9cc7-dbe45782ebba",
+    "eng": "Seethaladevi",
+    "fLE": "S",
+    "tel": "సీతలాదేవి",
+    "fLTel": "స",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "e55840e5-0aba-498b-bec5-342e7a33e2bf",
+    "eng": "Seeza",
+    "fLE": "S",
+    "tel": "సీజ",
+    "fLTel": "స",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "8abe7e28-f6f6-41ad-a019-f04aa1de42a2",
+    "eng": "Sefa",
+    "fLE": "S",
+    "tel": "సేఫే",
+    "fLTel": "స",
+    "tags": [],
+    "gen": "female",
+    "rel": "Muslim"
+  },
+  {
+    "id": "01ac8d52-82f6-43fb-8c8c-5ee46901ab94",
+    "eng": "sefarina",
+    "fLE": "s",
+    "tel": "సెఫారిన",
+    "fLTel": "స",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "96cbf7a6-8fef-408d-8664-dd2235c26c32",
+    "eng": "Seghiue",
+    "fLE": "S",
+    "tel": "సెఘీయుఎ",
+    "fLTel": "స",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "89732d90-80af-450f-b5b3-f4386c6e9e12",
+    "eng": "Seghuie",
+    "fLE": "S",
+    "tel": "సిగ్గుయి",
+    "fLTel": "స",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "35cd01b9-61e3-4e23-881f-8b829605a97c",
+    "eng": "Segrid",
+    "fLE": "S",
+    "tel": "సేగ్రిడ్",
+    "fLTel": "స",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "c0b5a6a9-d569-4df6-9132-3d3003ec0f64",
+    "eng": "Segulah",
+    "fLE": "S",
+    "tel": "సేగులాహ్",
+    "fLTel": "స",
+    "tags": [],
+    "gen": "female",
+    "rel": "Muslim"
+  },
+  {
+    "id": "fdf05273-e07e-4e67-898f-b767be913491",
+    "eng": "Sehaj",
+    "fLE": "S",
+    "tel": "సెహజ్",
+    "fLTel": "స",
+    "tags": [],
+    "gen": "female",
+    "rel": "Sikh"
+  },
+  {
+    "id": "36822b51-cc69-41a6-afca-249646b9dd73",
+    "eng": "Sehajleen",
+    "fLE": "S",
+    "tel": "సెహజలీన్",
+    "fLTel": "స",
+    "tags": [],
+    "gen": "female",
+    "rel": "Sikh"
+  },
+  {
+    "id": "960f6168-ecc8-4b94-9884-739115bb6a34",
+    "eng": "Seham",
+    "fLE": "S",
+    "tel": "సీహం",
+    "fLTel": "స",
+    "tags": [],
+    "gen": "female",
+    "rel": "Muslim"
+  },
+  {
+    "id": "0d13e00d-be05-4be8-b5df-207d9f683dbe",
+    "eng": "Sehar",
+    "fLE": "S",
+    "tel": "షెహర్",
+    "fLTel": "ష",
+    "tags": [],
+    "gen": "female",
+    "rel": "Muslim"
+  },
+  {
+    "id": "7d538f83-e556-4716-894b-bb81bfcaeaa8",
+    "eng": "Sehba",
+    "fLE": "S",
+    "tel": "సెహెబా",
+    "fLTel": "స",
+    "tags": [],
+    "gen": "female",
+    "rel": "Muslim"
+  },
+  {
+    "id": "e1e14b11-3787-4b16-8b7a-96176b0d2184",
+    "eng": "Seher",
+    "fLE": "S",
+    "tel": "జహీర్",
+    "fLTel": "జ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Muslim"
+  },
+  {
+    "id": "f4ad0902-bad0-4f30-9f9d-fd035e06b02f",
+    "eng": "Seherunnisa",
+    "fLE": "S",
+    "tel": "జహీరున్నీసా",
+    "fLTel": "జ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Muslim"
+  },
+  {
+    "id": "96440727-a081-480f-8f5c-ef0509b1577e",
+    "eng": "Seheve",
+    "fLE": "S",
+    "tel": "సెహెవే",
+    "fLTel": "స",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "1b7fce84-ac60-4cc9-832d-911e4c21989e",
+    "eng": "Sehitha",
+    "fLE": "S",
+    "tel": "జహిత",
+    "fLTel": "జ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "b9499c52-0ca7-48d6-b96a-7a66cb5714b0",
+    "eng": "Sehr",
+    "fLE": "S",
+    "tel": "షెహర్",
+    "fLTel": "ష",
+    "tags": [],
+    "gen": "female",
+    "rel": "Muslim"
+  },
+  {
+    "id": "00c11281-265e-4c09-beac-64350c1b8b2e",
+    "eng": "Sehrish",
+    "fLE": "S",
+    "tel": "సెహరీష్",
+    "fLTel": "స",
+    "tags": [],
+    "gen": "female",
+    "rel": "Muslim"
+  },
+  {
+    "id": "ca74b7a0-47ce-4c62-8715-d117a09f58de",
+    "eng": "Seija",
+    "fLE": "S",
+    "tel": "సెజ్",
+    "fLTel": "స",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "42df5d1f-9217-4fc8-9fec-10fd74a807da",
+    "eng": "Seimone",
+    "fLE": "S",
+    "tel": "సెమోనే",
+    "fLTel": "స",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "6cfc87fc-c0a4-4088-9b03-cb242d809c44",
+    "eng": "Seina",
+    "fLE": "S",
+    "tel": "సెన",
+    "fLTel": "స",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "5dcd2a42-7b56-4056-8683-4a728bf45c1e",
+    "eng": "seine",
+    "fLE": "s",
+    "tel": "సెనే",
+    "fLTel": "స",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "70f65c2e-0f3a-4714-be5a-f078a00f4d70",
+    "eng": "Seiras",
+    "fLE": "S",
+    "tel": "సెరస్",
+    "fLTel": "స",
+    "tags": [],
+    "gen": "female",
+    "rel": "Muslim"
+  },
+  {
+    "id": "67d98587-cf9e-4d64-9b39-06fe30e03eb6",
+    "eng": "Seiren",
+    "fLE": "S",
+    "tel": "సెర్న్",
+    "fLTel": "స",
+    "tags": [],
+    "gen": "female",
+    "rel": "others"
+  },
+  {
+    "id": "5e98fa60-c903-4f8c-baa1-2ff936adc9fe",
+    "eng": "Sejal",
+    "fLE": "S",
+    "tel": "సెజ్ల",
+    "fLTel": "స",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "dd312f0d-3b02-457f-8c27-8b0d760b183c",
+    "eng": "Sejashri",
+    "fLE": "S",
+    "tel": "సేజశ్రీ",
+    "fLTel": "స",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "b75f3397-1e46-4ac5-848b-71af31497965",
+    "eng": "Seka",
+    "fLE": "S",
+    "tel": "సేక",
+    "fLTel": "స",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "c2f7bcab-536b-4a89-abd2-fe4ed32bd16d",
+    "eng": "Sela",
+    "fLE": "S",
+    "tel": "సెల",
+    "fLTel": "స",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "b2696e10-6e19-43a1-b5e9-1436b09a84e2",
+    "eng": "Selah",
+    "fLE": "S",
+    "tel": "సెలాహ్",
+    "fLTel": "స",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "d354ee41-5954-486f-8809-b231063706e2",
+    "eng": "Sele",
+    "fLE": "S",
+    "tel": "సెల్",
+    "fLTel": "స",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "34843ed3-b246-4a79-8452-017a6ce9ea1b",
+    "eng": "Seleena",
+    "fLE": "S",
+    "tel": "సెలీనా",
+    "fLTel": "స",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "c7797479-7941-42a1-9543-b2ec009857d6",
+    "eng": "Selema",
+    "fLE": "S",
+    "tel": "షెలెమ్యా",
+    "fLTel": "ష",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "71bd8852-57e0-4537-b775-696f0e0e8c44",
+    "eng": "Selemah",
+    "fLE": "S",
+    "tel": "సెలెమః",
+    "fLTel": "స",
+    "tags": [],
+    "gen": "female",
+    "rel": "Muslim"
+  },
+  {
+    "id": "837bec2b-5632-4a70-afa5-dd2b3f2d5de9",
+    "eng": "Selena",
+    "fLE": "S",
+    "tel": "సెలెనా",
+    "fLTel": "స",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "a3f6369e-c509-4a1b-addd-9be42c2870ca",
+    "eng": "Selenia",
+    "fLE": "S",
+    "tel": "సెలేని",
+    "fLTel": "స",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "b238247d-8973-4785-8353-8aed42fba50e",
+    "eng": "Selephia",
+    "fLE": "S",
+    "tel": "సెలెఫియా",
+    "fLTel": "స",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "2419ad22-90d4-4383-b97f-6e8396a41c1e",
+    "eng": "Selesta",
+    "fLE": "S",
+    "tel": "సెలేస్తా",
+    "fLTel": "స",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "ed894e1d-7b48-48ce-b4f2-7ea9f0af3cb8",
+    "eng": "Selewine",
+    "fLE": "S",
+    "tel": "సెలెవిన్",
+    "fLTel": "స",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "40142359-b7c7-4845-937a-dacc016522ee",
+    "eng": "Selia",
+    "fLE": "S",
+    "tel": "సెలీనా",
+    "fLTel": "స",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "45fef51e-4191-4fab-bd9f-d39be6944b63",
+    "eng": "Selima",
+    "fLE": "S",
+    "tel": "సెలిమ",
+    "fLTel": "స",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "f64313d0-70ea-45d7-9cf7-97d1adf0569f",
+    "eng": "Selin",
+    "fLE": "S",
+    "tel": "సెలైన్",
+    "fLTel": "స",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "927f5e3a-5512-4561-a972-99680a81dbb1",
+    "eng": "Selina",
+    "fLE": "S",
+    "tel": "సెలీనా",
+    "fLTel": "స",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "7199e8aa-0d32-4e32-b12a-48443de80162",
+    "eng": "selina",
+    "fLE": "s",
+    "tel": "సెలీనా",
+    "fLTel": "స",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "f8412b3f-5c65-4ee7-b1ca-7beadfa7d8e9",
+    "eng": "Selinda",
+    "fLE": "S",
+    "tel": "సిలిండ",
+    "fLTel": "స",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "ab034784-a5a8-41d6-8d22-37b2bb8f1f81",
+    "eng": "Seline",
+    "fLE": "S",
+    "tel": "సెలీనా",
+    "fLTel": "స",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "ff96e805-1b9d-4e1c-9130-e2e8f385af8f",
+    "eng": "Selini",
+    "fLE": "S",
+    "tel": "సెలీని",
+    "fLTel": "స",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "ca4c1ddd-fb01-4db2-838b-6d94597dd6d5",
+    "eng": "Sellakili",
+    "fLE": "S",
+    "tel": "సెల్లకిలి",
+    "fLTel": "స",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "d50baee9-869f-4786-92a1-3ea49651ecd5",
+    "eng": "Sellene",
+    "fLE": "S",
+    "tel": "సెల్లెనే",
+    "fLTel": "స",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "22b6af4d-dcf1-43b2-8b99-8e0220071ab2",
+    "eng": "Sellma",
+    "fLE": "S",
+    "tel": "సెల్ల్మ",
+    "fLTel": "స",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "b804eea8-30ab-4b5b-bb1c-638d870d8622",
+    "eng": "Sellmah",
+    "fLE": "S",
+    "tel": "సెల్మః",
+    "fLTel": "స",
+    "tags": [],
+    "gen": "female",
+    "rel": "Muslim"
+  },
+  {
+    "id": "50185fee-b385-4dff-b028-74d6178066d5",
+    "eng": "Selma",
+    "fLE": "S",
+    "tel": "సెల్మ",
+    "fLTel": "స",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "c6a41e35-4305-45de-8760-75a8896d8844",
+    "eng": "selma",
+    "fLE": "s",
+    "tel": "సెల్మ",
+    "fLTel": "స",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "64f2fa2f-a8d4-4f47-8ca5-fb3fdbf814be",
+    "eng": "Selmah",
+    "fLE": "S",
+    "tel": "సెల్మహ్",
+    "fLTel": "స",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "f7dacd8f-d78c-478a-b574-d28f3e7e0531",
+    "eng": "Seloua",
+    "fLE": "S",
+    "tel": "సెలోవ",
+    "fLTel": "స",
+    "tags": [],
+    "gen": "female",
+    "rel": "Muslim"
+  },
+  {
+    "id": "a736e87f-0900-4f65-9cdb-7f0d00830dbb",
+    "eng": "Seloue",
+    "fLE": "S",
+    "tel": "జలౌయే",
+    "fLTel": "జ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "a839cf7b-9624-4ca9-9c25-ca6fce1bbe72",
+    "eng": "Seluue",
+    "fLE": "S",
+    "tel": "సెలూరు",
+    "fLTel": "స",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "9d4ea5a3-a68f-4377-8d52-b49d7db82ab9",
+    "eng": "Selva",
+    "fLE": "S",
+    "tel": "సెల్వ",
+    "fLTel": "స",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "501ed050-8b3b-4663-b5a8-5b65fae44d89",
+    "eng": "Selva Kumari",
+    "fLE": "S",
+    "tel": "సెల్వ కుమారి",
+    "fLTel": "స",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "4c1d45cd-cc8d-4bec-be0f-486aa1f88230",
+    "eng": "Selvalakshmi",
+    "fLE": "S",
+    "tel": "సెల్వలక్ష్మి",
+    "fLTel": "స",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "07b1853e-392c-4193-8189-d557a609500f",
+    "eng": "Selvanila",
+    "fLE": "S",
+    "tel": "సెల్వానిలా",
+    "fLTel": "స",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "9fc11272-7e21-41bb-8eb4-bf5c7c6ef417",
+    "eng": "Selvarani",
+    "fLE": "S",
+    "tel": "సెల్వరాని",
+    "fLTel": "స",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "1a42e4ef-9494-44d3-ac88-103d4371025a",
+    "eng": "Selvarasi",
+    "fLE": "S",
+    "tel": "సెల్వరాసి",
+    "fLTel": "స",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "21f87a48-f6c6-4e8c-97f9-09564782cfb3",
+    "eng": "Selveta",
+    "fLE": "S",
+    "tel": "సెలవేట",
+    "fLTel": "స",
+    "tags": [],
+    "gen": "female",
+    "rel": "Muslim"
+  },
+  {
+    "id": "55849bfc-5dbb-4f98-9d76-c0c566a93fba",
+    "eng": "Selvi",
+    "fLE": "S",
+    "tel": "సెల్వి",
+    "fLTel": "స",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "5c7018f4-2506-455a-a9fd-6d4d57b47ff8",
+    "eng": "Selvie",
+    "fLE": "S",
+    "tel": "సెలవియే",
+    "fLTel": "స",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "97813c16-763e-4d54-a9f9-e042c35d57e6",
+    "eng": "Sely",
+    "fLE": "S",
+    "tel": "సెలి",
+    "fLTel": "స",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "63ffedd8-bc15-4fa5-87cd-8c29cb7dce20",
+    "eng": "Sema",
+    "fLE": "S",
+    "tel": "సీమ",
+    "fLTel": "స",
+    "tags": [],
+    "gen": "female",
+    "rel": "Muslim"
+  },
+  {
+    "id": "50988545-046c-44ea-8105-2c466c5a4ad4",
+    "eng": "Semanti",
+    "fLE": "S",
+    "tel": "సెమాంటి",
+    "fLTel": "స",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "799a4355-52e1-4baf-9bc9-194d8b6822b7",
+    "eng": "Sembaruthi",
+    "fLE": "S",
+    "tel": "సెంబరుతి",
+    "fLTel": "స",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "cbbc6741-d0e7-4f51-bb99-e77a5986415b",
+    "eng": "Semeeah",
+    "fLE": "S",
+    "tel": "సెమీఆహ్",
+    "fLTel": "స",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "440e28ca-6ef4-46ed-8a25-43ad2786bf02",
+    "eng": "Semele",
+    "fLE": "S",
+    "tel": "సేమేలే",
+    "fLTel": "స",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "5999c865-6200-43d2-abfd-b22e9d4cfab3",
+    "eng": "Semiha",
+    "fLE": "S",
+    "tel": "సేమియా",
+    "fLTel": "స",
+    "tags": [],
+    "gen": "female",
+    "rel": "Muslim"
+  },
+  {
+    "id": "ede5f7f9-b032-4ebd-b1d6-683505af880d",
+    "eng": "Semira",
+    "fLE": "S",
+    "tel": "సెమిరా",
+    "fLTel": "స",
+    "tags": [],
+    "gen": "female",
+    "rel": "others"
+  },
+  {
+    "id": "5a9ab7fd-35ea-41fe-8f2b-e91e6884246b",
+    "eng": "semiramide",
+    "fLE": "s",
+    "tel": "సెమిరమిదే",
+    "fLTel": "స",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  }
+]

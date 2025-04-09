@@ -3,8 +3,9 @@ const os = require("os")
 const fs = require("fs")
 const path = require("path")
 const translate = require('google-translate-api');
-inputDir = "./data/boyNames"
-outputDir = "./data/transformedData/boyNames"
+const { v4: uuidv4 } = require('uuid');
+inputDir = "./data/transformedData/boyNames"
+outputDir = "./data/minimalData/boyNames"
 
 let langmap = {
     "hindi": "hi",
@@ -277,5 +278,56 @@ async function main(){
     }
     // console.log(files)
 }
-main()
+// main()
+
+
+async function tranform2(data){
+    let tdata = {}
+    const uuid = uuidv4();
+    console.log(uuid);
+    try {
+    tdata.id = uuid;
+    tdata.eng = data.name.english
+    tdata.fLE = data.first_letter.english
+    tdata.tel = data.name.telugu
+    tdata.fLTel = data.first_letter.telugu
+    tdata.tags = []
+    tdata.gen = data.gender
+    tdata.rel = data.religion
+    } catch (error) {
+        console.log(data);
+    }
+    
+
+
+    // console.log(tdata);
+    return tdata;
+}
+
+async function main2(){
+    let files = fs.readdirSync(inputDir);
+    for(const file of files){
+        let filePath = inputDir + "/" + file;
+        let outputFilePath = outputDir + "/" + file;
+        if(fs.existsSync(outputFilePath)){
+            console.log(`processing already done for file ${file}`);
+            continue
+        }
+        let data = JSON.parse(fs.readFileSync(filePath,'utf-8'));
+        let outputData = []
+        for(let document of data){
+            let tdocument = await tranform2(document)
+            if(tdocument != null){
+                outputData.push(tdocument)
+            }else{
+                console.log("failed while processing a document\n")
+            }
+        }
+        
+        fs.writeFileSync(outputFilePath, JSON.stringify(outputData, null, 2), 'utf8');
+        console.log(`processing done for file ${file}`);
+    }
+    // console.log(files)
+}
+main2()
 // console.log(checkReligion("Indian Tamil"))

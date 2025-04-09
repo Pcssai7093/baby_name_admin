@@ -1,0 +1,902 @@
+[
+  {
+    "id": "4352c04f-be99-41cd-a1be-70f10c1ecb90",
+    "eng": "Ester",
+    "fLE": "E",
+    "tel": "ఈస్టర్",
+    "fLTel": "ఈ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "9afb69ff-6b3c-45f3-ab8e-5c5710e463e3",
+    "eng": "ester",
+    "fLE": "e",
+    "tel": "ఈస్టర్",
+    "fLTel": "ఈ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "c4aea08f-c727-4551-ab94-7e321e17e7d3",
+    "eng": "Estera",
+    "fLE": "E",
+    "tel": "ఎస్తేరు",
+    "fLTel": "ఎ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "bd823f0a-bafd-4635-8646-3e11a7c4fdce",
+    "eng": "Estere",
+    "fLE": "E",
+    "tel": "ఎస్తేర్",
+    "fLTel": "ఎ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "d3426ede-2273-4dff-ad6b-8b07d55b76c8",
+    "eng": "Esteri",
+    "fLE": "E",
+    "tel": "ఎస్తేరు",
+    "fLTel": "ఎ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "c056df73-7a74-42ad-a0e8-70fe1ed9ac6c",
+    "eng": "esteri",
+    "fLE": "e",
+    "tel": "ఎస్తేరు",
+    "fLTel": "ఎ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "4199cffa-f97e-4fe9-8e4b-7e6179078181",
+    "eng": "Esterina",
+    "fLE": "E",
+    "tel": "ఎస్టీరిన",
+    "fLTel": "ఎ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "4c66bfaf-bc40-4474-b341-9ac7cd92dfd1",
+    "eng": "Esther",
+    "fLE": "E",
+    "tel": "ఎస్తేర్",
+    "fLTel": "ఎ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "9dc43e98-f567-430e-9ae8-81cd54f897af",
+    "eng": "Estralita",
+    "fLE": "E",
+    "tel": "స్ట్రేలిత",
+    "fLTel": "స",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "c491391d-792b-4e4f-8ac1-d0e61371400c",
+    "eng": "estralita",
+    "fLE": "e",
+    "tel": "స్ట్రేలిత",
+    "fLTel": "స",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "b16c09e2-cfe3-4e19-91f0-9fe6cbeeb813",
+    "eng": "Estrangia",
+    "fLE": "E",
+    "tel": "స్ట్రాంగుగా",
+    "fLTel": "స",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "6c9cb60c-37c2-4f26-9b35-145e80472b59",
+    "eng": "Estrella",
+    "fLE": "E",
+    "tel": "ఎస్టర్ల",
+    "fLTel": "ఎ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "392e73b8-4288-46c2-83d8-8d0b2859e094",
+    "eng": "estrella",
+    "fLE": "e",
+    "tel": "ఎస్టర్ల",
+    "fLTel": "ఎ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "ee209a74-b6e8-4bc5-846a-2abf75587571",
+    "eng": "Estrellita",
+    "fLE": "E",
+    "tel": "స్ట్రేలిత",
+    "fLTel": "స",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "ee06b4f7-88f0-46fb-9a99-ecd67c80d64e",
+    "eng": "Estrid",
+    "fLE": "E",
+    "tel": "స్ట్రిడ్",
+    "fLTel": "స",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "8598c0bd-1d26-4922-aa8d-4ea4247bdae1",
+    "eng": "Estrild",
+    "fLE": "E",
+    "tel": "స్ట్రిల్డ్",
+    "fLTel": "స",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "c8670e43-6834-4e57-9e10-1f6ce7f2a78c",
+    "eng": "Estrildis",
+    "fLE": "E",
+    "tel": "స్త్రీలదిస్",
+    "fLTel": "స",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "2300c741-7f4c-4709-8263-87bc06e1d54c",
+    "eng": "Estrith",
+    "fLE": "E",
+    "tel": "స్త్రీత్",
+    "fLTel": "స",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "7edd9f17-6770-44e7-bdd4-8f9c1be36931",
+    "eng": "Esty",
+    "fLE": "E",
+    "tel": "స్త్య",
+    "fLTel": "స",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "6a5062e6-6135-4d1b-80d6-f4771d3165eb",
+    "eng": "Eswari",
+    "fLE": "E",
+    "tel": "ఈశ్వరి",
+    "fLTel": "ఈ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "9c2300f8-2d0d-4a61-b9ce-565b7a542934",
+    "eng": "Eswary",
+    "fLE": "E",
+    "tel": "ఈశ్వరీ",
+    "fLTel": "ఈ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "aacbbdab-82bf-4397-a893-99204fdf6d94",
+    "eng": "Eszter",
+    "fLE": "E",
+    "tel": "ఇష్స్ట్ర",
+    "fLTel": "ఇ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "14536b8d-0def-4da6-b9ee-964d42496c62",
+    "eng": "eszter",
+    "fLE": "e",
+    "tel": "ఇష్స్ట్ర",
+    "fLTel": "ఇ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "7445a650-d4ca-4239-8868-79c4e01c4b04",
+    "eng": "Eszti",
+    "fLE": "E",
+    "tel": "ఇష్స్త్రి",
+    "fLTel": "ఇ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "0cfb1c0d-3557-424e-a822-e17e7cb0227d",
+    "eng": "Eta",
+    "fLE": "E",
+    "tel": "ఈటా",
+    "fLTel": "ఈ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "3d3ed642-e973-42ac-bb00-10a92b131ec5",
+    "eng": "etain",
+    "fLE": "e",
+    "tel": "ఎటైనా",
+    "fLTel": "ఎ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "9f4d04b5-a044-49cb-af88-c9774fd90ced",
+    "eng": "Etapatra",
+    "fLE": "E",
+    "tel": "ఎటపాత్ర",
+    "fLTel": "ఎ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "06979ba9-57ab-46b6-86f5-0e9c608e2e79",
+    "eng": "Etasa",
+    "fLE": "E",
+    "tel": "ఏతస్స",
+    "fLTel": "ఏ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "50d1db16-9557-43e6-a98a-a96832120c99",
+    "eng": "Etasha",
+    "fLE": "E",
+    "tel": "ఏతత్స",
+    "fLTel": "ఏ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "0209c07c-5423-463d-a8a8-579234f1dd09",
+    "eng": "Etelvina",
+    "fLE": "E",
+    "tel": "ఏతెల్విన",
+    "fLTel": "ఏ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "3fda4f64-d943-47e8-8189-5498bbf4193b",
+    "eng": "Etenia",
+    "fLE": "E",
+    "tel": "టని",
+    "fLTel": "ట",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "6d580e75-6dcc-496a-8071-16ab1432335a",
+    "eng": "etenia",
+    "fLE": "e",
+    "tel": "టని",
+    "fLTel": "ట",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "dc37c1fc-d7a3-494d-8f1f-092cdb2ba22e",
+    "eng": "Eternity",
+    "fLE": "E",
+    "tel": "టర్నిటీ",
+    "fLTel": "ట",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "502b2991-dac8-4b2c-bb50-ddbfef9a1019",
+    "eng": "eternity",
+    "fLE": "e",
+    "tel": "టర్నిటీ",
+    "fLTel": "ట",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "8f5d1814-bfff-4f2a-9fc0-c025b97951e0",
+    "eng": "Etha",
+    "fLE": "E",
+    "tel": "ఈత",
+    "fLTel": "ఈ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "5ef584ed-f661-48c9-9a97-886b366c44a5",
+    "eng": "etha",
+    "fLE": "e",
+    "tel": "ఈత",
+    "fLTel": "ఈ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "a49de397-6155-458b-b307-03beb568da6b",
+    "eng": "Ethel",
+    "fLE": "E",
+    "tel": "ఇథెల్",
+    "fLTel": "ఇ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "88d97952-d5f3-4866-987b-72701e81220e",
+    "eng": "ethel",
+    "fLE": "e",
+    "tel": "ఇథెల్",
+    "fLTel": "ఇ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "4f115cef-c328-4a88-9924-d1ab4b6652f1",
+    "eng": "Ethelda",
+    "fLE": "E",
+    "tel": "ఎథెల్డా",
+    "fLTel": "ఎ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "ab77176b-7af2-4c0e-b5a6-c17e3c8bf193",
+    "eng": "ethelda",
+    "fLE": "e",
+    "tel": "ఎథెల్డా",
+    "fLTel": "ఎ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "e4a6a314-e79b-44fa-a16a-97102a0d052c",
+    "eng": "Ethelene",
+    "fLE": "E",
+    "tel": "ఏతేలేని",
+    "fLTel": "ఏ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "7ed86e56-d220-4fb7-bd20-4bfd659c7b82",
+    "eng": "Ethelinde",
+    "fLE": "E",
+    "tel": "ఏతేలిందే",
+    "fLTel": "ఏ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "8aa88e15-e0d5-47db-a751-792133f9f015",
+    "eng": "Ethelyn",
+    "fLE": "E",
+    "tel": "ఎథిలిన్",
+    "fLTel": "ఎ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "618c6765-a4fb-4552-8e89-27a7749e347f",
+    "eng": "Ethill",
+    "fLE": "E",
+    "tel": "ఎత్తిల్",
+    "fLTel": "ఎ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "4c99a1b0-0cb0-4756-a579-0fbd10d4869a",
+    "eng": "Ethna",
+    "fLE": "E",
+    "tel": "ఎత్న",
+    "fLTel": "ఎ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "de2d837d-d45e-4365-971e-e8d1e985f78f",
+    "eng": "Ethne",
+    "fLE": "E",
+    "tel": "ఇతనే",
+    "fLTel": "ఇ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "c6e73dd3-3b7c-4924-9516-bfca6208cb97",
+    "eng": "ethne",
+    "fLE": "e",
+    "tel": "ఇతనే",
+    "fLTel": "ఇ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "d210e394-994b-4a57-8d9a-e5728cef5f8d",
+    "eng": "Ethney",
+    "fLE": "E",
+    "tel": "ఇతనే",
+    "fLTel": "ఇ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "5b17f52e-130a-4f9f-b961-db0aca1c9608",
+    "eng": "Ethnie",
+    "fLE": "E",
+    "tel": "యత్నియే",
+    "fLTel": "య",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "6ac82fa7-4ed2-461d-8de0-7b881fb5e608",
+    "eng": "Ethyl",
+    "fLE": "E",
+    "tel": "ఈథైల్",
+    "fLTel": "ఈ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "7084b602-c70d-4a1b-b3f0-cdd6b9a6d334",
+    "eng": "Ethylene",
+    "fLE": "E",
+    "tel": "ఏతేలేని",
+    "fLTel": "ఏ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "0d4f50ec-aeef-4dd2-bb80-89030f794903",
+    "eng": "Ethyll",
+    "fLE": "E",
+    "tel": "ఎతెల్",
+    "fLTel": "ఎ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "9b81003a-cc86-4b33-b995-f90c89eff206",
+    "eng": "Eti",
+    "fLE": "E",
+    "tel": "ఎటి",
+    "fLTel": "ఎ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "1f54dc3b-1f76-422c-b168-3f2c882b546e",
+    "eng": "Etiennette",
+    "fLE": "E",
+    "tel": "ఏటీఎంనేట్టే",
+    "fLTel": "ఏ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "cee2608e-173b-49d4-818d-7f09f42ba118",
+    "eng": "etiennette",
+    "fLE": "e",
+    "tel": "ఏటీఎంనేట్టే",
+    "fLTel": "ఏ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "4741370c-4838-438a-91b5-014259f6e74d",
+    "eng": "Etisha",
+    "fLE": "E",
+    "tel": "ఏటిషా",
+    "fLTel": "ఏ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "63fdfa93-c054-4fac-ab15-16c7e078ee9b",
+    "eng": "Etna",
+    "fLE": "E",
+    "tel": "ఎత్న",
+    "fLTel": "ఎ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "8adeced0-ddce-4542-8cdf-8bcc7c412ada",
+    "eng": "Etoile",
+    "fLE": "E",
+    "tel": "ఎటోయిలె",
+    "fLTel": "ఎ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "0c448096-34c4-4459-adb2-22d22ec73673",
+    "eng": "etoile",
+    "fLE": "e",
+    "tel": "ఎటోయిలె",
+    "fLTel": "ఎ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "129c65c9-dcbb-4240-b526-8e4f71f268dd",
+    "eng": "Eton",
+    "fLE": "E",
+    "tel": "ఎటన్",
+    "fLTel": "ఎ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "0992f12d-addd-4d9b-b031-ac3e2d5e1187",
+    "eng": "Etsudo",
+    "fLE": "E",
+    "tel": "యేట్సుదో",
+    "fLTel": "య",
+    "tags": [],
+    "gen": "female",
+    "rel": "others"
+  },
+  {
+    "id": "2b48f1f5-7de8-48ee-a147-bfa995c8d4d4",
+    "eng": "Etta",
+    "fLE": "E",
+    "tel": "ఎట్టా",
+    "fLTel": "ఎ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "0cd5d3d4-4b08-4d66-92ae-0d3708a063f1",
+    "eng": "etta",
+    "fLE": "e",
+    "tel": "ఎట్టా",
+    "fLTel": "ఎ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "44cb04dd-1215-4170-8abc-176dd804f8bc",
+    "eng": "Ettard",
+    "fLE": "E",
+    "tel": "ఎట్టార్డ్",
+    "fLTel": "ఎ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "17ff9974-7d3c-4d18-8341-0719bb468ead",
+    "eng": "Ettare",
+    "fLE": "E",
+    "tel": "ఎత్తారు",
+    "fLTel": "ఎ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "3010100b-f83e-48b9-bbde-fe090ea841d7",
+    "eng": "Ettarr",
+    "fLE": "E",
+    "tel": "ఎత్తారు",
+    "fLTel": "ఎ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "94339989-f23b-49cb-a2bd-418f2e790a5f",
+    "eng": "Etti",
+    "fLE": "E",
+    "tel": "ఎట్టి",
+    "fLTel": "ఎ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Muslim"
+  },
+  {
+    "id": "eecd5673-8d51-4c78-96b6-f8461a26ab22",
+    "eng": "Ettie",
+    "fLE": "E",
+    "tel": "ఎత్తిఎ",
+    "fLTel": "ఎ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Muslim"
+  },
+  {
+    "id": "adfdded0-729c-48e1-9671-8f9b52ca92f7",
+    "eng": "Ettra",
+    "fLE": "E",
+    "tel": "ఎత్త్ర",
+    "fLTel": "ఎ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Muslim"
+  },
+  {
+    "id": "c4d7a610-1ca7-42e8-97fe-302559294232",
+    "eng": "Etty",
+    "fLE": "E",
+    "tel": "ఎట్టి",
+    "fLTel": "ఎ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "34fc42a6-0589-41c0-a217-a16d87a4ecd3",
+    "eng": "etty",
+    "fLE": "e",
+    "tel": "ఎట్టి",
+    "fLTel": "ఎ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "df970ad6-05cc-4a94-af5b-62a06174163b",
+    "eng": "etude",
+    "fLE": "e",
+    "tel": "ఎతుడే",
+    "fLTel": "ఎ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "3f579495-8e8c-4e2c-a33e-989f90b2d065",
+    "eng": "Eua",
+    "fLE": "E",
+    "tel": "యూత్",
+    "fLTel": "య",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "5e9536ab-3735-4590-8765-8ba63f0a9eb0",
+    "eng": "Eucabeth",
+    "fLE": "E",
+    "tel": "యూకేబెత్",
+    "fLTel": "య",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "1c079edb-694a-4503-b83d-7b98e95bb1bd",
+    "eng": "eucleia",
+    "fLE": "e",
+    "tel": "యూకియా",
+    "fLTel": "య",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "89029366-e694-42a6-8dbf-a8ed3d174371",
+    "eng": "Eudocia",
+    "fLE": "E",
+    "tel": "యూదోష",
+    "fLTel": "య",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "b44bbdb1-c51d-43b3-931d-e0aa15ed3b9b",
+    "eng": "Eudokia",
+    "fLE": "E",
+    "tel": "ఏడకిఆ",
+    "fLTel": "ఏ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "736b10b9-8275-4812-a5f5-ec38d02a200d",
+    "eng": "Eudora",
+    "fLE": "E",
+    "tel": "యుడోరా",
+    "fLTel": "య",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "670a9d8d-8e52-4fc8-9e9a-7b9d9a40a6f2",
+    "eng": "Eudosia",
+    "fLE": "E",
+    "tel": "యుడోసియా",
+    "fLTel": "య",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "80821318-8854-4daf-855c-ad96a9371f4d",
+    "eng": "Eudotia",
+    "fLE": "E",
+    "tel": "యూదుతియా",
+    "fLTel": "య",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "2dc0078a-57ba-44d1-973b-8f6f572a4762",
+    "eng": "Eudoxia",
+    "fLE": "E",
+    "tel": "యుడోక్సియా",
+    "fLTel": "య",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "e7f49be4-f660-41c6-bb13-e569229fa38a",
+    "eng": "eudoxia",
+    "fLE": "e",
+    "tel": "యుడోక్సియా",
+    "fLTel": "య",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "06d86c6a-6165-4535-beb4-fda7cdbe5d99",
+    "eng": "eudoxie",
+    "fLE": "e",
+    "tel": "యుడోక్సియే",
+    "fLTel": "య",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "84670d31-3667-47ac-a48a-4732ce649b15",
+    "eng": "Eufemia",
+    "fLE": "E",
+    "tel": "యూఫెమినా",
+    "fLTel": "య",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "d8b53336-115b-4dee-b0f0-e662eadaa994",
+    "eng": "Eufemme",
+    "fLE": "E",
+    "tel": "యూఫ్మ్మే",
+    "fLTel": "య",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "93c73151-57e0-416a-9283-11d2a1b7e503",
+    "eng": "Eufemmia",
+    "fLE": "E",
+    "tel": "యూఫ్మ్మియా",
+    "fLTel": "య",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "e827f6b7-d7b3-40c2-b8d2-fe57dd3589b6",
+    "eng": "Eufrasia",
+    "fLE": "E",
+    "tel": "యూఫ్రేసియ",
+    "fLTel": "య",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "04a40b6c-8599-411c-8f35-8de97eef8b50",
+    "eng": "Eufrozina",
+    "fLE": "E",
+    "tel": "ఎఫ్రోజైన",
+    "fLTel": "ఎ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "851f0fa0-51b6-410e-ba71-51e5d8f0a6ac",
+    "eng": "Eugena",
+    "fLE": "E",
+    "tel": "యుజెనా",
+    "fLTel": "య",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "04902ed7-2bc8-422f-8297-d5189557799e",
+    "eng": "Eugenia",
+    "fLE": "E",
+    "tel": "యూజీని",
+    "fLTel": "య",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  }
+]

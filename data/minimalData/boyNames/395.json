@@ -1,0 +1,892 @@
+[
+  {
+    "id": "1a0ace93-71e5-406d-b67a-774cab9ff710",
+    "eng": "Nemish",
+    "fLE": "N",
+    "tel": "నిమిష",
+    "fLTel": "న",
+    "tags": [],
+    "gen": "male",
+    "rel": "others"
+  },
+  {
+    "id": "ba0314cd-f71a-40d4-8a9a-ba24f15cc541",
+    "eng": "Nemo",
+    "fLE": "N",
+    "tel": "నెమో",
+    "fLTel": "న",
+    "tags": [],
+    "gen": "male",
+    "rel": "others"
+  },
+  {
+    "id": "ab5f1e3a-0bae-41d5-a2c0-0ebe70dce808",
+    "eng": "Nen",
+    "fLE": "N",
+    "tel": "నెం",
+    "fLTel": "న",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "766b65ad-2cee-42c5-8b1c-f2786088ec21",
+    "eng": "Nennius",
+    "fLE": "N",
+    "tel": "నెన్నిస్",
+    "fLTel": "న",
+    "tags": [],
+    "gen": "male",
+    "rel": "others"
+  },
+  {
+    "id": "b04cac84-7a1a-4ce8-bd19-1275e13e4d84",
+    "eng": "Neno",
+    "fLE": "N",
+    "tel": "నేనో",
+    "fLTel": "న",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "a1606a07-e031-4375-9ac3-9f2fe3481941",
+    "eng": "Nentres",
+    "fLE": "N",
+    "tel": "నెంట్ర్స్",
+    "fLTel": "న",
+    "tags": [],
+    "gen": "male",
+    "rel": "others"
+  },
+  {
+    "id": "ff8b8af9-6686-4f7c-81e4-ef8147edff88",
+    "eng": "Neofit",
+    "fLE": "N",
+    "tel": "నేయోఫైట్",
+    "fLTel": "న",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "7af99d05-5257-40e1-b667-0152c839a6da",
+    "eng": "Neon",
+    "fLE": "N",
+    "tel": "నియాన్",
+    "fLTel": "న",
+    "tags": [],
+    "gen": "male",
+    "rel": "others"
+  },
+  {
+    "id": "885d49d8-187b-41d5-8fcd-d014d83e6bf3",
+    "eng": "Neoptolemus",
+    "fLE": "N",
+    "tel": "నేపోప్టోలెంస్",
+    "fLTel": "న",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "a76591f8-bf72-432c-916e-f684fbd62df3",
+    "eng": "Neor",
+    "fLE": "N",
+    "tel": "నిర్",
+    "fLTel": "న",
+    "tags": [],
+    "gen": "male",
+    "rel": "others"
+  },
+  {
+    "id": "8cbd11cf-f867-43d0-841d-7f6f7ba417f8",
+    "eng": "Nephi",
+    "fLE": "N",
+    "tel": "నెఫి",
+    "fLTel": "న",
+    "tags": [],
+    "gen": "male",
+    "rel": "others"
+  },
+  {
+    "id": "e3b432ef-5238-4af8-909b-432fe867ac57",
+    "eng": "Neptune",
+    "fLE": "N",
+    "tel": "నెప్ట్యూన్",
+    "fLTel": "న",
+    "tags": [],
+    "gen": "male",
+    "rel": "others"
+  },
+  {
+    "id": "78309af5-1c35-4954-9fbd-29e245b15453",
+    "eng": "Ner",
+    "fLE": "N",
+    "tel": "నిర్",
+    "fLTel": "న",
+    "tags": [],
+    "gen": "male",
+    "rel": "others"
+  },
+  {
+    "id": "4f6ebdb7-dc86-409c-81bd-c321315771ac",
+    "eng": "nereus",
+    "fLE": "n",
+    "tel": "నేర్స్",
+    "fLTel": "న",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "9c05fa05-3cbb-426a-91a5-a7e7888671fc",
+    "eng": "Nerian",
+    "fLE": "N",
+    "tel": "నేరియాన్",
+    "fLTel": "న",
+    "tags": [],
+    "gen": "male",
+    "rel": "others"
+  },
+  {
+    "id": "b724201b-7f24-454e-99f7-94e4efeec8e1",
+    "eng": "Nerivaanan",
+    "fLE": "N",
+    "tel": "నేరివాణం",
+    "fLTel": "న",
+    "tags": [],
+    "gen": "male",
+    "rel": "others"
+  },
+  {
+    "id": "83776652-c5b4-406a-a191-e2609b848733",
+    "eng": "Nerlap",
+    "fLE": "N",
+    "tel": "నిర్లాప్",
+    "fLTel": "న",
+    "tags": [],
+    "gen": "male",
+    "rel": "others"
+  },
+  {
+    "id": "7fde8b25-d341-4000-9944-4b5adf3d082e",
+    "eng": "Nero",
+    "fLE": "N",
+    "tel": "నీరో",
+    "fLTel": "న",
+    "tags": [],
+    "gen": "male",
+    "rel": "others"
+  },
+  {
+    "id": "e7f890e6-377b-4872-bba4-396648817f5f",
+    "eng": "nero",
+    "fLE": "n",
+    "tel": "నీరో",
+    "fLTel": "న",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "d46ffb5b-191e-4fc4-99dd-27184577e0a9",
+    "eng": "Neron",
+    "fLE": "N",
+    "tel": "నేరోన్",
+    "fLTel": "న",
+    "tags": [],
+    "gen": "male",
+    "rel": "others"
+  },
+  {
+    "id": "f906c239-6fbf-4f8a-90cb-1794cad6e854",
+    "eng": "neron",
+    "fLE": "n",
+    "tel": "నేరోన్",
+    "fLTel": "న",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "00968234-378a-421f-b7a5-2f46bcd1dbfa",
+    "eng": "Nerovens",
+    "fLE": "N",
+    "tel": "నేరావెన్స్",
+    "fLTel": "న",
+    "tags": [],
+    "gen": "male",
+    "rel": "others"
+  },
+  {
+    "id": "539a903a-30db-46b3-b84a-a468153f6ac7",
+    "eng": "Nerrivaanan",
+    "fLE": "N",
+    "tel": "నెఱివానం",
+    "fLTel": "న",
+    "tags": [],
+    "gen": "male",
+    "rel": "others"
+  },
+  {
+    "id": "fcb82cff-8cdc-460f-8931-3f1b8a72d6fa",
+    "eng": "Nerutiya",
+    "fLE": "N",
+    "tel": "నేరుటైయ",
+    "fLTel": "న",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "8c45563a-764a-4c05-b83b-b83f85f3bf7f",
+    "eng": "Nery",
+    "fLE": "N",
+    "tel": "నేరీ",
+    "fLTel": "న",
+    "tags": [],
+    "gen": "male",
+    "rel": "others"
+  },
+  {
+    "id": "c83cd45e-78c3-4639-a346-8db453fe6210",
+    "eng": "Nesal",
+    "fLE": "N",
+    "tel": "నేసల్",
+    "fLTel": "న",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "3fbbc9fe-f52a-44b2-b8f5-4cc0cc331458",
+    "eng": "Nesamani",
+    "fLE": "N",
+    "tel": "నేసమని",
+    "fLTel": "న",
+    "tags": [],
+    "gen": "male",
+    "rel": "others"
+  },
+  {
+    "id": "783b7077-c6cf-4c5f-be13-4b9a43e1ec25",
+    "eng": "Nesan",
+    "fLE": "N",
+    "tel": "నేసం",
+    "fLTel": "న",
+    "tags": [],
+    "gen": "male",
+    "rel": "others"
+  },
+  {
+    "id": "e31c31e5-ccc9-4b9e-95a8-6de8e6e1e6e6",
+    "eng": "Nesar",
+    "fLE": "N",
+    "tel": "నిసార్",
+    "fLTel": "న",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "722ab9a7-a45f-4ab7-8031-cad420ee80e7",
+    "eng": "Nesbit",
+    "fLE": "N",
+    "tel": "నెస్బయిట్",
+    "fLTel": "న",
+    "tags": [],
+    "gen": "male",
+    "rel": "others"
+  },
+  {
+    "id": "e8bc51a0-f752-404a-a980-5f3545ce4cfb",
+    "eng": "nesbit",
+    "fLE": "n",
+    "tel": "నెస్బయిట్",
+    "fLTel": "న",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "9f47a110-fc91-4e3c-b186-1dd74e5f65b3",
+    "eng": "Nesbitt",
+    "fLE": "N",
+    "tel": "నెస్బయిట్",
+    "fLTel": "న",
+    "tags": [],
+    "gen": "male",
+    "rel": "others"
+  },
+  {
+    "id": "8d725aba-40ad-4813-b340-9b1b0602a5ce",
+    "eng": "Neshaun",
+    "fLE": "N",
+    "tel": "నిశుం",
+    "fLTel": "న",
+    "tags": [],
+    "gen": "male",
+    "rel": "others"
+  },
+  {
+    "id": "3765ac1f-c200-4f3a-b0a9-8ac7640e1595",
+    "eng": "neshaun",
+    "fLE": "n",
+    "tel": "నిశుం",
+    "fLTel": "న",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "695167c8-70f4-4852-b267-959b04f4ca92",
+    "eng": "Neshvee",
+    "fLE": "N",
+    "tel": "ణేషువీ",
+    "fLTel": "ణ",
+    "tags": [],
+    "gen": "male",
+    "rel": "others"
+  },
+  {
+    "id": "78d53b6f-abb6-4c30-919a-10125a209716",
+    "eng": "Neson",
+    "fLE": "N",
+    "tel": "నేసోన్",
+    "fLTel": "న",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "16cb06e0-63fc-4c84-bed1-a1dc15872e07",
+    "eng": "Nessan",
+    "fLE": "N",
+    "tel": "నిస్సాన్",
+    "fLTel": "న",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "426a5956-f475-4b5e-9d13-b90706771a8d",
+    "eng": "Nessim",
+    "fLE": "N",
+    "tel": "నిస్సిమ్",
+    "fLTel": "న",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "bec042b1-c685-41fd-96f4-0e973d9cf960",
+    "eng": "Nestor",
+    "fLE": "N",
+    "tel": "నెస్టర్",
+    "fLTel": "న",
+    "tags": [],
+    "gen": "male",
+    "rel": "others"
+  },
+  {
+    "id": "a2ba92ca-4f71-441a-8b4b-242a4166ea46",
+    "eng": "nestor",
+    "fLE": "n",
+    "tel": "నెస్టర్",
+    "fLTel": "న",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "e95ba59c-318a-414f-bdc6-2de90540cbb3",
+    "eng": "Nestore",
+    "fLE": "N",
+    "tel": "నెస్టర్",
+    "fLTel": "న",
+    "tags": [],
+    "gen": "male",
+    "rel": "others"
+  },
+  {
+    "id": "facb91ba-54b1-4677-beef-40c07cbe6e97",
+    "eng": "nestori",
+    "fLE": "n",
+    "tel": "నెస్టోరీ",
+    "fLTel": "న",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "9dd7be7a-ce42-485c-ad08-a1e63af6dec6",
+    "eng": "Netanyahu",
+    "fLE": "N",
+    "tel": "నెతన్యాహు",
+    "fLTel": "న",
+    "tags": [],
+    "gen": "male",
+    "rel": "others"
+  },
+  {
+    "id": "2bd35d9d-048e-4d99-8377-c918fd51bb42",
+    "eng": "Netar",
+    "fLE": "N",
+    "tel": "నేటర్",
+    "fLTel": "న",
+    "tags": [],
+    "gen": "male",
+    "rel": "others"
+  },
+  {
+    "id": "c37662dd-0025-4208-8d93-3a5cf5efdcfc",
+    "eng": "Nethaji",
+    "fLE": "N",
+    "tel": "నేతాజీ",
+    "fLTel": "న",
+    "tags": [],
+    "gen": "male",
+    "rel": "others"
+  },
+  {
+    "id": "d6ef0968-00b7-4c55-8986-3cf9a8e484c1",
+    "eng": "Nethan",
+    "fLE": "N",
+    "tel": "నాథన్",
+    "fLTel": "న",
+    "tags": [],
+    "gen": "male",
+    "rel": "others"
+  },
+  {
+    "id": "fcce7c35-bb7e-4573-a0de-42b133e972cd",
+    "eng": "Nethaniel",
+    "fLE": "N",
+    "tel": "నేతానియేల్",
+    "fLTel": "న",
+    "tags": [],
+    "gen": "male",
+    "rel": "others"
+  },
+  {
+    "id": "bd33dc14-9f03-44a1-8620-5b161d732739",
+    "eng": "Nethel",
+    "fLE": "N",
+    "tel": "నేతేల్",
+    "fLTel": "న",
+    "tags": [],
+    "gen": "male",
+    "rel": "others"
+  },
+  {
+    "id": "f1cc1754-88fa-4498-b8e9-865de1f17a57",
+    "eng": "Nethru",
+    "fLE": "N",
+    "tel": "నేతృ",
+    "fLTel": "న",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "dfbedad4-076d-4aad-93ab-19eea5a1cf67",
+    "eng": "Netik",
+    "fLE": "N",
+    "tel": "నెటిక్",
+    "fLTel": "న",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "d6ee6bf6-f2d8-414e-af47-91ec89629357",
+    "eng": "Neto",
+    "fLE": "N",
+    "tel": "నీతో",
+    "fLTel": "న",
+    "tags": [],
+    "gen": "male",
+    "rel": "others"
+  },
+  {
+    "id": "eacd8eb6-fbc2-4ee8-828b-df82e66f9d4b",
+    "eng": "Netraa",
+    "fLE": "N",
+    "tel": "నేత్రా",
+    "fLTel": "న",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "6682e5ab-c81b-466f-aa16-5126f910ec97",
+    "eng": "Netrapal",
+    "fLE": "N",
+    "tel": "నేత్రపాల్",
+    "fLTel": "న",
+    "tags": [],
+    "gen": "male",
+    "rel": "others"
+  },
+  {
+    "id": "ef8cbe01-f4de-46b1-ac1a-1728abf72c80",
+    "eng": "Netrapala",
+    "fLE": "N",
+    "tel": "నేత్రపాల",
+    "fLTel": "న",
+    "tags": [],
+    "gen": "male",
+    "rel": "others"
+  },
+  {
+    "id": "9a2df08d-4f49-4798-928a-8bc891ec12c6",
+    "eng": "Netratav",
+    "fLE": "N",
+    "tel": "నేత్రతావ్",
+    "fLTel": "న",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "1e103bd7-6efe-4fda-be7c-e6bb5ae8d0c4",
+    "eng": "Netrika",
+    "fLE": "N",
+    "tel": "నేత్రిక",
+    "fLTel": "న",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "520203ad-a50f-4c6f-8bbb-26e2c1796c13",
+    "eng": "Nettunu",
+    "fLE": "N",
+    "tel": "నెత్తును",
+    "fLTel": "న",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "247715dc-3beb-4053-a3ab-521b1ff7b456",
+    "eng": "Nev",
+    "fLE": "N",
+    "tel": "నేవీ",
+    "fLTel": "న",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "8c3cc146-51e0-4087-9114-0d9fed187ee7",
+    "eng": "Nevaan",
+    "fLE": "N",
+    "tel": "నెవాన్",
+    "fLTel": "న",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "558baebf-1caf-4070-89f1-b0dd12d2c53c",
+    "eng": "Nevada",
+    "fLE": "N",
+    "tel": "నెవాడా",
+    "fLTel": "న",
+    "tags": [],
+    "gen": "male",
+    "rel": "others"
+  },
+  {
+    "id": "a8f3755e-a56f-4907-8bef-527556f4f3dc",
+    "eng": "Neval",
+    "fLE": "N",
+    "tel": "నేవల్",
+    "fLTel": "న",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "5d032d60-1ca0-45be-b6c2-123f22b6c608",
+    "eng": "neval",
+    "fLE": "n",
+    "tel": "నేవల్",
+    "fLTel": "న",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "95638389-9803-4f37-8fb4-0682f960ab0b",
+    "eng": "Nevan",
+    "fLE": "N",
+    "tel": "నేవం",
+    "fLTel": "న",
+    "tags": [],
+    "gen": "male",
+    "rel": "others"
+  },
+  {
+    "id": "23537976-7e4c-42c6-8d77-52727330b1b9",
+    "eng": "Neven",
+    "fLE": "N",
+    "tel": "సెవెన్",
+    "fLTel": "స",
+    "tags": [],
+    "gen": "male",
+    "rel": "others"
+  },
+  {
+    "id": "91688299-d281-4def-af56-04d44d6f2abd",
+    "eng": "Nevid",
+    "fLE": "N",
+    "tel": "నెవిడ్",
+    "fLTel": "న",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "1dfb4ae0-b70a-4759-b5f2-b06a0471ffe8",
+    "eng": "Nevil",
+    "fLE": "N",
+    "tel": "నెవిల్",
+    "fLTel": "న",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "9e4e5f5c-c5d4-441f-a378-a01ba9d6ea30",
+    "eng": "Neville",
+    "fLE": "N",
+    "tel": "నెవిల్ల్",
+    "fLTel": "న",
+    "tags": [],
+    "gen": "male",
+    "rel": "others"
+  },
+  {
+    "id": "7909831f-5700-4aa7-b3d6-dc33fea495de",
+    "eng": "neville",
+    "fLE": "n",
+    "tel": "నెవిల్ల్",
+    "fLTel": "న",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "ecfdea3c-81e7-4fcd-a7c6-e7e943e38b97",
+    "eng": "Nevin",
+    "fLE": "N",
+    "tel": "నేవిం",
+    "fLTel": "న",
+    "tags": [],
+    "gen": "male",
+    "rel": "others"
+  },
+  {
+    "id": "5f81f93b-2d0c-4d62-9977-04cd347075c1",
+    "eng": "Nevio",
+    "fLE": "N",
+    "tel": "నేవీలో",
+    "fLTel": "న",
+    "tags": [],
+    "gen": "male",
+    "rel": "others"
+  },
+  {
+    "id": "df8f03b8-ac3c-4a6c-83da-68e26c8ac317",
+    "eng": "nevio",
+    "fLE": "n",
+    "tel": "నేవీలో",
+    "fLTel": "న",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "b7967379-e2cc-4a18-a3c2-5e1af9fc7310",
+    "eng": "Nevyn",
+    "fLE": "N",
+    "tel": "నేవైన్",
+    "fLTel": "న",
+    "tags": [],
+    "gen": "male",
+    "rel": "others"
+  },
+  {
+    "id": "dc1e85e7-0a33-42ef-9885-2a05e20a7eb7",
+    "eng": "Newall",
+    "fLE": "N",
+    "tel": "నెహ్వాల్",
+    "fLTel": "న",
+    "tags": [],
+    "gen": "male",
+    "rel": "others"
+  },
+  {
+    "id": "8e043d65-e796-48d8-90ff-5abbf8516ba2",
+    "eng": "Newbold",
+    "fLE": "N",
+    "tel": "న్యూబోల్డ్",
+    "fLTel": "న",
+    "tags": [],
+    "gen": "male",
+    "rel": "others"
+  },
+  {
+    "id": "b13bf7e2-a78c-46f2-a52b-53d028abab7c",
+    "eng": "newbold",
+    "fLE": "n",
+    "tel": "న్యూబోల్డ్",
+    "fLTel": "న",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "fd368c89-d42c-4da8-a9aa-f0503cf9a1f6",
+    "eng": "newbury",
+    "fLE": "n",
+    "tel": "న్యూబర్య్",
+    "fLTel": "న",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "10d210e9-5943-4ebd-9147-e977c4a92915",
+    "eng": "newcomb",
+    "fLE": "n",
+    "tel": "న్యూకంబు",
+    "fLTel": "న",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "6e2d9389-3c73-45cf-8877-9dcc7cc4f2e9",
+    "eng": "Newell",
+    "fLE": "N",
+    "tel": "నేవెల్",
+    "fLTel": "న",
+    "tags": [],
+    "gen": "male",
+    "rel": "others"
+  },
+  {
+    "id": "5ef4e16c-cc26-4b53-ad4f-53646747b7df",
+    "eng": "newell",
+    "fLE": "n",
+    "tel": "నేవెల్",
+    "fLTel": "న",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "8b2a3126-1697-450a-b534-0686b96e0882",
+    "eng": "Newhall",
+    "fLE": "N",
+    "tel": "న్యూహాల్",
+    "fLTel": "న",
+    "tags": [],
+    "gen": "male",
+    "rel": "others"
+  },
+  {
+    "id": "df78940f-2e97-412c-98f1-befcc3ac6642",
+    "eng": "Newland",
+    "fLE": "N",
+    "tel": "న్యూలాండ్",
+    "fLTel": "న",
+    "tags": [],
+    "gen": "male",
+    "rel": "others"
+  },
+  {
+    "id": "018a9f2f-36e8-41c0-a92b-f60d92a34f71",
+    "eng": "newland",
+    "fLE": "n",
+    "tel": "న్యూలాండ్",
+    "fLTel": "న",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "16b7e276-6145-4f59-92f2-819eaa7b450e",
+    "eng": "Newlands",
+    "fLE": "N",
+    "tel": "న్యూలాండ్స్",
+    "fLTel": "న",
+    "tags": [],
+    "gen": "male",
+    "rel": "others"
+  },
+  {
+    "id": "56429731-8c75-4b03-8f0b-79d597e119fa",
+    "eng": "Newman",
+    "fLE": "N",
+    "tel": "న్యూమాన్",
+    "fLTel": "న",
+    "tags": [],
+    "gen": "male",
+    "rel": "others"
+  },
+  {
+    "id": "923742d3-8377-4f53-9e60-666f14eabe3d",
+    "eng": "newman",
+    "fLE": "n",
+    "tel": "న్యూమాన్",
+    "fLTel": "న",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "84c290c9-9ab9-451a-87af-77d035cb3aea",
+    "eng": "newport",
+    "fLE": "n",
+    "tel": "న్యూపోర్ట్",
+    "fLTel": "న",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "2d120fc0-f1af-487e-a0cc-89ab8fa38b88",
+    "eng": "Newt",
+    "fLE": "N",
+    "tel": "న్యూస్",
+    "fLTel": "న",
+    "tags": [],
+    "gen": "male",
+    "rel": "others"
+  },
+  {
+    "id": "c348b7ee-ad23-49aa-b28b-546b1c22245f",
+    "eng": "newt",
+    "fLE": "n",
+    "tel": "న్యూస్",
+    "fLTel": "న",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "be38555c-da70-47b4-a487-7386b946efb1",
+    "eng": "Newton",
+    "fLE": "N",
+    "tel": "న్యూటన్",
+    "fLTel": "న",
+    "tags": [],
+    "gen": "male",
+    "rel": "others"
+  }
+]

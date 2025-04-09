@@ -1,0 +1,962 @@
+[
+  {
+    "id": "54519664-8b76-4122-a31b-2300eac76b0a",
+    "eng": "Mamdooh",
+    "fLE": "M",
+    "tel": "మాండూహ్",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "d2af512f-b6c1-4150-a32a-33fdecf35957",
+    "eng": "Mamdouh",
+    "fLE": "M",
+    "tel": "మాండోఉఛ్",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "f449b61a-99cb-42a7-94ed-bef02b78fdc3",
+    "eng": "Mamduh",
+    "fLE": "M",
+    "tel": "మందుహ్",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "dd9cbaed-6e02-4698-b247-6b1785041277",
+    "eng": "Mamik",
+    "fLE": "M",
+    "tel": "మామ్యిక్",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "f237dac6-034c-4d1f-9ec1-750c27ad6303",
+    "eng": "maminnic",
+    "fLE": "m",
+    "tel": "మామినిక్",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "7d602698-5482-4b72-a3d8-a147a9ace900",
+    "eng": "Mammatta",
+    "fLE": "M",
+    "tel": "మామ్మత్త",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "male",
+    "rel": "others"
+  },
+  {
+    "id": "0065cd9c-0e11-4f3a-9214-fcb01cd6e41c",
+    "eng": "Mammooty",
+    "fLE": "M",
+    "tel": "మమ్మూటీ",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "75c744da-e42a-4ebf-939f-16847d0fd9f4",
+    "eng": "Mamnoon",
+    "fLE": "M",
+    "tel": "మామునూన్",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "ab7199b0-02cb-4965-96c0-5dc8c81435dc",
+    "eng": "Mamnun",
+    "fLE": "M",
+    "tel": "మంనుం",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "07f5a149-f330-4936-80d0-98a2c31304b5",
+    "eng": "Mamoolan",
+    "fLE": "M",
+    "tel": "మామూలం",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "male",
+    "rel": "others"
+  },
+  {
+    "id": "43fa36fc-d679-4688-84d8-0c9e59f69509",
+    "eng": "Mamoon",
+    "fLE": "M",
+    "tel": "మమూన్",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "663291b5-ea96-45cd-ac80-bf06e31ff1b5",
+    "eng": "Mamoor",
+    "fLE": "M",
+    "tel": "మామూర్",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "00761e06-d2d1-4bff-b889-bf7b6d3c136e",
+    "eng": "Mamraj",
+    "fLE": "M",
+    "tel": "మాంరాజ్",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "245fd12f-4e57-4a99-a738-0ce69d31b674",
+    "eng": "Mamu",
+    "fLE": "M",
+    "tel": "మేము",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "male",
+    "rel": "others"
+  },
+  {
+    "id": "7db3afb9-9083-4f23-87fb-2958e480c2db",
+    "eng": "Mamuj",
+    "fLE": "M",
+    "tel": "మాముజ్",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "male",
+    "rel": "others"
+  },
+  {
+    "id": "b50292fe-93ce-4630-938c-1fd3d364bf15",
+    "eng": "Mamum",
+    "fLE": "M",
+    "tel": "మముం",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "male",
+    "rel": "others"
+  },
+  {
+    "id": "da5d7c5c-089a-4583-ac0f-23af0391b530",
+    "eng": "Mamun",
+    "fLE": "M",
+    "tel": "మముం",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "944557fe-7488-4bf7-b1f0-d0a6a8a1faa1",
+    "eng": "Man",
+    "fLE": "M",
+    "tel": "మం",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "48a5ffbd-733b-4bf5-bce2-55f055a8cda8",
+    "eng": "Man'nah",
+    "fLE": "M",
+    "tel": "మాన్'నః",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "52ab32d1-0cff-4eb3-9d5d-23afffab212d",
+    "eng": "Man-Shik",
+    "fLE": "M",
+    "tel": "మాన్-శిక్",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "male",
+    "rel": "others"
+  },
+  {
+    "id": "4dfca44b-8890-476d-9cd5-10080cd4b7e7",
+    "eng": "Man-Young",
+    "fLE": "M",
+    "tel": "మాన్-యంగ్",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "male",
+    "rel": "others"
+  },
+  {
+    "id": "35517a2a-b811-4d00-8c1e-5a04855b8e69",
+    "eng": "Manaan",
+    "fLE": "M",
+    "tel": "మానాన",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "92250755-f7d5-4349-a0d8-26ba56171b16",
+    "eng": "Manachah",
+    "fLE": "M",
+    "tel": "మఞ్చాహ్",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "male",
+    "rel": "others"
+  },
+  {
+    "id": "b0624b26-ac30-4f54-bd5b-7deac2507f5f",
+    "eng": "Manad",
+    "fLE": "M",
+    "tel": "మనది",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "male",
+    "rel": "others"
+  },
+  {
+    "id": "6f363021-99b4-47ab-bb4c-c01f24130906",
+    "eng": "Manaf",
+    "fLE": "M",
+    "tel": "మునాఫ్",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "2e5349a9-7570-41bc-b376-54c1daee1dff",
+    "eng": "Managobinda",
+    "fLE": "M",
+    "tel": "మానగోబింద",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "6d586042-d898-4d92-8702-b5dbdcdc9491",
+    "eng": "Manahar",
+    "fLE": "M",
+    "tel": "మానహర్",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "ffc4f808-5c63-4e9a-a94c-406113a688a9",
+    "eng": "Manaj",
+    "fLE": "M",
+    "tel": "మానేజ్",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "12076075-b9ec-4143-9dd1-9af489fbe95b",
+    "eng": "Manajit",
+    "fLE": "M",
+    "tel": "మనజిత్",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "1eae49ba-4c8e-4df8-9217-5f4f76175ea6",
+    "eng": "Manajith",
+    "fLE": "M",
+    "tel": "మనజిత్",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "a6939168-588a-4b15-8f28-fafaf97beba7",
+    "eng": "Manak",
+    "fLE": "M",
+    "tel": "మనకే",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "e2d2ae6e-6813-48e5-9f32-36e802565bbc",
+    "eng": "Manalan",
+    "fLE": "M",
+    "tel": "మనలను",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "male",
+    "rel": "others"
+  },
+  {
+    "id": "737ebd75-0d66-432c-8549-e1ac0ae71858",
+    "eng": "Manalp",
+    "fLE": "M",
+    "tel": "మనల్ప్",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "9fa193fe-6559-4330-8325-798ad138c017",
+    "eng": "Manamohana",
+    "fLE": "M",
+    "tel": "మానమోహన",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "male",
+    "rel": "others"
+  },
+  {
+    "id": "5d2302c3-432f-4a82-a446-a83eddc92124",
+    "eng": "Manan",
+    "fLE": "M",
+    "tel": "మనం",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "137393e2-1d2a-4e1f-bd04-5a3cb37d4fcb",
+    "eng": "Manandhar",
+    "fLE": "M",
+    "tel": "మనందరి",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "male",
+    "rel": "others"
+  },
+  {
+    "id": "3f718e95-7088-4d90-a74d-9379a24d6288",
+    "eng": "Manank",
+    "fLE": "M",
+    "tel": "మనాంకి",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "91e20f68-0743-4f49-b402-d3a0d99e3851",
+    "eng": "Manansh",
+    "fLE": "M",
+    "tel": "మనంశ్",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "fbb7e029-0dfb-4336-8f9b-e9ccd06bc54f",
+    "eng": "Manant",
+    "fLE": "M",
+    "tel": "మనన్త",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "86e2bdda-e4c6-4211-9fce-118b4c8fdf9b",
+    "eng": "Manap",
+    "fLE": "M",
+    "tel": "మనపి",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "36eba3c8-eec0-44ff-8c1b-b2c3df4f93fa",
+    "eng": "Manarp",
+    "fLE": "M",
+    "tel": "మనర్ప",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "22545306-c683-408e-b4e3-0137ec3a046d",
+    "eng": "Manas",
+    "fLE": "M",
+    "tel": "మానస్",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "addd5b49-9e27-45ad-80d1-15d0029d3d2f",
+    "eng": "Manasaprema",
+    "fLE": "M",
+    "tel": "మానసప్రేమ",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "male",
+    "rel": "others"
+  },
+  {
+    "id": "c018579e-4156-4252-86ba-563dcd925ef4",
+    "eng": "Manasdeep",
+    "fLE": "M",
+    "tel": "మనస్సాదీప్",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Sikh"
+  },
+  {
+    "id": "a5501436-4974-4c75-bfd8-39af0751b5af",
+    "eng": "Manaser",
+    "fLE": "M",
+    "tel": "మానేజర్",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "male",
+    "rel": "others"
+  },
+  {
+    "id": "73c6826e-6757-4712-ac76-0994872e9677",
+    "eng": "Manases",
+    "fLE": "M",
+    "tel": "మనసెస్",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "male",
+    "rel": "others"
+  },
+  {
+    "id": "879297b1-b6d7-43a3-8184-b33ed04f1bb4",
+    "eng": "manases",
+    "fLE": "m",
+    "tel": "మనసెస్",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "e906f592-e484-417a-a614-fcd486a0a170",
+    "eng": "Manashyu",
+    "fLE": "M",
+    "tel": "మనుష్యు",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "2be4643f-b353-4cd2-b279-ba35e1e4fc89",
+    "eng": "Manasij",
+    "fLE": "M",
+    "tel": "మనసైజ్",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "3bf20e82-e06e-4fb6-af84-0243886765da",
+    "eng": "Manasjeet",
+    "fLE": "M",
+    "tel": "మనస్సాజీత్",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Sikh"
+  },
+  {
+    "id": "8d957fc4-6327-4d05-b2fa-a49849ea5a1f",
+    "eng": "Manaskir",
+    "fLE": "M",
+    "tel": "మనసుకిర్",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "male",
+    "rel": "others"
+  },
+  {
+    "id": "e63cc418-aa9f-41c6-b394-fd5469cdcd96",
+    "eng": "Manaspreet",
+    "fLE": "M",
+    "tel": "మనస్ప్రీత్",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Sikh"
+  },
+  {
+    "id": "b0faa950-3277-48e1-bc63-778243aa0f6b",
+    "eng": "Manasprem",
+    "fLE": "M",
+    "tel": "మనసుప్రీం",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Sikh"
+  },
+  {
+    "id": "82c9868b-7b13-4ab6-9de9-407fc0d2b09b",
+    "eng": "Manasroop",
+    "fLE": "M",
+    "tel": "మనసురూప్",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Sikh"
+  },
+  {
+    "id": "23b1fe7a-1c72-4173-bf43-013c31f3687c",
+    "eng": "Manasseh",
+    "fLE": "M",
+    "tel": "మనస్సేహ్",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "male",
+    "rel": "others"
+  },
+  {
+    "id": "32fc1e77-256f-4c61-846a-065913804c68",
+    "eng": "manasseh",
+    "fLE": "m",
+    "tel": "మనస్సేహ్",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "7795efa4-88ff-4400-b6c8-0c05f72dd219",
+    "eng": "Manassen",
+    "fLE": "M",
+    "tel": "మనస్సేన్",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "male",
+    "rel": "others"
+  },
+  {
+    "id": "4be30f5d-d623-4310-b56a-8b1080c311a5",
+    "eng": "Manasses",
+    "fLE": "M",
+    "tel": "మనస్సెస్",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "male",
+    "rel": "others"
+  },
+  {
+    "id": "66232d68-0972-49ce-970e-b1ccb3c941ee",
+    "eng": "Manasvin",
+    "fLE": "M",
+    "tel": "మనస్విన్",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "b8669f7b-68b3-425e-8998-b1c95327a1c0",
+    "eng": "Manaswa",
+    "fLE": "M",
+    "tel": "మనస్వ",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "male",
+    "rel": "others"
+  },
+  {
+    "id": "97da666d-3c1d-4434-91c5-5f50543101ab",
+    "eng": "Manaswant",
+    "fLE": "M",
+    "tel": "మనస్వంత్",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Sikh"
+  },
+  {
+    "id": "c697ec20-944d-411c-b6e6-5c620f7a0d31",
+    "eng": "Manaswin",
+    "fLE": "M",
+    "tel": "మనస్విని",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "a9135547-d01b-4bdf-8cc5-95ca07eb825b",
+    "eng": "Manasyu",
+    "fLE": "M",
+    "tel": "మనస్యు",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "ac18962d-e7db-454e-96d1-7b0cbcf72962",
+    "eng": "Manathosh",
+    "fLE": "M",
+    "tel": "మనతోష్",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "male",
+    "rel": "others"
+  },
+  {
+    "id": "fe812ce8-113c-4c61-8120-370f13288b55",
+    "eng": "Manav",
+    "fLE": "M",
+    "tel": "మానవ",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "19ea9a80-e187-4b28-9ad2-d3888bf2788b",
+    "eng": "Manava",
+    "fLE": "M",
+    "tel": "మానవ",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "1d2885bb-1c1d-4eb5-9199-47e32834a2ca",
+    "eng": "Manavazagan",
+    "fLE": "M",
+    "tel": "మానవజగన్",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "male",
+    "rel": "others"
+  },
+  {
+    "id": "a4d15b2c-6761-4e52-8429-f32054af2a06",
+    "eng": "Manavdeep",
+    "fLE": "M",
+    "tel": "మానవదీప్",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Sikh"
+  },
+  {
+    "id": "553c43c7-cd15-409e-a065-99435a1b62c5",
+    "eng": "Manavendra",
+    "fLE": "M",
+    "tel": "మానవేంద్ర",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "beef5529-1479-469e-8a5b-a69e7c45b581",
+    "eng": "Manavinder",
+    "fLE": "M",
+    "tel": "మనవీందర్",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Sikh"
+  },
+  {
+    "id": "392c0596-e3c6-43f8-823c-36b05359b368",
+    "eng": "Manavjeet",
+    "fLE": "M",
+    "tel": "మానవజీత్",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Sikh"
+  },
+  {
+    "id": "5285be3d-8522-43b3-82c7-727ba8c94ad0",
+    "eng": "Manavjot",
+    "fLE": "M",
+    "tel": "మానవజోత్",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Sikh"
+  },
+  {
+    "id": "7a40d827-df5d-41d8-a295-31c695e244a1",
+    "eng": "Manavmeet",
+    "fLE": "M",
+    "tel": "మానవమీత్",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Sikh"
+  },
+  {
+    "id": "d3931738-648c-41ef-a9b6-c1ee7f91bf07",
+    "eng": "Manavotham",
+    "fLE": "M",
+    "tel": "మానవోత్తం",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "953d025d-580c-4a6a-9568-575eaacd2550",
+    "eng": "Manavottam",
+    "fLE": "M",
+    "tel": "మానవోత్తం",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "male",
+    "rel": "others"
+  },
+  {
+    "id": "3487fcaf-8d3a-4a50-be58-82d98089ac51",
+    "eng": "Manavpreet",
+    "fLE": "M",
+    "tel": "మానవీప్రీత్",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Sikh"
+  },
+  {
+    "id": "22cc6c0a-9044-4fc4-8b53-20587b99cb7e",
+    "eng": "Manbir",
+    "fLE": "M",
+    "tel": "మంబైర్",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Sikh"
+  },
+  {
+    "id": "b38b25e2-3b57-42eb-87ab-b8799a8935f2",
+    "eng": "Manbodh",
+    "fLE": "M",
+    "tel": "మంబోధ్",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "male",
+    "rel": "others"
+  },
+  {
+    "id": "b17cc583-35db-4bb5-ab13-70bd964e5393",
+    "eng": "mance",
+    "fLE": "m",
+    "tel": "మనసు",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "97af748e-f958-4dd7-ab41-431928e78716",
+    "eng": "Mancel",
+    "fLE": "M",
+    "tel": "మన్సల్",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "male",
+    "rel": "others"
+  },
+  {
+    "id": "85473efd-2921-42ee-afdb-6cd6fa778385",
+    "eng": "Manchanda",
+    "fLE": "M",
+    "tel": "మంచందా",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "male",
+    "rel": "others"
+  },
+  {
+    "id": "9491bde3-ab3c-4efe-84b3-07dd3dddccf7",
+    "eng": "Manchapora",
+    "fLE": "M",
+    "tel": "మంచుపొర",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "male",
+    "rel": "others"
+  },
+  {
+    "id": "75fb1783-e2e2-4517-8985-c67650b0a30c",
+    "eng": "Manchet",
+    "fLE": "M",
+    "tel": "మంచెట్",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Sikh"
+  },
+  {
+    "id": "d830da35-f285-4cdf-8b72-3e62c77bf6f5",
+    "eng": "Mancio",
+    "fLE": "M",
+    "tel": "మంచివో",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "9a1cadf4-8cdd-4812-b291-4d603c8e5cab",
+    "eng": "Mancuso",
+    "fLE": "M",
+    "tel": "మనసుస్లో",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "male",
+    "rel": "others"
+  },
+  {
+    "id": "aa61d783-3770-4029-bd4c-f79aa1574348",
+    "eng": "Mandaar",
+    "fLE": "M",
+    "tel": "మందార",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "fffbf4d6-00bd-453d-8c7c-5890e9319042",
+    "eng": "Mandaara",
+    "fLE": "M",
+    "tel": "మందార",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "male",
+    "rel": "others"
+  },
+  {
+    "id": "56491960-a71d-4c01-b944-599a08e827f0",
+    "eng": "Mandahas",
+    "fLE": "M",
+    "tel": "మందహాస",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "male",
+    "rel": "others"
+  },
+  {
+    "id": "b802b862-cd6a-439b-b77e-c3f99a7fda7a",
+    "eng": "Mandan",
+    "fLE": "M",
+    "tel": "మందన్",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "00aad6bf-737a-4929-a5ee-ed212d197f66",
+    "eng": "Mandapal",
+    "fLE": "M",
+    "tel": "మండపాల",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "male",
+    "rel": "others"
+  },
+  {
+    "id": "c5aaad3a-4e0b-414d-9080-76c8af4f9be3",
+    "eng": "Mandar",
+    "fLE": "M",
+    "tel": "మందార",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "28705cf2-e0ac-4c78-b7e2-2edbab9c1fda",
+    "eng": "Mandava",
+    "fLE": "M",
+    "tel": "మండవ",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "male",
+    "rel": "others"
+  },
+  {
+    "id": "42cf7701-421d-457f-875e-75ba705b40ca",
+    "eng": "Mandavanth",
+    "fLE": "M",
+    "tel": "మందవంత్",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "male",
+    "rel": "others"
+  },
+  {
+    "id": "1b645fa0-ff57-401a-a354-e1a0ce2615ee",
+    "eng": "Mandavya",
+    "fLE": "M",
+    "tel": "మాండవ్య",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "73f16c60-1c42-48bf-b8bf-67720c3bfd0a",
+    "eng": "Mandayam",
+    "fLE": "M",
+    "tel": "మండయం",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "male",
+    "rel": "others"
+  },
+  {
+    "id": "9df57c4e-e0e1-486b-90a2-632a25c94598",
+    "eng": "Manddhan",
+    "fLE": "M",
+    "tel": "మంద్ధాం",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  }
+]

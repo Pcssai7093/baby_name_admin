@@ -1,0 +1,882 @@
+[
+  {
+    "id": "36bce289-98cc-4abe-af55-75fce0aaccca",
+    "eng": "Bronagh",
+    "fLE": "B",
+    "tel": "బ్రోనాగ్",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "bf0d8904-9ed5-4741-99c8-239b6ab1ebc9",
+    "eng": "Bronislava",
+    "fLE": "B",
+    "tel": "బ్రోనిస్లవ్",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "e996c8de-45d3-4bff-93cd-1aa4c1ca3f8b",
+    "eng": "Bronislawa",
+    "fLE": "B",
+    "tel": "బ్రోనిస్లావా",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "352c0434-c53b-4336-aa71-d99eb1098e3c",
+    "eng": "Bronnen",
+    "fLE": "B",
+    "tel": "బ్రోన్నెం",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "62956f71-f3ef-4817-8823-e7719b10db6e",
+    "eng": "Bronte",
+    "fLE": "B",
+    "tel": "బ్రోన్ట్",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "20a522e0-e903-4a7a-a4a0-09a14f3d2956",
+    "eng": "Bronwen",
+    "fLE": "B",
+    "tel": "బ్రోన్వేన్",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "770b9455-57bc-4d36-901e-bc5f112457cd",
+    "eng": "Bronya",
+    "fLE": "B",
+    "tel": "బ్రోన్య",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "21208146-dbc0-4dde-95cd-583394b4df34",
+    "eng": "Brookelle",
+    "fLE": "B",
+    "tel": "బ్రూకెళ్లే",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "a73716f3-b620-48e2-9dab-af09651b901f",
+    "eng": "Brookelynne",
+    "fLE": "B",
+    "tel": "బ్రూకెల్లీన్నే",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "6603c06a-b072-4859-a6d1-2fbfa07aa44e",
+    "eng": "Brooklyn",
+    "fLE": "B",
+    "tel": "బ్రూక్లిన్",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "99b65b53-6eed-403c-b583-bc9b8712bb80",
+    "eng": "Brooklynn",
+    "fLE": "B",
+    "tel": "బ్రూక్లీన్",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "327ceae1-524b-43f6-a0b5-3a366ca6d64b",
+    "eng": "brooklynn",
+    "fLE": "b",
+    "tel": "బ్రూక్లీన్",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "ca04318c-8d4e-4a2e-99c5-fd70b428afbd",
+    "eng": "Brooklynne",
+    "fLE": "B",
+    "tel": "బ్రూక్లిన్నే",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "b1ce5042-0b99-4e74-9b00-a24bc8f1f9e3",
+    "eng": "Brooksie",
+    "fLE": "B",
+    "tel": "బ్రూక్సియే",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "e24cf32c-b334-4508-9b8e-54f86fd392ae",
+    "eng": "Brucey",
+    "fLE": "B",
+    "tel": "బ్రుసెయ్",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "4deb3d44-b485-40ad-b40c-cc808dd5b4bb",
+    "eng": "Bruhathi",
+    "fLE": "B",
+    "tel": "బృహతి",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "5d425ec1-9fc5-462d-9509-8d1bc0e56d2a",
+    "eng": "Brula",
+    "fLE": "B",
+    "tel": "బృల",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Muslim"
+  },
+  {
+    "id": "b5c785e3-ff71-4781-ae5d-9dd08a9e7172",
+    "eng": "Bruna",
+    "fLE": "B",
+    "tel": "బృన",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "acb3ff13-7767-4e6b-bf14-d4bd7408cbb8",
+    "eng": "Brunda",
+    "fLE": "B",
+    "tel": "బృంద",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "e90fd3b8-75a5-498d-bccd-20d4d9b1a243",
+    "eng": "Brundha",
+    "fLE": "B",
+    "tel": "బృంద",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "d48073f4-0a26-4e03-a867-4d2b6aaab171",
+    "eng": "Brune",
+    "fLE": "B",
+    "tel": "బృనే",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "48a8e618-ecb2-4919-9f1b-9f54537dac6d",
+    "eng": "Brunhild",
+    "fLE": "B",
+    "tel": "బృంహిల్డ్",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "c51b9c78-f602-4dc5-854f-4366da32756e",
+    "eng": "brunhilda",
+    "fLE": "b",
+    "tel": "బృంహిల్డా",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "6efde1de-01f7-42ee-b6ff-eecd8bcee7b2",
+    "eng": "Brunhilde",
+    "fLE": "B",
+    "tel": "బృంహిల్డ్",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "51bd1b16-5821-4e0e-9349-ac9ecdc71e93",
+    "eng": "Brunilda",
+    "fLE": "B",
+    "tel": "బృనిల్దా",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "70fce041-d6bd-4711-a470-af077f9b1651",
+    "eng": "Brunnehilde",
+    "fLE": "B",
+    "tel": "బృఞ్ఞేహిల్డ్",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "c0122c31-e165-405f-85f2-f3072068592b",
+    "eng": "brunonia",
+    "fLE": "b",
+    "tel": "బ్రునోని",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "d2f293ba-d601-4c5b-891e-044b509d4310",
+    "eng": "Bruvana",
+    "fLE": "B",
+    "tel": "బ్రువాణ",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "066ab3a6-014c-4b69-9866-525e917576fd",
+    "eng": "Bryah",
+    "fLE": "B",
+    "tel": "బ్రయహ్",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "3b265335-e29c-4db8-bfdb-1f049f1e656a",
+    "eng": "Bryani",
+    "fLE": "B",
+    "tel": "బిర్యాని",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "c7d151bf-bafa-4ef5-a7f6-757fd59868ee",
+    "eng": "Bryanna",
+    "fLE": "B",
+    "tel": "బ్రయన్న",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "bb528c3d-c559-4c92-8501-320db2a4a27a",
+    "eng": "Bryanne",
+    "fLE": "B",
+    "tel": "బ్రయాన్నే",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "9dcd1172-bafa-4fd2-9cdf-7ce6b0aa99ff",
+    "eng": "Bryar",
+    "fLE": "B",
+    "tel": "బ్రయర్",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "a506de17-43a9-4540-a79a-c7b2b41ea4a9",
+    "eng": "Bryda",
+    "fLE": "B",
+    "tel": "బ్రైడా",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "3dc3756e-9e3b-455a-9431-b7cfe0ad57f1",
+    "eng": "Bryga",
+    "fLE": "B",
+    "tel": "బ్రైగా",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "a4c7c07b-a138-46f9-96e1-3408307da7ef",
+    "eng": "Brygid",
+    "fLE": "B",
+    "tel": "బ్రైజిద్",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "ac9d1b96-23f3-49c3-b768-0609d368a021",
+    "eng": "Brygida",
+    "fLE": "B",
+    "tel": "బ్రైగిడ",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "f4180205-7bd2-4f76-89b7-91fe2db6c6d0",
+    "eng": "Bryleigh",
+    "fLE": "B",
+    "tel": "బ్రైలేఇఘ్",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "e2689526-94c3-4f30-8807-343a0b0867c9",
+    "eng": "Brylie",
+    "fLE": "B",
+    "tel": "బ్రైలై",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "574b691b-9e9e-4a9e-b874-2ab2b68b93c2",
+    "eng": "Bryliy",
+    "fLE": "B",
+    "tel": "బ్రైలియఁ",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "b9ca9a00-7f53-4526-a3c7-d91174924f92",
+    "eng": "Bryluen",
+    "fLE": "B",
+    "tel": "బ్రైలుఎం",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "00ae85ae-a8a3-4a09-ac75-84551ca6bb5c",
+    "eng": "Bryn",
+    "fLE": "B",
+    "tel": "బ్రైన్",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "f2d71475-e5a0-422c-8fcf-769d3a722f3f",
+    "eng": "Bryna",
+    "fLE": "B",
+    "tel": "బ్రైన్",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "cc70d2d3-fd67-4f89-b373-88fc2371845e",
+    "eng": "Brynda­s",
+    "fLE": "B",
+    "tel": "బ్రైన్ద­స్",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "8c6ffabb-dd04-487c-95a0-70aea9fd1e3d",
+    "eng": "bryndis",
+    "fLE": "b",
+    "tel": "బ్రైడిస్",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "5d527437-0f7a-4fd1-a7ac-ef5c66a9ab9e",
+    "eng": "Bryngerd",
+    "fLE": "B",
+    "tel": "బ్రైన్గేర్డ్",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "6a231b27-47c5-4410-ae86-f232b7d84d7b",
+    "eng": "Brynhild",
+    "fLE": "B",
+    "tel": "బ్రైన్హిల్డ్",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "59f514df-c49d-46ee-bb73-b9d6fff0aab6",
+    "eng": "Brynhilde",
+    "fLE": "B",
+    "tel": "బ్రైన్హిల్డ్",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "943b51aa-a179-42db-9351-8cbf0a235703",
+    "eng": "Brynhildur",
+    "fLE": "B",
+    "tel": "బ్రైన్హిల్డర్",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "b7c139d4-4370-476b-8f54-ffd65edeb21b",
+    "eng": "Brynja",
+    "fLE": "B",
+    "tel": "బ్రైనా",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "7fdf35b0-70a6-4151-b75b-fecf88af846e",
+    "eng": "Brynleigh",
+    "fLE": "B",
+    "tel": "బ్రైన్లేఇఘ్",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "12cd5e3b-3f6b-490f-9d5e-b3d9573ff984",
+    "eng": "Brynli",
+    "fLE": "B",
+    "tel": "బ్రైన్లీ",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "574b3cfd-9b29-470a-a3e5-ee4dc25f7c95",
+    "eng": "Brynlie",
+    "fLE": "B",
+    "tel": "బ్రైనులై",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "1a918082-c69c-430c-881b-22b73c8fcf47",
+    "eng": "Brynna",
+    "fLE": "B",
+    "tel": "బ్రైన్న",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "d09f4985-32a7-454b-86c3-cf81a3b5ea2a",
+    "eng": "Bryoni",
+    "fLE": "B",
+    "tel": "బ్రయోని",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "abcb152b-c205-4694-b03a-4a9be8af9f0d",
+    "eng": "Bryony",
+    "fLE": "B",
+    "tel": "బ్రయోనీ",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "95f0ee03-2cf6-4800-9fe1-bf54337bbb54",
+    "eng": "Buddhana",
+    "fLE": "B",
+    "tel": "బుద్ధాన",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "cac64e9f-4c1e-4ed4-a3b9-8121d2e3953a",
+    "eng": "Buddhi",
+    "fLE": "B",
+    "tel": "బుద్ధి",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "0df529ab-a774-442c-b224-a64ea6b8d6b8",
+    "eng": "Buddhida",
+    "fLE": "B",
+    "tel": "బుద్ధిదా",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "7711f01e-dae3-469e-8336-104d5a4f619e",
+    "eng": "Budhana",
+    "fLE": "B",
+    "tel": "బుధన",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "f9205ef5-948f-4902-a441-a62e868500aa",
+    "eng": "Budhanya",
+    "fLE": "B",
+    "tel": "బుధాన్య",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "8b2bdd25-305a-471b-b1a6-b5e942b06f82",
+    "eng": "Budhila",
+    "fLE": "B",
+    "tel": "బుధుల",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "7e0aa162-e85d-4b15-a7c3-607cb77e5054",
+    "eng": "Budhipriya",
+    "fLE": "B",
+    "tel": "బుధుప్రియ",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "ee3b075a-25d2-4365-a70d-23ad3a95634f",
+    "eng": "Buduc",
+    "fLE": "B",
+    "tel": "బుదుకే",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "f79a29b3-21f3-41b4-bfcf-e8c3e23ede91",
+    "eng": "Budur",
+    "fLE": "B",
+    "tel": "బుదూర్",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Muslim"
+  },
+  {
+    "id": "2f2e7cdf-5361-4583-b138-8ac98b7d1be5",
+    "eng": "Buena",
+    "fLE": "B",
+    "tel": "బుదున",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "6c04a2d1-24c4-4a2c-ac49-e42a6bacf683",
+    "eng": "Buffy",
+    "fLE": "B",
+    "tel": "బ్యూఫ్య్",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "186b6788-4d6d-45ba-9a9f-16862c920a06",
+    "eng": "Buhairah",
+    "fLE": "B",
+    "tel": "బుహారః",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Muslim"
+  },
+  {
+    "id": "64236ead-61bc-4533-b4c2-3efdda6dcc09",
+    "eng": "Buhaisah",
+    "fLE": "B",
+    "tel": "బుహాసః",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Muslim"
+  },
+  {
+    "id": "b3b028b4-b0dc-4936-99ce-6752ccaa13a8",
+    "eng": "Buhaysah",
+    "fLE": "B",
+    "tel": "బుహాయసః",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Muslim"
+  },
+  {
+    "id": "71370ac6-629e-4f63-9af7-7e4359107128",
+    "eng": "Buhayyah",
+    "fLE": "B",
+    "tel": "బుహాయ్యహ్",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Muslim"
+  },
+  {
+    "id": "f89f829f-f7ad-4baf-9552-b73ba5df6b4b",
+    "eng": "Buhjah",
+    "fLE": "B",
+    "tel": "బుహాజ",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Muslim"
+  },
+  {
+    "id": "3a59c93b-cd05-4683-b0cb-d075d5d52b08",
+    "eng": "Buhthah",
+    "fLE": "B",
+    "tel": "బుహతః",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Muslim"
+  },
+  {
+    "id": "7dc73543-8d08-4ed5-abb2-42c13ce9185a",
+    "eng": "Buj",
+    "fLE": "B",
+    "tel": "బుజ్",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Muslim"
+  },
+  {
+    "id": "edc29eef-dd52-47ed-aa19-9064cf8dc28e",
+    "eng": "Bujaybah",
+    "fLE": "B",
+    "tel": "బూజెబ",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Muslim"
+  },
+  {
+    "id": "dce0f844-3926-43b8-bc3a-76a2e4b9c06a",
+    "eng": "Bukala",
+    "fLE": "B",
+    "tel": "బుకాల",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "ddc0c68a-70b0-43e6-8099-4cc5a5611483",
+    "eng": "Bukhdan",
+    "fLE": "B",
+    "tel": "బిఖ్డం",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Muslim"
+  },
+  {
+    "id": "fd6b9db4-4f9a-4656-b8e8-2b25d451a029",
+    "eng": "Bula",
+    "fLE": "B",
+    "tel": "బుల",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "female",
+    "rel": "others"
+  },
+  {
+    "id": "79074df9-c08a-431f-8c71-c02dbb9590f4",
+    "eng": "Bulah",
+    "fLE": "B",
+    "tel": "బలః",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "female",
+    "rel": "others"
+  },
+  {
+    "id": "4a7b50e0-4883-444a-a455-b19e629ff5a8",
+    "eng": "Bulan",
+    "fLE": "B",
+    "tel": "బలం",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Muslim"
+  },
+  {
+    "id": "67480380-996b-4fb0-b940-4863a0c99443",
+    "eng": "Bulbul",
+    "fLE": "B",
+    "tel": "బుల్బుల్",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "91206318-21b5-4ce1-aedd-1163bd17d378",
+    "eng": "Bulbuli",
+    "fLE": "B",
+    "tel": "బుల్బులి",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "4fcedf5a-9971-421c-8aea-0d469584bfe8",
+    "eng": "Bulkesh",
+    "fLE": "B",
+    "tel": "బల్కెష్",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "e993a8a4-2d61-4a66-afba-b3383120f390",
+    "eng": "Bullah",
+    "fLE": "B",
+    "tel": "బుల్లాహ్",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Muslim"
+  },
+  {
+    "id": "98339d22-41d9-456c-a4c8-b981f78fe998",
+    "eng": "Bumma",
+    "fLE": "B",
+    "tel": "బమ్మ",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "e6b4d8a6-d244-4b46-8d13-be57891f5178",
+    "eng": "Bunanah",
+    "fLE": "B",
+    "tel": "బుణఞ్చ",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Muslim"
+  },
+  {
+    "id": "ed6b3ce0-a58a-4bba-a3f7-30f57e3a9a7c",
+    "eng": "Bundi",
+    "fLE": "B",
+    "tel": "బండి",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "be8a6612-8c89-4f1d-87bc-c22b893e8128",
+    "eng": "Bunnie",
+    "fLE": "B",
+    "tel": "బన్నీయే",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  }
+]

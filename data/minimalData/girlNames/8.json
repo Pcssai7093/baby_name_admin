@@ -1,0 +1,782 @@
+[
+  {
+    "id": "f05d32c9-45db-43a2-8076-e6db128445b1",
+    "eng": "Ada",
+    "fLE": "A",
+    "tel": "అడా",
+    "fLTel": "అ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Muslim"
+  },
+  {
+    "id": "ef096a79-8361-46c0-8bfb-368b5c2bbeea",
+    "eng": "Adabelle",
+    "fLE": "A",
+    "tel": "ఆడబిల్లే",
+    "fLTel": "ఆ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "f5904804-6797-4448-aac8-56d1cb295369",
+    "eng": "Adag",
+    "fLE": "A",
+    "tel": "టాగ్",
+    "fLTel": "ట",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "c5b453e0-4fd3-41bf-9ac4-6e53ec66979a",
+    "eng": "Adah",
+    "fLE": "A",
+    "tel": "అదః",
+    "fLTel": "అ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "a8741180-6cdf-45e3-8bf3-fd994d93f85a",
+    "eng": "adah",
+    "fLE": "a",
+    "tel": "అదః",
+    "fLTel": "అ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "b123ca14-bdca-4c7f-ad9b-f5e218de1ee0",
+    "eng": "Adahlia",
+    "fLE": "A",
+    "tel": "అదఃలియా",
+    "fLTel": "అ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "219d112a-7862-4efe-a5f6-554b8e6109d4",
+    "eng": "Adaj",
+    "fLE": "A",
+    "tel": "టాజ్",
+    "fLTel": "ట",
+    "tags": [],
+    "gen": "female",
+    "rel": "Muslim"
+  },
+  {
+    "id": "3ad77505-4372-47d0-b5b7-d75e717eb515",
+    "eng": "Adala",
+    "fLE": "A",
+    "tel": "ఆదాల",
+    "fLTel": "ఆ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Muslim"
+  },
+  {
+    "id": "bd2d9afa-9c17-4e24-82ae-415d4b36648c",
+    "eng": "Adalaide",
+    "fLE": "A",
+    "tel": "అడిలైడ్",
+    "fLTel": "అ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "915f061b-62b7-4c34-bb4c-d4e78af39741",
+    "eng": "Adalbjorg",
+    "fLE": "A",
+    "tel": "అడల్బ్జోర్గ్",
+    "fLTel": "అ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "3c112ad3-50c9-45ee-904e-2c53c93a0aec",
+    "eng": "Adalee",
+    "fLE": "A",
+    "tel": "టాలీ",
+    "fLTel": "ట",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "5975ba76-ac2d-4491-88df-969d8163692b",
+    "eng": "Adaleia",
+    "fLE": "A",
+    "tel": "ఆడలేయా",
+    "fLTel": "ఆ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "5ba0ce93-b79e-4407-a718-a9d927c14560",
+    "eng": "Adaleide",
+    "fLE": "A",
+    "tel": "ఆడలేఇదే",
+    "fLTel": "ఆ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "2c8be1cf-dd40-4821-9896-948a7c11cf2a",
+    "eng": "Adaleigh",
+    "fLE": "A",
+    "tel": "ఆడలేఇఘ్",
+    "fLTel": "ఆ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "b94141bd-3e1c-4dcc-898e-c7200f825dc8",
+    "eng": "Adalena",
+    "fLE": "A",
+    "tel": "ఆడలేనా",
+    "fLTel": "ఆ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "c2df933c-6b52-4738-a25b-c296e7e285c8",
+    "eng": "Adalene",
+    "fLE": "A",
+    "tel": "ఆడలేనే",
+    "fLTel": "ఆ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "d0da83b5-4dba-44d4-aa75-cc43ac46e3d8",
+    "eng": "Adalet",
+    "fLE": "A",
+    "tel": "అడల్ట్",
+    "fLTel": "అ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Muslim"
+  },
+  {
+    "id": "0552ab5e-57b7-48d3-8864-acc1cd803a45",
+    "eng": "Adalgisa",
+    "fLE": "A",
+    "tel": "అడల్గిస",
+    "fLTel": "అ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "ea8b5f79-5ef8-407d-b90b-642a51ebbf03",
+    "eng": "Adalheida",
+    "fLE": "A",
+    "tel": "అదళ్హఐద",
+    "fLTel": "అ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "c7155034-8697-48df-94a7-5db2f75622ea",
+    "eng": "Adalheidis",
+    "fLE": "A",
+    "tel": "అదళ్హఈడిస్",
+    "fLTel": "అ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "956f40af-8574-4322-a024-246110dc22bb",
+    "eng": "Adali",
+    "fLE": "A",
+    "tel": "ఆడాలి",
+    "fLTel": "ఆ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "fd37581b-48a6-4135-a3da-dfdbe1d9c57e",
+    "eng": "Adalia",
+    "fLE": "A",
+    "tel": "టాలియా",
+    "fLTel": "ట",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "c2014141-cec8-41fa-b255-51eea599227e",
+    "eng": "Adaliah",
+    "fLE": "A",
+    "tel": "ఆడాలయ్య",
+    "fLTel": "ఆ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "58e80f88-7229-4fc2-b187-8ee8d08f8748",
+    "eng": "Adalicia",
+    "fLE": "A",
+    "tel": "టాలీసియా",
+    "fLTel": "ట",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "7d78a6fd-0e71-4f9c-97ef-feb93ef2c62f",
+    "eng": "Adalie",
+    "fLE": "A",
+    "tel": "ఆడలై",
+    "fLTel": "ఆ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "9a8170bc-fe35-4ba5-8ae7-6589f0029a8a",
+    "eng": "Adalina",
+    "fLE": "A",
+    "tel": "అదలైన",
+    "fLTel": "అ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "457a9473-a61a-44cb-9129-ffd9935f7008",
+    "eng": "adalind",
+    "fLE": "a",
+    "tel": "అదలిండ్",
+    "fLTel": "అ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "c2d9d7db-009c-4b28-bb49-ee4efbba977b",
+    "eng": "Adaline",
+    "fLE": "A",
+    "tel": "ఆడలినే",
+    "fLTel": "ఆ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "d7822926-83b5-404e-a000-1ffcaa244b43",
+    "eng": "Adalira",
+    "fLE": "A",
+    "tel": "అదలిరా",
+    "fLTel": "అ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "d947ec65-fdbc-4fe9-b229-845f2dbf4b0e",
+    "eng": "Adallina",
+    "fLE": "A",
+    "tel": "ఆడాళ్ళిన",
+    "fLTel": "ఆ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "539fb520-1158-4f6a-83b1-77ca2f949ca2",
+    "eng": "Adallyn",
+    "fLE": "A",
+    "tel": "టాలీన్",
+    "fLTel": "ట",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "37c394ee-aef4-4381-a840-186f2b550070",
+    "eng": "Adaly",
+    "fLE": "A",
+    "tel": "ఆడాలి",
+    "fLTel": "ఆ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "8fe89751-915e-459a-9e2c-b8b574ffc9e6",
+    "eng": "Adalyn",
+    "fLE": "A",
+    "tel": "టాలీన్",
+    "fLTel": "ట",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "147009ef-cc61-4d92-b4f3-9a4bd9411dac",
+    "eng": "Adalynn",
+    "fLE": "A",
+    "tel": "టాలీన్",
+    "fLTel": "ట",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "b14647e3-1919-4031-984c-a6125e4546e3",
+    "eng": "adalynn",
+    "fLE": "a",
+    "tel": "టాలీన్",
+    "fLTel": "ట",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "a2460394-551f-4bc6-a78e-c8d2dd10584c",
+    "eng": "Adamaris",
+    "fLE": "A",
+    "tel": "ఆదమరీస్",
+    "fLTel": "ఆ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "37e1a551-f46c-4794-a4d4-d139b17f4876",
+    "eng": "adamaris",
+    "fLE": "a",
+    "tel": "ఆదమరీస్",
+    "fLTel": "ఆ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "8c807539-02fa-480d-9a51-3c8059dc1496",
+    "eng": "Adamina",
+    "fLE": "A",
+    "tel": "అదమైన",
+    "fLTel": "అ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "891968a5-05b9-4d7a-88d5-6834001bc2d8",
+    "eng": "Adankwo",
+    "fLE": "A",
+    "tel": "ఐదంకెవ",
+    "fLTel": "ఐ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "fbd1a003-1510-4ebc-9dbf-5ff452b27f1d",
+    "eng": "Adaoma",
+    "fLE": "A",
+    "tel": "ఆదాయమా",
+    "fLTel": "ఆ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "76ce8352-651b-4479-8c1f-a934e366d639",
+    "eng": "Adaora",
+    "fLE": "A",
+    "tel": "అడవురా",
+    "fLTel": "అ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "7445cbf6-129b-438b-8b7b-27a70fa60e75",
+    "eng": "Adara",
+    "fLE": "A",
+    "tel": "అదర",
+    "fLTel": "అ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Muslim"
+  },
+  {
+    "id": "d3eb2558-135e-4bc3-b7f9-2487f2338038",
+    "eng": "Adarsha",
+    "fLE": "A",
+    "tel": "ఆదర్శ",
+    "fLTel": "ఆ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "b5349809-3d47-4a7b-86bc-8492d22964ad",
+    "eng": "Adarshi",
+    "fLE": "A",
+    "tel": "యాదర్షి",
+    "fLTel": "య",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "be7a2dc4-ef43-44a9-ae2e-eea9c1b5a507",
+    "eng": "Adarshini",
+    "fLE": "A",
+    "tel": "అదర్శిని",
+    "fLTel": "అ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "e4463d88-9c5a-40af-92d6-7a66ad30e75e",
+    "eng": "adasha",
+    "fLE": "a",
+    "tel": "ఆదర్శ",
+    "fLTel": "ఆ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "0fa00db7-d115-45d4-87e3-dfb099ee4224",
+    "eng": "Adawiyah",
+    "fLE": "A",
+    "tel": "అడవియహ్",
+    "fLTel": "అ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Muslim"
+  },
+  {
+    "id": "a398f2ac-a758-4dc3-92fc-5130c235137b",
+    "eng": "Adaya",
+    "fLE": "A",
+    "tel": "ఆదయ",
+    "fLTel": "ఆ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "d26b592c-e92c-4964-8203-caa0c0692af0",
+    "eng": "Adbutha",
+    "fLE": "A",
+    "tel": "అద్భుత",
+    "fLTel": "అ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "686bf517-7e65-4e89-853f-9463696b0ed4",
+    "eng": "Adda",
+    "fLE": "A",
+    "tel": "అడ్డా",
+    "fLTel": "అ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "7ad8937a-0b31-44f1-85dc-6b29ace17663",
+    "eng": "addah",
+    "fLE": "a",
+    "tel": "అడ్డహ్",
+    "fLTel": "అ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "57df2497-a4eb-4208-b84d-46955946670e",
+    "eng": "Addalla",
+    "fLE": "A",
+    "tel": "అద్దాల్లా",
+    "fLTel": "అ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "cf9521c5-cd52-43e9-b67d-723c99c2b0b0",
+    "eng": "Addalynn",
+    "fLE": "A",
+    "tel": "అద్దాలైన్",
+    "fLTel": "అ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "1a2ad321-aaab-4d8f-a802-a96c3519f8c6",
+    "eng": "Addelyne",
+    "fLE": "A",
+    "tel": "అద్దెలీనే",
+    "fLTel": "అ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "bb6bc0fe-badb-4a29-b8ee-914dcc11d675",
+    "eng": "Addeva",
+    "fLE": "A",
+    "tel": "ఎద్దేవా",
+    "fLTel": "ఎ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Muslim"
+  },
+  {
+    "id": "bd4f6ed2-2d15-4936-addd-deced3853d26",
+    "eng": "Addiah",
+    "fLE": "A",
+    "tel": "అడ్డయ్య",
+    "fLTel": "అ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "72048900-55ac-47c1-9700-932e214c07bd",
+    "eng": "Addica",
+    "fLE": "A",
+    "tel": "అడ్డికే",
+    "fLTel": "అ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "681bc547-6f60-4ab4-8f71-e73894dd31bf",
+    "eng": "Addie",
+    "fLE": "A",
+    "tel": "అద్దియే",
+    "fLTel": "అ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "04839363-6d27-498d-8f17-f070389605fc",
+    "eng": "Addileigh",
+    "fLE": "A",
+    "tel": "అద్దిలేఇఘ్",
+    "fLTel": "అ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "c98820cb-7ae8-4cc0-8085-cef83e721c25",
+    "eng": "Addiliegh",
+    "fLE": "A",
+    "tel": "అద్దిలిఎగ్",
+    "fLTel": "అ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "ac21f311-33fd-44c8-a9e2-127ee8dfbdd9",
+    "eng": "Addilyn",
+    "fLE": "A",
+    "tel": "అద్దిలిన్",
+    "fLTel": "అ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "bef6217d-0d28-4164-b7c4-c6334b455edc",
+    "eng": "Addler",
+    "fLE": "A",
+    "tel": "అడ్దలం",
+    "fLTel": "అ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "28e67900-d060-4f37-8bb8-be2ebb77c34d",
+    "eng": "Addolorata",
+    "fLE": "A",
+    "tel": "అద్దోళొరట",
+    "fLTel": "అ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "069fc10e-fb8f-4c00-98bb-85a07669117d",
+    "eng": "Addriana",
+    "fLE": "A",
+    "tel": "అద్దరినే",
+    "fLTel": "అ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "fac56db0-6c10-4f0a-a256-435e67fd140d",
+    "eng": "Addrianna",
+    "fLE": "A",
+    "tel": "అడ్ఢరిస్తోన్న",
+    "fLTel": "అ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "136e4226-d0ca-45fd-a95f-6e359bdf6ba0",
+    "eng": "Addyson",
+    "fLE": "A",
+    "tel": "అడ్డిస్న్",
+    "fLTel": "అ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "ce585bc5-c079-4450-a51b-567fd97af09e",
+    "eng": "adecyn",
+    "fLE": "a",
+    "tel": "అడిసైన్",
+    "fLTel": "అ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "0981075d-f29f-4548-98f7-dea264f3a103",
+    "eng": "Adeeba",
+    "fLE": "A",
+    "tel": "అదీబ్",
+    "fLTel": "అ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Muslim"
+  },
+  {
+    "id": "cb6f5a75-5dc4-4a2a-bafa-9fe9c64a95bd",
+    "eng": "Adeel",
+    "fLE": "A",
+    "tel": "అదిల్",
+    "fLTel": "అ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Muslim"
+  },
+  {
+    "id": "3b934f5d-a01e-4b06-b4a0-e96c5a511cde",
+    "eng": "Adeela",
+    "fLE": "A",
+    "tel": "అదేలా",
+    "fLTel": "అ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Muslim"
+  },
+  {
+    "id": "85b1966e-fbb4-4f55-9daa-84f6e5e70565",
+    "eng": "Adeelah",
+    "fLE": "A",
+    "tel": "అదీలాహ్",
+    "fLTel": "అ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Muslim"
+  },
+  {
+    "id": "ae4a3e53-638b-48da-b6cc-50eaee09b13a",
+    "eng": "Adeena",
+    "fLE": "A",
+    "tel": "అదేనా",
+    "fLTel": "అ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Muslim"
+  },
+  {
+    "id": "dea668f8-4f88-4080-aaa9-7ba3aab7337b",
+    "eng": "Adeesha",
+    "fLE": "A",
+    "tel": "ఆదేశ",
+    "fLTel": "ఆ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "610820b5-d2d9-4718-b400-e59091112c40",
+    "eng": "Adeeva",
+    "fLE": "A",
+    "tel": "ఆదివా",
+    "fLTel": "ఆ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Muslim"
+  },
+  {
+    "id": "9fc56d8f-1d98-4552-a7a6-501c391cf7d0",
+    "eng": "Adefolake",
+    "fLE": "A",
+    "tel": "అదేఫాల్కె",
+    "fLTel": "అ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "4a2c8a7d-bdcd-482e-b939-586d7be69e3c",
+    "eng": "Adela",
+    "fLE": "A",
+    "tel": "అదెలా",
+    "fLTel": "అ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "051c356c-b784-4a25-a9a7-684bf5c5554b",
+    "eng": "Adelaid",
+    "fLE": "A",
+    "tel": "అడిలైడ్",
+    "fLTel": "అ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "19dcbab9-087a-4f97-b57b-16bf78f973be",
+    "eng": "Adelaida",
+    "fLE": "A",
+    "tel": "అదేలేదా",
+    "fLTel": "అ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  }
+]

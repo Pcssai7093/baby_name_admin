@@ -1,0 +1,922 @@
+[
+  {
+    "id": "600a0e2b-f9b4-459f-a81f-efc0370e6121",
+    "eng": "Samadar",
+    "fLE": "S",
+    "tel": "సందర్",
+    "fLTel": "స",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "0615a05a-ff8c-49f3-9d6c-47851c9161c1",
+    "eng": "Samadarshi",
+    "fLE": "S",
+    "tel": "సమాదర్షి",
+    "fLTel": "స",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "cf8feb4e-2067-45c9-98c7-d72eed976baa",
+    "eng": "Samadhan",
+    "fLE": "S",
+    "tel": "సమాధానం",
+    "fLTel": "స",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "c6ba3999-c7a7-4055-aab2-2b4d2486a5c4",
+    "eng": "Samagan",
+    "fLE": "S",
+    "tel": "సంగం",
+    "fLTel": "స",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "2b6a82e4-bb72-4397-9bba-cbeb07205ebb",
+    "eng": "Samai",
+    "fLE": "S",
+    "tel": "సమై",
+    "fLTel": "స",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "4ee1b1d2-94a9-4591-9960-6aa7ad54c330",
+    "eng": "Samaj",
+    "fLE": "S",
+    "tel": "సమాజ్",
+    "fLTel": "స",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "644b6582-b92a-49ad-b88a-98a9f3816441",
+    "eng": "Samajas",
+    "fLE": "S",
+    "tel": "సమాజస్",
+    "fLTel": "స",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "7b310c76-52f7-4865-a03c-fb62beb8d492",
+    "eng": "Samajya",
+    "fLE": "S",
+    "tel": "సామాజ్య",
+    "fLTel": "స",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "d2cbf684-f70d-491e-8155-3911b1f9fb62",
+    "eng": "Samak",
+    "fLE": "S",
+    "tel": "సమక్",
+    "fLTel": "స",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "c5ec985e-a1b8-4b3b-89dc-8abbbd16d4f8",
+    "eng": "Samaksh",
+    "fLE": "S",
+    "tel": "సమక్ష్",
+    "fLTel": "స",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "8f9c97dc-8242-46be-a746-fb08cf3c3ccb",
+    "eng": "Samal",
+    "fLE": "S",
+    "tel": "సమాల్",
+    "fLTel": "స",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "81a52b65-8558-457a-b9a5-6155255314be",
+    "eng": "Saman",
+    "fLE": "S",
+    "tel": "సమం",
+    "fLTel": "స",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "4762eba5-3e09-4aba-90d8-cac3b2ff0f8d",
+    "eng": "Samandar",
+    "fLE": "S",
+    "tel": "సమందర్",
+    "fLTel": "స",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "59c7d817-e96b-431d-add4-a00260f94037",
+    "eng": "Samang",
+    "fLE": "S",
+    "tel": "సమంగా",
+    "fLTel": "స",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "fe01155f-278d-434b-91a0-19f0a4e21bd0",
+    "eng": "Samanjas",
+    "fLE": "S",
+    "tel": "సమంజస",
+    "fLTel": "స",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "edcddd2a-83fb-4e92-b8d7-c7c30f86f7ad",
+    "eng": "Samant",
+    "fLE": "S",
+    "tel": "సమంత",
+    "fLTel": "స",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "1747a823-425e-4ae3-bc7a-16164e7cff8e",
+    "eng": "Samantbhadra",
+    "fLE": "S",
+    "tel": "సమన్తభాద్ర",
+    "fLTel": "స",
+    "tags": [],
+    "gen": "male",
+    "rel": "others"
+  },
+  {
+    "id": "f3cb9434-2fae-45f7-ad76-2706dd4f2ab9",
+    "eng": "Samanth",
+    "fLE": "S",
+    "tel": "సమంత",
+    "fLTel": "స",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "dd54a91b-37d8-44db-814c-0679f3d06c3b",
+    "eng": "Samanvay",
+    "fLE": "S",
+    "tel": "సమన్వయ",
+    "fLTel": "స",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "a2866b7f-1f14-4cd1-bd39-e7a4c39b9f99",
+    "eng": "Samanvaya",
+    "fLE": "S",
+    "tel": "సమన్వయ",
+    "fLTel": "స",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "58e10444-57a8-4f92-a349-599f97118d3f",
+    "eng": "Samanvey",
+    "fLE": "S",
+    "tel": "సమానవే",
+    "fLTel": "స",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "411eb338-4c64-4e06-9c72-8fad46e8f916",
+    "eng": "Samanyu",
+    "fLE": "S",
+    "tel": "సామాన్యు",
+    "fLTel": "స",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "a1c20524-8da7-42da-b58c-42352df66716",
+    "eng": "Samarajit",
+    "fLE": "S",
+    "tel": "సమరజిత్",
+    "fLTel": "స",
+    "tags": [],
+    "gen": "male",
+    "rel": "Sikh"
+  },
+  {
+    "id": "fa5e47ba-f95b-4907-a21f-ce2b9d143a7c",
+    "eng": "Samaran",
+    "fLE": "S",
+    "tel": "సమరం",
+    "fLTel": "స",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "d86c00ea-f660-48f6-ac3e-93ef5d3544ad",
+    "eng": "Samarath",
+    "fLE": "S",
+    "tel": "సమరత్",
+    "fLTel": "స",
+    "tags": [],
+    "gen": "male",
+    "rel": "Sikh"
+  },
+  {
+    "id": "8850332c-5755-4537-a2d3-6b4832076bb5",
+    "eng": "Samarbir",
+    "fLE": "S",
+    "tel": "సమార్బిర్",
+    "fLTel": "స",
+    "tags": [],
+    "gen": "male",
+    "rel": "Sikh"
+  },
+  {
+    "id": "ac849e4b-636a-439f-854b-8b6a3826ca10",
+    "eng": "Samardeep",
+    "fLE": "S",
+    "tel": "సమర్దీప్",
+    "fLTel": "స",
+    "tags": [],
+    "gen": "male",
+    "rel": "Sikh"
+  },
+  {
+    "id": "8552b496-ca39-4ea0-96e0-2c5154c45b4c",
+    "eng": "Samardh",
+    "fLE": "S",
+    "tel": "సామర్ద్",
+    "fLTel": "స",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "652d6a11-fcea-4a0b-97a3-fa692fc65161",
+    "eng": "Samarendra",
+    "fLE": "S",
+    "tel": "సమరేంద్ర",
+    "fLTel": "స",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "5b4c237d-157f-4ee3-8aef-4bb1030dd212",
+    "eng": "Samarendu",
+    "fLE": "S",
+    "tel": "సమరెందు",
+    "fLTel": "స",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "c3577638-f933-438c-906b-c9ce9c9ab73f",
+    "eng": "Samargeet",
+    "fLE": "S",
+    "tel": "సమర్జీత్",
+    "fLTel": "స",
+    "tags": [],
+    "gen": "male",
+    "rel": "Sikh"
+  },
+  {
+    "id": "557ddd64-9668-4618-aec2-304f8c62faef",
+    "eng": "Samarinder",
+    "fLE": "S",
+    "tel": "సమారిందెర్",
+    "fLTel": "స",
+    "tags": [],
+    "gen": "male",
+    "rel": "Sikh"
+  },
+  {
+    "id": "9880fea7-d84f-4727-88bd-01b1a4838714",
+    "eng": "Samarjeet",
+    "fLE": "S",
+    "tel": "సమర్జీత్",
+    "fLTel": "స",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "e68d1f85-dd39-460c-8580-c7f565f5502a",
+    "eng": "Samarjit",
+    "fLE": "S",
+    "tel": "సమార్జిత్",
+    "fLTel": "స",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "8ba064d6-b5f0-441d-befe-1f0dcb05036e",
+    "eng": "Samarjith",
+    "fLE": "S",
+    "tel": "సమార్జిత్",
+    "fLTel": "స",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "9bddc294-7b7d-48c7-8084-aeed381cb0cc",
+    "eng": "Samarjot",
+    "fLE": "S",
+    "tel": "సామర్జోత్",
+    "fLTel": "స",
+    "tags": [],
+    "gen": "male",
+    "rel": "Sikh"
+  },
+  {
+    "id": "1a0a4bf5-e98c-4e1c-9526-4e3e1b15fc20",
+    "eng": "Samarpal",
+    "fLE": "S",
+    "tel": "సమర్పల్",
+    "fLTel": "స",
+    "tags": [],
+    "gen": "male",
+    "rel": "Sikh"
+  },
+  {
+    "id": "19643307-198b-4d9d-9c09-ff8c0e39f1f1",
+    "eng": "Samarpan",
+    "fLE": "S",
+    "tel": "సమర్పణ",
+    "fLTel": "స",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "2761b7bf-6420-4e0a-9f3a-7f28e3ccd9b2",
+    "eng": "Samarpit",
+    "fLE": "S",
+    "tel": "సమర్పిట్",
+    "fLTel": "స",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "44533cc1-6c67-433e-b5e4-eedacc562183",
+    "eng": "Samarpreet",
+    "fLE": "S",
+    "tel": "సామర్ప్రీత్",
+    "fLTel": "స",
+    "tags": [],
+    "gen": "male",
+    "rel": "Sikh"
+  },
+  {
+    "id": "c09114b8-5ce4-41cd-90ac-d83b230a796a",
+    "eng": "Samarth",
+    "fLE": "S",
+    "tel": "సామర్థ్",
+    "fLTel": "స",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "c4811217-7e37-47b4-8aa4-91e3ce821183",
+    "eng": "Samartha",
+    "fLE": "S",
+    "tel": "సమర్థ",
+    "fLTel": "స",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "b2b5040d-6c7f-4191-94cd-6e1d15d172df",
+    "eng": "Samarthi",
+    "fLE": "S",
+    "tel": "సమర్తి",
+    "fLTel": "స",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "7d914359-2dbf-4e53-b386-abcaa418b3b4",
+    "eng": "Samarvir",
+    "fLE": "S",
+    "tel": "సమర్విర్",
+    "fLTel": "స",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "a4c3721f-f936-4007-b0b7-091c1edee552",
+    "eng": "Samashray",
+    "fLE": "S",
+    "tel": "సమాశ్రయ",
+    "fLTel": "స",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "bb7c1ff2-f8bf-4f62-8a83-d7c6651adf12",
+    "eng": "Samat",
+    "fLE": "S",
+    "tel": "సంత్",
+    "fLTel": "స",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "8180216d-475a-40c9-bf41-754a64d4c7bf",
+    "eng": "Samavart",
+    "fLE": "S",
+    "tel": "సమన్వర్ట్",
+    "fLTel": "స",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "1eb5d9ac-5ac8-4e63-9202-eb03b967433b",
+    "eng": "Samay",
+    "fLE": "S",
+    "tel": "సమయ",
+    "fLTel": "స",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "65b4bb56-0e2b-4094-85a5-a7c0b5c80fd8",
+    "eng": "Samba",
+    "fLE": "S",
+    "tel": "సాంబ",
+    "fLTel": "స",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "e117a41f-4d0e-4afa-9852-29a9afc06984",
+    "eng": "Sambaran",
+    "fLE": "S",
+    "tel": "సంబరం",
+    "fLTel": "స",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "c4b5b655-d893-48b9-85ab-02c4ec712e85",
+    "eng": "Sambasivan",
+    "fLE": "S",
+    "tel": "సాంబశివం",
+    "fLTel": "స",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "e45e15a2-39fc-4d54-93a2-8108e005bed8",
+    "eng": "Sambath",
+    "fLE": "S",
+    "tel": "సంబాత్",
+    "fLTel": "స",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "3746ed90-e097-4239-b533-39a7d2cb65a7",
+    "eng": "Sambh",
+    "fLE": "S",
+    "tel": "సంభ",
+    "fLTel": "స",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "4e861cfe-22cb-42c5-b922-92409db8841d",
+    "eng": "Sambha",
+    "fLE": "S",
+    "tel": "సంభ",
+    "fLTel": "స",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "acac5fc7-7e65-481f-ab87-ea062533656f",
+    "eng": "Sambhaji",
+    "fLE": "S",
+    "tel": "శంభాజీ",
+    "fLTel": "శ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "3e702d04-8914-41ea-939a-5622d907ca38",
+    "eng": "Sambhar",
+    "fLE": "S",
+    "tel": "సాంబార్",
+    "fLTel": "స",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "3e38f7e0-3191-40e3-af9a-3e5b81c489f0",
+    "eng": "Sambharm",
+    "fLE": "S",
+    "tel": "సంబరం",
+    "fLTel": "స",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "c2b253cf-59f1-4bf6-ab29-e1aef606c645",
+    "eng": "Sambhashiv",
+    "fLE": "S",
+    "tel": "సాంబశివ",
+    "fLTel": "స",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "166552fc-b340-40ee-ba75-5227de37fdd1",
+    "eng": "Sambhav",
+    "fLE": "S",
+    "tel": "సంభవః",
+    "fLTel": "స",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "b731613d-3df7-4556-8152-580d9bc9baff",
+    "eng": "Sambhavnath",
+    "fLE": "S",
+    "tel": "సంభవనాథ్",
+    "fLTel": "స",
+    "tags": [],
+    "gen": "male",
+    "rel": "others"
+  },
+  {
+    "id": "e6e938b7-bbf6-4f69-9374-d02d171c0d97",
+    "eng": "Sambhddha",
+    "fLE": "S",
+    "tel": "సమ్భద్ధ",
+    "fLTel": "స",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "3f9fca19-08df-4b5f-bffa-6f317c660b4b",
+    "eng": "Sambhram",
+    "fLE": "S",
+    "tel": "సంభ్రం",
+    "fLTel": "స",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "cc8b4261-6f69-43df-b083-8408b6a0e59f",
+    "eng": "Sambhu",
+    "fLE": "S",
+    "tel": "శంభు",
+    "fLTel": "శ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "0c23b2f9-5fd2-41d0-b6b5-6697e3f1ec55",
+    "eng": "Sambi",
+    "fLE": "S",
+    "tel": "సంబి",
+    "fLTel": "స",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "627fc34f-0949-4433-b5cb-21b888ab68e7",
+    "eng": "Sambit",
+    "fLE": "S",
+    "tel": "సంబిత్",
+    "fLTel": "స",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "0797c05a-c708-4cd5-816c-332c501dcf87",
+    "eng": "Sambodh",
+    "fLE": "S",
+    "tel": "సంబోధ",
+    "fLTel": "స",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "f8e73e90-7d6c-4ea5-8dc5-4e74d6e71c5e",
+    "eng": "Samborn",
+    "fLE": "S",
+    "tel": "సంబోర్న్",
+    "fLTel": "స",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "21aecfbc-8eea-4043-8c74-6a2bd3a596c0",
+    "eng": "Sambu",
+    "fLE": "S",
+    "tel": "సంబు",
+    "fLTel": "స",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "1ed5aa35-623c-466a-b77a-377747a373d8",
+    "eng": "Sambuddha",
+    "fLE": "S",
+    "tel": "సమ్బుద్ధా",
+    "fLTel": "స",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "8451aeb5-98dd-4b84-83af-82ba004515f3",
+    "eng": "Samdani",
+    "fLE": "S",
+    "tel": "సందని",
+    "fLTel": "స",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "cbb8db63-4939-4f0b-b4e8-98abc2c22d19",
+    "eng": "Samdarshi",
+    "fLE": "S",
+    "tel": "సందర్శి",
+    "fLTel": "స",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "e046ae5d-8bf8-4e2e-a915-b1766a593643",
+    "eng": "Samdeep",
+    "fLE": "S",
+    "tel": "సందీప్",
+    "fLTel": "స",
+    "tags": [],
+    "gen": "male",
+    "rel": "Sikh"
+  },
+  {
+    "id": "f54cf459-b063-4a9d-9f19-ea00a0558be4",
+    "eng": "Samedh",
+    "fLE": "S",
+    "tel": "సమ్మెద్",
+    "fLTel": "స",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "e32e27f9-86a8-4cc9-bdd5-46036a232272",
+    "eng": "Samee",
+    "fLE": "S",
+    "tel": "సామీ",
+    "fLTel": "స",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "9f61e955-873a-44cd-b4be-d757787c5076",
+    "eng": "Sameed",
+    "fLE": "S",
+    "tel": "సమీద",
+    "fLTel": "స",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "255612c0-b2cd-4571-8ccc-b9edc9370308",
+    "eng": "Sameeh",
+    "fLE": "S",
+    "tel": "సమీహ",
+    "fLTel": "స",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "ed0df69d-9fb6-43ec-9644-68af234f8912",
+    "eng": "Sameen",
+    "fLE": "S",
+    "tel": "సమీం",
+    "fLTel": "స",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "ebd3131b-8e4d-4aac-9559-540b00d63889",
+    "eng": "Sameep",
+    "fLE": "S",
+    "tel": "సమీప",
+    "fLTel": "స",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "f1cb4723-95ac-4ff4-aac3-e516d11846b8",
+    "eng": "Sameer",
+    "fLE": "S",
+    "tel": "సమీర్",
+    "fLTel": "స",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "0cda4485-7575-4b26-9406-35e1b0620423",
+    "eng": "Sameere",
+    "fLE": "S",
+    "tel": "సమీరే",
+    "fLTel": "స",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "76106f77-015f-4e86-a918-eb527f1d55e0",
+    "eng": "Sameern",
+    "fLE": "S",
+    "tel": "సమీఱం",
+    "fLTel": "స",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "a046c6fc-79d4-4141-ae3f-f895690eb5c3",
+    "eng": "Sameeullah",
+    "fLE": "S",
+    "tel": "సమీముల్లాహ్",
+    "fLTel": "స",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "13f5f70d-5e77-4ece-b52b-58f84703442a",
+    "eng": "Sameh",
+    "fLE": "S",
+    "tel": "సామెహ్",
+    "fLTel": "స",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "d1767688-f927-4de6-96ea-ba1a384df703",
+    "eng": "Samen",
+    "fLE": "S",
+    "tel": "సమ్మెను",
+    "fLTel": "స",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "e2960f7a-dba5-485f-8533-0425397c6634",
+    "eng": "Samendra",
+    "fLE": "S",
+    "tel": "సోమేంద్ర",
+    "fLTel": "స",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "16922d48-af01-483f-96b3-4079bede8b0e",
+    "eng": "Samendu",
+    "fLE": "S",
+    "tel": "సమెందు",
+    "fLTel": "స",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "4ef915fb-7f66-42f1-b361-bd64eb586cfc",
+    "eng": "Samer",
+    "fLE": "S",
+    "tel": "సమీర్",
+    "fLTel": "స",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "745c036a-dfa8-4aec-aa85-2fedd765ab47",
+    "eng": "Samesh",
+    "fLE": "S",
+    "tel": "సోమేశ్",
+    "fLTel": "స",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "ab680e47-ae0a-46ee-a9d6-21521f738fea",
+    "eng": "Samgram",
+    "fLE": "S",
+    "tel": "సంగ్రామ్",
+    "fLTel": "స",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "7abab8f8-8cb5-4937-a98b-788f3780bbfb",
+    "eng": "Samhit",
+    "fLE": "S",
+    "tel": "సంహిత",
+    "fLTel": "స",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "87ebd95c-1b50-43e3-9b33-00944acf92a4",
+    "eng": "Samhith",
+    "fLE": "S",
+    "tel": "సంహిత",
+    "fLTel": "స",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "c7c31906-40fc-4f91-b0ea-837ce3bd03f9",
+    "eng": "Samich",
+    "fLE": "S",
+    "tel": "సమీక్",
+    "fLTel": "స",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  }
+]

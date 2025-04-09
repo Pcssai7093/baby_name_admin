@@ -1,0 +1,862 @@
+[
+  {
+    "id": "2cf514b9-662e-4cba-90ba-1ce0cb20126d",
+    "eng": "Dangelo",
+    "fLE": "D",
+    "tel": "డాంజి",
+    "fLTel": "డ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "00bb28c5-497d-4670-b223-4ae2317370b8",
+    "eng": "Danger",
+    "fLE": "D",
+    "tel": "డేంజర్",
+    "fLTel": "డ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "70059785-c1a8-4fc8-b28f-2fa6479179e6",
+    "eng": "Danh",
+    "fLE": "D",
+    "tel": "దనః",
+    "fLTel": "ద",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "4578001f-0ae4-493e-8022-09adc4cce87e",
+    "eng": "Danhy",
+    "fLE": "D",
+    "tel": "డాంహై",
+    "fLTel": "డ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "da65331a-b2df-4afa-998d-61d5e73f42ff",
+    "eng": "Danial",
+    "fLE": "D",
+    "tel": "డానియల్",
+    "fLTel": "డ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "0b995f15-7917-423f-b718-75f837283492",
+    "eng": "Danian",
+    "fLE": "D",
+    "tel": "దానిన్",
+    "fLTel": "ద",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "ff1380c3-89d9-41bf-bccf-d57318a817d3",
+    "eng": "Daniel",
+    "fLE": "D",
+    "tel": "డేనియల్",
+    "fLTel": "డ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "9835d1f3-101f-4c42-a231-aa3a0ad5ae8d",
+    "eng": "Danielius",
+    "fLE": "D",
+    "tel": "దానిఎలిస్",
+    "fLTel": "ద",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "e3d479c4-a61e-4aae-8a8d-84285d59e932",
+    "eng": "Daniels",
+    "fLE": "D",
+    "tel": "దిల్",
+    "fLTel": "ద",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "101d2139-f3b9-4e62-a951-d86762567c3b",
+    "eng": "Danijel",
+    "fLE": "D",
+    "tel": "దానిజెల్",
+    "fLTel": "ద",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "cae1ad37-55e0-47fb-89db-2feb5fd8b3b5",
+    "eng": "Danil",
+    "fLE": "D",
+    "tel": "దిల్",
+    "fLTel": "ద",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "2b55a1be-c60a-4d1c-8afd-b47bf44d3547",
+    "eng": "Danila",
+    "fLE": "D",
+    "tel": "దానిలా",
+    "fLTel": "ద",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "979e397b-acdf-4500-b68e-5bd0f3e73f5d",
+    "eng": "Danilo",
+    "fLE": "D",
+    "tel": "దానిలో",
+    "fLTel": "ద",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "564f573c-e272-4b52-ae43-7284b2d21f4c",
+    "eng": "Danior",
+    "fLE": "D",
+    "tel": "డామియర్",
+    "fLTel": "డ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "9d394482-f387-406c-9bbb-0e2a16171ae1",
+    "eng": "Danish",
+    "fLE": "D",
+    "tel": "డేనిష్",
+    "fLTel": "డ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "bd97a89e-0c52-4245-a6c8-156c71d4cfe9",
+    "eng": "Daniyal",
+    "fLE": "D",
+    "tel": "డానియల్",
+    "fLTel": "డ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "78223024-95b6-4117-a4ff-84a273a75656",
+    "eng": "Daniyel",
+    "fLE": "D",
+    "tel": "డానియెల్",
+    "fLTel": "డ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "f7fd2412-4b21-419c-af21-55017369c497",
+    "eng": "Danko",
+    "fLE": "D",
+    "tel": "దానికో",
+    "fLTel": "ద",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "b2abd5fe-e20a-4226-92e4-889089ae6a36",
+    "eng": "Danmeet",
+    "fLE": "D",
+    "tel": "దంమీత్",
+    "fLTel": "ద",
+    "tags": [],
+    "gen": "male",
+    "rel": "Sikh"
+  },
+  {
+    "id": "ff5698a5-4019-46c9-bc99-face9820262e",
+    "eng": "Dann",
+    "fLE": "D",
+    "tel": "డాన్",
+    "fLTel": "డ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "a111536a-c754-470e-8686-717bfdc9bd9e",
+    "eng": "Dannee",
+    "fLE": "D",
+    "tel": "దాన్నీ",
+    "fLTel": "ద",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "ed7e2879-7d83-4502-9edd-9ac35927e72a",
+    "eng": "Dannel",
+    "fLE": "D",
+    "tel": "దాన్నెలా",
+    "fLTel": "ద",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "1e4774c9-7593-459a-9732-2ad8ac1fa4c8",
+    "eng": "danner",
+    "fLE": "d",
+    "tel": "దాన్నెర్",
+    "fLTel": "ద",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "c73c43c5-17c9-423f-8589-6e250aca6b3d",
+    "eng": "Danno",
+    "fLE": "D",
+    "tel": "దాన్నో",
+    "fLTel": "ద",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "fddba6ca-fa8d-4768-9721-60d577b59047",
+    "eng": "Dannon",
+    "fLE": "D",
+    "tel": "దాన్నొన్",
+    "fLTel": "ద",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "1804a95d-3468-4e3f-8382-1ad4beeacc47",
+    "eng": "Danny",
+    "fLE": "D",
+    "tel": "దాన్నీ",
+    "fLTel": "ద",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "2b2cca2d-8859-4533-91e2-ebd374e1ccd4",
+    "eng": "Dannyn",
+    "fLE": "D",
+    "tel": "దంన్యున్",
+    "fLTel": "ద",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "c46d2f91-76db-44c8-8413-f2d88b676215",
+    "eng": "Dano",
+    "fLE": "D",
+    "tel": "దానో",
+    "fLTel": "ద",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "9528feaa-50a8-4f66-a47c-b828bba72381",
+    "eng": "Danon",
+    "fLE": "D",
+    "tel": "దనోం",
+    "fLTel": "ద",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "7152e162-d300-4e0e-a387-a251bdc84a73",
+    "eng": "Danpreet",
+    "fLE": "D",
+    "tel": "డాన్ప్రీత్",
+    "fLTel": "డ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "b112b059-2479-4e4b-973b-217f7921619c",
+    "eng": "Danrelle",
+    "fLE": "D",
+    "tel": "డాంరెళ్ళే",
+    "fLTel": "డ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "07f08aab-f276-4c64-856c-653daea29eab",
+    "eng": "dansby",
+    "fLE": "d",
+    "tel": "డాన్సబ్య్",
+    "fLTel": "డ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "fe51cf71-50cd-45c6-b340-ebda3fed0db6",
+    "eng": "Dansith",
+    "fLE": "D",
+    "tel": "డాంజిత్",
+    "fLTel": "డ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "75985925-d6f8-430c-8d3a-e3e62da38a17",
+    "eng": "Danso",
+    "fLE": "D",
+    "tel": "డాన్స్లో",
+    "fLTel": "డ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "d5eb35d5-8862-413b-a7db-0516f94876d5",
+    "eng": "Danstrin",
+    "fLE": "D",
+    "tel": "దంష్ట్రిన్",
+    "fLTel": "ద",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "93fb2976-1139-45c6-8674-7cc667129800",
+    "eng": "Danta",
+    "fLE": "D",
+    "tel": "దంత",
+    "fLTel": "ద",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "5c34dfd4-07cc-46dc-a533-fd50f32fb1a4",
+    "eng": "Dante",
+    "fLE": "D",
+    "tel": "డాంటే",
+    "fLTel": "డ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "994c9adc-e2dc-4a16-8433-60cbd849c46c",
+    "eng": "Danti",
+    "fLE": "D",
+    "tel": "దాటి",
+    "fLTel": "ద",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "92066468-0b1a-4011-9d8c-dc291f6ab8b7",
+    "eng": "Dantin",
+    "fLE": "D",
+    "tel": "డెంటిన్",
+    "fLTel": "డ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "82ecae03-1d8a-40ea-87dc-1120f59921f0",
+    "eng": "Dantina",
+    "fLE": "D",
+    "tel": "దాటినా",
+    "fLTel": "ద",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "e528592f-791f-4132-a4d2-0ecd4897be6f",
+    "eng": "Danton",
+    "fLE": "D",
+    "tel": "డాంటన్",
+    "fLTel": "డ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "bb8b8819-c910-4275-bb0a-193eccbb5a44",
+    "eng": "Danuel",
+    "fLE": "D",
+    "tel": "డానియెల్",
+    "fLTel": "డ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "179fb255-8a5d-4b9a-ad8b-92f54bdd8f7c",
+    "eng": "Danuj",
+    "fLE": "D",
+    "tel": "దనుజ",
+    "fLTel": "ద",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "aab6194f-4969-4a93-ad99-cb7f81c1ce5a",
+    "eng": "Danuser",
+    "fLE": "D",
+    "tel": "దనుజర్",
+    "fLTel": "ద",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "4070e314-8588-4fe7-891a-7f49ce4527cd",
+    "eng": "Danush",
+    "fLE": "D",
+    "tel": "ధనుష్",
+    "fLTel": "ధ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "3b45db58-3618-4d15-aa99-6412da45948f",
+    "eng": "Danut",
+    "fLE": "D",
+    "tel": "దనుట",
+    "fLTel": "ద",
+    "tags": [],
+    "gen": "male",
+    "rel": "others"
+  },
+  {
+    "id": "f40de378-6517-4eae-b93d-e21d5aa68e3d",
+    "eng": "Danuta",
+    "fLE": "D",
+    "tel": "దనుట",
+    "fLTel": "ద",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "897db18e-1e51-4d03-946b-c2c9c99444d3",
+    "eng": "Danvin",
+    "fLE": "D",
+    "tel": "ధన్వీన్",
+    "fLTel": "ధ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "fb67b009-12e2-4af4-bba6-ad31782da9a5",
+    "eng": "Danvir",
+    "fLE": "D",
+    "tel": "ధన్వీర్",
+    "fLTel": "ధ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "34159669-12fc-498c-9175-9104783b4343",
+    "eng": "Dany",
+    "fLE": "D",
+    "tel": "డానీ",
+    "fLTel": "డ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "29ef4318-eeff-4076-aaa4-070bb9d8cdc7",
+    "eng": "Danya",
+    "fLE": "D",
+    "tel": "ధన్య",
+    "fLTel": "ధ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "b9d4d65c-0fe1-47f9-9253-dcc6e2f62c66",
+    "eng": "Danyal",
+    "fLE": "D",
+    "tel": "ధాన్యాల",
+    "fLTel": "ధ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "9ada97d3-dfc8-475e-8a83-273e6816110b",
+    "eng": "Danyel",
+    "fLE": "D",
+    "tel": "డానియెల్",
+    "fLTel": "డ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "0a097de8-fc3a-4c97-ad50-db1d54a0cf15",
+    "eng": "Danyell",
+    "fLE": "D",
+    "tel": "డానియెల్",
+    "fLTel": "డ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "62768938-014e-4d81-b17c-a87239887b84",
+    "eng": "Danyelle",
+    "fLE": "D",
+    "tel": "డాంఏళ్లే",
+    "fLTel": "డ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "9c235566-fcc1-402f-a70a-a30266f5f975",
+    "eng": "Danyl",
+    "fLE": "D",
+    "tel": "దన్యుల్",
+    "fLTel": "ద",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "5d194d9d-2dd7-47de-8896-bd1020d2d4ff",
+    "eng": "Danylets",
+    "fLE": "D",
+    "tel": "దన్యులెట్స్",
+    "fLTel": "ద",
+    "tags": [],
+    "gen": "male",
+    "rel": "others"
+  },
+  {
+    "id": "1843d461-7450-4517-ba76-035b65ee25d1",
+    "eng": "Danylko",
+    "fLE": "D",
+    "tel": "ధన్యులకో",
+    "fLTel": "ధ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "452c4bcf-4774-4885-a513-84d70cf50e63",
+    "eng": "Danzig",
+    "fLE": "D",
+    "tel": "డాంజిగ్",
+    "fLTel": "డ",
+    "tags": [],
+    "gen": "male",
+    "rel": "others"
+  },
+  {
+    "id": "4d18e495-9246-4655-b6a9-b893c76eecae",
+    "eng": "Daoud",
+    "fLE": "D",
+    "tel": "దావుద్",
+    "fLTel": "ద",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "96d6fa9d-e271-4d93-aa15-9e16c8d90c1a",
+    "eng": "daphnis",
+    "fLE": "d",
+    "tel": "డాఫ్నిస్",
+    "fLTel": "డ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "9167b677-9763-456f-90a1-97ad734d6997",
+    "eng": "dapper",
+    "fLE": "d",
+    "tel": "దప్పెర్",
+    "fLTel": "ద",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "387d10b0-d0a9-4055-bc45-70f1afe2f610",
+    "eng": "Dar",
+    "fLE": "D",
+    "tel": "దారి",
+    "fLTel": "ద",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "bd21d8dd-b95a-4b2f-ae7b-d4f1779e11b2",
+    "eng": "Darab",
+    "fLE": "D",
+    "tel": "దరాబ్",
+    "fLTel": "ద",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "91e2ffa6-e1d7-4350-80b2-38bb3144a1c7",
+    "eng": "Darah",
+    "fLE": "D",
+    "tel": "దరః",
+    "fLTel": "ద",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "60a9c587-0132-4f7c-9c8e-e3bada17f786",
+    "eng": "Darahaas",
+    "fLE": "D",
+    "tel": "దరహాస",
+    "fLTel": "ద",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "248ad2c7-407e-448c-9293-0dbf8bf372af",
+    "eng": "Darahas",
+    "fLE": "D",
+    "tel": "దరహాస",
+    "fLTel": "ద",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "11444b1f-93c1-47cd-b788-eb125f70c15e",
+    "eng": "Darain",
+    "fLE": "D",
+    "tel": "డ్రీం",
+    "fLTel": "డ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "983ff16f-9e21-4d47-ab77-3ba7fbed0a43",
+    "eng": "Daran",
+    "fLE": "D",
+    "tel": "దారం",
+    "fLTel": "ద",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "a6319382-b0b4-43d1-9e16-b33faa47d322",
+    "eng": "Darany",
+    "fLE": "D",
+    "tel": "ధరను",
+    "fLTel": "ధ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "a68bf965-1f30-41c4-9091-7d7adf29bfef",
+    "eng": "Darazdast",
+    "fLE": "D",
+    "tel": "దారాజదాస్",
+    "fLTel": "ద",
+    "tags": [],
+    "gen": "male",
+    "rel": "others"
+  },
+  {
+    "id": "18b3029c-8e15-4ce6-998c-9518afbb2a67",
+    "eng": "Darb",
+    "fLE": "D",
+    "tel": "దర్బ",
+    "fLTel": "ద",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "e49500f2-3b32-4074-b5da-27e231ff1456",
+    "eng": "Darbar",
+    "fLE": "D",
+    "tel": "దర్బార్",
+    "fLTel": "ద",
+    "tags": [],
+    "gen": "male",
+    "rel": "Sikh"
+  },
+  {
+    "id": "572f2f05-8c45-423e-9fdf-165eb5f0808c",
+    "eng": "Darbha",
+    "fLE": "D",
+    "tel": "దర్భ",
+    "fLTel": "ద",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "c3c321db-9b67-4e2e-9908-4a92f040327b",
+    "eng": "Darbhi",
+    "fLE": "D",
+    "tel": "దర్భి",
+    "fLTel": "ద",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "2f735678-55c3-4174-82b1-41b294d40c93",
+    "eng": "Darbi",
+    "fLE": "D",
+    "tel": "దర్భి",
+    "fLTel": "ద",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "8d359682-7857-4fd7-a9a8-5355610ace20",
+    "eng": "Darbjot",
+    "fLE": "D",
+    "tel": "దర్బజాత్",
+    "fLTel": "ద",
+    "tags": [],
+    "gen": "male",
+    "rel": "Sikh"
+  },
+  {
+    "id": "be59a525-91fb-45f7-b2bd-a6804d870dee",
+    "eng": "Darby",
+    "fLE": "D",
+    "tel": "డర్బీ",
+    "fLTel": "డ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "0d28e38e-9d8a-4a32-8727-a34b893d3bd0",
+    "eng": "Darce",
+    "fLE": "D",
+    "tel": "డార్స్",
+    "fLTel": "డ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "d2a1167c-97c6-4e36-84e9-c80dfcfef3b6",
+    "eng": "Darcio",
+    "fLE": "D",
+    "tel": "డార్సీఐఓ",
+    "fLTel": "డ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "48ee08e9-d570-4369-a198-b292a041a824",
+    "eng": "Dard",
+    "fLE": "D",
+    "tel": "దర్ద్",
+    "fLTel": "ద",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "599ebaff-8ec8-4b07-aec2-ec61201e30f7",
+    "eng": "Dardan",
+    "fLE": "D",
+    "tel": "దర్డాన్",
+    "fLTel": "ద",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "1896d552-0b99-402f-8829-97794c7c7e21",
+    "eng": "Dardura",
+    "fLE": "D",
+    "tel": "దర్దురం",
+    "fLTel": "ద",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "549c9ca2-e27a-42c6-bb64-bd57be7e12d2",
+    "eng": "Dare",
+    "fLE": "D",
+    "tel": "డేర్",
+    "fLTel": "డ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "8df8f182-c211-4bf1-8909-265a8f781e45",
+    "eng": "Dareau",
+    "fLE": "D",
+    "tel": "దారులు",
+    "fLTel": "ద",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "45b96161-74aa-4785-bfbe-299138841f18",
+    "eng": "Dareeb",
+    "fLE": "D",
+    "tel": "దారీబ్",
+    "fLTel": "ద",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  }
+]

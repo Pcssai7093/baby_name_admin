@@ -1,0 +1,872 @@
+[
+  {
+    "id": "7b317093-d092-409e-8a48-8247ba5275f1",
+    "eng": "fayez",
+    "fLE": "f",
+    "tel": "ఫయిజ్",
+    "fLTel": "ఫ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "fbddfdf7-1316-4605-95ff-c7fc0d4ac8d8",
+    "eng": "Fayij",
+    "fLE": "F",
+    "tel": "ఫయిజ్",
+    "fLTel": "ఫ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "8df6455c-2e6e-489b-a2a9-70a231628195",
+    "eng": "Fayis",
+    "fLE": "F",
+    "tel": "ఫాయిస్",
+    "fLTel": "ఫ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "9aeed521-e042-4da1-a58e-6b765e491bc7",
+    "eng": "Fayiz",
+    "fLE": "F",
+    "tel": "ఫయిజ్",
+    "fLTel": "ఫ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "e0f9dcac-f155-4bf3-a66e-6ab8e50e5757",
+    "eng": "fayiz",
+    "fLE": "f",
+    "tel": "ఫయిజ్",
+    "fLTel": "ఫ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "783906c4-63e2-47d3-a615-c7818ebebe42",
+    "eng": "Fayne",
+    "fLE": "F",
+    "tel": "ఫెయిన్",
+    "fLTel": "ఫ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "0f42c9d2-b75d-47fc-8b4f-e4c9a9248cb6",
+    "eng": "Faysal",
+    "fLE": "F",
+    "tel": "ఫ్యాక్స్ల",
+    "fLTel": "ఫ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "be6e8f13-d752-48e5-8ca5-cad2b232b50c",
+    "eng": "faysal",
+    "fLE": "f",
+    "tel": "ఫ్యాక్స్ల",
+    "fLTel": "ఫ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "e89bd17d-123d-4343-ab37-aa1c15d424bb",
+    "eng": "Fayvel",
+    "fLE": "F",
+    "tel": "ఫాయ్వెల్",
+    "fLTel": "ఫ",
+    "tags": [],
+    "gen": "male",
+    "rel": "others"
+  },
+  {
+    "id": "623f8327-85cf-4778-9292-3fa4a7225d45",
+    "eng": "Fayyaad",
+    "fLE": "F",
+    "tel": "ఫేయ్యాద్",
+    "fLTel": "ఫ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "ff51c9ad-0783-4157-a077-38a3bca5adaa",
+    "eng": "Fayyaadh",
+    "fLE": "F",
+    "tel": "ఫేయ్యాద్",
+    "fLTel": "ఫ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "f312cd49-057d-4da5-ab99-6c38b9328d50",
+    "eng": "Fayyad",
+    "fLE": "F",
+    "tel": "ఫేయ్యద్",
+    "fLTel": "ఫ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "5c36852b-255e-4706-a6c7-de605706fb38",
+    "eng": "Fayyadh",
+    "fLE": "F",
+    "tel": "ఫేయ్యద్",
+    "fLTel": "ఫ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "fa961bd0-4052-461f-8314-2cb51ad7de56",
+    "eng": "Fayyaz",
+    "fLE": "F",
+    "tel": "ఫయాజ్",
+    "fLTel": "ఫ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "a1c8a23b-c804-4311-a047-f83de9d751af",
+    "eng": "Fayyim",
+    "fLE": "F",
+    "tel": "ఫేయ్యిమ్",
+    "fLTel": "ఫ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "0ae1b94e-7400-431c-8a8e-51737eb0cd7d",
+    "eng": "Fayzal",
+    "fLE": "F",
+    "tel": "ఫాయిజల్",
+    "fLTel": "ఫ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "365ac908-7b82-4c60-9963-feae6c7bfe49",
+    "eng": "Fayzan",
+    "fLE": "F",
+    "tel": "ఫాయిజన్",
+    "fLTel": "ఫ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "3654cf5f-b353-4b14-b781-bb85fb31a473",
+    "eng": "Fayzel",
+    "fLE": "F",
+    "tel": "ఫాయిజల్",
+    "fLTel": "ఫ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "50f57e78-5530-4a99-97f8-8680e28699d3",
+    "eng": "Fazal",
+    "fLE": "F",
+    "tel": "ఫజల్",
+    "fLTel": "ఫ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "49c42431-6dbe-439b-888e-aa1ef00eef1f",
+    "eng": "Fazan",
+    "fLE": "F",
+    "tel": "ప్యాజన్",
+    "fLTel": "ప",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "1254066c-79d9-4d6e-ac5d-68a0ae7576a6",
+    "eng": "Fazeed",
+    "fLE": "F",
+    "tel": "ఫేజీద్",
+    "fLTel": "ఫ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "731d9037-8a05-468f-9c2e-d1efb7feb821",
+    "eng": "Fazel",
+    "fLE": "F",
+    "tel": "ఫజల్",
+    "fLTel": "ఫ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "4358f5b9-e5d5-402a-a3f1-5fa81803fb82",
+    "eng": "Fazil",
+    "fLE": "F",
+    "tel": "ఫాజిల్",
+    "fLTel": "ఫ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "bf29648d-d650-4dcd-a701-12eeafa97912",
+    "eng": "Fazilath",
+    "fLE": "F",
+    "tel": "ఫజిలాత్",
+    "fLTel": "ఫ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "2db00159-f238-42f8-8cd0-499fcda3f0e3",
+    "eng": "Fazira",
+    "fLE": "F",
+    "tel": "ఫజిరా",
+    "fLTel": "ఫ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "ea123ff5-ad86-496a-88c2-74b80e2160ce",
+    "eng": "Faziuddin",
+    "fLE": "F",
+    "tel": "ఫజియుద్దీన్",
+    "fLTel": "ఫ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "860f933a-b61c-48bf-b330-be12a28bc4ba",
+    "eng": "Fazl",
+    "fLE": "F",
+    "tel": "ఫజల్",
+    "fLTel": "ఫ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "1d99ba69-37d6-46b5-9b4f-ed0663acf7c4",
+    "eng": "Fazle",
+    "fLE": "F",
+    "tel": "ఫేజ్ల్",
+    "fLTel": "ఫ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "c69a33ae-35bd-4992-9866-6f6bd7405a38",
+    "eng": "Fazle Ilahi",
+    "fLE": "F",
+    "tel": "ఫేజ్ల్ ఇలాహి",
+    "fLTel": "ఫ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "58b4ad21-1a32-4e1f-8b1b-709b3043202c",
+    "eng": "Fazle Rab",
+    "fLE": "F",
+    "tel": "ఫేజ్ల్ రబీ",
+    "fLTel": "ఫ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "b11ef09b-a019-4695-9443-461a86699438",
+    "eng": "Fazle Rabbi",
+    "fLE": "F",
+    "tel": "ఫేజ్ల్ రబ్బీ",
+    "fLTel": "ఫ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "35c1fc14-e315-4992-a00a-2a1e3672cbf6",
+    "eng": "Fazleilahi",
+    "fLE": "F",
+    "tel": "ఫేజ్లేఇలాహి",
+    "fLTel": "ఫ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "4bd3dc6a-6d9e-4edb-8872-3eb185470ae1",
+    "eng": "Fazlerab",
+    "fLE": "F",
+    "tel": "ఫేజ్లేరబ్",
+    "fLTel": "ఫ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "250674d2-d864-463d-8b24-6a0a1c3978ab",
+    "eng": "Fazlerabbi",
+    "fLE": "F",
+    "tel": "ఫేజ్లేరబ్బీ",
+    "fLTel": "ఫ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "71da9462-5083-49a1-bf91-2db465f29436",
+    "eng": "Fazli",
+    "fLE": "F",
+    "tel": "ఫేజ్లి",
+    "fLTel": "ఫ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "d2288432-0f65-4438-bafa-6c4e8b866801",
+    "eng": "Fazlullah",
+    "fLE": "F",
+    "tel": "ఫజలుల్లాహ్",
+    "fLTel": "ఫ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "50b846da-1f7a-437c-a7df-e0fed8be8d22",
+    "eng": "Fazzal",
+    "fLE": "F",
+    "tel": "ఫేజ్ల్",
+    "fLTel": "ఫ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "79b20d00-65a8-4775-856d-528a920be900",
+    "eng": "Fazzar",
+    "fLE": "F",
+    "tel": "ఫజ్ర్",
+    "fLTel": "ఫ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "8fa10d37-f9f5-4d75-bd70-47b5344b8a09",
+    "eng": "Fealca",
+    "fLE": "F",
+    "tel": "ఫీలకే",
+    "fLTel": "ఫ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "995496d9-1240-4e70-a514-562becd69b72",
+    "eng": "Fealcna",
+    "fLE": "F",
+    "tel": "ఫీలసిన",
+    "fLTel": "ఫ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "d899d8c6-5f3e-49a5-9d34-35d4ca77b989",
+    "eng": "Feargal",
+    "fLE": "F",
+    "tel": "ఫెసర్గాళ్",
+    "fLTel": "ఫ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "6e738dc5-fa58-4124-81da-23758b000531",
+    "eng": "Fearghus",
+    "fLE": "F",
+    "tel": "ఫెర్గ్స్",
+    "fLTel": "ఫ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "23fd6fae-79e0-4dd1-abed-62def2bd15bc",
+    "eng": "Fearn",
+    "fLE": "F",
+    "tel": "ఫెర్న్",
+    "fLTel": "ఫ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "3086a31e-65fc-4ba5-ad5b-b936cdb19ccf",
+    "eng": "Fearne",
+    "fLE": "F",
+    "tel": "ఫెర్న్",
+    "fLTel": "ఫ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "4c2e4927-f954-4f3d-ae15-82a14fe7cb26",
+    "eng": "Fearnhamm",
+    "fLE": "F",
+    "tel": "ఫెర్న్హామ్",
+    "fLTel": "ఫ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "9872096f-bdf6-4b7a-a2af-91b6b7897038",
+    "eng": "Fearnhealh",
+    "fLE": "F",
+    "tel": "ఫెర్న్హెల్హ్",
+    "fLTel": "ఫ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "30578fbd-bc7e-40cf-b8ec-7a446e014fb0",
+    "eng": "Fearnleah",
+    "fLE": "F",
+    "tel": "ఫెర్న్లీహ్",
+    "fLTel": "ఫ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "8ab98c13-6962-4cf1-a314-3aad1784f2e8",
+    "eng": "Featherstone",
+    "fLE": "F",
+    "tel": "ఫీథెర్స్టన్",
+    "fLTel": "ఫ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "f7c8a623-6239-4114-a4c0-d8c58cccfb37",
+    "eng": "Febian",
+    "fLE": "F",
+    "tel": "ఫెబియాన్",
+    "fLTel": "ఫ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "6ad610fa-102e-4173-80b5-604b7c714bad",
+    "eng": "Febin",
+    "fLE": "F",
+    "tel": "ఫెబిన్",
+    "fLTel": "ఫ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "37e47f63-dced-4347-a521-5ef30edaaedf",
+    "eng": "Fecca",
+    "fLE": "F",
+    "tel": "ఫికా",
+    "fLTel": "ఫ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "e0505749-6333-4c53-a395-f7bdfcf66a0a",
+    "eng": "Fedele",
+    "fLE": "F",
+    "tel": "ఫిడెల్",
+    "fLTel": "ఫ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "05b37da3-b55a-4146-a793-9783cecd40b7",
+    "eng": "Federico",
+    "fLE": "F",
+    "tel": "ఫెడెరికో",
+    "fLTel": "ఫ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "3cff0da0-4936-4158-ab75-4db1a24d0f27",
+    "eng": "Federigo",
+    "fLE": "F",
+    "tel": "ఫెడెరిగి",
+    "fLTel": "ఫ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "d794b606-87e4-4181-9446-a13d5365d7ca",
+    "eng": "Fedor",
+    "fLE": "F",
+    "tel": "ఫెడోరా",
+    "fLTel": "ఫ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "7a91c35a-7270-4a3f-87b3-acac53735b8c",
+    "eng": "fedor",
+    "fLE": "f",
+    "tel": "ఫెడోరా",
+    "fLTel": "ఫ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "def87c5c-31c3-4c19-9a50-521f8c5aca34",
+    "eng": "Feegan",
+    "fLE": "F",
+    "tel": "ఫీగం",
+    "fLTel": "ఫ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "822020b6-9092-4bf4-951f-68b092cedf55",
+    "eng": "feeny",
+    "fLE": "f",
+    "tel": "ఫీనీ",
+    "fLTel": "ఫ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "b0812142-5a23-4d01-9ea1-fef03c172ae7",
+    "eng": "Feerouzah",
+    "fLE": "F",
+    "tel": "ఫీరౌజాహ్",
+    "fLTel": "ఫ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "428afa4b-d3cc-4765-85ca-4bd49a0a2600",
+    "eng": "Feeroz",
+    "fLE": "F",
+    "tel": "ఫీరోజ్",
+    "fLTel": "ఫ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "8eec091c-b788-4ff0-b50c-b5360457a9f3",
+    "eng": "Fehmeed",
+    "fLE": "F",
+    "tel": "ఫిహెమీద",
+    "fLTel": "ఫ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "5bfe3fea-d5fd-4662-8605-5ddafb86ad9f",
+    "eng": "Feilding",
+    "fLE": "F",
+    "tel": "ఫెయిల్డింగ్",
+    "fLTel": "ఫ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "83276fa6-c32f-4306-bce8-a51a1cb8b6b2",
+    "eng": "Feisal",
+    "fLE": "F",
+    "tel": "ఫెయిస్ల",
+    "fLTel": "ఫ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "5b823bc2-5c34-4309-b26b-c558e18495a5",
+    "eng": "feisal",
+    "fLE": "f",
+    "tel": "ఫెయిస్ల",
+    "fLTel": "ఫ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "db861a57-c67d-42dd-94f6-332cf6e6303f",
+    "eng": "Feivel",
+    "fLE": "F",
+    "tel": "ఫెయివేల",
+    "fLTel": "ఫ",
+    "tags": [],
+    "gen": "male",
+    "rel": "others"
+  },
+  {
+    "id": "056c9099-7c6d-4ad1-b92a-93464796876a",
+    "eng": "feivel",
+    "fLE": "f",
+    "tel": "ఫెయివేల",
+    "fLTel": "ఫ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "5deab604-064f-4ffe-acc1-16228ac217d1",
+    "eng": "Felabeorbt",
+    "fLE": "F",
+    "tel": "ఫెళబెర్బ్స్",
+    "fLTel": "ఫ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "6e5250cd-3dbd-47a2-8b93-1145b9d9e198",
+    "eng": "Felabeorht",
+    "fLE": "F",
+    "tel": "ఫెళబెర్హ్ట్",
+    "fLTel": "ఫ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "d3b596ea-34e3-4d62-a300-aa66a92a571f",
+    "eng": "Felamaere",
+    "fLE": "F",
+    "tel": "ఫలమేరె",
+    "fLTel": "ఫ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "819e78a2-1ae0-49ff-914d-670a0a870c3d",
+    "eng": "Felding",
+    "fLE": "F",
+    "tel": "ఫిల్డింగ్",
+    "fLTel": "ఫ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "d1453fc6-b6c9-4326-8174-85161a54761d",
+    "eng": "Feldon",
+    "fLE": "F",
+    "tel": "ఫిల్డన్",
+    "fLTel": "ఫ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "26ee9f70-af24-421b-8cfa-2fa4c929ab6e",
+    "eng": "Feldtun",
+    "fLE": "F",
+    "tel": "ఫిల్డటం",
+    "fLTel": "ఫ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "6fd0fb00-48ec-476c-b78b-85e1edd0e5f4",
+    "eng": "Feldun",
+    "fLE": "F",
+    "tel": "ఫెల్డ్యూన్",
+    "fLTel": "ఫ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "7dc79f45-101e-4115-92bb-a24e0ef0605a",
+    "eng": "Feleogild",
+    "fLE": "F",
+    "tel": "ఫిలియాగిల్డ్",
+    "fLTel": "ఫ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "803ca7cc-6d21-4daa-8068-c87c4580a20b",
+    "eng": "Felgild",
+    "fLE": "F",
+    "tel": "ఫెల్గిల్డ్",
+    "fLTel": "ఫ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "bce823d1-30a9-49ea-b6f7-d3e6aa1e4cc4",
+    "eng": "Felician",
+    "fLE": "F",
+    "tel": "ఫెలిసియాన్",
+    "fLTel": "ఫ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "a1f5307a-318e-4920-bcbd-e99c613c5784",
+    "eng": "Feliciano",
+    "fLE": "F",
+    "tel": "ఫెలిసియానో",
+    "fLTel": "ఫ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "2faa0055-83ba-44e9-8acc-1269eb60cda0",
+    "eng": "Felicio",
+    "fLE": "F",
+    "tel": "ఫెలిసివు",
+    "fLTel": "ఫ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "afa1294f-df19-45d9-969f-f525d5c8815b",
+    "eng": "Felicjan",
+    "fLE": "F",
+    "tel": "ఫెలిసిజం",
+    "fLTel": "ఫ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "d50fc861-ef31-46fa-a1a3-6a68b4a61c94",
+    "eng": "Feliks",
+    "fLE": "F",
+    "tel": "ఫెలిక్స్",
+    "fLTel": "ఫ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "64a25631-38a7-4100-91bf-9fe2065aea79",
+    "eng": "Felim",
+    "fLE": "F",
+    "tel": "ఫిలిం",
+    "fLTel": "ఫ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "c65e71b8-e2b0-41c7-bf50-423a20b6540e",
+    "eng": "felinus",
+    "fLE": "f",
+    "tel": "ఫిలింస్",
+    "fLTel": "ఫ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "dae9162a-7ed3-4c67-92ca-a1742825c2ee",
+    "eng": "Felipe",
+    "fLE": "F",
+    "tel": "ఫిలిప్",
+    "fLTel": "ఫ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "331b6e51-30f6-46b9-9d17-d63079f67c4b",
+    "eng": "felipinho",
+    "fLE": "f",
+    "tel": "ఫెలిపింహో",
+    "fLTel": "ఫ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "d9264ff5-d491-44ca-9a2e-6927af138190",
+    "eng": "Felis",
+    "fLE": "F",
+    "tel": "ఫెల్ప్స్",
+    "fLTel": "ఫ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "4feb7e71-967c-4fc4-b76f-9ac6c49d72e8",
+    "eng": "Felix",
+    "fLE": "F",
+    "tel": "ఫెలిక్స్",
+    "fLTel": "ఫ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "5bb0683a-7621-4f64-a236-ad9ee2739df3",
+    "eng": "felix",
+    "fLE": "f",
+    "tel": "ఫెలిక్స్",
+    "fLTel": "ఫ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  }
+]

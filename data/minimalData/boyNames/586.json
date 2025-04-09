@@ -1,0 +1,872 @@
+[
+  {
+    "id": "cf282ac1-8631-4330-98d9-fff1a195683e",
+    "eng": "Waryn",
+    "fLE": "W",
+    "tel": "వారైన",
+    "fLTel": "వ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "b5f9184e-7883-4ad2-aec6-6f51694daf41",
+    "eng": "wasabe",
+    "fLE": "w",
+    "tel": "రసాబ్",
+    "fLTel": "ర",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "8300bc19-c5af-4e71-801f-d04ee57c6f82",
+    "eng": "Wasaf",
+    "fLE": "W",
+    "tel": "వాసప్",
+    "fLTel": "వ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "24382ae6-931c-4b29-a716-85648125025a",
+    "eng": "Wasaki",
+    "fLE": "W",
+    "tel": "వాసుకి",
+    "fLTel": "వ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "8be4e8f0-5931-447a-a2c3-01719a8e30e2",
+    "eng": "Wasam",
+    "fLE": "W",
+    "tel": "వ్యాసం",
+    "fLTel": "వ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "aca7d579-746e-41a7-af54-f2748ba436ce",
+    "eng": "Wasan",
+    "fLE": "W",
+    "tel": "వ్యాసం",
+    "fLTel": "వ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "37f6b11e-f6ef-4fc8-8f7f-fb4744cc1859",
+    "eng": "Wasay",
+    "fLE": "W",
+    "tel": "వసాయ్",
+    "fLTel": "వ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "d41cffb6-c7aa-450e-9294-953ca68ad606",
+    "eng": "Waseef",
+    "fLE": "W",
+    "tel": "వాసీఫ్",
+    "fLTel": "వ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "531984e2-39dc-451c-b575-3d3dafb90c6a",
+    "eng": "Waseem",
+    "fLE": "W",
+    "tel": "వసీం",
+    "fLTel": "వ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "cb8f8a6d-3480-422d-a512-837733b1a73f",
+    "eng": "waseem",
+    "fLE": "w",
+    "tel": "వసీం",
+    "fLTel": "వ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "33e6f161-e70f-48c9-9530-41a09b86e88f",
+    "eng": "Wasey",
+    "fLE": "W",
+    "tel": "వాసెయ్",
+    "fLTel": "వ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "50cf5db5-a376-4c7a-a7c2-efebedb6b0cb",
+    "eng": "Wasfi",
+    "fLE": "W",
+    "tel": "వ్యాసపీ",
+    "fLTel": "వ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "3c99191c-80b8-4f81-b053-a73a3f076569",
+    "eng": "Washbourne",
+    "fLE": "W",
+    "tel": "వాష్బోర్న్",
+    "fLTel": "వ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "0e0f5784-1f13-4adc-905e-60a84ce6389c",
+    "eng": "Washburne",
+    "fLE": "W",
+    "tel": "వాష్బుర్నే",
+    "fLTel": "వ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "a41b67e1-c413-4c5d-aa47-d4f830092694",
+    "eng": "washington",
+    "fLE": "w",
+    "tel": "వాషింగ్టన్",
+    "fLTel": "వ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "33d19931-0b62-4ddb-892f-7f66fc18f7c0",
+    "eng": "Wasi",
+    "fLE": "W",
+    "tel": "వాసి",
+    "fLTel": "వ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "3c382f1d-83ff-49c2-be2b-999bd2a60cdc",
+    "eng": "wasi",
+    "fLE": "w",
+    "tel": "వాసి",
+    "fLTel": "వ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "c56fd63c-26da-4c91-8283-8bd8ca1d49b8",
+    "eng": "Wasif",
+    "fLE": "W",
+    "tel": "వాసిఫ్",
+    "fLTel": "వ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "cd442055-412d-4f5e-ad99-4bea0468523a",
+    "eng": "Wasil",
+    "fLE": "W",
+    "tel": "వాసిల్",
+    "fLTel": "వ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "955d8205-a4eb-48cc-9368-d7d5f352ace2",
+    "eng": "Wasim",
+    "fLE": "W",
+    "tel": "వసీం",
+    "fLTel": "వ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "a8a8a613-4b3d-491e-8747-26a4625e85ed",
+    "eng": "wasim",
+    "fLE": "w",
+    "tel": "వసీం",
+    "fLTel": "వ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "ed2d84d2-9ff9-4c37-86df-9f6337f861c8",
+    "eng": "Wasimbir",
+    "fLE": "W",
+    "tel": "వాసింబీర్",
+    "fLTel": "వ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Sikh"
+  },
+  {
+    "id": "b50b0367-20d2-4396-94b3-2a56fb384158",
+    "eng": "Wasimjit",
+    "fLE": "W",
+    "tel": "వాసీంజిత్",
+    "fLTel": "వ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Sikh"
+  },
+  {
+    "id": "0db20d75-0b6a-4d7d-8b9d-de376738b01f",
+    "eng": "Wasimuddin",
+    "fLE": "W",
+    "tel": "వాసీముద్దీన్",
+    "fLTel": "వ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "1ac33f68-51d1-4831-9d6f-4739f79a1462",
+    "eng": "wassim",
+    "fLE": "w",
+    "tel": "వాషిమ్",
+    "fLTel": "వ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "9e66bce6-62a8-4707-9edf-bf73f7ab8b9a",
+    "eng": "Wasyl",
+    "fLE": "W",
+    "tel": "వాసిల్",
+    "fLTel": "వ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "64329607-9f7e-47d0-b2ad-312b0c82c34d",
+    "eng": "Wat",
+    "fLE": "W",
+    "tel": "వాట్",
+    "fLTel": "వ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "a5efb6fe-b2a4-48d2-b978-702085219cb7",
+    "eng": "Wata",
+    "fLE": "W",
+    "tel": "వాటా",
+    "fLTel": "వ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "1ac7dcab-2975-47ad-8e17-2c7a165a8d8e",
+    "eng": "Watelford",
+    "fLE": "W",
+    "tel": "వాటెలీఫోర్డ్",
+    "fLTel": "వ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "22c31796-0e45-4c0d-8308-cc8bf020b803",
+    "eng": "Water",
+    "fLE": "W",
+    "tel": "వాటర్",
+    "fLTel": "వ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "b221c250-203a-4471-a7fc-5da7f9af747e",
+    "eng": "Watford",
+    "fLE": "W",
+    "tel": "వాటీఫోర్డ్",
+    "fLTel": "వ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "92e45c01-7133-4374-ab7c-752ac9377ccc",
+    "eng": "Wathab",
+    "fLE": "W",
+    "tel": "వాహబ్",
+    "fLTel": "వ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "d4d72d60-3409-49a9-b9d7-c6b78585b751",
+    "eng": "Wathsa",
+    "fLE": "W",
+    "tel": "వత్స",
+    "fLTel": "వ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "1211e1fe-9a71-4934-a5ee-334872414bad",
+    "eng": "Wathsige",
+    "fLE": "W",
+    "tel": "వాత్సిగే",
+    "fLTel": "వ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "2c7da84f-de31-4edf-b330-0c0e553e8535",
+    "eng": "Watkin",
+    "fLE": "W",
+    "tel": "వాట్కిన్",
+    "fLTel": "వ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "52ab2095-e736-40ff-94ac-1320dc04a6f5",
+    "eng": "Watkins",
+    "fLE": "W",
+    "tel": "వాట్కిన్స్",
+    "fLTel": "వ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "b079b536-14e4-49c5-9f80-28ecfd8a8219",
+    "eng": "Watman",
+    "fLE": "W",
+    "tel": "వామన్",
+    "fLTel": "వ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "91c5bb00-2833-48f8-8f56-630335aef7e3",
+    "eng": "watson",
+    "fLE": "w",
+    "tel": "వాట్సన్",
+    "fLTel": "వ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "5f4fc8e4-f6e8-4e82-965c-90b063e4ad45",
+    "eng": "watt",
+    "fLE": "w",
+    "tel": "వాట్",
+    "fLTel": "వ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "b52bf8b4-3f55-4a43-bc46-8c44b4c5534d",
+    "eng": "Wattekinson",
+    "fLE": "W",
+    "tel": "వాట్తెకిన్సన్",
+    "fLTel": "వ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "fe3fa950-f1ce-4fda-ab7c-45de18b34c7c",
+    "eng": "Wattesone",
+    "fLE": "W",
+    "tel": "వాటీసోనే",
+    "fLTel": "వ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "eda657dc-635c-4162-8b8c-d53824c7b144",
+    "eng": "Wattikinson",
+    "fLE": "W",
+    "tel": "వాటిన్సన్",
+    "fLTel": "వ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "6a68573a-6535-4ee6-bf3c-52a8c3df3366",
+    "eng": "Wattkins",
+    "fLE": "W",
+    "tel": "వాట్కిన్స్",
+    "fLTel": "వ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "c93cec93-2d37-4766-a1df-dea3a1264a8c",
+    "eng": "watts",
+    "fLE": "w",
+    "tel": "వాట్స్",
+    "fLTel": "వ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "8f807741-19be-4745-8379-e773eddb2554",
+    "eng": "Wattson",
+    "fLE": "W",
+    "tel": "వాట్సన్",
+    "fLTel": "వ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "b896ae20-317e-4d9a-84a1-0199f8273c66",
+    "eng": "Waulter",
+    "fLE": "W",
+    "tel": "వాయులీటర్",
+    "fLTel": "వ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "3a8722b0-f2bb-4599-8804-96c4e199a93e",
+    "eng": "Waut",
+    "fLE": "W",
+    "tel": "వాడుట",
+    "fLTel": "వ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "07a2180d-b060-4fc6-82da-8cf4d8b9ba17",
+    "eng": "Wauter",
+    "fLE": "W",
+    "tel": "రయూతీ",
+    "fLTel": "ర",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "911240d4-ae62-4c94-ab8a-3bdaed99fc7e",
+    "eng": "Waverlee",
+    "fLE": "W",
+    "tel": "వావెర్లీ",
+    "fLTel": "వ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "d9beff7e-77a2-4da6-9ce8-03f8caeae022",
+    "eng": "waverley",
+    "fLE": "w",
+    "tel": "వావెర్ల్య్",
+    "fLTel": "వ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "34a9b14f-3d9a-43c0-b66f-288f8415af27",
+    "eng": "Waweru",
+    "fLE": "W",
+    "tel": "వావెరు",
+    "fLTel": "వ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "b08ce9eb-b9b8-4144-992d-05df169a0842",
+    "eng": "Way",
+    "fLE": "W",
+    "tel": "వే",
+    "fLTel": "వ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "f4ce4822-b05e-4ec1-af59-04545b01d423",
+    "eng": "Wayan",
+    "fLE": "W",
+    "tel": "వయం",
+    "fLTel": "వ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "7384639e-5410-400e-8615-4c20eec21ea3",
+    "eng": "wayde",
+    "fLE": "w",
+    "tel": "వేడి",
+    "fLTel": "వ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "fd1cd937-2cef-45e9-921d-48d0c67bb5fd",
+    "eng": "Waydell",
+    "fLE": "W",
+    "tel": "వేడెల్",
+    "fLTel": "వ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "f1f963c7-412b-4efb-bed4-8718dd4c3538",
+    "eng": "Wayel",
+    "fLE": "W",
+    "tel": "వేల్",
+    "fLTel": "వ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "2b2de757-9e23-4345-9294-eae8b1e62845",
+    "eng": "Waylan",
+    "fLE": "W",
+    "tel": "వేలం",
+    "fLTel": "వ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "261e676b-ebcf-479f-9fda-e4a4d2bf4db5",
+    "eng": "wayland",
+    "fLE": "w",
+    "tel": "వేలాండ్",
+    "fLTel": "వ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "07bb13bf-e555-4b6e-bed8-e07cfe9e4312",
+    "eng": "Waylin",
+    "fLE": "W",
+    "tel": "వేలిన్",
+    "fLTel": "వ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "35071855-f1dc-4c4f-87c4-44aeb78ab644",
+    "eng": "waylon",
+    "fLE": "w",
+    "tel": "వేలిన్",
+    "fLTel": "వ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "f9358d8a-0045-4fa0-b2c6-110abad85951",
+    "eng": "wayman",
+    "fLE": "w",
+    "tel": "వ్యాయామం",
+    "fLTel": "వ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "1bfbf9b0-9fb3-4385-a3d8-e44237c8cbf6",
+    "eng": "Wayn",
+    "fLE": "W",
+    "tel": "వేన్",
+    "fLTel": "వ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "b6e98a08-a14f-43f3-bd7e-2e217362adef",
+    "eng": "wayna",
+    "fLE": "w",
+    "tel": "వేన",
+    "fLTel": "వ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "6a8c8f03-b084-4dee-a941-7fa7308e9b5e",
+    "eng": "wayne",
+    "fLE": "w",
+    "tel": "వేనే",
+    "fLTel": "వ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "0d40ff32-f23f-4d71-9b27-4c94f86d93eb",
+    "eng": "Wayneright",
+    "fLE": "W",
+    "tel": "వేనేరిఘ్త్",
+    "fLTel": "వ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "a17f78c8-b499-4086-87e7-870564c7651d",
+    "eng": "Waynewright",
+    "fLE": "W",
+    "tel": "వేన్యూరిఘ్త్",
+    "fLTel": "వ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "45b24c4a-0651-4256-b4c9-6e643da8e3f4",
+    "eng": "Waynright",
+    "fLE": "W",
+    "tel": "రయ్నరిఘ్త్",
+    "fLTel": "ర",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "85ea6559-e4e7-4b07-aef1-f9d4c0b911cd",
+    "eng": "wayra",
+    "fLE": "w",
+    "tel": "వేరే",
+    "fLTel": "వ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "6ec0862e-4eda-4b10-ace7-4c8b019d920e",
+    "eng": "Wayte",
+    "fLE": "W",
+    "tel": "వేటే",
+    "fLTel": "వ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "e4f52543-bb23-4082-844c-77337c688f0d",
+    "eng": "Wazin",
+    "fLE": "W",
+    "tel": "వాజిన్",
+    "fLTel": "వ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "76747bf3-d7ed-4466-b734-a8ef51f333e7",
+    "eng": "Wazir",
+    "fLE": "W",
+    "tel": "వాజిర్",
+    "fLTel": "వ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "6a8cd118-1a92-4469-83e5-2e469fdde835",
+    "eng": "Wealaca",
+    "fLE": "W",
+    "tel": "వీలకే",
+    "fLTel": "వ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "e0271f56-c7e0-4761-b76e-26355d00596c",
+    "eng": "Wealaworth",
+    "fLE": "W",
+    "tel": "వీలవర్థ్",
+    "fLTel": "వ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "396a8df5-a9ff-4a54-8052-b8e767fd5863",
+    "eng": "Wealda",
+    "fLE": "W",
+    "tel": "వెల్లడ",
+    "fLTel": "వ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "29e7483e-8ff6-4777-ac31-af4bf7b5851e",
+    "eng": "Wealdhere",
+    "fLE": "W",
+    "tel": "వెయల్దేరే",
+    "fLTel": "వ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "3dba0ede-bf37-467d-b590-022c432dd78e",
+    "eng": "Wealding",
+    "fLE": "W",
+    "tel": "వెల్లడింగ్",
+    "fLTel": "వ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "bfc5cc28-9fe6-477f-9c41-ee85fa9bf4e2",
+    "eng": "Wealdthaf",
+    "fLE": "W",
+    "tel": "వీళ్డ్తాఫ్",
+    "fLTel": "వ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "009bba86-c19d-48ca-af63-a244ac623146",
+    "eng": "Wealdtheof",
+    "fLE": "W",
+    "tel": "వెల్లడితేఆ",
+    "fLTel": "వ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "192db715-0454-48bd-8347-2ead8b06a191",
+    "eng": "Wealdtheow",
+    "fLE": "W",
+    "tel": "వెల్లడితేఓ",
+    "fLTel": "వ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "ec27de28-c6b6-4c83-b04d-3a56ac76b81a",
+    "eng": "Wealh",
+    "fLE": "W",
+    "tel": "వెల్లహ్",
+    "fLTel": "వ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "8625267b-b5c5-4462-a621-23cc3c4bc63f",
+    "eng": "Wealhhere",
+    "fLE": "W",
+    "tel": "వీళ్హహెరె",
+    "fLTel": "వ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "7a1aa6dc-612c-42c5-9f9a-1a458b97241c",
+    "eng": "Weallcot",
+    "fLE": "W",
+    "tel": "వీళ్లకోట",
+    "fLTel": "వ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "8224f9aa-b1b3-4f3f-a474-fd7a48cf2c23",
+    "eng": "Weallere",
+    "fLE": "W",
+    "tel": "వెళ్ళేరు",
+    "fLTel": "వ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "5ab26211-1f13-42af-8cc4-038a79008d3d",
+    "eng": "Weard",
+    "fLE": "W",
+    "tel": "వెర్",
+    "fLTel": "వ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "4ee741ab-1e0f-48d9-8ba6-426eb71a5a61",
+    "eng": "Weardhyll",
+    "fLE": "W",
+    "tel": "వెర్ఢ్యల్",
+    "fLTel": "వ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "1df51718-9165-422f-b577-a359b7edefc9",
+    "eng": "Weardleah",
+    "fLE": "W",
+    "tel": "వెర్లీహ్",
+    "fLTel": "వ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "d6302f54-4cac-47e6-b675-f34d0a54bfff",
+    "eng": "weather",
+    "fLE": "w",
+    "tel": "వీధేర్",
+    "fLTel": "వ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  }
+]

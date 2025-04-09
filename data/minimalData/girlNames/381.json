@@ -1,0 +1,902 @@
+[
+  {
+    "id": "2e8f2d26-716a-4b4d-b34a-9a9ceaec569e",
+    "eng": "Sannidhi",
+    "fLE": "S",
+    "tel": "సన్నిధి",
+    "fLTel": "స",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "8133b33d-f4fa-4b91-b708-b0c8aab163f2",
+    "eng": "Sanny",
+    "fLE": "S",
+    "tel": "సన్నీ",
+    "fLTel": "స",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "56ba2e18-3d9b-4d9e-8aef-a03599d93563",
+    "eng": "Sanober",
+    "fLE": "S",
+    "tel": "స్నోబెర్",
+    "fLTel": "స",
+    "tags": [],
+    "gen": "female",
+    "rel": "Muslim"
+  },
+  {
+    "id": "240c80e1-04bc-4596-bb77-71ff4af010d1",
+    "eng": "Sanoh",
+    "fLE": "S",
+    "tel": "సనోహ్",
+    "fLTel": "స",
+    "tags": [],
+    "gen": "female",
+    "rel": "others"
+  },
+  {
+    "id": "d35f914c-596b-4065-a124-8af97368b582",
+    "eng": "Sanoja",
+    "fLE": "S",
+    "tel": "సంయోజ",
+    "fLTel": "స",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "546371a9-7f63-4319-ab8a-879d83977045",
+    "eng": "Sanoli",
+    "fLE": "S",
+    "tel": "సోనాలి",
+    "fLTel": "స",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "c8b5f613-3fb5-47ce-ac19-8c1a17337bfe",
+    "eng": "Sanouk",
+    "fLE": "S",
+    "tel": "సనౌక్",
+    "fLTel": "స",
+    "tags": [],
+    "gen": "female",
+    "rel": "others"
+  },
+  {
+    "id": "7c38812a-75ce-4ba2-a2bd-be8d17639434",
+    "eng": "Sanprita",
+    "fLE": "S",
+    "tel": "సంప్రీతా",
+    "fLTel": "స",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "67bbca1e-88d2-48d5-aa6c-71c5d1d57f4e",
+    "eng": "Sanrakta",
+    "fLE": "S",
+    "tel": "సంరక్త",
+    "fLTel": "స",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "605e8982-a19c-4f21-b2d5-49ab2b7e676a",
+    "eng": "Sanreet",
+    "fLE": "S",
+    "tel": "సారీస్",
+    "fLTel": "స",
+    "tags": [],
+    "gen": "female",
+    "rel": "Sikh"
+  },
+  {
+    "id": "a28ccc51-02a3-47ca-9ffa-ce4e2ba1cd33",
+    "eng": "Sansa",
+    "fLE": "S",
+    "tel": "సంస",
+    "fLTel": "స",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "09c3722d-4d89-4102-8cff-fa91552b5d64",
+    "eng": "sansa",
+    "fLE": "s",
+    "tel": "సంస",
+    "fLTel": "స",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "d37ee133-0785-429d-a7ee-cd8061c93b4c",
+    "eng": "Sanshi",
+    "fLE": "S",
+    "tel": "సంధి",
+    "fLTel": "స",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "e4185ee4-47a6-4978-8ab3-0100da226b81",
+    "eng": "Sanshika",
+    "fLE": "S",
+    "tel": "సంశిక",
+    "fLTel": "స",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "e81fe2c6-1bee-43cb-9afa-e86712df05d0",
+    "eng": "Sanshrita",
+    "fLE": "S",
+    "tel": "సంశ్రిత",
+    "fLTel": "స",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "cd2e5e10-0ed1-4593-af89-8f0a49ecd1ce",
+    "eng": "Sansiddhi",
+    "fLE": "S",
+    "tel": "సంసిద్ధి",
+    "fLTel": "స",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "ff132f44-7e63-41cd-bbb5-58940d542bfc",
+    "eng": "Sansita",
+    "fLE": "S",
+    "tel": "సంశిత",
+    "fLTel": "స",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "673d0122-cd99-48c7-8018-e4f50d22035b",
+    "eng": "Sanskritha",
+    "fLE": "S",
+    "tel": "సంసకృత",
+    "fLTel": "స",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "7c9a1888-2cbf-4acb-81e3-6fc0c5f19f92",
+    "eng": "Sanskrithi",
+    "fLE": "S",
+    "tel": "సంసకృతి",
+    "fLTel": "స",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "a11738e0-7aeb-4b3b-88a4-fdf933bef0da",
+    "eng": "Sanskriti",
+    "fLE": "S",
+    "tel": "సంసకృతి",
+    "fLTel": "స",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "a9d7fc60-28e6-4ae4-9e4e-5d70970e7c75",
+    "eng": "Sanskruti",
+    "fLE": "S",
+    "tel": "సంస్కృతి",
+    "fLTel": "స",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "e7b3f95e-7d99-468a-94c4-fcee0431e13c",
+    "eng": "Santa",
+    "fLE": "S",
+    "tel": "శాంతా",
+    "fLTel": "శ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "d1d96860-cd50-4058-8b65-81ec7c5fe79e",
+    "eng": "santaa",
+    "fLE": "s",
+    "tel": "శాంటా",
+    "fLTel": "శ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Sikh"
+  },
+  {
+    "id": "42c197c1-4477-4d1c-87e8-e5bcbcedfae6",
+    "eng": "Santani",
+    "fLE": "S",
+    "tel": "శాంతిని",
+    "fLTel": "శ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "ef067b88-c180-4a3d-bf14-3e6f2b19a5bc",
+    "eng": "Santati",
+    "fLE": "S",
+    "tel": "సంతతి",
+    "fLTel": "స",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "d12d9735-c886-456d-9fbc-00a3de9b48a5",
+    "eng": "Santawana",
+    "fLE": "S",
+    "tel": "సంతవాన",
+    "fLTel": "స",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "18ae27f8-4f26-47a5-96cf-23519ea30f8f",
+    "eng": "Santayani",
+    "fLE": "S",
+    "tel": "శాంతాయని",
+    "fLTel": "శ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "d9051235-8579-4d32-aaac-bad38343e6da",
+    "eng": "Santesa",
+    "fLE": "S",
+    "tel": "సంటేస",
+    "fLTel": "స",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "09b13a14-661a-45ff-89c2-43a993e056c7",
+    "eng": "Santha",
+    "fLE": "S",
+    "tel": "సంత",
+    "fLTel": "స",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "87cc4497-66af-4cdf-9771-4144852745c6",
+    "eng": "Santhamani",
+    "fLE": "S",
+    "tel": "సంతమని",
+    "fLTel": "స",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "bb7f7355-2771-4d78-9df7-fcd2cc7ab5bb",
+    "eng": "Santhi",
+    "fLE": "S",
+    "tel": "శాంతి",
+    "fLTel": "శ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "5fd982bd-f2fd-4c6b-9963-99135b98dd70",
+    "eng": "Santhimathi",
+    "fLE": "S",
+    "tel": "శాంతిమతి",
+    "fLTel": "శ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "4fdc55c9-d8da-4ee8-93d7-97d139a4fa98",
+    "eng": "Santhini",
+    "fLE": "S",
+    "tel": "శాంతిని",
+    "fLTel": "శ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "c74814d8-f5ab-4971-aae7-8977cda035d6",
+    "eng": "Santhiya",
+    "fLE": "S",
+    "tel": "శాంతియా",
+    "fLTel": "శ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "f69f39db-add1-42f9-a094-c27fbce339df",
+    "eng": "Santhoshi",
+    "fLE": "S",
+    "tel": "సంతోషి",
+    "fLTel": "స",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "c8c4162a-3bb0-40c6-b108-ef6bef603b44",
+    "eng": "Santhoshitha",
+    "fLE": "S",
+    "tel": "సంతోషితః",
+    "fLTel": "స",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "4086a0f1-2e8b-4283-8852-65932d0abaeb",
+    "eng": "Santhosi",
+    "fLE": "S",
+    "tel": "సంతోషి",
+    "fLTel": "స",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "cfafe408-cb62-43fb-aed4-4f43e3588bd1",
+    "eng": "Santhushti",
+    "fLE": "S",
+    "tel": "సంతుష్టి",
+    "fLTel": "స",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "cff881a0-4a66-4c23-ac90-8c81a9d72951",
+    "eng": "Santidad",
+    "fLE": "S",
+    "tel": "శాంతిదాడి",
+    "fLTel": "శ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "e1c24e59-4e71-45f0-b2ff-a9d8c6b3d2d0",
+    "eng": "Santina",
+    "fLE": "S",
+    "tel": "శాంతిని",
+    "fLTel": "శ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "5ee7a983-e1bb-462f-bcda-1a01235d3d7d",
+    "eng": "Santok",
+    "fLE": "S",
+    "tel": "సంతోఖ్",
+    "fLTel": "స",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "593cb32e-98d4-450d-8f2c-78efb0386098",
+    "eng": "Santoor",
+    "fLE": "S",
+    "tel": "సంతూర్",
+    "fLTel": "స",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "456925eb-b418-4645-962b-bc3f91d276e0",
+    "eng": "Santoshi",
+    "fLE": "S",
+    "tel": "సంతోషి",
+    "fLTel": "స",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "13181e0f-d164-4366-9838-971a65b2aa6c",
+    "eng": "Santrupti",
+    "fLE": "S",
+    "tel": "సంతృప్తి",
+    "fLTel": "స",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "b5295543-82ed-4339-afb4-2c9bd75015ca",
+    "eng": "Santusha",
+    "fLE": "S",
+    "tel": "సంతూషా",
+    "fLTel": "స",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "ad560a27-bf5d-4ca4-8112-399fffa0d0a4",
+    "eng": "Santusht",
+    "fLE": "S",
+    "tel": "సంతుష్ట",
+    "fLTel": "స",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "ccdde239-7e5f-404a-b443-a9a861d03fc1",
+    "eng": "Santushti",
+    "fLE": "S",
+    "tel": "సంతుష్టి",
+    "fLTel": "స",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "095ad504-789f-4b86-b77c-800a9f1df40a",
+    "eng": "Santwana",
+    "fLE": "S",
+    "tel": "సాంత్వన",
+    "fLTel": "స",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "cde4f165-2f37-4152-862b-b1a2b0bb662c",
+    "eng": "Santy",
+    "fLE": "S",
+    "tel": "శాంతి",
+    "fLTel": "శ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Sikh"
+  },
+  {
+    "id": "4ec8e455-0e55-409f-80c1-049c3c432f73",
+    "eng": "Sanum",
+    "fLE": "S",
+    "tel": "సాయం",
+    "fLTel": "స",
+    "tags": [],
+    "gen": "female",
+    "rel": "Muslim"
+  },
+  {
+    "id": "e551da5b-8f6c-491f-9a56-ac0723efc682",
+    "eng": "Sanumati",
+    "fLE": "S",
+    "tel": "సానుమతి",
+    "fLTel": "స",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "ad686543-5809-462c-aa18-0252d59bb605",
+    "eng": "Sanusha",
+    "fLE": "S",
+    "tel": "సానుష",
+    "fLTel": "స",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "eedeaa8a-b0e7-4454-84db-665be89cfac1",
+    "eng": "Sanvah",
+    "fLE": "S",
+    "tel": "సంవహ్",
+    "fLTel": "స",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "d11cc748-3cef-4274-90fb-2e2a1507d69f",
+    "eng": "Sanvali",
+    "fLE": "S",
+    "tel": "సంవలి",
+    "fLTel": "స",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "a2128514-7477-4327-a3eb-94646f7a2461",
+    "eng": "Sanvee",
+    "fLE": "S",
+    "tel": "శాన్వీ",
+    "fLTel": "శ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "ef10a61b-8bd6-44bc-a44a-bee68464e423",
+    "eng": "Sanvi",
+    "fLE": "S",
+    "tel": "శాన్వి",
+    "fLTel": "శ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "7d6a85ce-91bc-415e-b4ee-faa3c7db146b",
+    "eng": "Sanvida",
+    "fLE": "S",
+    "tel": "సంవిద",
+    "fLTel": "స",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "5c4c6dbb-6ad3-46a0-ba2f-2594beedc6fc",
+    "eng": "Sanvika",
+    "fLE": "S",
+    "tel": "సంవిక",
+    "fLTel": "స",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "21a2d20c-bf1c-4665-8970-fe04b972f9d6",
+    "eng": "Sanvitha",
+    "fLE": "S",
+    "tel": "సాన్విత",
+    "fLTel": "స",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "4153871f-2ea4-4ad3-b24d-14d2dec21708",
+    "eng": "Sanvitti",
+    "fLE": "S",
+    "tel": "సంవిట్టి",
+    "fLTel": "స",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "b9c315a7-3708-4730-b269-1f0f0bfa7e5c",
+    "eng": "Sanvritty",
+    "fLE": "S",
+    "tel": "సంవరిట్టి",
+    "fLTel": "స",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "a608a349-c5d5-4dc8-bf41-3f3c95e26c8e",
+    "eng": "Sanvy",
+    "fLE": "S",
+    "tel": "సంవై",
+    "fLTel": "స",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "5aba4129-aec3-404e-aeec-e2815517c73a",
+    "eng": "Sanwari",
+    "fLE": "S",
+    "tel": "సంవారి",
+    "fLTel": "స",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "8d17c76c-d19c-4ba5-a160-e6950bdfb4ea",
+    "eng": "Sanya",
+    "fLE": "S",
+    "tel": "సానియా",
+    "fLTel": "స",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "643ed034-3f98-4cd8-a4bc-5047f27e386c",
+    "eng": "Sanyah",
+    "fLE": "S",
+    "tel": "సంయహ్",
+    "fLTel": "స",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "73dfac88-a61a-40b1-9115-57f337f12a79",
+    "eng": "Sanyakta",
+    "fLE": "S",
+    "tel": "సంయక్త",
+    "fLTel": "స",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "6a497341-dd24-433c-84f1-b75e7695a7b6",
+    "eng": "Sanyogita",
+    "fLE": "S",
+    "tel": "సంయోజిత",
+    "fLTel": "స",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "7d3c8c9f-09fc-40ec-9768-bfc0b237bcb9",
+    "eng": "Sanyukta",
+    "fLE": "S",
+    "tel": "సంయుక్త",
+    "fLTel": "స",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "ebd293d4-b730-453d-93ba-bb097cb9eeb1",
+    "eng": "Saoirse",
+    "fLE": "S",
+    "tel": "సమోయ్ర్స్",
+    "fLTel": "స",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "3528a808-c9b4-43a6-a38b-5a12f4e9136b",
+    "eng": "Saon",
+    "fLE": "S",
+    "tel": "సన్",
+    "fLTel": "స",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "da355234-e4a8-4c67-be81-6297bdfa6a6c",
+    "eng": "Saorla",
+    "fLE": "S",
+    "tel": "సార్ల",
+    "fLTel": "స",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "849f310a-e948-4fc1-9646-5c38ed78eead",
+    "eng": "Sapana",
+    "fLE": "S",
+    "tel": "సోపాన",
+    "fLTel": "స",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "bab9fa38-6581-4f9f-898f-ba2ef338199a",
+    "eng": "Saparna",
+    "fLE": "S",
+    "tel": "సపర్ణ",
+    "fLTel": "స",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "c9c73e3b-f241-44ec-b7cb-e8deb0578f97",
+    "eng": "Sapeedah",
+    "fLE": "S",
+    "tel": "సాపీదః",
+    "fLTel": "స",
+    "tags": [],
+    "gen": "female",
+    "rel": "Muslim"
+  },
+  {
+    "id": "acaf95fc-5cef-4f25-a7a1-f1f6b9068454",
+    "eng": "Sapfo",
+    "fLE": "S",
+    "tel": "సాప్ఫా",
+    "fLTel": "స",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "4f5b8fa6-acd5-42a2-8513-45cc79b3da47",
+    "eng": "Saphala",
+    "fLE": "S",
+    "tel": "సఫల",
+    "fLTel": "స",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "342854e2-ea7c-46ce-8bab-43d15d8fd027",
+    "eng": "Saphir",
+    "fLE": "S",
+    "tel": "సఫైర్",
+    "fLTel": "స",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "de14b2d5-f9d0-4f3c-abc3-54fff27ae567",
+    "eng": "Saphira",
+    "fLE": "S",
+    "tel": "సఫిరా",
+    "fLTel": "స",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "4871a2dd-b96e-40ec-81f4-a7dd5cef9d87",
+    "eng": "Saphire",
+    "fLE": "S",
+    "tel": "సఫైర్",
+    "fLTel": "స",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "3e9d0a24-f9ba-4a37-b7bc-b8facac47cc5",
+    "eng": "Saphron",
+    "fLE": "S",
+    "tel": "స్ఫర్న్",
+    "fLTel": "స",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "5254f742-d347-4eef-9b82-0763dc81f40b",
+    "eng": "Saphyre",
+    "fLE": "S",
+    "tel": "సఫీరి",
+    "fLTel": "స",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "ea9db620-8685-4efb-a7dd-cb778953d82f",
+    "eng": "Sapidah",
+    "fLE": "S",
+    "tel": "సాపిదః",
+    "fLTel": "స",
+    "tags": [],
+    "gen": "female",
+    "rel": "Muslim"
+  },
+  {
+    "id": "21a91c84-bb05-41c2-a988-992841706fe3",
+    "eng": "Sapir",
+    "fLE": "S",
+    "tel": "సాపిర్",
+    "fLTel": "స",
+    "tags": [],
+    "gen": "female",
+    "rel": "others"
+  },
+  {
+    "id": "205b02d7-3f62-451d-8ca5-a32d28fbe2e5",
+    "eng": "Sapna",
+    "fLE": "S",
+    "tel": "సప్నా",
+    "fLTel": "స",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "144a0e97-4941-4109-9fbe-96f0fb2e9d03",
+    "eng": "Sapna Devi",
+    "fLE": "S",
+    "tel": "సప్నా దేవి",
+    "fLTel": "స",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "3402145e-9a2a-4516-9f70-0fa75657dbaf",
+    "eng": "Sapnam",
+    "fLE": "S",
+    "tel": "స్పప్నం",
+    "fLTel": "స",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "431bffe5-94f1-4643-a27f-6810c69384a5",
+    "eng": "Sapnem",
+    "fLE": "S",
+    "tel": "సప్నేమ్",
+    "fLTel": "స",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "a5b42aca-35f1-459b-b0e2-a9c811d12eb8",
+    "eng": "Sapphire",
+    "fLE": "S",
+    "tel": "సాప్ఫిరే",
+    "fLTel": "స",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "336ade85-b6e0-472a-b7a0-14efd0a09b6b",
+    "eng": "Sappho",
+    "fLE": "S",
+    "tel": "సప్పహా",
+    "fLTel": "స",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "8961725c-4d99-44fe-a2e5-c475b8222f84",
+    "eng": "Sapriti",
+    "fLE": "S",
+    "tel": "సప్రితి",
+    "fLTel": "స",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  }
+]

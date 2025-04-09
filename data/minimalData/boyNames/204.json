@@ -1,0 +1,942 @@
+[
+  {
+    "id": "8dddd52d-20fc-44ec-a3fb-145dc4d19855",
+    "eng": "Florentinus",
+    "fLE": "F",
+    "tel": "ఫ్లోరెంటైన్స్",
+    "fLTel": "ఫ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "0a008eb3-8b32-4989-9bfc-a366b23d9e47",
+    "eng": "Florian",
+    "fLE": "F",
+    "tel": "ఫ్లోరియాన్",
+    "fLTel": "ఫ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "63e36dca-46fd-4b13-bf8b-e7cf97dab873",
+    "eng": "florian",
+    "fLE": "f",
+    "tel": "ఫ్లోరియాన్",
+    "fLTel": "ఫ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "05f0aa52-5e76-4aa3-a723-51e1db5798ac",
+    "eng": "Florin",
+    "fLE": "F",
+    "tel": "ఫ్లోరిన్",
+    "fLTel": "ఫ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "e3f45275-824e-4c00-9d6a-ab5fab330220",
+    "eng": "florin",
+    "fLE": "f",
+    "tel": "ఫ్లోరిన్",
+    "fLTel": "ఫ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "9f595a4f-6b50-4631-8871-1679fc2e87d9",
+    "eng": "Florino",
+    "fLE": "F",
+    "tel": "ఫ్లోరినో",
+    "fLTel": "ఫ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "8d3ac82c-dc24-407b-9184-d8d668e1309f",
+    "eng": "Floris",
+    "fLE": "F",
+    "tel": "ఫ్లోరిస్",
+    "fLTel": "ఫ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "e416367a-19d4-42e7-b3da-c7cb282e2ab5",
+    "eng": "Florizel",
+    "fLE": "F",
+    "tel": "ఫ్లోరిజల్",
+    "fLTel": "ఫ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "65418cf0-2842-4d3e-ac93-ca2414d9067d",
+    "eng": "Florus",
+    "fLE": "F",
+    "tel": "ఫ్లోరిస్",
+    "fLTel": "ఫ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "8bcdfff4-a3b9-4f51-b1d3-d1157801197c",
+    "eng": "Flosi",
+    "fLE": "F",
+    "tel": "ప్లాసీ",
+    "fLTel": "ప",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "25a4109b-eb0c-4f43-bf45-fb7ed1ed13c2",
+    "eng": "Flowerjit",
+    "fLE": "F",
+    "tel": "ఫ్లవర్జిత్",
+    "fLTel": "ఫ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Sikh"
+  },
+  {
+    "id": "24585912-ce09-40d2-af79-9c86eb037700",
+    "eng": "Floyd",
+    "fLE": "F",
+    "tel": "ఫ్లాయిడ్",
+    "fLTel": "ఫ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "64876ee5-8f31-4068-a009-e549685fcf91",
+    "eng": "Fluellen",
+    "fLE": "F",
+    "tel": "ఫ్లుయెల్లెన్",
+    "fLTel": "ఫ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "cbc36c40-75c3-4cca-9dca-ef4b12732b65",
+    "eng": "Flurry",
+    "fLE": "F",
+    "tel": "ఫ్లూర్ర్య్",
+    "fLTel": "ఫ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "dfef747c-007c-4861-8622-5fc295f85519",
+    "eng": "Flynt",
+    "fLE": "F",
+    "tel": "ఫ్లయ్న్ట్",
+    "fLTel": "ఫ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "5c7480fd-ea66-44c4-a19e-1f61d0e9e71a",
+    "eng": "Fobb",
+    "fLE": "F",
+    "tel": "ఫోబ్",
+    "fLTel": "ఫ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "bf56772f-f183-4791-9830-b0f2e1096e94",
+    "eng": "Fobba",
+    "fLE": "F",
+    "tel": "ఫోబ్బా",
+    "fLTel": "ఫ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "b2a5ddcd-2d24-4ef7-be69-8cca2adec749",
+    "eng": "Focca",
+    "fLE": "F",
+    "tel": "ఫాకా",
+    "fLTel": "ఫ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "7eba0297-9f02-434d-9df5-f2be22bf836c",
+    "eng": "fogarty",
+    "fLE": "f",
+    "tel": "ఫోగర్తి",
+    "fLTel": "ఫ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "599930a8-1413-4f54-9bea-d05a9ef99d4f",
+    "eng": "Foivos",
+    "fLE": "F",
+    "tel": "ఫోఇవోస్",
+    "fLTel": "ఫ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "36a63580-8d19-4896-a06c-1632ad5101ac",
+    "eng": "Fojinder",
+    "fLE": "F",
+    "tel": "ఫోజిన్డెర్",
+    "fLTel": "ఫ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Sikh"
+  },
+  {
+    "id": "a3428358-26d3-47f1-a459-df31b4067253",
+    "eng": "Folarin",
+    "fLE": "F",
+    "tel": "ఫాలరిం",
+    "fLTel": "ఫ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "cb6ef353-1e0d-4a34-b5b1-ea8d91613ed1",
+    "eng": "Folca",
+    "fLE": "F",
+    "tel": "ఫోలీకే",
+    "fLTel": "ఫ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "365d5128-c4f1-4942-9ec6-649096572183",
+    "eng": "Folcheorht",
+    "fLE": "F",
+    "tel": "ఫోల్చేర్హ్ట్",
+    "fLTel": "ఫ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "a2a4d46b-c566-41ba-ab53-6ff4fc481276",
+    "eng": "Foley",
+    "fLE": "F",
+    "tel": "ఫోలిక్",
+    "fLTel": "ఫ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "7dab138d-6cc9-4bad-857c-7e1987a4c980",
+    "eng": "Folke",
+    "fLE": "F",
+    "tel": "ఫాల్కే",
+    "fLTel": "ఫ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "1fcd4763-2941-4b86-abc3-84686be86340",
+    "eng": "Folker",
+    "fLE": "F",
+    "tel": "ఫాల్కేర్",
+    "fLTel": "ఫ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "bf0b23ff-c3a3-446d-91c4-663ef62400d6",
+    "eng": "Folsom",
+    "fLE": "F",
+    "tel": "ఫోలీసోమ్",
+    "fLTel": "ఫ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "cb1d8ae7-7d3d-430a-abf0-0f303e1abbd3",
+    "eng": "Folu",
+    "fLE": "F",
+    "tel": "ఫాలు",
+    "fLTel": "ఫ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "1f03cc5d-26ee-43f7-80ab-45ebe4537c71",
+    "eng": "Fons",
+    "fLE": "F",
+    "tel": "ఫాన్స్",
+    "fLTel": "ఫ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "a4bfb2ec-e0f1-4c9d-a2b8-8d044aa99bad",
+    "eng": "Fonsie",
+    "fLE": "F",
+    "tel": "ఫాంసీ",
+    "fLTel": "ఫ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "ae1339fb-b3e5-4968-8af8-a994f7872ee2",
+    "eng": "Fonso",
+    "fLE": "F",
+    "tel": "ఫోన్సో",
+    "fLTel": "ఫ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "0f68cd1a-09d8-4113-8e65-802840c18dc0",
+    "eng": "Fontaine",
+    "fLE": "F",
+    "tel": "ఫోన్టైన్",
+    "fLTel": "ఫ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "602946fd-cf57-4ad5-9459-64ced1b971d7",
+    "eng": "Fontane",
+    "fLE": "F",
+    "tel": "ఫాంటనే",
+    "fLTel": "ఫ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "c6529d68-2732-4346-a62b-56ddf4942ad3",
+    "eng": "Fonz",
+    "fLE": "F",
+    "tel": "ఫాన్స్",
+    "fLTel": "ఫ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "9040c098-6abf-4baa-a634-2a60fc648dd2",
+    "eng": "Fonzell",
+    "fLE": "F",
+    "tel": "ఫాంజెల్",
+    "fLTel": "ఫ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "f527521f-539b-4d3d-8fe3-8ee75290ccd4",
+    "eng": "Fonzie",
+    "fLE": "F",
+    "tel": "ఫాంజిఎ",
+    "fLTel": "ఫ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "160db6bb-6188-424f-9936-5916751e358e",
+    "eng": "Fonzo",
+    "fLE": "F",
+    "tel": "ఫాంజో",
+    "fLTel": "ఫ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "5db1d0b7-a1b0-4a69-b78f-aea00813183d",
+    "eng": "Fonzy",
+    "fLE": "F",
+    "tel": "ఫాంజ్రి",
+    "fLTel": "ఫ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "08c23b38-55e3-4afb-96ed-1e1ab7792127",
+    "eng": "Foola",
+    "fLE": "F",
+    "tel": "ఫ్యూల",
+    "fLTel": "ఫ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Sikh"
+  },
+  {
+    "id": "40df2763-1bd4-4dd4-aa26-19c2d7befde4",
+    "eng": "Forbes",
+    "fLE": "F",
+    "tel": "ఫోర్బ్స్",
+    "fLTel": "ఫ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "30b07259-f971-4a3a-8907-c3cf26945db7",
+    "eng": "Ford",
+    "fLE": "F",
+    "tel": "ఫోర్డ్",
+    "fLTel": "ఫ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "48b4022a-01b4-4e5e-92fd-232272b5abca",
+    "eng": "Forde",
+    "fLE": "F",
+    "tel": "ఫోర్డ్",
+    "fLTel": "ఫ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "48c7d5e5-2b74-4a1e-8680-5be59d16d07d",
+    "eng": "Forden",
+    "fLE": "F",
+    "tel": "ఫోర్డెన్",
+    "fLTel": "ఫ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "aaf6a392-423d-4512-bae8-6ff952017b2a",
+    "eng": "fordham",
+    "fLE": "f",
+    "tel": "ఫోర్ధం",
+    "fLTel": "ఫ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "c37c72f5-e23a-4267-91a9-9b60886de5c2",
+    "eng": "Fordon",
+    "fLE": "F",
+    "tel": "ఫోర్డాన్",
+    "fLTel": "ఫ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "e4058397-d189-4164-910a-b1fddcdc25b8",
+    "eng": "Fordwin",
+    "fLE": "F",
+    "tel": "ఫోర్ద్విన్",
+    "fLTel": "ఫ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "edbb1a91-da0c-45fb-88dc-2c76ce5793ae",
+    "eng": "Foreman",
+    "fLE": "F",
+    "tel": "ఫోర్మన్",
+    "fLTel": "ఫ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "d0c675e2-a7e3-41cd-b862-54d20917b246",
+    "eng": "Forest",
+    "fLE": "F",
+    "tel": "ఫారెస్ట్",
+    "fLTel": "ఫ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "da03cb48-9424-48ed-9249-8fc0778306ea",
+    "eng": "Forester",
+    "fLE": "F",
+    "tel": "ఫారెస్టర్",
+    "fLTel": "ఫ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "a4b1bd32-ec1a-4f22-8f62-2cbdf7d1ee6c",
+    "eng": "Forrest",
+    "fLE": "F",
+    "tel": "ఫారెస్ట్",
+    "fLTel": "ఫ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "f43024ec-b248-4d71-b562-a1b8fc05ee08",
+    "eng": "forrest",
+    "fLE": "f",
+    "tel": "ఫారెస్ట్",
+    "fLTel": "ఫ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "e0bab863-4cd7-4b15-83a7-23b7473342e1",
+    "eng": "Forrester",
+    "fLE": "F",
+    "tel": "ఫారెస్టర్",
+    "fLTel": "ఫ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "08155488-dee9-401b-8516-1a5a2301ca31",
+    "eng": "forrester",
+    "fLE": "f",
+    "tel": "ఫారెస్టర్",
+    "fLTel": "ఫ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "51f9a4d6-e1b6-473b-b338-47f80b51d286",
+    "eng": "Forseti",
+    "fLE": "F",
+    "tel": "ఫోర్సెటి",
+    "fLTel": "ఫ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "76ee253f-adb2-4f5e-97c5-360f47b0b904",
+    "eng": "forster",
+    "fLE": "f",
+    "tel": "ఫాస్టర్",
+    "fLTel": "ఫ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "167e4035-c5e6-41b1-bbd8-cf1332a81215",
+    "eng": "fort",
+    "fLE": "f",
+    "tel": "ఫోర్ట్",
+    "fLTel": "ఫ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "3f02ac2c-17e7-4fe3-b8fd-fe8ff62be06b",
+    "eng": "Forthhere",
+    "fLE": "F",
+    "tel": "ఫాఠ్హెరె",
+    "fLTel": "ఫ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "30e476fe-a121-46c3-9d45-b31e71927b66",
+    "eng": "Forthred",
+    "fLE": "F",
+    "tel": "ఫాత్రెడ్",
+    "fLTel": "ఫ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "9ca28215-e101-4650-a610-45597fe7fd6e",
+    "eng": "Fortunat",
+    "fLE": "F",
+    "tel": "ఫార్చునట",
+    "fLTel": "ఫ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "8ed7c2d4-499c-4fd7-9d00-219b68378c23",
+    "eng": "Fortunato",
+    "fLE": "F",
+    "tel": "ఫోర్టునతో",
+    "fLTel": "ఫ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "430e2e49-e431-4ba1-8a86-7c14df85ab23",
+    "eng": "Fortunatus",
+    "fLE": "F",
+    "tel": "ఫోర్టునట్స్",
+    "fLTel": "ఫ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "b08c1052-c383-402c-84f9-7b5fbeba4260",
+    "eng": "Fortune",
+    "fLE": "F",
+    "tel": "ఫార్చ్యూన్",
+    "fLTel": "ఫ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "08dd4a1a-db97-41e1-ac90-a798d89bdecb",
+    "eng": "Forwin",
+    "fLE": "F",
+    "tel": "ఫోర్విన్",
+    "fLTel": "ఫ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "db88effd-7221-4877-b88a-a6acc101bb8d",
+    "eng": "Fosco",
+    "fLE": "F",
+    "tel": "ఫోస్కో",
+    "fLTel": "ఫ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "85ff0e9a-0485-4839-b620-3e5fe6e61084",
+    "eng": "Foster",
+    "fLE": "F",
+    "tel": "ఫాస్టర్",
+    "fLTel": "ఫ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "3ef6b1d8-5362-4122-b57f-4af65d4a6902",
+    "eng": "Fotis",
+    "fLE": "F",
+    "tel": "ఫోటీస్",
+    "fLTel": "ఫ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "ebee09d1-7d1b-43be-aa5d-49dcd9c50b1e",
+    "eng": "Fouad",
+    "fLE": "F",
+    "tel": "ఫోఉడ్",
+    "fLTel": "ఫ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "49662ac1-3d78-4514-be2d-5125f7db5767",
+    "eng": "Fowler",
+    "fLE": "F",
+    "tel": "ఫంఓలేరు",
+    "fLTel": "ఫ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "483314bc-61e7-4648-9ae8-50f25d1cb5be",
+    "eng": "Fox",
+    "fLE": "F",
+    "tel": "ఫాక్స్",
+    "fLTel": "ఫ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "9d89f34c-397e-43d3-9bcc-3d6279adebab",
+    "eng": "fox",
+    "fLE": "f",
+    "tel": "ఫాక్స్",
+    "fLTel": "ఫ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "8891d05c-7cc9-488b-8aa3-e2313f27683a",
+    "eng": "foxon",
+    "fLE": "f",
+    "tel": "ఫాక్సన్",
+    "fLTel": "ఫ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "3201a396-2105-4b41-b688-0092931c7d97",
+    "eng": "Foxworth",
+    "fLE": "F",
+    "tel": "ఫాక్సవర్థ్",
+    "fLTel": "ఫ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "6b0299a4-aae5-478f-9ba3-39d2c38329bc",
+    "eng": "Fraeta",
+    "fLE": "F",
+    "tel": "ఫ్రాయీత",
+    "fLTel": "ఫ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "9439ed58-1d48-49a1-b786-c56556f3f657",
+    "eng": "Fragan",
+    "fLE": "F",
+    "tel": "ఫ్రేగం",
+    "fLTel": "ఫ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "f26af4ce-aaa8-4912-8bef-65696c34b1a4",
+    "eng": "Fraine",
+    "fLE": "F",
+    "tel": "ఫ్రీనే",
+    "fLTel": "ఫ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "f3ace6bc-2eb9-4847-bf66-e4a38e479f2d",
+    "eng": "Fraley",
+    "fLE": "F",
+    "tel": "ఫ్రేలెయ్",
+    "fLTel": "ఫ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "3488c578-0622-4097-86b5-2913bb3bd5b1",
+    "eng": "Fram",
+    "fLE": "F",
+    "tel": "ఫ్రేమ్",
+    "fLTel": "ఫ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "6eb7cda6-eeed-414d-a895-32bc3b48cdd2",
+    "eng": "Frameca",
+    "fLE": "F",
+    "tel": "ఫ్రేమేకా",
+    "fLTel": "ఫ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "3d2e3a88-7163-4614-af76-09e3b817c16d",
+    "eng": "Framela",
+    "fLE": "F",
+    "tel": "ఫ్రేముల",
+    "fLTel": "ఫ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "447b40c5-d68d-4499-9fc8-d5e5540efbb6",
+    "eng": "Franc",
+    "fLE": "F",
+    "tel": "ఫ్రాంక్",
+    "fLTel": "ఫ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "d6d4f25f-afa5-4789-a53e-a8de8839f733",
+    "eng": "Francescantonio",
+    "fLE": "F",
+    "tel": "ఫ్రాన్సుస్సీఅంతోనీవు",
+    "fLTel": "ఫ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "cb660307-cc3f-47d9-af5a-37de8fca977a",
+    "eng": "Francesco",
+    "fLE": "F",
+    "tel": "ఫ్రాన్సెస్కో",
+    "fLTel": "ఫ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "c9b97980-4d58-466b-9249-a0d670e495d8",
+    "eng": "Franchot",
+    "fLE": "F",
+    "tel": "ఫ్రాంచోట",
+    "fLTel": "ఫ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "8f3311ec-1549-4a6c-b988-9dcc13e386de",
+    "eng": "Francis",
+    "fLE": "F",
+    "tel": "ఫ్రాన్సిస్",
+    "fLTel": "ఫ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "da44b9d9-397a-48c1-b5ef-02451dd3d92a",
+    "eng": "Francisco",
+    "fLE": "F",
+    "tel": "ఫ్రాన్సిస్కో",
+    "fLTel": "ఫ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "af231dfa-717d-49d4-9cb9-fdb917ee62d2",
+    "eng": "Franciscus",
+    "fLE": "F",
+    "tel": "ఫ్రాన్సిస్క",
+    "fLTel": "ఫ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "5b294f5b-4f64-4faf-9e7b-b753e001ced0",
+    "eng": "Franciskus",
+    "fLE": "F",
+    "tel": "ఫ్రాన్సెస్క్స్",
+    "fLTel": "ఫ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "e0bc4f9f-f6d4-453d-8acc-185f452f2b23",
+    "eng": "Franciszek",
+    "fLE": "F",
+    "tel": "ఫ్రాన్సెస్జ్క్",
+    "fLTel": "ఫ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "32b618ad-27cd-4e67-8d53-c204ca837c88",
+    "eng": "Francizek",
+    "fLE": "F",
+    "tel": "ఫ్రాన్సిజెక్",
+    "fLTel": "ఫ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "b02fe105-1645-475c-b870-eea4f9470f38",
+    "eng": "Franck",
+    "fLE": "F",
+    "tel": "ఫ్రాంక్",
+    "fLTel": "ఫ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "4c6878a6-c1cc-460a-af26-b1cf1bdad356",
+    "eng": "Francklin",
+    "fLE": "F",
+    "tel": "ఫ్రాంసైక్లిన్",
+    "fLTel": "ఫ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "29d43402-6bba-4951-be78-5040c05d1261",
+    "eng": "Francklyn",
+    "fLE": "F",
+    "tel": "ఫ్రాంక్లీన్",
+    "fLTel": "ఫ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "bb13a7df-2361-4fdc-a60f-071005778504",
+    "eng": "Franco",
+    "fLE": "F",
+    "tel": "ఫ్రాంకో",
+    "fLTel": "ఫ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  }
+]

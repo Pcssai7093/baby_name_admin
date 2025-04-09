@@ -1,0 +1,992 @@
+[
+  {
+    "id": "b92b5e2a-2932-4a5b-a683-0dd235e5e630",
+    "eng": "Vaninadh",
+    "fLE": "V",
+    "tel": "వాణీనాధ్",
+    "fLTel": "వ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "2c6ebaec-f97d-4773-b9b2-c6dd687bc5a7",
+    "eng": "Vaninath",
+    "fLE": "V",
+    "tel": "వాణీనాథ్",
+    "fLTel": "వ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "4712c380-d56a-4216-a396-df60652e2c5a",
+    "eng": "Vanishth",
+    "fLE": "V",
+    "tel": "వానిస్త్",
+    "fLTel": "వ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "b3aa5fc0-5d38-49b4-84dd-ab6d2b425f15",
+    "eng": "Vanit",
+    "fLE": "V",
+    "tel": "వానిటీ",
+    "fLTel": "వ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "68fc274e-d18d-4ded-9897-6006b9e8fae9",
+    "eng": "Vanja",
+    "fLE": "V",
+    "tel": "వనజ",
+    "fLTel": "వ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "fcdce2fe-f16d-43e9-bea2-ab6bfc503d5c",
+    "eng": "Vanjeet",
+    "fLE": "V",
+    "tel": "మంజీత్",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Sikh"
+  },
+  {
+    "id": "9f95cdce-655d-417a-821f-240363b3844c",
+    "eng": "Vanjul",
+    "fLE": "V",
+    "tel": "మంజుల",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "76bac25e-23a3-4bd8-8601-61a3741fbe0d",
+    "eng": "Vanko",
+    "fLE": "V",
+    "tel": "వన్కో",
+    "fLTel": "వ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "9ca6cf71-616d-4add-ba61-eb6eb42106d3",
+    "eng": "Vanmaalee",
+    "fLE": "V",
+    "tel": "వనమాలీ",
+    "fLTel": "వ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "d3e202a2-e6fa-4799-aa0c-ec728d9bb205",
+    "eng": "Vanmali",
+    "fLE": "V",
+    "tel": "వనమాలి",
+    "fLTel": "వ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "b954ec46-faae-46d6-afad-19790059ad35",
+    "eng": "Vann",
+    "fLE": "V",
+    "tel": "వన్",
+    "fLTel": "వ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "cc07a729-df22-42db-9fb4-df57cbed6392",
+    "eng": "Vanna",
+    "fLE": "V",
+    "tel": "వున్న",
+    "fLTel": "వ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "9b6dca91-1bea-4709-a8a4-370eef5b9174",
+    "eng": "Vannak",
+    "fLE": "V",
+    "tel": "విన్నాక",
+    "fLTel": "వ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "44e4a4a8-8c2d-4ab5-b350-701fa613cc45",
+    "eng": "Vannan",
+    "fLE": "V",
+    "tel": "వన్నం",
+    "fLTel": "వ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "0276b05d-95d2-4494-8157-885812f98c91",
+    "eng": "Vannes",
+    "fLE": "V",
+    "tel": "వన్నెస్",
+    "fLTel": "వ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "d316acc5-69a8-4543-ba92-22125a8eafc3",
+    "eng": "Vanor",
+    "fLE": "V",
+    "tel": "వానోర్",
+    "fLTel": "వ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "0aded151-af31-44af-8aed-ebeefa476c79",
+    "eng": "Vanraaj",
+    "fLE": "V",
+    "tel": "వానరాజ్",
+    "fLTel": "వ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "29ffbfbb-0972-4d98-9878-f9af2deda0f7",
+    "eng": "Vanraj",
+    "fLE": "V",
+    "tel": "వాన్రాజ్",
+    "fLTel": "వ",
+    "tags": [],
+    "gen": "male",
+    "rel": "others"
+  },
+  {
+    "id": "f8237d70-3f47-4546-9ed7-1792adc44f0a",
+    "eng": "Vans",
+    "fLE": "V",
+    "tel": "వంశ్",
+    "fLTel": "వ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "7b50e4c0-d09e-4396-85e6-7a50fb0bbdf2",
+    "eng": "Vanse",
+    "fLE": "V",
+    "tel": "వంశీ",
+    "fLTel": "వ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "c86becfa-c05a-4c95-ade0-92cedc3bca92",
+    "eng": "Vansh",
+    "fLE": "V",
+    "tel": "వంశ",
+    "fLTel": "వ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "f4127111-6d3e-4cc2-be68-f60f88712301",
+    "eng": "Vanshaj",
+    "fLE": "V",
+    "tel": "వంశజ్",
+    "fLTel": "వ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "9b2601a6-e789-4847-9f13-809a7ca15aaf",
+    "eng": "Vansheedhar",
+    "fLE": "V",
+    "tel": "వంశీధర్",
+    "fLTel": "వ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "811d2d9e-7f38-4438-94c2-39df43850a4b",
+    "eng": "Vanshil",
+    "fLE": "V",
+    "tel": "వంశీల్",
+    "fLTel": "వ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "b110f9d9-4a75-4dc7-8c96-b1d6b78776bd",
+    "eng": "Vanshraj",
+    "fLE": "V",
+    "tel": "వంశరాజ్",
+    "fLTel": "వ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Sikh"
+  },
+  {
+    "id": "a1bbaa33-f492-466f-b3aa-7ef9cda4f235",
+    "eng": "Vanshul",
+    "fLE": "V",
+    "tel": "వాన్షుల్",
+    "fLTel": "వ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "e4839f0f-0644-4bef-bcc7-04fd9c220676",
+    "eng": "Vanshya",
+    "fLE": "V",
+    "tel": "వంశ్య",
+    "fLTel": "వ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "b5317c63-e9e3-4510-8986-5151bd8c12d0",
+    "eng": "Vansidhar",
+    "fLE": "V",
+    "tel": "వంశీధర్",
+    "fLTel": "వ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "7d080011-de39-4cd8-83eb-43214fd65336",
+    "eng": "Vantik",
+    "fLE": "V",
+    "tel": "వంటికి",
+    "fLTel": "వ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "e3f1fcf3-208b-401e-9a09-56acce647887",
+    "eng": "Vanu",
+    "fLE": "V",
+    "tel": "వాను",
+    "fLTel": "వ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "e247e0b0-de45-4bfd-886c-945d19c1e37b",
+    "eng": "Vanuraswomy",
+    "fLE": "V",
+    "tel": "వానిరసవమై",
+    "fLTel": "వ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "59b23f9e-404c-47b2-948d-67ac0e242746",
+    "eng": "Vapun",
+    "fLE": "V",
+    "tel": "వాపును",
+    "fLTel": "వ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "7e4774d9-886f-4504-b295-807d9b0222fa",
+    "eng": "Vapus",
+    "fLE": "V",
+    "tel": "వాపస్",
+    "fLTel": "వ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "6f016568-42ec-4f29-9437-374c3a9dbf39",
+    "eng": "Vapush",
+    "fLE": "V",
+    "tel": "వపుశ్",
+    "fLTel": "వ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "3815b18b-98d1-4afd-9409-3af550cc283a",
+    "eng": "Var",
+    "fLE": "V",
+    "tel": "వార్",
+    "fLTel": "వ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "840b20bb-862d-46fe-9c7d-be22a9ead744",
+    "eng": "Varaah",
+    "fLE": "V",
+    "tel": "వరః",
+    "fLTel": "వ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "454fdf0d-3bdf-4259-b65f-82a04acffb24",
+    "eng": "Varaahamihir",
+    "fLE": "V",
+    "tel": "వరాహమిహిర్",
+    "fLTel": "వ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "6a68525e-cf41-4142-90dc-e45d540814b0",
+    "eng": "Varad",
+    "fLE": "V",
+    "tel": "వరద",
+    "fLTel": "వ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "1b966c81-1275-4f6d-977b-e91f71fe3615",
+    "eng": "Varadaraaj",
+    "fLE": "V",
+    "tel": "వరదరాజ",
+    "fLTel": "వ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "6a5bb766-de39-4d06-93e3-6c996007b1ec",
+    "eng": "Varadaraj",
+    "fLE": "V",
+    "tel": "వరదరాజ",
+    "fLTel": "వ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "942bc2dd-a781-4d48-982f-c76ade5a8dcd",
+    "eng": "Varadaraja",
+    "fLE": "V",
+    "tel": "వరదరాజ",
+    "fLTel": "వ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "01c7fcfe-4c77-4116-83eb-4c8c308d9cbb",
+    "eng": "Varadavinayaka",
+    "fLE": "V",
+    "tel": "వరదవినాయక",
+    "fLTel": "వ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "57a38876-68ba-4370-a14b-47c96c692788",
+    "eng": "Varadh",
+    "fLE": "V",
+    "tel": "వరద",
+    "fLTel": "వ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "47c3149f-a00f-4ded-9042-e9de73da70e9",
+    "eng": "Varadhan",
+    "fLE": "V",
+    "tel": "వరదం",
+    "fLTel": "వ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "cbc11733-7dda-49cb-ab8e-ab331bb3b175",
+    "eng": "Varadraj",
+    "fLE": "V",
+    "tel": "వరదరాజ",
+    "fLTel": "వ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "ebbc3fed-29f7-433e-bbe8-4a4ae920bd0c",
+    "eng": "Varaganapati",
+    "fLE": "V",
+    "tel": "వారగణపతి",
+    "fLTel": "వ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "c75785ba-b13f-45c8-ba2f-08db8c39ac3d",
+    "eng": "Varah",
+    "fLE": "V",
+    "tel": "వరః",
+    "fLTel": "వ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "93e8f644-1eda-4bc6-80ac-8f5e50d37379",
+    "eng": "Varahamihir",
+    "fLE": "V",
+    "tel": "వరాహమిహిర్",
+    "fLTel": "వ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "8190c92c-7230-4b7c-8964-f4960bb42eb3",
+    "eng": "varan",
+    "fLE": "v",
+    "tel": "వారం",
+    "fLTel": "వ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "f0054887-bef8-444d-8391-3b3a8ac09468",
+    "eng": "Varaprada",
+    "fLE": "V",
+    "tel": "వరప్రదా",
+    "fLTel": "వ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "044f7d0a-da54-434d-ba0d-37ef35871819",
+    "eng": "Varaptam",
+    "fLE": "V",
+    "tel": "వరపీఠం",
+    "fLTel": "వ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "f4306b0d-80dd-4bc8-8a48-882ef4bc06c0",
+    "eng": "Varatam",
+    "fLE": "V",
+    "tel": "వారాంతం",
+    "fLTel": "వ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "af06324a-421d-4b57-aca0-245dc5fc5cca",
+    "eng": "Varatar",
+    "fLE": "V",
+    "tel": "వారటర్",
+    "fLTel": "వ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "c3f5dfbb-1a6a-4e90-85dd-2e5b2aae4f3c",
+    "eng": "Varayu",
+    "fLE": "V",
+    "tel": "వరాయు",
+    "fLTel": "వ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "b1f49e37-59b4-4d8f-8457-9ccbec2b0439",
+    "eng": "Varchas",
+    "fLE": "V",
+    "tel": "వర్చసు",
+    "fLTel": "వ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "3a9c53de-a47e-450c-b784-c44f35cace73",
+    "eng": "Varchasv",
+    "fLE": "V",
+    "tel": "వర్చసవ్",
+    "fLTel": "వ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "8fbc20d0-51f4-4b9b-8bf1-9229be6a59b7",
+    "eng": "Vardaan",
+    "fLE": "V",
+    "tel": "వార్దాన్",
+    "fLTel": "వ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "188616cb-8fdf-4ed6-a088-33ad9d205209",
+    "eng": "Vardan",
+    "fLE": "V",
+    "tel": "వర్ధన్",
+    "fLTel": "వ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "ee015d40-7d61-40da-ae84-f97d955a1157",
+    "eng": "Varden",
+    "fLE": "V",
+    "tel": "వార్డెన్",
+    "fLTel": "వ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "2ad052b7-9ba5-422c-8568-b8adf830af52",
+    "eng": "Vardham",
+    "fLE": "V",
+    "tel": "వర్ధం",
+    "fLTel": "వ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "a19bd897-02a1-4e9f-b844-9983fd412508",
+    "eng": "Vardhamaanah",
+    "fLE": "V",
+    "tel": "వర్ధమానః",
+    "fLTel": "వ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "ac6133d1-ecbb-4d25-a045-ac5837657391",
+    "eng": "Vardhaman",
+    "fLE": "V",
+    "tel": "వర్ధమాన",
+    "fLTel": "వ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "a92479fa-2f07-48b0-80e6-395a021b4f82",
+    "eng": "Vardhan",
+    "fLE": "V",
+    "tel": "వర్ధన్",
+    "fLTel": "వ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "1e0ad4ff-f9b3-4a16-a8eb-74c052fa86c6",
+    "eng": "Vardhana",
+    "fLE": "V",
+    "tel": "వర్ధన",
+    "fLTel": "వ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "dcd0f871-b8ed-440b-ba99-f6b0b9a32a47",
+    "eng": "Vardhimainakapujita",
+    "fLE": "V",
+    "tel": "వర్ధిమైనాకపూజిత",
+    "fLTel": "వ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "139c25ff-2b22-4f64-a9ac-7a8d02d13cc9",
+    "eng": "Vardhin",
+    "fLE": "V",
+    "tel": "వర్దిని",
+    "fLTel": "వ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "1573f499-c242-4dd2-99bb-5e145ecdb378",
+    "eng": "Vardhit",
+    "fLE": "V",
+    "tel": "వర్ధిత",
+    "fLTel": "వ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "a5273c9f-7143-4a15-86d0-6883aa9d5acd",
+    "eng": "Vardhman",
+    "fLE": "V",
+    "tel": "వరధామం",
+    "fLTel": "వ",
+    "tags": [],
+    "gen": "male",
+    "rel": "others"
+  },
+  {
+    "id": "73855b67-e25f-4eba-98fa-23bd30f87969",
+    "eng": "vardinon",
+    "fLE": "v",
+    "tel": "వర్థినోన్",
+    "fLTel": "వ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "d94d39de-ba24-481b-afba-95d5d3432774",
+    "eng": "vardon",
+    "fLE": "v",
+    "tel": "వార్డన్",
+    "fLTel": "వ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "147eb3bb-32c4-4562-836f-fa54930a8589",
+    "eng": "Vareck",
+    "fLE": "V",
+    "tel": "వర్క్",
+    "fLTel": "వ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "d5d842ad-46f2-46b9-83ef-0b36ea9777da",
+    "eng": "Varek",
+    "fLE": "V",
+    "tel": "వర్క్",
+    "fLTel": "వ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "6d2e872b-4a4c-4968-8bc1-aeb1f1438202",
+    "eng": "Varen",
+    "fLE": "V",
+    "tel": "వారెన్",
+    "fLTel": "వ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "0aff7fcf-6ab7-4936-8d20-19c45c6a31ff",
+    "eng": "Varendra",
+    "fLE": "V",
+    "tel": "వారేంద్ర",
+    "fLTel": "వ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "4b8a7374-2a1c-4942-be53-a621d4c37796",
+    "eng": "Varenya",
+    "fLE": "V",
+    "tel": "వరేణ్య",
+    "fLTel": "వ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "7141a586-0c77-4db9-ac62-9ab24ccc7421",
+    "eng": "Varenyam",
+    "fLE": "V",
+    "tel": "వరేణ్యం",
+    "fLTel": "వ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "1eb26e7a-1958-4a9d-be98-282644ebb5f1",
+    "eng": "Varesh",
+    "fLE": "V",
+    "tel": "వార్స్",
+    "fLTel": "వ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "4ed4b799-402b-4d9d-afc6-2dcd55389b21",
+    "eng": "Vareshvar",
+    "fLE": "V",
+    "tel": "వారేశ్వర్",
+    "fLTel": "వ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "2bfe5de8-0ab4-437f-8fc5-43f0656cfaae",
+    "eng": "Varesikh",
+    "fLE": "V",
+    "tel": "వారేసిఖ్",
+    "fLTel": "వ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "9874e47c-4cb2-4076-8723-fd736b9030bf",
+    "eng": "Vargabh",
+    "fLE": "V",
+    "tel": "వర్గభ్",
+    "fLTel": "వ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "43dd464b-a246-4af8-85bb-c4c94c1b266e",
+    "eng": "Varghese",
+    "fLE": "V",
+    "tel": "వరగేసే",
+    "fLTel": "వ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "ef1c1107-58d7-4e9a-8649-b5a1b1a52ff4",
+    "eng": "Varhesh",
+    "fLE": "V",
+    "tel": "వార్హెస్",
+    "fLTel": "వ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "fc57cdc8-8999-43bd-9b22-b1d2d9bc27ca",
+    "eng": "Variam",
+    "fLE": "V",
+    "tel": "వారియం",
+    "fLTel": "వ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Sikh"
+  },
+  {
+    "id": "98ec77d7-6218-4ad5-b2c1-f3289e86e363",
+    "eng": "varian",
+    "fLE": "v",
+    "tel": "వారియన్",
+    "fLTel": "వ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "6bc6408f-b507-4ade-be16-342e16b33de2",
+    "eng": "varick",
+    "fLE": "v",
+    "tel": "వారిక్",
+    "fLTel": "వ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "fb32d6f8-567e-4f51-9434-ca5d9d18c66d",
+    "eng": "Varid",
+    "fLE": "V",
+    "tel": "వారిదే",
+    "fLTel": "వ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "d7826b45-3585-4d2c-925a-8e8e3b5ac337",
+    "eng": "Varidhvaran",
+    "fLE": "V",
+    "tel": "వారిధ్వరం",
+    "fLTel": "వ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "99e23f68-5ec8-459e-8b47-11a37401a097",
+    "eng": "Varik",
+    "fLE": "V",
+    "tel": "వారికే",
+    "fLTel": "వ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "b7b0eaa7-529b-4129-a30f-8b8658b8dc93",
+    "eng": "Variman",
+    "fLE": "V",
+    "tel": "వారిమం",
+    "fLTel": "వ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "c51ee24f-930a-464b-8d1b-fdbabbe4fbf6",
+    "eng": "Varin",
+    "fLE": "V",
+    "tel": "వారి",
+    "fLTel": "వ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "27f86e25-f0a5-4dd4-a711-5865cf7a20a0",
+    "eng": "Varinder",
+    "fLE": "V",
+    "tel": "వారిందర్",
+    "fLTel": "వ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "9fbdbc63-79b4-4910-9be2-410af401fea8",
+    "eng": "Varinderjeet",
+    "fLE": "V",
+    "tel": "వారిందర్జీత్",
+    "fLTel": "వ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Sikh"
+  },
+  {
+    "id": "1c477c03-ec23-4f32-a412-c14ca9895adf",
+    "eng": "Varinderpal",
+    "fLE": "V",
+    "tel": "వారిందెర్పాల్",
+    "fLTel": "వ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Sikh"
+  },
+  {
+    "id": "e4a88cd7-8266-4cb9-9bc3-3f907e41bc5c",
+    "eng": "Varindra",
+    "fLE": "V",
+    "tel": "వారింద్ర",
+    "fLTel": "వ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "34f289c0-10c5-4f06-b18e-35680b145ed9",
+    "eng": "Varis",
+    "fLE": "V",
+    "tel": "వరుస",
+    "fLTel": "వ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "1ca462f4-db65-41e7-a98b-020dca2f366d",
+    "eng": "Varish",
+    "fLE": "V",
+    "tel": "వారిష్",
+    "fLTel": "వ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "addad060-2213-4710-9f42-7e96b83d9263",
+    "eng": "Varisth",
+    "fLE": "V",
+    "tel": "వరిస్తా",
+    "fLTel": "వ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "3e012aff-85b3-4ba4-9711-423142a3d12f",
+    "eng": "Varisu",
+    "fLE": "V",
+    "tel": "వరుస",
+    "fLTel": "వ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "79b09b18-9ee9-458b-906a-9a5105e45774",
+    "eng": "varius",
+    "fLE": "v",
+    "tel": "వారిస్",
+    "fLTel": "వ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  }
+]

@@ -1,0 +1,962 @@
+[
+  {
+    "id": "7c22b232-e0cf-4289-87f0-c99ff8149846",
+    "eng": "Diss",
+    "fLE": "D",
+    "tel": "దిస్",
+    "fLTel": "ద",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "ff10382e-658c-4c2e-a146-1607368699e6",
+    "eng": "Dita",
+    "fLE": "D",
+    "tel": "దిట",
+    "fLTel": "ద",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "f661f4f3-7920-43b9-b824-01249d7859cd",
+    "eng": "dita",
+    "fLE": "d",
+    "tel": "దిట",
+    "fLTel": "ద",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "c9a86f42-78b5-4749-be67-131440155325",
+    "eng": "Diti",
+    "fLE": "D",
+    "tel": "దితి",
+    "fLTel": "ద",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "47e2b812-0ed5-4157-bfb7-f6e750b151d7",
+    "eng": "Ditika",
+    "fLE": "D",
+    "tel": "డిటిక",
+    "fLTel": "డ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "aebf9876-8c85-4c16-86ef-b277cbcf123f",
+    "eng": "Ditiksha",
+    "fLE": "D",
+    "tel": "దితిక్ష",
+    "fLTel": "ద",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "e0ab41bc-83b7-4e65-983c-09d14cdec50b",
+    "eng": "Ditipriya",
+    "fLE": "D",
+    "tel": "దితిప్రియ",
+    "fLTel": "ద",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "ab5aef64-919b-4887-95a3-f05dafd5a8e2",
+    "eng": "Ditta",
+    "fLE": "D",
+    "tel": "దిట్ట",
+    "fLTel": "ద",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "c039efbb-3d1f-4eec-97c9-4c3c3dca9d37",
+    "eng": "ditte",
+    "fLE": "d",
+    "tel": "దిట్ట",
+    "fLTel": "ద",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "2fc0528c-b86a-4b8f-9cc4-78561c9792bb",
+    "eng": "Ditvi",
+    "fLE": "D",
+    "tel": "దితివి",
+    "fLTel": "ద",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "18611353-54c1-4e00-8188-124e028643b4",
+    "eng": "Ditya",
+    "fLE": "D",
+    "tel": "దిత్య",
+    "fLTel": "ద",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "323e9307-f048-4c32-8551-47db9eda0052",
+    "eng": "Dityaa",
+    "fLE": "D",
+    "tel": "దిత్యా",
+    "fLTel": "ద",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "53c72e9d-d60c-441f-b67e-e8d0902ffb08",
+    "eng": "Diu",
+    "fLE": "D",
+    "tel": "డియూ",
+    "fLTel": "డ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "ccd2e33c-35e8-441f-85c0-e699ec952e20",
+    "eng": "Div",
+    "fLE": "D",
+    "tel": "డీవ్",
+    "fLTel": "డ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "afaa693c-4f95-42da-9bfc-5e7b50835921",
+    "eng": "Diva",
+    "fLE": "D",
+    "tel": "దివా",
+    "fLTel": "ద",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "097d25e5-b087-4df5-870f-a46a86801f25",
+    "eng": "Divani",
+    "fLE": "D",
+    "tel": "దివాని",
+    "fLTel": "ద",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "b895ed58-8009-4395-97ca-594514a6596b",
+    "eng": "Divashini",
+    "fLE": "D",
+    "tel": "దివాశీని",
+    "fLTel": "ద",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "b5f659f3-95b8-47b4-ab90-a61814b8978a",
+    "eng": "Divashni",
+    "fLE": "D",
+    "tel": "దివష్ని",
+    "fLTel": "ద",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "416e2f85-f965-472f-a3d3-5799e82aadb0",
+    "eng": "Divena",
+    "fLE": "D",
+    "tel": "దీవెన",
+    "fLTel": "ద",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "391e3b74-8d6a-48de-9b48-2f1577dcb506",
+    "eng": "Divi",
+    "fLE": "D",
+    "tel": "దివి",
+    "fLTel": "ద",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "23632698-d577-457c-b23b-72e0c2ec1743",
+    "eng": "Divia",
+    "fLE": "D",
+    "tel": "డివిఆ",
+    "fLTel": "డ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "bc53e3e6-5239-4663-be37-32dd59de7873",
+    "eng": "Divija",
+    "fLE": "D",
+    "tel": "దివిజ",
+    "fLTel": "ద",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "42818976-7cd4-4e34-91df-028577930530",
+    "eng": "Divina",
+    "fLE": "D",
+    "tel": "దివిన",
+    "fLTel": "ద",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "d80e6585-002c-46f4-826d-b957efb866fc",
+    "eng": "divina",
+    "fLE": "d",
+    "tel": "దివిన",
+    "fLTel": "ద",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "a44c53f1-a4ff-4732-8c99-4fe2d7cd25ba",
+    "eng": "Divine",
+    "fLE": "D",
+    "tel": "డివైన్",
+    "fLTel": "డ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "70d92407-9897-4200-bb5b-9ce7745a5145",
+    "eng": "Divisha",
+    "fLE": "D",
+    "tel": "డివిష",
+    "fLTel": "డ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "78da0a2d-6c18-47e2-b0d3-b95cae0fea24",
+    "eng": "Divita",
+    "fLE": "D",
+    "tel": "దివిత",
+    "fLTel": "ద",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "f1c84ae0-198a-457c-b1a1-218df88bcd90",
+    "eng": "Divitha",
+    "fLE": "D",
+    "tel": "దివిత",
+    "fLTel": "ద",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "b94722e5-ee24-4113-8dd9-4d8a805a8593",
+    "eng": "Diviya",
+    "fLE": "D",
+    "tel": "దివియ",
+    "fLTel": "ద",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "86eb22fc-a17d-4682-946d-1e8c8e5eb670",
+    "eng": "Diviyani",
+    "fLE": "D",
+    "tel": "దివియని",
+    "fLTel": "ద",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "4354a2a2-a251-483a-b388-1bbf5b22e62e",
+    "eng": "Diviyasree",
+    "fLE": "D",
+    "tel": "దివియశ్రీ",
+    "fLTel": "ద",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "04f66831-3a6a-41b6-b748-d97d6849e868",
+    "eng": "Diviyasuma",
+    "fLE": "D",
+    "tel": "దివియసుమ",
+    "fLTel": "ద",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "86b3a1a8-58aa-46bf-bffb-5516d0d3339e",
+    "eng": "Divjot",
+    "fLE": "D",
+    "tel": "దివజోత్",
+    "fLTel": "ద",
+    "tags": [],
+    "gen": "female",
+    "rel": "Sikh"
+  },
+  {
+    "id": "cd96cf05-28e2-4977-95d2-ddcf85b0f039",
+    "eng": "Divprit",
+    "fLE": "D",
+    "tel": "డిప్ప్రైట్",
+    "fLTel": "డ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Sikh"
+  },
+  {
+    "id": "4a0c3582-2d9f-4ebd-82cf-b6198d74d92c",
+    "eng": "Divreet",
+    "fLE": "D",
+    "tel": "డైవర్ట్",
+    "fLTel": "డ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Sikh"
+  },
+  {
+    "id": "343ba7ea-8098-42b3-9a80-7cd592700fe6",
+    "eng": "Divroop",
+    "fLE": "D",
+    "tel": "డీవీరూప్",
+    "fLTel": "డ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Sikh"
+  },
+  {
+    "id": "f9e94ff6-9d1b-4ab4-9b2e-c9e6a83a77b6",
+    "eng": "Divsheen",
+    "fLE": "D",
+    "tel": "దివశీం",
+    "fLTel": "ద",
+    "tags": [],
+    "gen": "female",
+    "rel": "Sikh"
+  },
+  {
+    "id": "b5943ffa-89ea-4e68-a68a-576401c2adba",
+    "eng": "Divvi",
+    "fLE": "D",
+    "tel": "డివివి",
+    "fLTel": "డ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "29810b0a-bdb2-44f4-b6e0-f5e74a78739c",
+    "eng": "Divvjyoti",
+    "fLE": "D",
+    "tel": "దివ్జ్యోతి",
+    "fLTel": "ద",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "24e1b951-c3a4-40f5-8f45-7ae3af53e11a",
+    "eng": "Divvy",
+    "fLE": "D",
+    "tel": "దివ్య్",
+    "fLTel": "ద",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "f66b5ff8-9b51-4804-be68-4a572aa3a6f7",
+    "eng": "Divya",
+    "fLE": "D",
+    "tel": "దివ్య",
+    "fLTel": "ద",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "dad7744d-0651-45db-b20d-008e938e2666",
+    "eng": "Divya Shree",
+    "fLE": "D",
+    "tel": "దివ్య శ్రీ",
+    "fLTel": "ద",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "362e8861-4b11-4510-ac65-77213804863c",
+    "eng": "Divya Sri",
+    "fLE": "D",
+    "tel": "దివ్య శ్రీ",
+    "fLTel": "ద",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "90785037-de49-42df-a6af-bf728f2a617d",
+    "eng": "Divyaa",
+    "fLE": "D",
+    "tel": "దివ్యా",
+    "fLTel": "ద",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "959c4145-7025-455f-9cda-da8faa984d9d",
+    "eng": "Divyaangi",
+    "fLE": "D",
+    "tel": "దివ్యానంగి",
+    "fLTel": "ద",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "0aa7a70f-ea1a-4732-be9a-29e61e7958a0",
+    "eng": "Divyadevi",
+    "fLE": "D",
+    "tel": "దివ్యదేవి",
+    "fLTel": "ద",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "eed5a2fe-1bf5-4715-9fb5-84bf018cbd2c",
+    "eng": "Divyajyot",
+    "fLE": "D",
+    "tel": "దివ్యజ్యోతి",
+    "fLTel": "ద",
+    "tags": [],
+    "gen": "female",
+    "rel": "Sikh"
+  },
+  {
+    "id": "fdd152c4-1fc1-474d-9dfe-7d78197ca5a8",
+    "eng": "Divyakriti",
+    "fLE": "D",
+    "tel": "దివ్యకృతి",
+    "fLTel": "ద",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "ac735ae7-651c-46fd-86a1-f942b53ea82f",
+    "eng": "Divyakshi",
+    "fLE": "D",
+    "tel": "దివ్యాక్ష",
+    "fLTel": "ద",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "2455d177-b5bc-4aa4-98fb-659c5d6de94c",
+    "eng": "Divyaleen",
+    "fLE": "D",
+    "tel": "దివ్యలీన్",
+    "fLTel": "ద",
+    "tags": [],
+    "gen": "female",
+    "rel": "Sikh"
+  },
+  {
+    "id": "b9163249-1aa3-40ba-b343-086f192cf5c0",
+    "eng": "Divyamani",
+    "fLE": "D",
+    "tel": "దివ్యమని",
+    "fLTel": "ద",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "42e1c4e5-18ff-4877-857c-2c669f39e2c7",
+    "eng": "Divyana",
+    "fLE": "D",
+    "tel": "దివ్యనా",
+    "fLTel": "ద",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "8fed1e28-12c1-4f40-a190-8b6666123c7a",
+    "eng": "Divyangani",
+    "fLE": "D",
+    "tel": "దివ్యంగాని",
+    "fLTel": "ద",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "6e18ccaa-eda6-4841-bf4e-db1045c8e482",
+    "eng": "Divyangi",
+    "fLE": "D",
+    "tel": "దివ్యంగి",
+    "fLTel": "ద",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "cb521334-5071-4e29-a4bc-faa84b2a903e",
+    "eng": "Divyani",
+    "fLE": "D",
+    "tel": "దివ్యని",
+    "fLTel": "ద",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "13b58b18-6459-4bdd-b7ef-420727254c27",
+    "eng": "Divyanjali",
+    "fLE": "D",
+    "tel": "దివ్యఞ్జలి",
+    "fLTel": "ద",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "fcfad0a7-acdd-48ed-a386-600ab23e8e34",
+    "eng": "Divyanka",
+    "fLE": "D",
+    "tel": "దివ్యంగా",
+    "fLTel": "ద",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "ac35aba2-500f-4343-a7ed-d52233797800",
+    "eng": "Divyansha",
+    "fLE": "D",
+    "tel": "డివైశా",
+    "fLTel": "డ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "3b194518-3b6e-4c8d-aae9-3add077a88f4",
+    "eng": "Divyanshi",
+    "fLE": "D",
+    "tel": "దివ్యానుశీ",
+    "fLTel": "ద",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "59385159-d101-4b92-99da-289733b62b5e",
+    "eng": "Divyansi",
+    "fLE": "D",
+    "tel": "డివైసి",
+    "fLTel": "డ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "931d8409-ba2f-4381-883d-14df7211e55f",
+    "eng": "Divyaprabha",
+    "fLE": "D",
+    "tel": "దివ్యప్రభ",
+    "fLTel": "ద",
+    "tags": [],
+    "gen": "female",
+    "rel": "others"
+  },
+  {
+    "id": "2a62e15e-0f49-4487-90f2-f73b97f2a550",
+    "eng": "Divyarani",
+    "fLE": "D",
+    "tel": "దివ్యరని",
+    "fLTel": "ద",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "1f32778c-a895-40b9-bd06-32011ec2fe8c",
+    "eng": "Divyasarita",
+    "fLE": "D",
+    "tel": "దివ్యసరిత",
+    "fLTel": "ద",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "bad74837-ddd1-401c-bdbe-eaa02df13069",
+    "eng": "Divyashi",
+    "fLE": "D",
+    "tel": "దివ్యశి",
+    "fLTel": "ద",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "d1d25744-b782-48f8-ab32-5c5af347cafd",
+    "eng": "Divyashree",
+    "fLE": "D",
+    "tel": "దివ్యశ్రీ",
+    "fLTel": "ద",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "2a433154-f32e-4877-bb55-8002467db685",
+    "eng": "Divyashri",
+    "fLE": "D",
+    "tel": "దివ్యశ్రీ",
+    "fLTel": "ద",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "274ca27b-9bca-4bfe-b5a0-b1fcf6e85913",
+    "eng": "Divyasree",
+    "fLE": "D",
+    "tel": "దివ్యశ్రీ",
+    "fLTel": "ద",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "9cb73d29-4a34-49a4-b9e2-898534e17a7f",
+    "eng": "Divyasri",
+    "fLE": "D",
+    "tel": "దివ్యశ్రీ",
+    "fLTel": "ద",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "dab58971-dc72-4be5-9882-a9dd4fd905cd",
+    "eng": "Divyata",
+    "fLE": "D",
+    "tel": "దివ్యత",
+    "fLTel": "ద",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "ec58deb5-8363-4506-bd4c-4b2b5002c705",
+    "eng": "Divyathi",
+    "fLE": "D",
+    "tel": "దివ్యాతి",
+    "fLTel": "ద",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "8cbe76cc-5042-464a-8a65-3e0deae1558c",
+    "eng": "Diwa",
+    "fLE": "D",
+    "tel": "దివా",
+    "fLTel": "ద",
+    "tags": [],
+    "gen": "female",
+    "rel": "Muslim"
+  },
+  {
+    "id": "6847ca35-b303-4d66-a5f1-5a1a97a20e32",
+    "eng": "Diwali",
+    "fLE": "D",
+    "tel": "దీవాలి",
+    "fLTel": "ద",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "0a2a7404-cd78-4f7d-8a4a-e6eb380c7b18",
+    "eng": "Dixa",
+    "fLE": "D",
+    "tel": "దిక్స",
+    "fLTel": "ద",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "03a2a367-7513-4752-ab44-e4b05b135d51",
+    "eng": "Dixcha",
+    "fLE": "D",
+    "tel": "దిక్సచ",
+    "fLTel": "ద",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "efa88a3d-693a-49cb-8b04-9fd9ed243d55",
+    "eng": "Dixi",
+    "fLE": "D",
+    "tel": "డిక్సీ",
+    "fLTel": "డ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "9d7c93b9-f1df-40ed-a978-fd8dba73a2b3",
+    "eng": "Dixie",
+    "fLE": "D",
+    "tel": "డిక్సీ",
+    "fLTel": "డ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "5c32f5e7-8be8-4aac-9dcd-a2e4682b43f1",
+    "eng": "dixie",
+    "fLE": "d",
+    "tel": "డిక్సీ",
+    "fLTel": "డ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "87ff441c-cb23-403c-9839-41c8f5340a38",
+    "eng": "Dixita",
+    "fLE": "D",
+    "tel": "డిక్సీటా",
+    "fLTel": "డ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "cf877cee-ebc8-49a7-b15c-299d86a7f95d",
+    "eng": "Diya",
+    "fLE": "D",
+    "tel": "దియా",
+    "fLTel": "ద",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "6f5af167-388a-45b8-9196-838aa7d67594",
+    "eng": "Diyaa",
+    "fLE": "D",
+    "tel": "దియా",
+    "fLTel": "ద",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "2db60031-84b6-45b8-be45-0d00773edbb8",
+    "eng": "Diyana",
+    "fLE": "D",
+    "tel": "డీయన",
+    "fLTel": "డ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "1829c50f-b111-4dd8-ba14-2e46387eb04a",
+    "eng": "Diyanah",
+    "fLE": "D",
+    "tel": "ద్రియఞ్చ",
+    "fLTel": "ద",
+    "tags": [],
+    "gen": "female",
+    "rel": "Muslim"
+  },
+  {
+    "id": "176fabc1-fd91-4b41-8f3a-8f6167597ea5",
+    "eng": "Diyanwita",
+    "fLE": "D",
+    "tel": "డియాంవిత",
+    "fLTel": "డ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "d7c62a42-add7-4fe7-bd7f-68220917827f",
+    "eng": "Diyara",
+    "fLE": "D",
+    "tel": "డియారా",
+    "fLTel": "డ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "e1585ef8-69ee-4b17-b944-a338782aa188",
+    "eng": "Diyu",
+    "fLE": "D",
+    "tel": "డియు",
+    "fLTel": "డ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "dfa993f6-8f40-4324-9ccf-4e134678b653",
+    "eng": "Diza",
+    "fLE": "D",
+    "tel": "డిజా",
+    "fLTel": "డ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "c7e57bac-4e1c-4373-805c-d94e638dc23d",
+    "eng": "diza",
+    "fLE": "d",
+    "tel": "డిజా",
+    "fLTel": "డ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "2fa7c903-139f-41a9-b7b8-2396cc788471",
+    "eng": "Djamila",
+    "fLE": "D",
+    "tel": "డీజమిలా",
+    "fLTel": "డ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Muslim"
+  },
+  {
+    "id": "2ecc7a04-5ec3-4fe8-90c5-8605d652689f",
+    "eng": "djamila",
+    "fLE": "d",
+    "tel": "డీజమిలా",
+    "fLTel": "డ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Muslim"
+  },
+  {
+    "id": "9deae00a-052e-4943-ad07-e2f5fc60a5b4",
+    "eng": "Djin",
+    "fLE": "D",
+    "tel": "డిజైన్",
+    "fLTel": "డ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Muslim"
+  },
+  {
+    "id": "42f853a0-83f6-4402-9024-5c2a149c8ed4",
+    "eng": "Djuana",
+    "fLE": "D",
+    "tel": "దిజున",
+    "fLTel": "ద",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "09079e58-f773-4224-b332-df56d22d34fe",
+    "eng": "Djuna",
+    "fLE": "D",
+    "tel": "దిజున",
+    "fLTel": "ద",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "33e99898-77d3-4366-9812-e1a3e9f2416d",
+    "eng": "Dmitriana",
+    "fLE": "D",
+    "tel": "ద్మిత్రీయనా",
+    "fLTel": "ద",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "d3aadbe0-7f4c-4e18-ac20-4fc2da3307a6",
+    "eng": "Dnyanada",
+    "fLE": "D",
+    "tel": "దన్యనదా",
+    "fLTel": "ద",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "1da706f3-0d79-4ec8-85b4-d11c94529fe2",
+    "eng": "Dnyaneshwari",
+    "fLE": "D",
+    "tel": "దన్యనేశ్వరి",
+    "fLTel": "ద",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "ed9913b7-75b2-4560-a62e-bf7a8e4d539d",
+    "eng": "Doa",
+    "fLE": "D",
+    "tel": "డోర్",
+    "fLTel": "డ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  }
+]

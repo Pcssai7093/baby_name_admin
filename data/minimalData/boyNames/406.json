@@ -1,0 +1,942 @@
+[
+  {
+    "id": "d3fdb1fc-d645-45c1-85ce-279cc6660d91",
+    "eng": "obrecht",
+    "fLE": "o",
+    "tel": "ఒబ్రెచ్ట్",
+    "fLTel": "ఒ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "a2d9fcd5-b17d-400c-ab8f-2965a8395676",
+    "eng": "obrien",
+    "fLE": "o",
+    "tel": "ఓబ్రెయిన్",
+    "fLTel": "ఓ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "b4f74811-9fdc-4d6f-b9d1-05608a3a4f42",
+    "eng": "obsidian",
+    "fLE": "o",
+    "tel": "ఒబిసిడియన్",
+    "fLTel": "ఒ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "97757119-6d7f-49b5-928d-a96d95ffaab7",
+    "eng": "Obuli",
+    "fLE": "O",
+    "tel": "ఓబులు",
+    "fLTel": "ఓ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "e5f862ef-a9af-4638-8562-b8430856dc67",
+    "eng": "Obuya",
+    "fLE": "O",
+    "tel": "ఒబియా",
+    "fLTel": "ఒ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "96edd0bb-aa24-4d50-9354-3e8f325a7299",
+    "eng": "Occa",
+    "fLE": "O",
+    "tel": "ఒక్క",
+    "fLTel": "ఒ",
+    "tags": [],
+    "gen": "male",
+    "rel": "others"
+  },
+  {
+    "id": "2fa048ba-40d2-40ea-b9a8-dd9c18c17f5e",
+    "eng": "Occhav",
+    "fLE": "O",
+    "tel": "వచ్చావ్",
+    "fLTel": "వ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "5ab50998-ad79-4be7-aec0-ac1e4ba8694f",
+    "eng": "Oceanus",
+    "fLE": "O",
+    "tel": "ఒషనస్",
+    "fLTel": "ఒ",
+    "tags": [],
+    "gen": "male",
+    "rel": "others"
+  },
+  {
+    "id": "8ce40f5a-3a86-406e-8d65-201d2b47a891",
+    "eng": "oceanus",
+    "fLE": "o",
+    "tel": "ఒషనస్",
+    "fLTel": "ఒ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "da6a6fd3-ce11-4e00-b0e0-9fe2b1d5fad3",
+    "eng": "Ocelfa",
+    "fLE": "O",
+    "tel": "ఓసల్ఫే",
+    "fLTel": "ఓ",
+    "tags": [],
+    "gen": "male",
+    "rel": "others"
+  },
+  {
+    "id": "c71b74e4-77d8-4b4b-a1a8-ab8f51221cd9",
+    "eng": "Ocga",
+    "fLE": "O",
+    "tel": "ఓసీగా",
+    "fLTel": "ఓ",
+    "tags": [],
+    "gen": "male",
+    "rel": "others"
+  },
+  {
+    "id": "66240a2d-8910-40cb-85ab-f1d1e649069f",
+    "eng": "Ochaar",
+    "fLE": "O",
+    "tel": "ఆచార్",
+    "fLTel": "ఆ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "6ec4f45c-dcb6-432f-bb93-07526e2bc86e",
+    "eng": "Ochchav",
+    "fLE": "O",
+    "tel": "ఓచ్చ్చావ్",
+    "fLTel": "ఓ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "62175ee1-c9ba-4c47-9713-3686424a78e9",
+    "eng": "Ochieng",
+    "fLE": "O",
+    "tel": "ఓచిఇంగ్",
+    "fLTel": "ఓ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "ed2dc75e-a9b6-4d3e-b346-30b103138fd7",
+    "eng": "Ochs",
+    "fLE": "O",
+    "tel": "వోక్స్",
+    "fLTel": "వ",
+    "tags": [],
+    "gen": "male",
+    "rel": "others"
+  },
+  {
+    "id": "ae3af593-8ffe-4196-9818-fe97101b18f2",
+    "eng": "Ochuko",
+    "fLE": "O",
+    "tel": "ఒచుకో",
+    "fLTel": "ఒ",
+    "tags": [],
+    "gen": "male",
+    "rel": "others"
+  },
+  {
+    "id": "eacb5e9d-f298-4284-8bb0-d6a6d1f5a8b1",
+    "eng": "Ociel",
+    "fLE": "O",
+    "tel": "ఒసిఎల్",
+    "fLTel": "ఒ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "d284ff08-8e65-48be-844c-428fc321973e",
+    "eng": "Octa",
+    "fLE": "O",
+    "tel": "ఒకటా",
+    "fLTel": "ఒ",
+    "tags": [],
+    "gen": "male",
+    "rel": "others"
+  },
+  {
+    "id": "edc2a9cc-1fc3-483d-978b-19aab9e7f1fc",
+    "eng": "Octave",
+    "fLE": "O",
+    "tel": "ఒకేతవే",
+    "fLTel": "ఒ",
+    "tags": [],
+    "gen": "male",
+    "rel": "others"
+  },
+  {
+    "id": "4b9ef08d-761c-4709-8b5a-160a6d8e2ad0",
+    "eng": "octave",
+    "fLE": "o",
+    "tel": "ఒకేతవే",
+    "fLTel": "ఒ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "a6a3d7d4-b323-4219-924c-d1fd2d0b135e",
+    "eng": "Octavian",
+    "fLE": "O",
+    "tel": "ఆక్టావియాన్",
+    "fLTel": "ఆ",
+    "tags": [],
+    "gen": "male",
+    "rel": "others"
+  },
+  {
+    "id": "e9d376b9-cfb7-48ca-8dc1-6f2e53a9613a",
+    "eng": "octavian",
+    "fLE": "o",
+    "tel": "ఆక్టావియాన్",
+    "fLTel": "ఆ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "23e27d63-e744-446a-8667-5f92800eb8b4",
+    "eng": "Octaviano",
+    "fLE": "O",
+    "tel": "ఆక్టావియానో",
+    "fLTel": "ఆ",
+    "tags": [],
+    "gen": "male",
+    "rel": "others"
+  },
+  {
+    "id": "77212ebf-ec86-4ac6-af36-fec4e24d53d2",
+    "eng": "Octavien",
+    "fLE": "O",
+    "tel": "ఓసీతవిఎం",
+    "fLTel": "ఓ",
+    "tags": [],
+    "gen": "male",
+    "rel": "others"
+  },
+  {
+    "id": "5fe3afe5-0204-4538-873b-23aa125adc72",
+    "eng": "Octavio",
+    "fLE": "O",
+    "tel": "ఆక్టావియా",
+    "fLTel": "ఆ",
+    "tags": [],
+    "gen": "male",
+    "rel": "others"
+  },
+  {
+    "id": "83d7e78c-790a-4500-b8a8-ae6418663ba5",
+    "eng": "octavio",
+    "fLE": "o",
+    "tel": "ఆక్టావియా",
+    "fLTel": "ఆ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "00a1bba8-0312-4375-b735-53e8ee815a5d",
+    "eng": "Octavious",
+    "fLE": "O",
+    "tel": "ఓసీతావియోస్",
+    "fLTel": "ఓ",
+    "tags": [],
+    "gen": "male",
+    "rel": "others"
+  },
+  {
+    "id": "0d96105f-c070-442f-88f1-e79949aef28b",
+    "eng": "Octavius",
+    "fLE": "O",
+    "tel": "ఓసీతవిస్",
+    "fLTel": "ఓ",
+    "tags": [],
+    "gen": "male",
+    "rel": "others"
+  },
+  {
+    "id": "9fe55471-6958-4b65-9c67-948a1c5c2afd",
+    "eng": "octavius",
+    "fLE": "o",
+    "tel": "ఓసీతవిస్",
+    "fLTel": "ఓ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "14b18980-ffcf-44f5-87e1-dd0484598841",
+    "eng": "Odaka",
+    "fLE": "O",
+    "tel": "కొడకా",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "62cc971a-49fd-4e02-b57a-8207845e3d15",
+    "eng": "Odakota",
+    "fLE": "O",
+    "tel": "ఓడకోట",
+    "fLTel": "ఓ",
+    "tags": [],
+    "gen": "male",
+    "rel": "others"
+  },
+  {
+    "id": "a2bc7617-e6d5-4d39-a53c-407f65c901f4",
+    "eng": "odakota",
+    "fLE": "o",
+    "tel": "ఓడకోట",
+    "fLTel": "ఓ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "949030cd-127a-49f2-9191-2bf4f3d8c18a",
+    "eng": "Odale",
+    "fLE": "O",
+    "tel": "మోడల్",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "male",
+    "rel": "others"
+  },
+  {
+    "id": "601b7b3f-df25-43c3-9029-dfff6ca740e7",
+    "eng": "Odaliz",
+    "fLE": "O",
+    "tel": "ఒడలిజ్",
+    "fLTel": "ఒ",
+    "tags": [],
+    "gen": "male",
+    "rel": "others"
+  },
+  {
+    "id": "1e7b31e4-b976-4059-92cd-72f3400d6ef6",
+    "eng": "Odall",
+    "fLE": "O",
+    "tel": "మోడల్",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "male",
+    "rel": "others"
+  },
+  {
+    "id": "7699f290-1d2a-4da8-b23f-366062cbdb08",
+    "eng": "Odalric",
+    "fLE": "O",
+    "tel": "ఓడలరిక్",
+    "fLTel": "ఓ",
+    "tags": [],
+    "gen": "male",
+    "rel": "others"
+  },
+  {
+    "id": "8a566a74-5f14-4b32-bba2-eeb50cbd37ad",
+    "eng": "Odalys",
+    "fLE": "O",
+    "tel": "ఒడలిస్",
+    "fLTel": "ఒ",
+    "tags": [],
+    "gen": "male",
+    "rel": "others"
+  },
+  {
+    "id": "398da743-3b15-4e41-9da6-c4d8a65ffe3d",
+    "eng": "Odalyz",
+    "fLE": "O",
+    "tel": "ఓడలైజ్",
+    "fLTel": "ఓ",
+    "tags": [],
+    "gen": "male",
+    "rel": "others"
+  },
+  {
+    "id": "aaa49ff5-e480-4bc2-b490-711be33b305e",
+    "eng": "Odam",
+    "fLE": "O",
+    "tel": "ఓడమ్",
+    "fLTel": "ఓ",
+    "tags": [],
+    "gen": "male",
+    "rel": "others"
+  },
+  {
+    "id": "29745eae-fd85-4c51-8cf9-f7aaf65aa5a9",
+    "eng": "Odan",
+    "fLE": "O",
+    "tel": "ఓడాం",
+    "fLTel": "ఓ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "8fcd0293-bb42-4106-a230-cf91eef92dbe",
+    "eng": "Odaniyan",
+    "fLE": "O",
+    "tel": "ఓదానియం",
+    "fLTel": "ఓ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "8a62ca4a-908e-484b-9e40-bbbec1383339",
+    "eng": "Odard",
+    "fLE": "O",
+    "tel": "ఓదార్ద్",
+    "fLTel": "ఓ",
+    "tags": [],
+    "gen": "male",
+    "rel": "others"
+  },
+  {
+    "id": "10d887a9-4a61-4749-a846-a2c951030ecd",
+    "eng": "Odayle",
+    "fLE": "O",
+    "tel": "ఓడేలే",
+    "fLTel": "ఓ",
+    "tags": [],
+    "gen": "male",
+    "rel": "others"
+  },
+  {
+    "id": "bc615216-8012-4f39-b200-f881f40f8edd",
+    "eng": "Odbart",
+    "fLE": "O",
+    "tel": "వుద్బర్ట్",
+    "fLTel": "వ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "58e45454-99b1-4c60-89e5-e44ac0fe95ba",
+    "eng": "Odbehrt",
+    "fLE": "O",
+    "tel": "కూడబెహార్ట్",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "male",
+    "rel": "others"
+  },
+  {
+    "id": "94ad00a3-d626-4eeb-86e4-74cea7670f33",
+    "eng": "Odd",
+    "fLE": "O",
+    "tel": "ఆడ్",
+    "fLTel": "ఆ",
+    "tags": [],
+    "gen": "male",
+    "rel": "others"
+  },
+  {
+    "id": "946f04e5-efff-4fd4-a083-830f2e921755",
+    "eng": "Oded",
+    "fLE": "O",
+    "tel": "ఒడెడ్",
+    "fLTel": "ఒ",
+    "tags": [],
+    "gen": "male",
+    "rel": "others"
+  },
+  {
+    "id": "323f8da4-9ade-4780-8ca1-facd69a2b979",
+    "eng": "oded",
+    "fLE": "o",
+    "tel": "ఒడెడ్",
+    "fLTel": "ఒ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "83a7f51c-fc95-4644-8b7e-abd8225c1534",
+    "eng": "Oden",
+    "fLE": "O",
+    "tel": "వుడెన్",
+    "fLTel": "వ",
+    "tags": [],
+    "gen": "male",
+    "rel": "others"
+  },
+  {
+    "id": "2fecd9cb-bc78-413e-8d40-6b6c12ebf95d",
+    "eng": "Odendhi",
+    "fLE": "O",
+    "tel": "అదేంది",
+    "fLTel": "అ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "18d87b94-2c28-4420-9ac3-322ec1aaee3e",
+    "eng": "Odern",
+    "fLE": "O",
+    "tel": "మోడెర్న్",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "male",
+    "rel": "others"
+  },
+  {
+    "id": "8ab47800-cbf5-4420-9058-70f763c33372",
+    "eng": "Odhavji",
+    "fLE": "O",
+    "tel": "యోధవీజీ",
+    "fLTel": "య",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "95f36e11-25de-4696-b6ee-68290cfb023b",
+    "eng": "odhran",
+    "fLE": "o",
+    "tel": "ఆధారం",
+    "fLTel": "ఆ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "7ada9c98-6490-48c2-838f-849b4874223b",
+    "eng": "Odi",
+    "fLE": "O",
+    "tel": "ఒడి",
+    "fLTel": "ఒ",
+    "tags": [],
+    "gen": "male",
+    "rel": "others"
+  },
+  {
+    "id": "a6a0191a-230a-4952-8f82-c97460d699c9",
+    "eng": "Odie",
+    "fLE": "O",
+    "tel": "మోడీ",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "male",
+    "rel": "others"
+  },
+  {
+    "id": "bcd4fda5-07e7-4661-8510-379d08319fc3",
+    "eng": "Odikinyi",
+    "fLE": "O",
+    "tel": "ఉడికింయి",
+    "fLTel": "ఉ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "6d0e213a-ebf9-4027-8f35-be235bcccd28",
+    "eng": "Odil",
+    "fLE": "O",
+    "tel": "ఆదిల్",
+    "fLTel": "ఆ",
+    "tags": [],
+    "gen": "male",
+    "rel": "others"
+  },
+  {
+    "id": "6c9413d7-488e-42f5-92be-a10789079798",
+    "eng": "Odilio",
+    "fLE": "O",
+    "tel": "ఒదిలిలో",
+    "fLTel": "ఒ",
+    "tags": [],
+    "gen": "male",
+    "rel": "others"
+  },
+  {
+    "id": "4157dfa3-ca03-484d-ad2c-bbff8fcf3bec",
+    "eng": "Odilo",
+    "fLE": "O",
+    "tel": "ఒడిలో",
+    "fLTel": "ఒ",
+    "tags": [],
+    "gen": "male",
+    "rel": "others"
+  },
+  {
+    "id": "61203e25-3df3-41b4-9f56-37d120ae2197",
+    "eng": "odilon",
+    "fLE": "o",
+    "tel": "ఒడిలోం",
+    "fLTel": "ఒ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "b3eec9b3-1125-47ce-b3bd-45fca85385a5",
+    "eng": "Odin",
+    "fLE": "O",
+    "tel": "ఓడిన్",
+    "fLTel": "ఓ",
+    "tags": [],
+    "gen": "male",
+    "rel": "others"
+  },
+  {
+    "id": "0f3de82e-c462-4b9d-a832-4aaad31d0acb",
+    "eng": "odin",
+    "fLE": "o",
+    "tel": "ఓడిన్",
+    "fLTel": "ఓ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "cf11fc82-b33e-4302-beb6-9598870ce2b0",
+    "eng": "Odion",
+    "fLE": "O",
+    "tel": "ఓడిన్",
+    "fLTel": "ఓ",
+    "tags": [],
+    "gen": "male",
+    "rel": "others"
+  },
+  {
+    "id": "aaecccc2-64a5-4e21-9a66-a92e47dfa31e",
+    "eng": "Odis",
+    "fLE": "O",
+    "tel": "ఒడిస్సా",
+    "fLTel": "ఒ",
+    "tags": [],
+    "gen": "male",
+    "rel": "others"
+  },
+  {
+    "id": "3bddd788-952f-423d-b40f-6e3fb6619cae",
+    "eng": "Odisej",
+    "fLE": "O",
+    "tel": "ఒడిసెజ్",
+    "fLTel": "ఒ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "cb8c1d7e-17cd-429a-9eb6-d31e4e3bfcd9",
+    "eng": "Odo",
+    "fLE": "O",
+    "tel": "కూడా",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "male",
+    "rel": "others"
+  },
+  {
+    "id": "9ef0f803-9a04-4a07-af1c-d7f830613fd8",
+    "eng": "odo",
+    "fLE": "o",
+    "tel": "కూడా",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "ebb083df-bc43-475a-a494-28395fc4a258",
+    "eng": "Odoacer",
+    "fLE": "O",
+    "tel": "ఓడోఅస్ర్",
+    "fLTel": "ఓ",
+    "tags": [],
+    "gen": "male",
+    "rel": "others"
+  },
+  {
+    "id": "6a58e5af-794d-4715-b261-601c55537ad3",
+    "eng": "Odolf",
+    "fLE": "O",
+    "tel": "అడాల్ఫ్",
+    "fLTel": "అ",
+    "tags": [],
+    "gen": "male",
+    "rel": "others"
+  },
+  {
+    "id": "a46b30a4-ea17-4ad6-8fb7-bf4e36f07d15",
+    "eng": "Odolff",
+    "fLE": "O",
+    "tel": "అడాల్ఫ్",
+    "fLTel": "అ",
+    "tags": [],
+    "gen": "male",
+    "rel": "others"
+  },
+  {
+    "id": "119172d9-071b-4da2-a4c7-429499676000",
+    "eng": "Odom",
+    "fLE": "O",
+    "tel": "ఓడోమ్",
+    "fLTel": "ఓ",
+    "tags": [],
+    "gen": "male",
+    "rel": "others"
+  },
+  {
+    "id": "bcf2b906-1d43-4cbd-883f-26a8a6224af9",
+    "eng": "Odon",
+    "fLE": "O",
+    "tel": "ఓడోన్",
+    "fLTel": "ఓ",
+    "tags": [],
+    "gen": "male",
+    "rel": "others"
+  },
+  {
+    "id": "70172a2e-ef92-4d82-8d3c-546a1c834fd9",
+    "eng": "Odongo",
+    "fLE": "O",
+    "tel": "ఒదొంగో",
+    "fLTel": "ఒ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "2a032619-8454-4890-8569-276bbe2db805",
+    "eng": "Odour",
+    "fLE": "O",
+    "tel": "ఓడారు",
+    "fLTel": "ఓ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "ac90c103-9bda-46ea-96ab-7df1158cf071",
+    "eng": "Odran",
+    "fLE": "O",
+    "tel": "మోడ్రన్",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "male",
+    "rel": "others"
+  },
+  {
+    "id": "44be7f7c-46d3-4d21-9213-72eef4b4a5d6",
+    "eng": "Odunayo",
+    "fLE": "O",
+    "tel": "వుడున్నాయో",
+    "fLTel": "వ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "4223ca8f-ac36-46b9-a6be-0565ee8cbf44",
+    "eng": "Odwolf",
+    "fLE": "O",
+    "tel": "ఓడీవల్ఫ్",
+    "fLTel": "ఓ",
+    "tags": [],
+    "gen": "male",
+    "rel": "others"
+  },
+  {
+    "id": "403e4019-8fda-423d-808f-d1af4306c6b1",
+    "eng": "Odwolfe",
+    "fLE": "O",
+    "tel": "ఓడీవల్ఫ్",
+    "fLTel": "ఓ",
+    "tags": [],
+    "gen": "male",
+    "rel": "others"
+  },
+  {
+    "id": "4f3fb387-490c-481b-90f0-22daa627fdc4",
+    "eng": "Odysseus",
+    "fLE": "O",
+    "tel": "ఒడ్య్సియస్",
+    "fLTel": "ఒ",
+    "tags": [],
+    "gen": "male",
+    "rel": "others"
+  },
+  {
+    "id": "68dcf2d3-54f0-4cd0-a948-a8e5850fc8f7",
+    "eng": "odysseus",
+    "fLE": "o",
+    "tel": "ఒడ్య్సియస్",
+    "fLTel": "ఒ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "9a1701b6-01a4-4f76-8f2a-20b3e77c29a6",
+    "eng": "Odyssey",
+    "fLE": "O",
+    "tel": "ఒడిస్సీ",
+    "fLTel": "ఒ",
+    "tags": [],
+    "gen": "male",
+    "rel": "others"
+  },
+  {
+    "id": "8777b1b0-8cff-4a72-b342-8366ef858f81",
+    "eng": "Oeberon",
+    "fLE": "O",
+    "tel": "ఓఎబెర్న్",
+    "fLTel": "ఓ",
+    "tags": [],
+    "gen": "male",
+    "rel": "others"
+  },
+  {
+    "id": "056a06e4-5995-457e-ae2b-0d7ed864645f",
+    "eng": "oedipus",
+    "fLE": "o",
+    "tel": "ఓఎడిప్స్",
+    "fLTel": "ఓ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "bd4b19e7-049e-4af4-8b13-246c8cb3db21",
+    "eng": "Oegelsby",
+    "fLE": "O",
+    "tel": "ఓఈగల్బ్య",
+    "fLTel": "ఓ",
+    "tags": [],
+    "gen": "male",
+    "rel": "others"
+  },
+  {
+    "id": "58eea252-5b24-4728-a6db-d9717592bf95",
+    "eng": "Oehoo",
+    "fLE": "O",
+    "tel": "ఓయెహూ",
+    "fLTel": "ఓ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "7639aade-205d-44d7-bcf1-2fcbdba7dfa7",
+    "eng": "Oelfwine",
+    "fLE": "O",
+    "tel": "వుల్ఫ్వినే",
+    "fLTel": "వ",
+    "tags": [],
+    "gen": "male",
+    "rel": "others"
+  },
+  {
+    "id": "317fc75a-6e4e-4fc0-aa36-c9ac23ad2251",
+    "eng": "Oemar",
+    "fLE": "O",
+    "tel": "ఓఎంఆర్",
+    "fLTel": "ఓ",
+    "tags": [],
+    "gen": "male",
+    "rel": "others"
+  },
+  {
+    "id": "8446f9e7-136c-4e70-8b5e-c7c364b63f43",
+    "eng": "Oeric",
+    "fLE": "O",
+    "tel": "వోఎరికే",
+    "fLTel": "వ",
+    "tags": [],
+    "gen": "male",
+    "rel": "others"
+  },
+  {
+    "id": "ec7fda12-5511-42b2-8250-71f0aaaf478e",
+    "eng": "Oethelwald",
+    "fLE": "O",
+    "tel": "ఓఈతెల్వాల్డ్",
+    "fLTel": "ఓ",
+    "tags": [],
+    "gen": "male",
+    "rel": "others"
+  },
+  {
+    "id": "623eafe2-3863-438d-a408-cf1f9fdae264",
+    "eng": "Oeznik",
+    "fLE": "O",
+    "tel": "ఓఎజనిక్",
+    "fLTel": "ఓ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "3bbbd209-2e02-4d95-8f37-4c12728fa71b",
+    "eng": "ofek",
+    "fLE": "o",
+    "tel": "ఓఫిక్",
+    "fLTel": "ఓ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "d778ece7-3845-4c1d-b458-c8c3e9204dd7",
+    "eng": "Ofer",
+    "fLE": "O",
+    "tel": "ఆర్",
+    "fLTel": "ఆ",
+    "tags": [],
+    "gen": "male",
+    "rel": "others"
+  },
+  {
+    "id": "347a66a1-2cba-4804-9757-af24fcd1b3a2",
+    "eng": "ofer",
+    "fLE": "o",
+    "tel": "ఆర్",
+    "fLTel": "ఆ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "0e320b04-d2ae-491e-b8c7-986a8edff36a",
+    "eng": "Offa",
+    "fLE": "O",
+    "tel": "ఆఫ",
+    "fLTel": "ఆ",
+    "tags": [],
+    "gen": "male",
+    "rel": "others"
+  }
+]

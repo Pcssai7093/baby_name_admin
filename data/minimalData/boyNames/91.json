@@ -1,0 +1,772 @@
+[
+  {
+    "id": "1977dcbd-a403-4c54-bfbc-3284bfea4665",
+    "eng": "Barwolf",
+    "fLE": "B",
+    "tel": "బెవల్ఫ్",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "ff1d9674-b0dc-428f-8fa9-f99cb1015e26",
+    "eng": "Barwon",
+    "fLE": "B",
+    "tel": "బరువన్",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "68929033-e6da-44e3-8f71-596acf222648",
+    "eng": "Bary",
+    "fLE": "B",
+    "tel": "భారీ",
+    "fLTel": "భ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "0be45a78-fc8c-4aef-a85b-aec2280c3287",
+    "eng": "bary",
+    "fLE": "b",
+    "tel": "భారీ",
+    "fLTel": "భ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "517cdc30-3eeb-45fc-b216-88f4201f635e",
+    "eng": "Baryal",
+    "fLE": "B",
+    "tel": "భార్యలు",
+    "fLTel": "భ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "6aa4f56d-4298-4f24-8b69-057ffa5902ef",
+    "eng": "Barz",
+    "fLE": "B",
+    "tel": "బ్యారేజ్",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "01e458b1-f48c-4968-8c2f-f0509740a080",
+    "eng": "Barzan",
+    "fLE": "B",
+    "tel": "బారజాన్",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "d183efe3-d6e0-4187-8b99-e7f6cddcaa55",
+    "eng": "barzillai",
+    "fLE": "b",
+    "tel": "బాజిల్లాయి",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "e29f125c-9a7b-4b9b-b336-caf84394122b",
+    "eng": "Barzin",
+    "fLE": "B",
+    "tel": "బాజిన్",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "e139f78a-1322-4363-864e-d369e2651db0",
+    "eng": "Bas",
+    "fLE": "B",
+    "tel": "బాస్",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "a2afea2b-5148-4b52-9417-b0178cafd27f",
+    "eng": "bas",
+    "fLE": "b",
+    "tel": "బాస్",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "69c0ca73-33d9-4b25-a689-d61f2122d499",
+    "eng": "Basa",
+    "fLE": "B",
+    "tel": "బస",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "58bbd653-5d5d-4c21-9105-5ef6d1c40906",
+    "eng": "Basaam",
+    "fLE": "B",
+    "tel": "బసామ్",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "f15e19de-0a27-40e7-ad14-ddbb3d52a15c",
+    "eng": "Basair",
+    "fLE": "B",
+    "tel": "బాసైర్",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "5d6c8a94-aea7-4e6a-955a-7ea66d717c35",
+    "eng": "Basak",
+    "fLE": "B",
+    "tel": "బాస్క్",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "b9aa1739-c4e9-4139-b67a-26e58e0a9fc0",
+    "eng": "Basam",
+    "fLE": "B",
+    "tel": "బ్యాసం",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "347925be-1aca-400a-8738-e6ab1780419f",
+    "eng": "Basant",
+    "fLE": "B",
+    "tel": "బసంత్",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "91fa0e80-959a-4c81-8551-78575346435d",
+    "eng": "Basanta",
+    "fLE": "B",
+    "tel": "బసంతి",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "eda82d02-c45f-4906-bc3d-d23255ce729e",
+    "eng": "Basar",
+    "fLE": "B",
+    "tel": "బాసర",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "e91ee07c-cc8d-430d-a010-00e9b06713f7",
+    "eng": "Basasiri",
+    "fLE": "B",
+    "tel": "భాససిరి",
+    "fLTel": "భ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "6918a327-2f8a-494d-8ea4-cf18e615d373",
+    "eng": "Basaud",
+    "fLE": "B",
+    "tel": "బాసయూద్",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "6eb7072f-7150-480b-bc06-1b16190175e6",
+    "eng": "Basav",
+    "fLE": "B",
+    "tel": "బసవ",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "5d194a8d-61ba-4a48-87d6-adc90e7db720",
+    "eng": "Basavaraj",
+    "fLE": "B",
+    "tel": "బసవరాజ్",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "2aba7344-17a2-4d3d-8ae6-e3a7f801fc13",
+    "eng": "Bascom",
+    "fLE": "B",
+    "tel": "బాసికం",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "0e670d2b-edd2-40f2-b296-c78b936cd07a",
+    "eng": "Basdev",
+    "fLE": "B",
+    "tel": "బాసుదేవ్",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "91b5681b-556a-4746-9946-611509182266",
+    "eng": "Base",
+    "fLE": "B",
+    "tel": "బేస్",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "cf871688-e23b-406b-868c-12084d2b9dd4",
+    "eng": "Baseem",
+    "fLE": "B",
+    "tel": "బాసీమ్",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "da7465d7-70b2-4b99-ba8b-8fe791d678f1",
+    "eng": "Baseer",
+    "fLE": "B",
+    "tel": "బాసీర్",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "3f71d992-0ec1-4a22-a48d-f2048a1621a9",
+    "eng": "Baseerat",
+    "fLE": "B",
+    "tel": "బశీరత్",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "9191e027-81a9-469c-b5ad-34ffeeaaa202",
+    "eng": "Baseet",
+    "fLE": "B",
+    "tel": "బాసిత్",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "a39fd0ed-be18-415a-a78b-d754bace3954",
+    "eng": "Basel",
+    "fLE": "B",
+    "tel": "బాసెల్",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "7f795a0b-31b7-4452-9b30-079393468e7b",
+    "eng": "Basem",
+    "fLE": "B",
+    "tel": "బస్సెమ్",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "800f841e-bc12-435a-8a2d-2c7bdc7b0464",
+    "eng": "Bash",
+    "fLE": "B",
+    "tel": "బాష్",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "0016a823-990c-45c4-97dc-75208728244e",
+    "eng": "Basha",
+    "fLE": "B",
+    "tel": "బాషా",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "28a4972c-9778-4898-9567-6f4e4d8c8fc3",
+    "eng": "Bashaar",
+    "fLE": "B",
+    "tel": "బషర్",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "48fd4afe-7398-4694-a5f8-38b01c252f93",
+    "eng": "Bashaarat",
+    "fLE": "B",
+    "tel": "బషార్ట్",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "a4df8d55-c9bb-414e-b160-0aeeb77094ba",
+    "eng": "Bashar",
+    "fLE": "B",
+    "tel": "బషర్",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "66542d47-e033-41d5-9b02-03ad2b6d425b",
+    "eng": "Basharaat",
+    "fLE": "B",
+    "tel": "బాశరాత్",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "94eb913f-d9d5-43ce-aaf1-17a2b6ca014b",
+    "eng": "Bashari",
+    "fLE": "B",
+    "tel": "బాశారు",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "8ed2b4db-4023-4e2c-a690-8bbeb4ce6436",
+    "eng": "Bashash",
+    "fLE": "B",
+    "tel": "బాషష్",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "3cc88bcf-c85f-4393-9ea2-88aa69412f51",
+    "eng": "Basheer",
+    "fLE": "B",
+    "tel": "బషీర్",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "004a661a-acb8-4d16-9312-7ccb8a161cd7",
+    "eng": "Bashhar",
+    "fLE": "B",
+    "tel": "బషార్",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "ec797275-c62a-43b8-828e-661f06aa8079",
+    "eng": "Bashir",
+    "fLE": "B",
+    "tel": "బషీర్",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "4b57a235-4c67-4b33-b20b-27d17e3e3c0a",
+    "eng": "bashir",
+    "fLE": "b",
+    "tel": "బషీర్",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "068f9128-1d34-4b86-8b1f-b5ca99266fc8",
+    "eng": "Bashirat",
+    "fLE": "B",
+    "tel": "బషీరాత్",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "ea12b47b-5e49-41d9-94a1-03fc19ab8f38",
+    "eng": "Bashiri",
+    "fLE": "B",
+    "tel": "బషీరు",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "523f9b4c-7db4-4a3c-88f5-edd1f9074f54",
+    "eng": "Bashiyr",
+    "fLE": "B",
+    "tel": "బాషియర్",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "d618b632-e42e-4d93-9c69-b6462b839439",
+    "eng": "Bashkim",
+    "fLE": "B",
+    "tel": "బాషకిమ్",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "3feba5ba-a56c-4090-8ec8-50e556cfd940",
+    "eng": "Basho",
+    "fLE": "B",
+    "tel": "బషో",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "96ca7868-7689-43cb-976f-9109e8cb089b",
+    "eng": "Bashsh",
+    "fLE": "B",
+    "tel": "బ్యాష్ష్",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "bf1084b8-2642-4b86-a452-2f0e96c23dd6",
+    "eng": "Bashshar",
+    "fLE": "B",
+    "tel": "బహహార్",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "971a6d34-392e-4d83-9053-9e6661edf327",
+    "eng": "Bashush",
+    "fLE": "B",
+    "tel": "బశుష్",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "dd34d623-f6e4-4d97-bb66-f953da452d44",
+    "eng": "Bashvith",
+    "fLE": "B",
+    "tel": "భాషవిత్",
+    "fLTel": "భ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "c62d108f-012f-41f6-943a-17668e45b4f3",
+    "eng": "Basich",
+    "fLE": "B",
+    "tel": "బేసిక్",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "eb4e14b8-2d6f-4634-b10a-b1d9e3526d7d",
+    "eng": "basie",
+    "fLE": "b",
+    "tel": "బాసీ",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "e682477e-4749-4b5b-bf4d-1df9dc31561a",
+    "eng": "Basil",
+    "fLE": "B",
+    "tel": "బేసిల్",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "736a883b-7316-4cd3-8b0e-741cff34103d",
+    "eng": "Basile",
+    "fLE": "B",
+    "tel": "బాసిల్",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "6ead7ede-9ad0-40b7-b767-948f403e079c",
+    "eng": "Basilio",
+    "fLE": "B",
+    "tel": "బాసిలిలో",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "e7c4bbaa-3c6d-4460-859f-e89b9c11734a",
+    "eng": "Basilios",
+    "fLE": "B",
+    "tel": "బాసిలియోస్",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "927438db-05e4-4078-a3db-b1b44a6a38cb",
+    "eng": "Basilius",
+    "fLE": "B",
+    "tel": "బాసిలిస్",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "e5bd3a32-3a95-43a1-8ee5-eb300053f3ea",
+    "eng": "Basilus",
+    "fLE": "B",
+    "tel": "బాసిల్స్",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "0553de6c-00f8-4ea4-9db7-bb3f2fadf22e",
+    "eng": "Basim",
+    "fLE": "B",
+    "tel": "బాసిం",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "97a8f145-6cfe-4499-ab1e-dfcdae8a291c",
+    "eng": "basim",
+    "fLE": "b",
+    "tel": "బాసిం",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "3c2c8fca-4228-41cb-a245-216d00eb5509",
+    "eng": "Basir",
+    "fLE": "B",
+    "tel": "బాషిర్",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "32ce387b-fbf1-43e7-a6a2-8bac84c1c057",
+    "eng": "basir",
+    "fLE": "b",
+    "tel": "బాషిర్",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "0128f95a-a794-41e7-a3d2-23789254edd6",
+    "eng": "Basirat",
+    "fLE": "B",
+    "tel": "బసిరెట్",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "4ca6b233-6e2a-4543-aa32-6b786fc6856e",
+    "eng": "Basistha",
+    "fLE": "B",
+    "tel": "భాసిస్తా",
+    "fLTel": "భ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "274727a0-d9e8-45eb-8c50-85943abed63f",
+    "eng": "Basit",
+    "fLE": "B",
+    "tel": "బాసిత్",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "f549d573-888c-429d-b493-5eb7823c402c",
+    "eng": "Basita",
+    "fLE": "B",
+    "tel": "భాసిత",
+    "fLTel": "భ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "19a333ae-443f-4144-96fc-30d772d2cd8e",
+    "eng": "Baskar",
+    "fLE": "B",
+    "tel": "భాస్కర్",
+    "fLTel": "భ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "46086e62-76ac-45c3-829d-fe2eafda96d5",
+    "eng": "Baskaran",
+    "fLE": "B",
+    "tel": "భాస్కరం",
+    "fLTel": "భ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "f1c716eb-3abb-486b-bb3f-a02163749daf",
+    "eng": "Basman",
+    "fLE": "B",
+    "tel": "బస్మాన్",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "ade852c5-89b2-4dbe-ad7c-c1b97f16c389",
+    "eng": "Basmin",
+    "fLE": "B",
+    "tel": "భస్మీన్",
+    "fLTel": "భ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "a274d823-7d73-4998-b540-77b8a78893a2",
+    "eng": "Basr",
+    "fLE": "B",
+    "tel": "బాసర",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "f77e4518-235c-4dde-8611-e6acb3518854",
+    "eng": "Basrah",
+    "fLE": "B",
+    "tel": "బస్రహ్",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "715c31b6-810d-4d20-bbca-a352f3db7555",
+    "eng": "Bass",
+    "fLE": "B",
+    "tel": "బాస్",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "f72f9ccf-286b-4eae-8159-5b8277eddf74",
+    "eng": "Bassa",
+    "fLE": "B",
+    "tel": "బస్స",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  }
+]

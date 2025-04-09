@@ -1,0 +1,912 @@
+[
+  {
+    "id": "f89486b1-8342-412e-b9bf-b6dde0e8e2e1",
+    "eng": "nydia",
+    "fLE": "n",
+    "tel": "నీడై",
+    "fLTel": "న",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "930b7f0f-34dc-462b-8025-58d117cf7181",
+    "eng": "Nyeki",
+    "fLE": "N",
+    "tel": "న్యేకి",
+    "fLTel": "న",
+    "tags": [],
+    "gen": "female",
+    "rel": "others"
+  },
+  {
+    "id": "05c9f3e1-126e-44a0-b555-09faf3269754",
+    "eng": "Nyela",
+    "fLE": "N",
+    "tel": "న్యేల",
+    "fLTel": "న",
+    "tags": [],
+    "gen": "female",
+    "rel": "Muslim"
+  },
+  {
+    "id": "c3d0983a-342f-4565-99ea-90e9fd763863",
+    "eng": "Nyesha",
+    "fLE": "N",
+    "tel": "న్యేషా",
+    "fLTel": "న",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "a2a5c894-ca6e-496a-8b78-423be958f905",
+    "eng": "Nyimbo",
+    "fLE": "N",
+    "tel": "న్యిమ్బో",
+    "fLTel": "న",
+    "tags": [],
+    "gen": "female",
+    "rel": "others"
+  },
+  {
+    "id": "c9e537ee-24de-4b8c-8413-594c40335fdd",
+    "eng": "Nyja",
+    "fLE": "N",
+    "tel": "నిజ",
+    "fLTel": "న",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "24b49c18-f5fc-4951-9fbe-aebaa054c78d",
+    "eng": "Nykia",
+    "fLE": "N",
+    "tel": "నీకిది",
+    "fLTel": "న",
+    "tags": [],
+    "gen": "female",
+    "rel": "Muslim"
+  },
+  {
+    "id": "b536a577-78ae-415e-a9be-5f8da9105adf",
+    "eng": "Nyla",
+    "fLE": "N",
+    "tel": "నీల",
+    "fLTel": "న",
+    "tags": [],
+    "gen": "female",
+    "rel": "Muslim"
+  },
+  {
+    "id": "afa08b38-84c5-4c32-8ba7-9506e7fa5038",
+    "eng": "Nylaa",
+    "fLE": "N",
+    "tel": "నీలా",
+    "fLTel": "న",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "ae917f72-205f-4900-bcc2-79fa01aa31fb",
+    "eng": "Nylah",
+    "fLE": "N",
+    "tel": "నీలాహ్",
+    "fLTel": "న",
+    "tags": [],
+    "gen": "female",
+    "rel": "Muslim"
+  },
+  {
+    "id": "4b071ce5-57db-4180-8c84-866f15181242",
+    "eng": "nylah",
+    "fLE": "n",
+    "tel": "నీలాహ్",
+    "fLTel": "న",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "10d7e1a7-fd48-4604-bed0-03839d082dfa",
+    "eng": "Nymeria",
+    "fLE": "N",
+    "tel": "నీమేరియా",
+    "fLTel": "న",
+    "tags": [],
+    "gen": "female",
+    "rel": "others"
+  },
+  {
+    "id": "3d4d4a76-4aec-4954-a183-d063b3ca55b7",
+    "eng": "Nymisha",
+    "fLE": "N",
+    "tel": "నైమిశ",
+    "fLTel": "న",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "4687b543-e2ea-4cf5-9d53-addf3d523d2b",
+    "eng": "Nympha",
+    "fLE": "N",
+    "tel": "నీమ్ఫా",
+    "fLTel": "న",
+    "tags": [],
+    "gen": "female",
+    "rel": "others"
+  },
+  {
+    "id": "a6b3b3b5-28be-4f8f-a303-f0f8aaeb6e0c",
+    "eng": "Nymphadora",
+    "fLE": "N",
+    "tel": "నీమ్ఫెడోరా",
+    "fLTel": "న",
+    "tags": [],
+    "gen": "female",
+    "rel": "others"
+  },
+  {
+    "id": "24c0d4ef-c772-44e6-9e78-d20bda21461a",
+    "eng": "Nyneishia",
+    "fLE": "N",
+    "tel": "నీనెఇషియా",
+    "fLTel": "న",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "9a808aa5-c3f3-422c-8e42-e528a58c0557",
+    "eng": "Nyneve",
+    "fLE": "N",
+    "tel": "నీనెవె",
+    "fLTel": "న",
+    "tags": [],
+    "gen": "female",
+    "rel": "others"
+  },
+  {
+    "id": "e2798472-989c-43c9-be42-2502fb5015cc",
+    "eng": "Nynyue",
+    "fLE": "N",
+    "tel": "నైనఁయుఎ",
+    "fLTel": "న",
+    "tags": [],
+    "gen": "female",
+    "rel": "others"
+  },
+  {
+    "id": "69c8f726-b228-4ec5-b6cc-e86f0e32b74e",
+    "eng": "Nyoka",
+    "fLE": "N",
+    "tel": "నీవొక",
+    "fLTel": "న",
+    "tags": [],
+    "gen": "female",
+    "rel": "others"
+  },
+  {
+    "id": "759f1f04-b92b-48bc-9d9f-067551be2206",
+    "eng": "Nyokabi",
+    "fLE": "N",
+    "tel": "న్యోకాభి",
+    "fLTel": "న",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "250933b1-e4b0-48ee-b906-0cd746a01c60",
+    "eng": "Nyoko",
+    "fLE": "N",
+    "tel": "న్యోకో",
+    "fLTel": "న",
+    "tags": [],
+    "gen": "female",
+    "rel": "others"
+  },
+  {
+    "id": "55a7cd8e-ca97-4fef-b869-858cc0e8f50f",
+    "eng": "Nyoma",
+    "fLE": "N",
+    "tel": "నీవుమా",
+    "fLTel": "న",
+    "tags": [],
+    "gen": "female",
+    "rel": "others"
+  },
+  {
+    "id": "56b8f008-5657-4e31-9b88-bfb6f5fbe1e9",
+    "eng": "nyomi",
+    "fLE": "n",
+    "tel": "నయోమి",
+    "fLTel": "న",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "9fb7c776-eb50-4748-aff4-1cc34510b338",
+    "eng": "Nyree",
+    "fLE": "N",
+    "tel": "నీరీ",
+    "fLTel": "న",
+    "tags": [],
+    "gen": "female",
+    "rel": "others"
+  },
+  {
+    "id": "6a7b8e81-a0f2-492c-ba6b-31b431c05aac",
+    "eng": "Nysa",
+    "fLE": "N",
+    "tel": "నీసా",
+    "fLTel": "న",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "495c7bec-21aa-485e-b524-282f5bc342e8",
+    "eng": "Nysha",
+    "fLE": "N",
+    "tel": "నిషా",
+    "fLTel": "న",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "51f77d36-ac02-43ef-a85b-7c9e68034e31",
+    "eng": "Nyshita",
+    "fLE": "N",
+    "tel": "నిశిత",
+    "fLTel": "న",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "47f08752-1b80-4a95-b877-575913627bfb",
+    "eng": "Nyssa",
+    "fLE": "N",
+    "tel": "నిస్స",
+    "fLTel": "న",
+    "tags": [],
+    "gen": "female",
+    "rel": "others"
+  },
+  {
+    "id": "64516809-e21e-44eb-81be-b74bcb101633",
+    "eng": "Nysse",
+    "fLE": "N",
+    "tel": "నైస్",
+    "fLTel": "న",
+    "tags": [],
+    "gen": "female",
+    "rel": "others"
+  },
+  {
+    "id": "24c0b00a-9057-4d8d-8f2c-cff64811af5a",
+    "eng": "Nyura",
+    "fLE": "N",
+    "tel": "న్యూరో",
+    "fLTel": "న",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "ee32118b-3bd3-4c8b-8aff-f0a7b646c5ea",
+    "eng": "Nyx",
+    "fLE": "N",
+    "tel": "నైస్",
+    "fLTel": "న",
+    "tags": [],
+    "gen": "female",
+    "rel": "others"
+  },
+  {
+    "id": "8aa108ce-fd3d-4ec3-b805-22b23bac9922",
+    "eng": "nyx",
+    "fLE": "n",
+    "tel": "నైస్",
+    "fLTel": "న",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "e22d8427-5426-4b12-b32c-818c5eebca89",
+    "eng": "o'keeffe",
+    "fLE": "o",
+    "tel": "ఓ'కిఫ",
+    "fLTel": "ఓ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "06cafb52-cda9-4f36-9768-f18a4e3a7205",
+    "eng": "Oadira",
+    "fLE": "O",
+    "tel": "ఒఅదిరా",
+    "fLTel": "ఒ",
+    "tags": [],
+    "gen": "female",
+    "rel": "others"
+  },
+  {
+    "id": "41225747-3a94-4172-8acd-927e745283a3",
+    "eng": "Oaisara",
+    "fLE": "O",
+    "tel": "ఒరిసారా",
+    "fLTel": "ఒ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Muslim"
+  },
+  {
+    "id": "d3b9a78f-c6a2-42c1-abf0-6ec249540847",
+    "eng": "Oaklee",
+    "fLE": "O",
+    "tel": "ఒకేళీ",
+    "fLTel": "ఒ",
+    "tags": [],
+    "gen": "female",
+    "rel": "others"
+  },
+  {
+    "id": "30afe7a8-2ec9-443b-9a6a-0e3f383d7f14",
+    "eng": "Oakleigh",
+    "fLE": "O",
+    "tel": "ఒల్లలేఇఘ్",
+    "fLTel": "ఒ",
+    "tags": [],
+    "gen": "female",
+    "rel": "others"
+  },
+  {
+    "id": "aa439bee-bc01-4b94-80a1-d760defb2d2d",
+    "eng": "Oakley",
+    "fLE": "O",
+    "tel": "ఒల్లలేయ్",
+    "fLTel": "ఒ",
+    "tags": [],
+    "gen": "female",
+    "rel": "others"
+  },
+  {
+    "id": "1480a828-af13-4494-90a8-88195fe8e898",
+    "eng": "Oakleyl",
+    "fLE": "O",
+    "tel": "ఒక్ల్య్ల",
+    "fLTel": "ఒ",
+    "tags": [],
+    "gen": "female",
+    "rel": "others"
+  },
+  {
+    "id": "3112d2aa-e8c7-4215-90eb-f15c8158697c",
+    "eng": "Oakly",
+    "fLE": "O",
+    "tel": "ఒకలై",
+    "fLTel": "ఒ",
+    "tags": [],
+    "gen": "female",
+    "rel": "others"
+  },
+  {
+    "id": "41426624-0d96-4cfe-8549-6f48f38cff28",
+    "eng": "Oamra",
+    "fLE": "O",
+    "tel": "ఒమురా",
+    "fLTel": "ఒ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Muslim"
+  },
+  {
+    "id": "05e1af48-662d-4ac8-b64d-4c69179f4995",
+    "eng": "Oana",
+    "fLE": "O",
+    "tel": "వున్నా",
+    "fLTel": "వ",
+    "tags": [],
+    "gen": "female",
+    "rel": "others"
+  },
+  {
+    "id": "25517ce1-8d03-4dab-a289-8ce225908406",
+    "eng": "Oasis",
+    "fLE": "O",
+    "tel": "ఒయాసిస్",
+    "fLTel": "ఒ",
+    "tags": [],
+    "gen": "female",
+    "rel": "others"
+  },
+  {
+    "id": "386751ed-4673-45c7-bc0d-33463ae47f50",
+    "eng": "Oayth",
+    "fLE": "O",
+    "tel": "ఒయ్త్",
+    "fLTel": "ఒ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Muslim"
+  },
+  {
+    "id": "6c78366a-89ee-48f4-83bc-4b64959fa15e",
+    "eng": "Obdulia",
+    "fLE": "O",
+    "tel": "అబ్దులైనా",
+    "fLTel": "అ",
+    "tags": [],
+    "gen": "female",
+    "rel": "others"
+  },
+  {
+    "id": "9fdbbea7-e899-4859-a37e-1ae236c43d3f",
+    "eng": "Obed",
+    "fLE": "O",
+    "tel": "ఒబేద్",
+    "fLTel": "ఒ",
+    "tags": [],
+    "gen": "female",
+    "rel": "others"
+  },
+  {
+    "id": "e0016721-fd54-41db-bdf1-68eff35a4f46",
+    "eng": "Obedience",
+    "fLE": "O",
+    "tel": "ఒబెడిఎంకె",
+    "fLTel": "ఒ",
+    "tags": [],
+    "gen": "female",
+    "rel": "others"
+  },
+  {
+    "id": "407a3150-c9e7-47dd-9630-8b62e00bea5f",
+    "eng": "Obelia",
+    "fLE": "O",
+    "tel": "ఒబెలియా",
+    "fLTel": "ఒ",
+    "tags": [],
+    "gen": "female",
+    "rel": "others"
+  },
+  {
+    "id": "3954e0c7-a3b3-4ace-8a84-90f68d4b6bd8",
+    "eng": "obelia",
+    "fLE": "o",
+    "tel": "ఒబెలియా",
+    "fLTel": "ఒ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "817a47a9-4aa4-495b-ae6c-e60c68e2b2eb",
+    "eng": "Obilesh",
+    "fLE": "O",
+    "tel": "ఓబిలేష్",
+    "fLTel": "ఓ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "4b72c548-b55b-457b-b587-7c07c63ec02f",
+    "eng": "Obioma",
+    "fLE": "O",
+    "tel": "ఒబిస్తోమ",
+    "fLTel": "ఒ",
+    "tags": [],
+    "gen": "female",
+    "rel": "others"
+  },
+  {
+    "id": "de0055d2-495a-41f5-b29c-a01dfe8b1183",
+    "eng": "Oca",
+    "fLE": "O",
+    "tel": "ఒకే",
+    "fLTel": "ఒ",
+    "tags": [],
+    "gen": "female",
+    "rel": "others"
+  },
+  {
+    "id": "0cc78c09-9193-4c71-9477-733384e1ae4e",
+    "eng": "Occhar",
+    "fLE": "O",
+    "tel": "కొచ్చర్",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "female",
+    "rel": "others"
+  },
+  {
+    "id": "b0bc01de-ac51-4636-b428-f3dd31fc8583",
+    "eng": "Ocean",
+    "fLE": "O",
+    "tel": "ఓషన్",
+    "fLTel": "ఓ",
+    "tags": [],
+    "gen": "female",
+    "rel": "others"
+  },
+  {
+    "id": "016642a8-64a0-48d6-a10a-d3ba6564bbe4",
+    "eng": "Oceana",
+    "fLE": "O",
+    "tel": "ఓసీనా",
+    "fLTel": "ఓ",
+    "tags": [],
+    "gen": "female",
+    "rel": "others"
+  },
+  {
+    "id": "b7eb4266-f4bf-40ea-bdc0-3ffb9083799f",
+    "eng": "Oceane",
+    "fLE": "O",
+    "tel": "ఓసీనే",
+    "fLTel": "ఓ",
+    "tags": [],
+    "gen": "female",
+    "rel": "others"
+  },
+  {
+    "id": "e32da5c1-81e8-4722-89f2-386720f8cd39",
+    "eng": "oceane",
+    "fLE": "o",
+    "tel": "ఓసీనే",
+    "fLTel": "ఓ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "d86ead61-4e98-4934-a68c-17de7ec788ac",
+    "eng": "Oceanna",
+    "fLE": "O",
+    "tel": "ఓకెఅన్న",
+    "fLTel": "ఓ",
+    "tags": [],
+    "gen": "female",
+    "rel": "others"
+  },
+  {
+    "id": "2f75c6de-e58d-41c1-aab9-0881c66fddd6",
+    "eng": "Oceanne",
+    "fLE": "O",
+    "tel": "ఓసీన్నే",
+    "fLTel": "ఓ",
+    "tags": [],
+    "gen": "female",
+    "rel": "others"
+  },
+  {
+    "id": "d794d15e-7fc5-4d70-9062-a8cec3196f1d",
+    "eng": "Ocheckka",
+    "fLE": "O",
+    "tel": "మోచేక్కుక్క",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "female",
+    "rel": "others"
+  },
+  {
+    "id": "db9ac5b0-d584-47b2-bb11-6d1bbb81f34f",
+    "eng": "ochre",
+    "fLE": "o",
+    "tel": "ఓచర్",
+    "fLTel": "ఓ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "5d02b0c5-de12-4341-b289-a969ae6b9c51",
+    "eng": "Ocie",
+    "fLE": "O",
+    "tel": "ఒసిఎ",
+    "fLTel": "ఒ",
+    "tags": [],
+    "gen": "female",
+    "rel": "others"
+  },
+  {
+    "id": "e1e833f7-6848-4bec-91e8-7bce78b39543",
+    "eng": "Octavia",
+    "fLE": "O",
+    "tel": "ఆక్టావియా",
+    "fLTel": "ఆ",
+    "tags": [],
+    "gen": "female",
+    "rel": "others"
+  },
+  {
+    "id": "2f04631c-165a-4c3d-b82f-1614f58df70b",
+    "eng": "Octaviana",
+    "fLE": "O",
+    "tel": "ఆక్టావియానా",
+    "fLTel": "ఆ",
+    "tags": [],
+    "gen": "female",
+    "rel": "others"
+  },
+  {
+    "id": "cd972032-10b6-4e55-a041-5ed07db9fe9f",
+    "eng": "octayvia",
+    "fLE": "o",
+    "tel": "ఒకేటాయివియే",
+    "fLTel": "ఒ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "ba5a1301-2479-4fd5-98ad-02dfed8c93b4",
+    "eng": "October",
+    "fLE": "O",
+    "tel": "అక్టోబర్",
+    "fLTel": "అ",
+    "tags": [],
+    "gen": "female",
+    "rel": "others"
+  },
+  {
+    "id": "e804c81e-e010-49a4-91fb-07241e842f19",
+    "eng": "Oda",
+    "fLE": "O",
+    "tel": "కూడా",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "female",
+    "rel": "others"
+  },
+  {
+    "id": "c74473b4-9470-47b2-8c55-2e8fed30384d",
+    "eng": "Odalis",
+    "fLE": "O",
+    "tel": "ఒడలిస్",
+    "fLTel": "ఒ",
+    "tags": [],
+    "gen": "female",
+    "rel": "others"
+  },
+  {
+    "id": "b5f3cad1-fcba-435e-a508-8fe226619c62",
+    "eng": "odalys",
+    "fLE": "o",
+    "tel": "ఒడలిస్",
+    "fLTel": "ఒ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "3f7203ec-6c7d-4d19-8bdc-1f8bc1749bd6",
+    "eng": "Odaniya",
+    "fLE": "O",
+    "tel": "ఓడనీయ",
+    "fLTel": "ఓ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "ac9c25ad-44ac-4286-9ce9-97addcac735b",
+    "eng": "Odathi",
+    "fLE": "O",
+    "tel": "ఓడతి",
+    "fLTel": "ఓ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "5d58ae6f-e676-4101-a7c0-2053368ca669",
+    "eng": "Odda",
+    "fLE": "O",
+    "tel": "మోడ్డ",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "female",
+    "rel": "others"
+  },
+  {
+    "id": "10055599-fdf4-41cf-909c-7d33d485cc9e",
+    "eng": "Oddlaug",
+    "fLE": "O",
+    "tel": "ఒడ్లఉగ్",
+    "fLTel": "ఒ",
+    "tags": [],
+    "gen": "female",
+    "rel": "others"
+  },
+  {
+    "id": "49d50fd5-ee83-4af3-9cdb-a1d44a013e16",
+    "eng": "Oddny",
+    "fLE": "O",
+    "tel": "మోడ్దని",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "female",
+    "rel": "others"
+  },
+  {
+    "id": "48fd83cd-cc9e-47c9-9300-447f87255afd",
+    "eng": "Oddrun",
+    "fLE": "O",
+    "tel": "ఉద్దృన్",
+    "fLTel": "ఉ",
+    "tags": [],
+    "gen": "female",
+    "rel": "others"
+  },
+  {
+    "id": "c5cf227b-8e61-48c2-9c60-5c9b7bc1540c",
+    "eng": "Oddveig",
+    "fLE": "O",
+    "tel": "వొడ్దవేయిగ్",
+    "fLTel": "వ",
+    "tags": [],
+    "gen": "female",
+    "rel": "others"
+  },
+  {
+    "id": "8bf26f82-a311-4d15-ad2c-038c14067b2c",
+    "eng": "Ode",
+    "fLE": "O",
+    "tel": "ఓడే",
+    "fLTel": "ఓ",
+    "tags": [],
+    "gen": "female",
+    "rel": "others"
+  },
+  {
+    "id": "51f9c3c2-2576-4d7f-a897-5cf9bf87f1c4",
+    "eng": "Odeda",
+    "fLE": "O",
+    "tel": "ఓడేదా",
+    "fLTel": "ఓ",
+    "tags": [],
+    "gen": "female",
+    "rel": "others"
+  },
+  {
+    "id": "798a117e-ee2f-44f4-ba06-26551823bd60",
+    "eng": "Odela",
+    "fLE": "O",
+    "tel": "ఓదెల",
+    "fLTel": "ఓ",
+    "tags": [],
+    "gen": "female",
+    "rel": "others"
+  },
+  {
+    "id": "b83bc1ba-47b7-4d49-998c-ee2966618305",
+    "eng": "Odele",
+    "fLE": "O",
+    "tel": "మోడెల్",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "female",
+    "rel": "others"
+  },
+  {
+    "id": "7b664564-da74-4dbb-a62b-adf3c47bc057",
+    "eng": "Odelette",
+    "fLE": "O",
+    "tel": "మోడెలెత్తే",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "female",
+    "rel": "others"
+  },
+  {
+    "id": "398ebc92-6e9d-4442-82ab-f28f1d24ceb0",
+    "eng": "Odelia",
+    "fLE": "O",
+    "tel": "ఒడిలియా",
+    "fLTel": "ఒ",
+    "tags": [],
+    "gen": "female",
+    "rel": "others"
+  },
+  {
+    "id": "71b91a30-cde4-4658-b5b3-8e3adb15cf7a",
+    "eng": "Odelina",
+    "fLE": "O",
+    "tel": "వదిలిన",
+    "fLTel": "వ",
+    "tags": [],
+    "gen": "female",
+    "rel": "others"
+  },
+  {
+    "id": "e7f160e5-c476-4296-bbe0-40e479802cbd",
+    "eng": "Odelinda",
+    "fLE": "O",
+    "tel": "ఒదిలిందా",
+    "fLTel": "ఒ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "f1eeff60-49ae-4c72-828f-8d45891eb51e",
+    "eng": "Odell",
+    "fLE": "O",
+    "tel": "మోడెల్",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "female",
+    "rel": "others"
+  },
+  {
+    "id": "55509f27-f63f-4bd9-a41f-dd73f73a9b47",
+    "eng": "Odella",
+    "fLE": "O",
+    "tel": "తోడేళ్ళ",
+    "fLTel": "త",
+    "tags": [],
+    "gen": "female",
+    "rel": "others"
+  },
+  {
+    "id": "b51d2cfd-9b2f-441c-a3f5-fa3dda034bf3",
+    "eng": "Odelle",
+    "fLE": "O",
+    "tel": "ఓడేళ్లే",
+    "fLTel": "ఓ",
+    "tags": [],
+    "gen": "female",
+    "rel": "others"
+  },
+  {
+    "id": "c923cf1b-f71c-417a-b02e-c75aaa19bb49",
+    "eng": "Odelya",
+    "fLE": "O",
+    "tel": "ఒడిల్య",
+    "fLTel": "ఒ",
+    "tags": [],
+    "gen": "female",
+    "rel": "others"
+  },
+  {
+    "id": "f2b3f95c-5f56-4985-b576-cb1b0a69e665",
+    "eng": "Odessa",
+    "fLE": "O",
+    "tel": "ఒడెస్సా",
+    "fLTel": "ఒ",
+    "tags": [],
+    "gen": "female",
+    "rel": "others"
+  },
+  {
+    "id": "ed35f640-e31f-4627-94d7-73d8d3bc1211",
+    "eng": "Odeta",
+    "fLE": "O",
+    "tel": "ఓడేటా",
+    "fLTel": "ఓ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "4f11b4eb-a1c9-4de6-ad7d-67beeac87fb8",
+    "eng": "Odetta",
+    "fLE": "O",
+    "tel": "ఓదెట్టా",
+    "fLTel": "ఓ",
+    "tags": [],
+    "gen": "female",
+    "rel": "others"
+  }
+]

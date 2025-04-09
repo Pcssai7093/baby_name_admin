@@ -1,0 +1,402 @@
+[
+  {
+    "id": "76d901d5-ea22-44bb-bd1a-025d13cf4b87",
+    "eng": "aldan",
+    "fLE": "a",
+    "tel": "ఆల్డన్",
+    "fLTel": "ఆ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "bac4d8bd-aa06-4e95-8dcd-e33d3ecc3ef3",
+    "eng": "aldemar",
+    "fLE": "a",
+    "tel": "వాల్డెమార్",
+    "fLTel": "వ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "4f60b308-fa17-46d9-b330-16e2829590f6",
+    "eng": "aldert",
+    "fLE": "a",
+    "tel": "ఆల్డర్ట్",
+    "fLTel": "ఆ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "5b4cfdc2-b521-465d-bfc9-2fdf33166f02",
+    "eng": "Aldfrith",
+    "fLE": "A",
+    "tel": "ఆల్డఫ్రిత్",
+    "fLTel": "ఆ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "a916b40f-2043-4f5d-b40d-73bba60c22c2",
+    "eng": "Aldhelm",
+    "fLE": "A",
+    "tel": "అల్దేల్మ్",
+    "fLTel": "అ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "3f5880b4-790a-4eb8-ac29-7ce22d7eec40",
+    "eng": "Aldin",
+    "fLE": "A",
+    "tel": "ఆల్డిన్",
+    "fLTel": "ఆ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "20531151-aeb6-4774-9cf1-aaa1383d976c",
+    "eng": "Aldo",
+    "fLE": "A",
+    "tel": "ఆల్డో",
+    "fLTel": "ఆ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "fa95018a-ccb6-413f-a7c2-71c430535235",
+    "eng": "aldon",
+    "fLE": "a",
+    "tel": "ఆల్డన్",
+    "fLTel": "ఆ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "179bb29d-ff88-4778-aea4-3d4b3bc59ed5",
+    "eng": "Aldous",
+    "fLE": "A",
+    "tel": "ఆల్డోస్",
+    "fLTel": "ఆ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "35b94d87-9b8d-4b20-b155-d62b4e3cf65d",
+    "eng": "aldous",
+    "fLE": "a",
+    "tel": "ఆల్డోస్",
+    "fLTel": "ఆ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "0d181a9e-900c-4584-a8fb-4dbcf6d9c2fa",
+    "eng": "Aldred",
+    "fLE": "A",
+    "tel": "అల్డ్రేడ్",
+    "fLTel": "అ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "ae1ab66d-5575-4f0c-8ca6-618cf5bacda9",
+    "eng": "Aldric",
+    "fLE": "A",
+    "tel": "ఆల్డ్రిక్",
+    "fLTel": "ఆ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "c3397869-03af-413e-ad75-e89b9473104b",
+    "eng": "Aldrik",
+    "fLE": "A",
+    "tel": "ఆల్డ్రిక్",
+    "fLTel": "ఆ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "9830fa4b-7e96-4c9c-bff1-e829d90d6e81",
+    "eng": "Aldrin",
+    "fLE": "A",
+    "tel": "ఆల్డ్రిన్",
+    "fLTel": "ఆ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "089f2d92-09ed-44ca-b28e-ef99fb4e7fb9",
+    "eng": "Alduin",
+    "fLE": "A",
+    "tel": "అల్డుయిం",
+    "fLTel": "అ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "98385677-a6e8-41eb-a658-9e98316a7b8e",
+    "eng": "aldway",
+    "fLE": "a",
+    "tel": "అల్డ్వాయ్",
+    "fLTel": "అ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "902f85f0-b8f8-40a3-b816-91a5ffae97b6",
+    "eng": "aldwin",
+    "fLE": "a",
+    "tel": "అల్ద్విన్",
+    "fLTel": "అ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "ff1e9156-1efc-4e59-9113-9cf9d3ff2f20",
+    "eng": "Aled",
+    "fLE": "A",
+    "tel": "రాలేదు",
+    "fLTel": "ర",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "3723c788-8cf6-416b-a8ac-4b0069492c14",
+    "eng": "Aleef",
+    "fLE": "A",
+    "tel": "అలీఫ్",
+    "fLTel": "అ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "ac813963-149c-4b09-9f14-8d992e8d8b25",
+    "eng": "Aleem",
+    "fLE": "A",
+    "tel": "అలీం",
+    "fLTel": "అ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "19b8cf4b-0ffd-4196-ad3f-e89d2141f2cb",
+    "eng": "aleem",
+    "fLE": "a",
+    "tel": "అలీం",
+    "fLTel": "అ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "f6cf51c8-a8a8-43a5-86da-c611ddd4a181",
+    "eng": "Aleemuddin",
+    "fLE": "A",
+    "tel": "ఏలీముద్దీన్",
+    "fLTel": "ఏ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "3d86fb01-e79a-4fc1-83c4-d873c122d61c",
+    "eng": "Aleixo",
+    "fLE": "A",
+    "tel": "అలేయిక్స్తో",
+    "fLTel": "అ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "fccfeb0a-97ed-46f1-841a-3d52cb7a00ae",
+    "eng": "Alek",
+    "fLE": "A",
+    "tel": "అలెక్",
+    "fLTel": "అ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "201bc7e7-740c-4259-88d0-385a6872e54c",
+    "eng": "Aleko",
+    "fLE": "A",
+    "tel": "అలేకో",
+    "fLTel": "అ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "b54d9bad-eb7a-46b5-9110-4e1bc94944df",
+    "eng": "Aleks",
+    "fLE": "A",
+    "tel": "అలెక్స్",
+    "fLTel": "అ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "2d7b5ed7-ffad-4faf-b83b-f8f9e215e801",
+    "eng": "Aleksander",
+    "fLE": "A",
+    "tel": "అలెక్సాన్డెర్",
+    "fLTel": "అ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "7b4d5783-67e2-4991-8d00-d8347d72b303",
+    "eng": "aleksander",
+    "fLE": "a",
+    "tel": "అలెక్సాన్డెర్",
+    "fLTel": "అ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "1cf47d29-7cc8-438b-91d8-f24eb99720d5",
+    "eng": "Aleksandr",
+    "fLE": "A",
+    "tel": "అలెక్షాన్ద్ర",
+    "fLTel": "అ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "5e0d6f96-f134-41a4-8a44-ef84540ee7fa",
+    "eng": "Aleksandrs",
+    "fLE": "A",
+    "tel": "అలెక్షాన్డ్ర్స్",
+    "fLTel": "అ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "234d9bcb-6a15-4e7e-8d1d-5b7133dc4af4",
+    "eng": "Aleksandur",
+    "fLE": "A",
+    "tel": "అలెక్సంబుర్",
+    "fLTel": "అ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "79b0d288-625b-411f-b781-1bd7036573d0",
+    "eng": "Aleksei",
+    "fLE": "A",
+    "tel": "అలెక్సియి",
+    "fLTel": "అ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "d687d7d9-6b01-4611-a52e-eca42612da95",
+    "eng": "Aleksis",
+    "fLE": "A",
+    "tel": "అలెక్సిస్",
+    "fLTel": "అ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "c377f5eb-46cf-4be3-94ca-9bb9d5229efa",
+    "eng": "aleksy",
+    "fLE": "a",
+    "tel": "ఆలీకేజీ",
+    "fLTel": "ఆ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "4c84725e-11f0-4d31-8293-e6638e7848dd",
+    "eng": "alem",
+    "fLE": "a",
+    "tel": "అలెం",
+    "fLTel": "అ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "dfeb2603-e2a3-4e75-9424-f762ab2adcdc",
+    "eng": "Aleman",
+    "fLE": "A",
+    "tel": "అలెమాన్",
+    "fLTel": "అ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "b765bd9d-9283-488d-b4bc-0bcf51e1fd71",
+    "eng": "Alen",
+    "fLE": "A",
+    "tel": "అలెన్",
+    "fLTel": "అ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "cb761a1a-0639-4dc5-a1c6-f5a39572a9f6",
+    "eng": "Aler",
+    "fLE": "A",
+    "tel": "ఆలేరు",
+    "fLTel": "ఆ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "8ab5c123-4b17-4ba6-9cce-a2ced389a1f5",
+    "eng": "Ales",
+    "fLE": "A",
+    "tel": "ఆలిస్",
+    "fLTel": "ఆ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "95034f52-7f47-4b16-b2c9-a301fac0d819",
+    "eng": "ales",
+    "fLE": "a",
+    "tel": "ఆలిస్",
+    "fLTel": "ఆ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  }
+]

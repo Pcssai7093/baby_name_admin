@@ -1,0 +1,942 @@
+[
+  {
+    "id": "ec30437b-eba5-4aef-a4cf-5aef3c14a521",
+    "eng": "Freena",
+    "fLE": "F",
+    "tel": "ఫ్రీన",
+    "fLTel": "ఫ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "0d32ca19-f32f-4e22-8ea5-b248e6ec140e",
+    "eng": "freesia",
+    "fLE": "f",
+    "tel": "ఫ్రీసియా",
+    "fLTel": "ఫ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "7a42af98-c1bb-4c6b-9e0c-2c6abd95e18a",
+    "eng": "Freeya",
+    "fLE": "F",
+    "tel": "ఫ్రీయ",
+    "fLTel": "ఫ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Muslim"
+  },
+  {
+    "id": "bb65f5e4-691f-4d44-b66f-7da635eaef0a",
+    "eng": "Freia",
+    "fLE": "F",
+    "tel": "ఫ్రెయా",
+    "fLTel": "ఫ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "453b98e7-2da2-4682-8db9-3a07334e2edc",
+    "eng": "Freida",
+    "fLE": "F",
+    "tel": "ఫ్రెయిదా",
+    "fLTel": "ఫ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "a9e7618c-80b9-4fcd-a20f-497676ee3994",
+    "eng": "freida",
+    "fLE": "f",
+    "tel": "ఫ్రెయిదా",
+    "fLTel": "ఫ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "4a11d809-d0c8-452f-8bb6-ea54ecdfd5e1",
+    "eng": "Freira",
+    "fLE": "F",
+    "tel": "ఫ్రెయిరె",
+    "fLTel": "ఫ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "c46a6100-ce0e-4409-b3d6-a47a77f7ea60",
+    "eng": "freira",
+    "fLE": "f",
+    "tel": "ఫ్రెయిరె",
+    "fLTel": "ఫ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "5d51e163-dac6-4bc7-96c5-e63479ca4817",
+    "eng": "Freja",
+    "fLE": "F",
+    "tel": "ఫ్రీజ్",
+    "fLTel": "ఫ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "b343d477-2c28-481f-9dc7-bab4e3c5d42b",
+    "eng": "freja",
+    "fLE": "f",
+    "tel": "ఫ్రీజ్",
+    "fLTel": "ఫ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "050582fc-267a-439e-90ed-a5889dd64673",
+    "eng": "Frencesca",
+    "fLE": "F",
+    "tel": "ఫ్రెంన్స్కే",
+    "fLTel": "ఫ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "db870ae0-3c83-41c4-85d4-de4daf718117",
+    "eng": "Frenchie",
+    "fLE": "F",
+    "tel": "ఫ్రెంచియే",
+    "fLTel": "ఫ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "a694ab5e-aa1f-4c89-81bd-73622ca9a014",
+    "eng": "Freny",
+    "fLE": "F",
+    "tel": "ఫ్రెన్యు",
+    "fLTel": "ఫ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "7bde88dd-6a3b-4875-a2c7-342e954af56c",
+    "eng": "Freola",
+    "fLE": "F",
+    "tel": "ఫ్రెవుల",
+    "fLTel": "ఫ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "7b522ccf-d131-40ff-b35d-03aaae129a32",
+    "eng": "Frerika",
+    "fLE": "F",
+    "tel": "ఫ్రెరిక",
+    "fLTel": "ఫ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "46facde4-9dd3-44b6-8e1a-b664f5f713c6",
+    "eng": "Fresa",
+    "fLE": "F",
+    "tel": "ఫ్రెస",
+    "fLTel": "ఫ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "2ea0382b-a150-4503-ba83-ea5bedfc8a90",
+    "eng": "Fresca",
+    "fLE": "F",
+    "tel": "ఫ్రెస్కే",
+    "fLTel": "ఫ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "f876fe65-d291-46d8-81d1-ebb0c4e6b249",
+    "eng": "Freshta",
+    "fLE": "F",
+    "tel": "ఫ్రెష్ట",
+    "fLTel": "ఫ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Muslim"
+  },
+  {
+    "id": "4edfac54-8f88-40ea-82a9-4abae9667c46",
+    "eng": "Frethesant",
+    "fLE": "F",
+    "tel": "ఫ్రెథెసెంట్",
+    "fLTel": "ఫ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "5d265dec-8291-4353-9a6a-1623b314f3d3",
+    "eng": "Freware",
+    "fLE": "F",
+    "tel": "ఫరెవర్",
+    "fLTel": "ఫ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "6f365d3c-15bd-41e0-aa88-b3373ec58f5a",
+    "eng": "Freya",
+    "fLE": "F",
+    "tel": "ఫ్రెయ",
+    "fLTel": "ఫ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "8f867ec1-9729-497c-82aa-655775491b9c",
+    "eng": "Freyal",
+    "fLE": "F",
+    "tel": "ఫ్రెయల్",
+    "fLTel": "ఫ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "e817a108-1840-44b2-9827-959743e19ad2",
+    "eng": "Freyda",
+    "fLE": "F",
+    "tel": "ఫ్రెయిదా",
+    "fLTel": "ఫ",
+    "tags": [],
+    "gen": "female",
+    "rel": "others"
+  },
+  {
+    "id": "6a6dea00-16ce-4bcf-b8d3-1878acbda985",
+    "eng": "Freyda­s",
+    "fLE": "F",
+    "tel": "ఫ్రెయిదా­స్",
+    "fLTel": "ఫ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "9fb65479-35ee-463d-927b-64b1a125beda",
+    "eng": "Freyde",
+    "fLE": "F",
+    "tel": "ఫ్రెయిదే",
+    "fLTel": "ఫ",
+    "tags": [],
+    "gen": "female",
+    "rel": "others"
+  },
+  {
+    "id": "e98063f3-3e76-4ebe-a45f-4835213c03d8",
+    "eng": "freydis",
+    "fLE": "f",
+    "tel": "ఫ్రెయిడిన్",
+    "fLTel": "ఫ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "f3de1a7b-89e2-44ca-98db-df397be85bfe",
+    "eng": "Freyja",
+    "fLE": "F",
+    "tel": "ఫ్రెయిజా",
+    "fLTel": "ఫ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "2d95072e-e1ce-4983-bbac-80f78af76d76",
+    "eng": "Frida",
+    "fLE": "F",
+    "tel": "ఫ్రిదా",
+    "fLTel": "ఫ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "134b65c4-4f45-4e6c-ac69-92a2ef0c4177",
+    "eng": "frida",
+    "fLE": "f",
+    "tel": "ఫ్రిదా",
+    "fLTel": "ఫ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "64d6f0bd-4180-4884-985c-830d3530bcea",
+    "eng": "Frideswid",
+    "fLE": "F",
+    "tel": "ఫ్రీడేస్వీడ్",
+    "fLTel": "ఫ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "5797b265-cf9c-47a5-80f6-4b526e0e85f1",
+    "eng": "Frideswide",
+    "fLE": "F",
+    "tel": "ఫ్రీడేశ్విదే",
+    "fLTel": "ఫ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "030c9f50-5b26-4803-adb8-e60228331428",
+    "eng": "frideswide",
+    "fLE": "f",
+    "tel": "ఫ్రీడేశ్విదే",
+    "fLTel": "ఫ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "e4b6d2d3-becb-4d01-9873-77dab2c5c43f",
+    "eng": "Fridiswed",
+    "fLE": "F",
+    "tel": "ఫ్రిదీస్వీడ్",
+    "fLTel": "ఫ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "5474b0a6-d40c-4c16-943a-de74625edf40",
+    "eng": "Fridiswid",
+    "fLE": "F",
+    "tel": "ఫ్రిదీస్వీడ్",
+    "fLTel": "ఫ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "b7b4cf6d-6c85-42c7-b31d-a32c02db469a",
+    "eng": "Fridr",
+    "fLE": "F",
+    "tel": "ఫ్రిడ్ర్",
+    "fLTel": "ఫ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "5d70f03d-1f41-4de9-bfc4-581fa8622724",
+    "eng": "Fridrik",
+    "fLE": "F",
+    "tel": "ఫ్రిడ్రిక్",
+    "fLTel": "ఫ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "29dfef6e-9397-4875-aec0-55099baa9dfa",
+    "eng": "Fridrika",
+    "fLE": "F",
+    "tel": "ఫ్రిద్రిక",
+    "fLTel": "ఫ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "b05f432c-fdab-4164-9e15-229d07fdefa9",
+    "eng": "Fridswed",
+    "fLE": "F",
+    "tel": "ఫ్రిడ్స్వీడ్",
+    "fLTel": "ఫ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "47c1daa6-9265-4b79-b445-d8604749f96e",
+    "eng": "Frieda",
+    "fLE": "F",
+    "tel": "ఫరీదా",
+    "fLTel": "ఫ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "2273499c-16bb-4d51-8395-64aa94850f48",
+    "eng": "frieda",
+    "fLE": "f",
+    "tel": "ఫరీదా",
+    "fLTel": "ఫ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "48d6ab62-a5ba-4a86-bef0-ed557aeb8093",
+    "eng": "Friedah",
+    "fLE": "F",
+    "tel": "ప్రియదః",
+    "fLTel": "ప",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "c3f489da-1194-4b6f-9158-52d4639ec61b",
+    "eng": "Friede",
+    "fLE": "F",
+    "tel": "ప్రియేదే",
+    "fLTel": "ప",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "1be79e5f-b9bf-442b-9f59-31289a7efa5d",
+    "eng": "Friedegard",
+    "fLE": "F",
+    "tel": "ప్రియేదెగార్డ్",
+    "fLTel": "ప",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "3df72055-561a-4035-aca9-89c3c4791322",
+    "eng": "Friederika",
+    "fLE": "F",
+    "tel": "ఫ్రిఈడేరిక",
+    "fLTel": "ఫ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "43f96396-49cc-4ae7-a80a-1bacd8e5f99b",
+    "eng": "Friederike",
+    "fLE": "F",
+    "tel": "ఫ్రిఈడేరికే",
+    "fLTel": "ఫ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "89752508-281a-4f29-9cdc-d36944b10790",
+    "eng": "Frieza",
+    "fLE": "F",
+    "tel": "ప్రియజ",
+    "fLTel": "ప",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "08fc7ee9-4197-4c5e-8507-868ee8712611",
+    "eng": "Frig",
+    "fLE": "F",
+    "tel": "ఫ్రిజ్",
+    "fLTel": "ఫ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "6498f277-8047-46c8-ab17-dac7fcb488b7",
+    "eng": "Frigg",
+    "fLE": "F",
+    "tel": "ఫ్రిజ్జ్",
+    "fLTel": "ఫ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "893696ff-f7ca-40c1-92fb-69100c5f3c7a",
+    "eng": "Frigga",
+    "fLE": "F",
+    "tel": "ఫ్రిజ్జ్",
+    "fLTel": "ఫ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "6f24b82d-15b3-4720-946b-306ae67dce72",
+    "eng": "Frigyth",
+    "fLE": "F",
+    "tel": "ఫ్రిజిత్",
+    "fLTel": "ఫ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "dbf4adca-6c0f-463d-86c8-363bdfd686f7",
+    "eng": "Frija",
+    "fLE": "F",
+    "tel": "ఫ్రిజ్",
+    "fLTel": "ఫ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "f9268bac-8461-44ef-8958-b0da83d88470",
+    "eng": "Frikka",
+    "fLE": "F",
+    "tel": "ఫ్రిక్క",
+    "fLTel": "ఫ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "03e9a195-765f-44ad-a04d-9d263a30ea39",
+    "eng": "Frine",
+    "fLE": "F",
+    "tel": "ఫ్రిన్",
+    "fLTel": "ఫ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "22015dbc-7315-4615-a9c2-c812b5197bc6",
+    "eng": "Frisa",
+    "fLE": "F",
+    "tel": "ప్రిస",
+    "fLTel": "ప",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "00faa8a5-4ee8-4040-bea0-79e0da1ec061",
+    "eng": "Frisewide",
+    "fLE": "F",
+    "tel": "ప్రిసెవిడే",
+    "fLTel": "ప",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "aa66ba02-e950-4474-9f8a-301467f7fbb7",
+    "eng": "fritha",
+    "fLE": "f",
+    "tel": "ఫ్రిత",
+    "fLTel": "ఫ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "abc88685-6bce-4ce3-931f-67b64d68a17c",
+    "eng": "Frithela",
+    "fLE": "F",
+    "tel": "ఫ్రితెలా",
+    "fLTel": "ఫ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "6647d23e-c34e-4aea-80fb-4159a0342a69",
+    "eng": "Frithestan",
+    "fLE": "F",
+    "tel": "ఫ్రితేస్తాం",
+    "fLTel": "ఫ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "868b9851-9c28-442b-88f4-0589c99f202d",
+    "eng": "Frithuswith",
+    "fLE": "F",
+    "tel": "ఫ్రితుస్విత్",
+    "fLTel": "ఫ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "c5c10c8e-250f-43d6-8232-61dcf84133e1",
+    "eng": "Fritzie",
+    "fLE": "F",
+    "tel": "ఫ్రిట్జ్యి",
+    "fLTel": "ఫ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "c7b9cb42-61b8-4497-8023-1cc975bb09e4",
+    "eng": "fritzie",
+    "fLE": "f",
+    "tel": "ఫ్రిట్జ్యి",
+    "fLTel": "ఫ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "4c376e13-67f7-462a-bafa-788a54cab52c",
+    "eng": "Friya",
+    "fLE": "F",
+    "tel": "ప్రియా",
+    "fLTel": "ప",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "3c4bbdcf-b712-416b-98c8-d6a81953912f",
+    "eng": "Frona",
+    "fLE": "F",
+    "tel": "ఫ్రొన",
+    "fLTel": "ఫ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "43426030-25f9-450a-82ab-d9997a63293f",
+    "eng": "frona",
+    "fLE": "f",
+    "tel": "ఫ్రొన",
+    "fLTel": "ఫ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "c2fdbab4-5793-4c14-8796-f491a6fd936c",
+    "eng": "Fronda",
+    "fLE": "F",
+    "tel": "ఫ్రొన్ద",
+    "fLTel": "ఫ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "5586e8c2-e01e-411f-ab72-63c97ba3e314",
+    "eng": "Fronie",
+    "fLE": "F",
+    "tel": "ఫ్రొనియె",
+    "fLTel": "ఫ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "a7753c8c-64f5-4a94-b071-c11af2025259",
+    "eng": "frostine",
+    "fLE": "f",
+    "tel": "ఫ్రొస్తినే",
+    "fLTel": "ఫ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "e1f494ad-f672-42c2-af8e-ccafbdd0a2ca",
+    "eng": "Fruma",
+    "fLE": "F",
+    "tel": "ఫ్రూమా",
+    "fLTel": "ఫ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "e499284e-6df6-437b-beb3-675a7a12cf87",
+    "eng": "fruma",
+    "fLE": "f",
+    "tel": "ఫ్రూమా",
+    "fLTel": "ఫ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "275a413b-979f-48ad-968c-28ea8eeeb0fc",
+    "eng": "Frumah",
+    "fLE": "F",
+    "tel": "ఫ్రూమః",
+    "fLTel": "ఫ",
+    "tags": [],
+    "gen": "female",
+    "rel": "others"
+  },
+  {
+    "id": "1775518e-9260-4fc0-a4f1-428cdc9cc2a7",
+    "eng": "Frusannah",
+    "fLE": "F",
+    "tel": "ఫ్రూసంనః",
+    "fLTel": "ఫ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "7cd36ebd-b185-4775-8608-19e6f1f35516",
+    "eng": "Fryda",
+    "fLE": "F",
+    "tel": "ఫ్రైడే",
+    "fLTel": "ఫ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "d3c6e1e4-2080-4c7a-9d0e-21fe8619e3c1",
+    "eng": "Frydah",
+    "fLE": "F",
+    "tel": "ఫ్రైదః",
+    "fLTel": "ఫ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "4fbb3a6e-d237-4f9e-b6bc-1dbcd2408561",
+    "eng": "Frydda",
+    "fLE": "F",
+    "tel": "ఫ్రైడ్డ",
+    "fLTel": "ఫ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "fc989d68-337a-4a47-a8b8-1254bcc61556",
+    "eng": "fryderyka",
+    "fLE": "f",
+    "tel": "ఫ్రైడేరీక",
+    "fLTel": "ఫ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "29f22f07-bc41-436e-a9f8-8267a312d8ad",
+    "eng": "Fryswyde",
+    "fLE": "F",
+    "tel": "ఫ్రైస్వయఁడే",
+    "fLTel": "ఫ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "bcb4237b-8833-464f-b02d-6a099240048e",
+    "eng": "Fuada",
+    "fLE": "F",
+    "tel": "ఫుటా",
+    "fLTel": "ఫ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Muslim"
+  },
+  {
+    "id": "af6fb5c0-a52e-4ce0-825b-78d36cd43d93",
+    "eng": "Fuchsia",
+    "fLE": "F",
+    "tel": "ఫుచ్సినా",
+    "fLTel": "ఫ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "d639e45b-2c7f-49ff-bbf0-1f74b7cdaedb",
+    "eng": "fuchsia",
+    "fLE": "f",
+    "tel": "ఫుచ్సినా",
+    "fLTel": "ఫ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "48c34748-2c39-4da5-bf4d-51c317e03f06",
+    "eng": "Fudayl",
+    "fLE": "F",
+    "tel": "ఫుదాయ్ల",
+    "fLTel": "ఫ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Muslim"
+  },
+  {
+    "id": "fc2b28bd-667a-476d-a5af-93ac387f00fc",
+    "eng": "Fudge",
+    "fLE": "F",
+    "tel": "ఫుడ్జ్",
+    "fLTel": "ఫ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "32bdcbc9-8dd2-4b53-a58a-4725ce34acf8",
+    "eng": "Fuji",
+    "fLE": "F",
+    "tel": "ఫుజి",
+    "fLTel": "ఫ",
+    "tags": [],
+    "gen": "female",
+    "rel": "others"
+  },
+  {
+    "id": "4a4b5858-a5f1-4efa-bf32-ea61830dbb9d",
+    "eng": "Fukayna",
+    "fLE": "F",
+    "tel": "ఫుకయినా",
+    "fLTel": "ఫ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Muslim"
+  },
+  {
+    "id": "106e322a-5383-4077-bd63-53ac12fc9c1a",
+    "eng": "Ful",
+    "fLE": "F",
+    "tel": "ఫుల్",
+    "fLTel": "ఫ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "c5df32f1-93c0-46c7-adcd-aba0d8634e8a",
+    "eng": "Fularenu",
+    "fLE": "F",
+    "tel": "ఫులారెను",
+    "fLTel": "ఫ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "55fee10e-76a9-4b08-8df4-a942a43d0071",
+    "eng": "Fuleswari",
+    "fLE": "F",
+    "tel": "ఫులేశ్వరి",
+    "fLTel": "ఫ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "699e8e5c-ac7b-4572-aa07-cfd11d1d5ecb",
+    "eng": "Fulgitha",
+    "fLE": "F",
+    "tel": "ఫుల్గిత",
+    "fLTel": "ఫ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "7018ae31-2d0e-45fe-9deb-69cbd7e8cfb8",
+    "eng": "Fuli",
+    "fLE": "F",
+    "tel": "ఫులి",
+    "fLTel": "ఫ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "1f124907-735e-4f0d-a61c-c54544114214",
+    "eng": "Fulki",
+    "fLE": "F",
+    "tel": "ఫుల్కి",
+    "fLTel": "ఫ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "06f25fc4-f9a9-490c-8ed9-0f9238d516a5",
+    "eng": "Fulla",
+    "fLE": "F",
+    "tel": "ఫుల్ల",
+    "fLTel": "ఫ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "3a16caa9-26d2-49a2-aa1c-f368ab995609",
+    "eng": "Fullan",
+    "fLE": "F",
+    "tel": "ఫుల్లం",
+    "fLTel": "ఫ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "49cb7a20-cea2-4113-9bce-b54f918ce4b2",
+    "eng": "Fullara",
+    "fLE": "F",
+    "tel": "ఫుల్లారా",
+    "fLTel": "ఫ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "643d8594-498e-406f-b77d-54ac02e59fb7",
+    "eng": "Fulmala",
+    "fLE": "F",
+    "tel": "ఫుల్మల",
+    "fLTel": "ఫ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "3f55873a-9675-4bc2-ab1e-244a2b6db603",
+    "eng": "Fulmoti",
+    "fLE": "F",
+    "tel": "ఫుల్మోతి",
+    "fLTel": "ఫ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  }
+]

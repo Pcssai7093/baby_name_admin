@@ -1,0 +1,802 @@
+[
+  {
+    "id": "3e865c89-4d6c-4061-a1fd-356767cfc83e",
+    "eng": "Yppe",
+    "fLE": "Y",
+    "tel": "ఎప్పీ",
+    "fLTel": "ఎ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "7297dcea-23b7-4016-adc6-547a0b972f4c",
+    "eng": "Yra",
+    "fLE": "Y",
+    "tel": "వైరా",
+    "fLTel": "వ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "d68df432-a40e-48ea-8e96-ec6157adbc34",
+    "eng": "Yradley",
+    "fLE": "Y",
+    "tel": "వైర్డ్ల్య్",
+    "fLTel": "వ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "2deef42d-d476-428b-aa2e-63c95ea54dcb",
+    "eng": "Yric",
+    "fLE": "Y",
+    "tel": "ఎరిక్",
+    "fLTel": "ఎ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "532ab263-e5d3-4387-a841-c8ebfc2f83ba",
+    "eng": "Yrishi",
+    "fLE": "Y",
+    "tel": "వైరిషి",
+    "fLTel": "వ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "fc743920-e2bb-41d6-8a6a-3bce7871d860",
+    "eng": "Ysac",
+    "fLE": "Y",
+    "tel": "వైజాక్",
+    "fLTel": "వ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "ae036af1-96b2-488d-a482-b0ad029dea36",
+    "eng": "Ysmael",
+    "fLE": "Y",
+    "tel": "యస్మాయీల్",
+    "fLTel": "య",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "e1ebe7b0-eae1-4b85-a436-bbe2e952f237",
+    "eng": "Yuaine",
+    "fLE": "Y",
+    "tel": "యూరిన్",
+    "fLTel": "య",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "4bb604c2-e95b-4196-9223-3e94d0c190cc",
+    "eng": "Yuan",
+    "fLE": "Y",
+    "tel": "యుఎన్",
+    "fLTel": "య",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "ac04adc6-ec07-4398-89c2-3cef8cf2a4b5",
+    "eng": "Yudale",
+    "fLE": "Y",
+    "tel": "యుధాలే",
+    "fLTel": "య",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "90b1370c-75d2-4348-bed5-9474d47e089c",
+    "eng": "Yuddha",
+    "fLE": "Y",
+    "tel": "యుద్ధ",
+    "fLTel": "య",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "08780fb9-e021-4392-b5a5-1fece0299353",
+    "eng": "Yudell",
+    "fLE": "Y",
+    "tel": "యూడీఎల్",
+    "fLTel": "య",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "f618ad53-c667-40ee-a1c0-251267fb3144",
+    "eng": "Yudhajit",
+    "fLE": "Y",
+    "tel": "యుధాజిత్",
+    "fLTel": "య",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "6a900c80-c0c0-42d0-9521-87976c5c8192",
+    "eng": "Yudhajith",
+    "fLE": "Y",
+    "tel": "యుధాజిత్",
+    "fLTel": "య",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "7e3c75e7-9453-4f34-83b4-c863c3a2a067",
+    "eng": "Yudhav",
+    "fLE": "Y",
+    "tel": "యుదవ్",
+    "fLTel": "య",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "2edbef88-0a06-4aaa-a8e8-1ae6d89f9647",
+    "eng": "Yudhiraj",
+    "fLE": "Y",
+    "tel": "యుధిరాజ్",
+    "fLTel": "య",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "50d76698-1f29-4d7f-876b-039232cec13b",
+    "eng": "Yudhishtar",
+    "fLE": "Y",
+    "tel": "యుధిష్టరు",
+    "fLTel": "య",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "0ef18e1f-f899-4bb2-b91f-352dd8bb2694",
+    "eng": "Yudhishthir",
+    "fLE": "Y",
+    "tel": "యుధిష్టహీర్",
+    "fLTel": "య",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "564fc379-f7ac-46cb-b375-fdcc97f38bea",
+    "eng": "Yudhishthira",
+    "fLE": "Y",
+    "tel": "యుధిష్టహీర",
+    "fLTel": "య",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "a3b7c707-7557-4526-a90d-ab9c22978bf1",
+    "eng": "Yudhishtir",
+    "fLE": "Y",
+    "tel": "యుధిష్ఠిరః",
+    "fLTel": "య",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "36a00cd3-061f-4195-825b-99039a5f9375",
+    "eng": "Yudhisthir",
+    "fLE": "Y",
+    "tel": "యుధిస్థిరః",
+    "fLTel": "య",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "77352e9e-c6a5-4522-9a7d-f09b0f1ee7b3",
+    "eng": "Yudhisthira",
+    "fLE": "Y",
+    "tel": "యుధిస్థిరా",
+    "fLTel": "య",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "16e80178-2aaa-4ffc-a6a6-0dc35a0201e4",
+    "eng": "Yudhistir",
+    "fLE": "Y",
+    "tel": "యుధిష్ఠిరః",
+    "fLTel": "య",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "754255d6-783f-4008-ba7d-95644012d646",
+    "eng": "Yudhjeet",
+    "fLE": "Y",
+    "tel": "యుధాజిత్",
+    "fLTel": "య",
+    "tags": [],
+    "gen": "male",
+    "rel": "Sikh"
+  },
+  {
+    "id": "21844867-252a-43ba-a4d9-7fc3c0179d77",
+    "eng": "Yudhvir",
+    "fLE": "Y",
+    "tel": "యద్విర్",
+    "fLTel": "య",
+    "tags": [],
+    "gen": "male",
+    "rel": "Sikh"
+  },
+  {
+    "id": "a9aded90-7b03-452f-b49d-e3fd7776739a",
+    "eng": "Yudishan",
+    "fLE": "Y",
+    "tel": "యుడిషన్",
+    "fLTel": "య",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "f9c28f30-1edb-4d30-b072-51acd499ce2a",
+    "eng": "Yudit",
+    "fLE": "Y",
+    "tel": "యుడిట్",
+    "fLTel": "య",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "229c797f-de9b-41e2-ad72-fb1f50b39f7a",
+    "eng": "Yug",
+    "fLE": "Y",
+    "tel": "యుగ",
+    "fLTel": "య",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "e3059f1b-a727-4a11-a99a-40800855c3d4",
+    "eng": "Yuga",
+    "fLE": "Y",
+    "tel": "యుగ",
+    "fLTel": "య",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "4300cb63-5151-488b-880e-cd5a27658d6a",
+    "eng": "Yugal",
+    "fLE": "Y",
+    "tel": "యుగాల",
+    "fLTel": "య",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "dc5814e8-9854-4ecf-a3b3-eab2a6de57ac",
+    "eng": "Yugalraj",
+    "fLE": "Y",
+    "tel": "యుగల్రాజ్",
+    "fLTel": "య",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "5923c117-2332-49e7-80a8-6468f5615318",
+    "eng": "Yugan",
+    "fLE": "Y",
+    "tel": "యుగం",
+    "fLTel": "య",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "41209c05-33e2-4944-9d6a-b1b0e8696654",
+    "eng": "Yugander",
+    "fLE": "Y",
+    "tel": "యుగంధర్",
+    "fLTel": "య",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "1bfa4f0a-795d-4827-8049-dd4f692f71a3",
+    "eng": "Yugandhar",
+    "fLE": "Y",
+    "tel": "యుగంధర్",
+    "fLTel": "య",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "b51be11d-5c5d-431c-a58e-70163e5b05c9",
+    "eng": "Yugank",
+    "fLE": "Y",
+    "tel": "యుగాంక్",
+    "fLTel": "య",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "29cf9e13-a6f1-4445-8b69-547d94ea63a6",
+    "eng": "Yugansh",
+    "fLE": "Y",
+    "tel": "యుగాంష్",
+    "fLTel": "య",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "4bda6b8c-0f0e-4924-ac77-defa1f9fc941",
+    "eng": "Yugant",
+    "fLE": "Y",
+    "tel": "యుగాన్త",
+    "fLTel": "య",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "ca1b4b4d-f598-45c9-b36e-bd483f185359",
+    "eng": "Yugantar",
+    "fLE": "Y",
+    "tel": "యుగాంతర్",
+    "fLTel": "య",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "933fdd94-8b1a-4014-ab7f-0d9e72738f87",
+    "eng": "Yugap",
+    "fLE": "Y",
+    "tel": "యుగపు",
+    "fLTel": "య",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "117e948d-a21e-425e-9cfa-c45b4fdca287",
+    "eng": "Yugbadal",
+    "fLE": "Y",
+    "tel": "యుగ్బాడల్",
+    "fLTel": "య",
+    "tags": [],
+    "gen": "male",
+    "rel": "Sikh"
+  },
+  {
+    "id": "3f924583-2578-4f09-a0f2-ca0ad32b5244",
+    "eng": "Yugdeep",
+    "fLE": "Y",
+    "tel": "యూజీడీపీ",
+    "fLTel": "య",
+    "tags": [],
+    "gen": "male",
+    "rel": "Sikh"
+  },
+  {
+    "id": "7fb890ee-3926-4018-bf15-155d93d81cc8",
+    "eng": "Yugein",
+    "fLE": "Y",
+    "tel": "యుగేయున్",
+    "fLTel": "య",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "d873820f-f34a-47af-b9df-564fc8d2554f",
+    "eng": "Yugender",
+    "fLE": "Y",
+    "tel": "యుగేందర్",
+    "fLTel": "య",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "1a4d2668-c959-4c5c-9623-6b722de28bbe",
+    "eng": "Yugesh",
+    "fLE": "Y",
+    "tel": "యుగేష్",
+    "fLTel": "య",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "38fd8faf-1728-41e6-a022-5d21609cf5ef",
+    "eng": "Yugeshvar",
+    "fLE": "Y",
+    "tel": "యుగేశ్వర్",
+    "fLTel": "య",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "a2f591a6-87cb-430f-b4f0-8b1a1402b976",
+    "eng": "Yugin",
+    "fLE": "Y",
+    "tel": "యుగిం",
+    "fLTel": "య",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "67735ba7-86cd-47de-b7a0-d7fd8cb501e9",
+    "eng": "Yugitha",
+    "fLE": "Y",
+    "tel": "యుగిత",
+    "fLTel": "య",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "8fdfccd4-11df-41ff-96b2-ba91479a4410",
+    "eng": "Yugma",
+    "fLE": "Y",
+    "tel": "యుగ్మ",
+    "fLTel": "య",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "166139e8-e2d4-4b8a-a0e9-2c64f492defc",
+    "eng": "Yuhaan",
+    "fLE": "Y",
+    "tel": "యిహాన్",
+    "fLTel": "య",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "150adbeb-e923-47dd-8ab9-af8742e08a10",
+    "eng": "Yuhandhar",
+    "fLE": "Y",
+    "tel": "యుహన్దార్",
+    "fLTel": "య",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "a2d05afe-dd64-404a-b0ab-73efe64f3fe7",
+    "eng": "Yuhannis",
+    "fLE": "Y",
+    "tel": "యూహాన్నిస్",
+    "fLTel": "య",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "fd464ddb-7400-46f4-8090-fd5830611ce7",
+    "eng": "Yuhans",
+    "fLE": "Y",
+    "tel": "యుహన్స్",
+    "fLTel": "య",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "b9b4a4a3-42f2-4fd7-a0c7-8bf2ef9598e0",
+    "eng": "Yuj",
+    "fLE": "Y",
+    "tel": "యూజ్",
+    "fLTel": "య",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "914a2967-3464-44e3-a899-72eca2a776d1",
+    "eng": "Yujya",
+    "fLE": "Y",
+    "tel": "యుజ్య",
+    "fLTel": "య",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "91897b41-ed3a-4725-a111-b6795dd46c4b",
+    "eng": "Yukithan",
+    "fLE": "Y",
+    "tel": "యుకితం",
+    "fLTel": "య",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "cf9de6aa-f5e4-4c9a-9a7d-a37936e07b81",
+    "eng": "Yukt",
+    "fLE": "Y",
+    "tel": "యుక్త్",
+    "fLTel": "య",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "81cc99d2-5adf-41e9-9487-5c7400e80017",
+    "eng": "Yukta",
+    "fLE": "Y",
+    "tel": "యుక్త",
+    "fLTel": "య",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "6fa807fe-b654-4f7d-a625-baddfdcdc134",
+    "eng": "Yuktha",
+    "fLE": "Y",
+    "tel": "యుక్త",
+    "fLTel": "య",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "930b75fa-79b0-486c-b0af-3d855dba0863",
+    "eng": "Yule",
+    "fLE": "Y",
+    "tel": "యులే",
+    "fLTel": "య",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "45f18800-f647-413f-a35a-78c871001a47",
+    "eng": "Yules",
+    "fLE": "Y",
+    "tel": "యుల్స్",
+    "fLTel": "య",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "aebfcdc0-ec39-4f96-bb2f-45f258a2a405",
+    "eng": "Yumit",
+    "fLE": "Y",
+    "tel": "యుమిటీ",
+    "fLTel": "య",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "acaccf14-cc8b-4c05-8d08-19c517004277",
+    "eng": "Yunay",
+    "fLE": "Y",
+    "tel": "యునై",
+    "fLTel": "య",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "80db5dcd-d921-489f-9435-5f1ee4fee7ec",
+    "eng": "yunis",
+    "fLE": "y",
+    "tel": "యూనిస్",
+    "fLTel": "య",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "9d2cf3d5-be7b-4454-be5b-58322939b557",
+    "eng": "Yunus",
+    "fLE": "Y",
+    "tel": "యూనుస్",
+    "fLTel": "య",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "afa73589-6ac3-4bcd-b4ce-fbd63f405b63",
+    "eng": "Yupaksh",
+    "fLE": "Y",
+    "tel": "యుపక్ష",
+    "fLTel": "య",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "7a6cf009-4e1f-4f69-bc8d-6cd03377f2b8",
+    "eng": "Yureed",
+    "fLE": "Y",
+    "tel": "యురీడ్",
+    "fLTel": "య",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "43036407-de97-4ec3-a5e3-0f68bb71dd52",
+    "eng": "yurem",
+    "fLE": "y",
+    "tel": "యురేమ్",
+    "fLTel": "య",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "c7ca6346-20ff-4041-806f-45e3637cb5fb",
+    "eng": "Yusef",
+    "fLE": "Y",
+    "tel": "యూసుఫ్",
+    "fLTel": "య",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "3774055e-f383-47f1-b63a-02854dfe465a",
+    "eng": "Yusha",
+    "fLE": "Y",
+    "tel": "యూష",
+    "fLTel": "య",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "0111fc8a-b2dd-42b7-b221-dfb6073f9bf9",
+    "eng": "Yushan",
+    "fLE": "Y",
+    "tel": "యుషన్",
+    "fLTel": "య",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "d2e88280-d0dc-444b-ae2e-63c6ae2d9c79",
+    "eng": "Yushua",
+    "fLE": "Y",
+    "tel": "యూషుల",
+    "fLTel": "య",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "0bb89aa0-c50d-4dc1-9251-5df06465658a",
+    "eng": "Yusif",
+    "fLE": "Y",
+    "tel": "యుసిఫ్",
+    "fLTel": "య",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "2c5aea00-a951-4ba8-9291-d1611e5b2ad2",
+    "eng": "Yusr",
+    "fLE": "Y",
+    "tel": "యూసర్",
+    "fLTel": "య",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "b505ec58-3368-471e-9706-31836f32fbd2",
+    "eng": "Yusraat",
+    "fLE": "Y",
+    "tel": "యిస్రాయేట్",
+    "fLTel": "య",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "4427fbb1-98d3-4406-9cce-f36bc58463af",
+    "eng": "Yusrah",
+    "fLE": "Y",
+    "tel": "యూసరః",
+    "fLTel": "య",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "a99fa136-73a3-43f5-9439-623bcf3a1c3a",
+    "eng": "Yusri",
+    "fLE": "Y",
+    "tel": "యశ్రీ",
+    "fLTel": "య",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "14d87ac6-6439-4556-9741-24d40baa7a9d",
+    "eng": "Yusu",
+    "fLE": "Y",
+    "tel": "యుసు",
+    "fLTel": "య",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "972c76dc-42a4-4318-9a83-99cedc1b302c",
+    "eng": "Yusuf",
+    "fLE": "Y",
+    "tel": "యూసుఫ్",
+    "fLTel": "య",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "48f715f8-cdd6-4018-8971-66aefa603ea4",
+    "eng": "yusuf",
+    "fLE": "y",
+    "tel": "యూసుఫ్",
+    "fLTel": "య",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "ccc53f5b-9760-4766-ac20-255af14d9c08",
+    "eng": "Yutajit",
+    "fLE": "Y",
+    "tel": "యుతజిత్",
+    "fLTel": "య",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  }
+]

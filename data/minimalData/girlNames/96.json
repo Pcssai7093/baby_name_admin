@@ -1,0 +1,942 @@
+[
+  {
+    "id": "43f609fb-18d2-4611-9fa2-b9d24ee5d80c",
+    "eng": "com",
+    "fLE": "c",
+    "tel": "కం",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "9df2bbec-5928-4b19-9533-875d21bd1d6c",
+    "eng": "Comfort",
+    "fLE": "C",
+    "tel": "కంఫర్ట్",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "daa699f6-fb47-4ecd-b2f5-de8a6e79187f",
+    "eng": "comfort",
+    "fLE": "c",
+    "tel": "కంఫర్ట్",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "e6e5abfd-9333-4bf8-b3f1-40f94d698c48",
+    "eng": "Conceicao",
+    "fLE": "C",
+    "tel": "కాన్సయికేమో",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "bb9dcf94-c805-4a0e-a8ac-ffb4818bd47d",
+    "eng": "Concepcion",
+    "fLE": "C",
+    "tel": "కాన్సెప్సిన్",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "dbd8bd58-95ff-44d9-abf4-251301b28277",
+    "eng": "Concepta",
+    "fLE": "C",
+    "tel": "కాన్సెప్టా",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "23474a1d-0feb-4fbd-af1d-c1d5550feacf",
+    "eng": "Concetta",
+    "fLE": "C",
+    "tel": "కసుత్త",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "86215186-5038-48fb-85d6-d4c7b283481b",
+    "eng": "Concha",
+    "fLE": "C",
+    "tel": "కంచ",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "69a5bce9-0872-493d-b2bc-e15f6e4b1328",
+    "eng": "Conchita",
+    "fLE": "C",
+    "tel": "కాంచితా",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "f2fed351-757d-4f38-81d6-126667fc007c",
+    "eng": "Concordia",
+    "fLE": "C",
+    "tel": "కాంకోర్డియా",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "2046e3e9-f807-430f-acf0-8d90563b0123",
+    "eng": "condoleeza",
+    "fLE": "c",
+    "tel": "కండోలీజా",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "2f0755b0-67b6-4a44-8f01-9ac829c7a014",
+    "eng": "Conni",
+    "fLE": "C",
+    "tel": "కొన్ని",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "e3d061c5-fe38-4b15-9f07-1b7435365661",
+    "eng": "Conradina",
+    "fLE": "C",
+    "tel": "కోన్రాడిన",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "0fe75914-c4bc-4acc-989f-e0982f838126",
+    "eng": "Consolata",
+    "fLE": "C",
+    "tel": "కంసాలాట",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "1a1d1fab-c1a2-4685-89b3-50e3d13b4bfe",
+    "eng": "Consolation",
+    "fLE": "C",
+    "tel": "కన్సోలేషన్",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "34d265fe-b4a4-49b6-8450-5d8fe483cc23",
+    "eng": "Constance",
+    "fLE": "C",
+    "tel": "కస్టన్స్",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "5b675ba0-e5ce-43f9-8323-4bc40dee9a85",
+    "eng": "Constancia",
+    "fLE": "C",
+    "tel": "కాన్స్టెన్సిల్",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "51d1dcf3-3b55-4fd8-9b74-bb5edda9dd9a",
+    "eng": "Constancta",
+    "fLE": "C",
+    "tel": "కాంస్టాంక్ట",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "10a3ef73-d5c1-4dc4-8682-dec121f8fa3c",
+    "eng": "Constancy",
+    "fLE": "C",
+    "tel": "కాన్స్టెన్సీ",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "76aea9dd-e1fd-461b-ba73-f68cad0ae0e1",
+    "eng": "Constantia",
+    "fLE": "C",
+    "tel": "కాన్స్టాంటైనా",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "0f48cd63-7d66-4eda-8da5-3792d238a494",
+    "eng": "Constantina",
+    "fLE": "C",
+    "tel": "కాన్స్టాంటైనా",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "5d9b9096-8968-4569-a43d-2c4e229f9433",
+    "eng": "Constanza",
+    "fLE": "C",
+    "tel": "కాంస్టాంజా",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "77f151a2-c1c7-41da-b34c-c3ca74a27687",
+    "eng": "Constanze",
+    "fLE": "C",
+    "tel": "కాంస్టాంజ్",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "803eaa8a-8851-4444-bd72-c84e69b625ed",
+    "eng": "Consuela",
+    "fLE": "C",
+    "tel": "కాన్సులెలా",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "c679a539-6a7c-4237-a67d-782032f1896d",
+    "eng": "Consuelo",
+    "fLE": "C",
+    "tel": "కందుల",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "0fb905e9-23a7-4e95-92cb-528b2ac12bb1",
+    "eng": "consuelo",
+    "fLE": "c",
+    "tel": "కందుల",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "33064b08-7a8a-4a77-b320-814112ac0d8c",
+    "eng": "Content",
+    "fLE": "C",
+    "tel": "కంటెంట్",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "c50c329d-304c-4ce7-b3e8-ee79007ec672",
+    "eng": "content",
+    "fLE": "c",
+    "tel": "కంటెంట్",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "5d444b7a-9cc5-4df2-8b66-6f27bb9564e0",
+    "eng": "Contessa",
+    "fLE": "C",
+    "tel": "కాంటెస్సా",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "b7aae643-f5ba-49c1-ac09-d229a43ea75d",
+    "eng": "contessa",
+    "fLE": "c",
+    "tel": "కాంటెస్సా",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "20dc2a3c-90f1-482e-a323-0b17879d18e4",
+    "eng": "Conwenna",
+    "fLE": "C",
+    "tel": "కాన్వేన్న",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "9000feb3-306b-481f-94fc-2b73e9c6f006",
+    "eng": "Copland",
+    "fLE": "C",
+    "tel": "కాపీలను",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "b84150f2-8435-4e57-b069-d9e1a717f5ab",
+    "eng": "Coppa",
+    "fLE": "C",
+    "tel": "కప్ప",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "066ec97f-7e81-4f78-a2b3-cd21a9f28fd4",
+    "eng": "Coppelia",
+    "fLE": "C",
+    "tel": "కొప్పెలియా",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "4d1dea2d-ef6a-41e0-a584-d206e1c2ddf7",
+    "eng": "Cora",
+    "fLE": "C",
+    "tel": "కోరా",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "a9692886-a0ed-4218-8cae-348d744cd0d7",
+    "eng": "Corabelle",
+    "fLE": "C",
+    "tel": "కోరబల్లె",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "e63737ed-8316-472e-91cc-33b7e7b31d1a",
+    "eng": "Coraima",
+    "fLE": "C",
+    "tel": "కారైమా",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "acb81b6e-03cd-4c20-9a62-e9476c971d34",
+    "eng": "Coral",
+    "fLE": "C",
+    "tel": "కోరల్",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "41389a5d-5545-40db-8619-a58d3dfea6d1",
+    "eng": "Coralee",
+    "fLE": "C",
+    "tel": "కోరలేదు",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "deea2926-a27a-46ca-9aeb-25232a4531c3",
+    "eng": "Coralia",
+    "fLE": "C",
+    "tel": "కార్యాలయ",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "3642d74e-ddbf-4388-9fba-ecec344d047c",
+    "eng": "Coralie",
+    "fLE": "C",
+    "tel": "కారాలై",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "3c4095f0-79bd-45af-8bbe-8b2e2069fa93",
+    "eng": "Coralin",
+    "fLE": "C",
+    "tel": "కారోలిన్",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "d01118b2-3552-4792-9607-cfdc16043e7b",
+    "eng": "Coralina",
+    "fLE": "C",
+    "tel": "కరోలినా",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "dcfca9c2-4239-4e57-8bb7-06d9a8e9c0ae",
+    "eng": "Coraline",
+    "fLE": "C",
+    "tel": "కారోలిన్",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "c281f0dd-afef-4f1d-91ac-07970eb2e869",
+    "eng": "Coralyn",
+    "fLE": "C",
+    "tel": "కారాలైన",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "be11326a-a83b-44e9-a8e8-b9abe4b22ba2",
+    "eng": "Corazon",
+    "fLE": "C",
+    "tel": "కరజోన్",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "07aac216-76e3-464f-875e-906ba4a11248",
+    "eng": "Corda",
+    "fLE": "C",
+    "tel": "కదా",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "29379299-7969-4143-84cc-352858f80b28",
+    "eng": "Cordelia",
+    "fLE": "C",
+    "tel": "కార్డేలియా",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "8110b040-2b3c-4003-9c8b-cfc3c8787690",
+    "eng": "Cordella",
+    "fLE": "C",
+    "tel": "కార్డేల్ల",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "ed74a651-ad96-46a7-b412-77d47b2bc662",
+    "eng": "Cordessa",
+    "fLE": "C",
+    "tel": "కార్డేస్స",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "b192f92d-f749-4810-8bab-fe83f946fdef",
+    "eng": "Cordette",
+    "fLE": "C",
+    "tel": "కార్డేట్టే",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "2aa6b5a7-6459-417e-a0ae-5eb09d6b8646",
+    "eng": "Cordia",
+    "fLE": "C",
+    "tel": "కార్డియా",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "90f137b7-e779-4b38-8a35-4e248891187e",
+    "eng": "cordis",
+    "fLE": "c",
+    "tel": "కర్డిష్",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "c0b0e7e5-065a-4bec-ad8f-24f5b4abc1ca",
+    "eng": "Cordula",
+    "fLE": "C",
+    "tel": "కార్డుల",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "f98fd5e0-33a8-4b08-80a0-5879dddb0fb2",
+    "eng": "Corelia",
+    "fLE": "C",
+    "tel": "కారులియా",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "0d95f50f-461d-455f-be36-daf83f75ea40",
+    "eng": "Corella",
+    "fLE": "C",
+    "tel": "కార్ల",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "d57ac1c8-6a34-482e-81ff-b8d8cd5eb368",
+    "eng": "Corene",
+    "fLE": "C",
+    "tel": "కారునే",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "c484eb93-7215-461e-a698-75e5c6ac5b0e",
+    "eng": "Corentine",
+    "fLE": "C",
+    "tel": "కొరెంటైన్",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "06559880-b6da-43a8-afaa-f7fd2df5c907",
+    "eng": "Coretta",
+    "fLE": "C",
+    "tel": "కారెట్టా",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "8d201407-ed33-4f06-bfcd-4d549425f480",
+    "eng": "Corette",
+    "fLE": "C",
+    "tel": "కారెత్తే",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "2e3b9121-e35e-4723-9efa-25e8738fc1fc",
+    "eng": "Corian",
+    "fLE": "C",
+    "tel": "కొరియన్",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "1d7c721c-aa00-4b95-9906-08caac39125f",
+    "eng": "Coriann",
+    "fLE": "C",
+    "tel": "కొరియన్",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "4e6711ba-f033-4fdf-bca8-0e4d97905382",
+    "eng": "Corianne",
+    "fLE": "C",
+    "tel": "కొరియాన్నే",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "7e40cf69-98d5-468a-8189-567aae702912",
+    "eng": "Corie",
+    "fLE": "C",
+    "tel": "కోరీ",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "dfbdd00a-d85d-47f3-9dc1-909c6a7392c7",
+    "eng": "Corina",
+    "fLE": "C",
+    "tel": "కోరిన",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "28ed262c-41a6-4622-8142-ec46a9cc86ea",
+    "eng": "Corine",
+    "fLE": "C",
+    "tel": "కోరినా",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "c96cca39-c3e8-40a8-bf40-59b0e29b3982",
+    "eng": "Corinn",
+    "fLE": "C",
+    "tel": "కోరిన్",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "60a1cb8d-1dc6-4102-a099-b4b77190d25c",
+    "eng": "Corinna",
+    "fLE": "C",
+    "tel": "కోరినా",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "edeb9d36-9e3f-40e2-a42d-3df1b045e93f",
+    "eng": "Corinne",
+    "fLE": "C",
+    "tel": "కోరిననే",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "a618862f-befa-4fda-ad28-c6e1099cc050",
+    "eng": "Corinthia",
+    "fLE": "C",
+    "tel": "కారింథియా",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "b3170b01-a951-4b3c-9c26-deb3cef50473",
+    "eng": "Corisa",
+    "fLE": "C",
+    "tel": "కొరిస",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "3ffb0a34-58a7-4ad1-b455-f1daa2002f08",
+    "eng": "Corisande",
+    "fLE": "C",
+    "tel": "కొరిసన్దే",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "3bbd6088-bceb-42e1-bf70-b4d95c98d0e3",
+    "eng": "Corissa",
+    "fLE": "C",
+    "tel": "కరిస్స",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "c00aec53-eaf1-43f4-ad1b-6041056da5ea",
+    "eng": "Corissia",
+    "fLE": "C",
+    "tel": "కోరిషిత్",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "367b51af-38a0-4346-a9af-f8b0099c7b84",
+    "eng": "Corla",
+    "fLE": "C",
+    "tel": "కార్ల",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "1cfc3fbe-2a6b-4f0a-947f-1718d7cb8ed8",
+    "eng": "Corlee",
+    "fLE": "C",
+    "tel": "కర్లీ",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "3e9e7d49-b703-407b-be62-5c25cc7d5f0d",
+    "eng": "Corlene",
+    "fLE": "C",
+    "tel": "కలెనే",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "c87c3387-4feb-4d1f-a028-1c527e7daa4d",
+    "eng": "Corlie",
+    "fLE": "C",
+    "tel": "కర్లీ",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "90dc133a-26e5-4d53-9e04-0153fcc87ace",
+    "eng": "Corliss",
+    "fLE": "C",
+    "tel": "కలిస్",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "2f767dfd-96b5-4a6c-ac62-ff432db7e943",
+    "eng": "Corlissa",
+    "fLE": "C",
+    "tel": "కలిసే",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "eb094e71-e93c-42b5-a091-3cc08cc80d98",
+    "eng": "Corly",
+    "fLE": "C",
+    "tel": "కళ్య",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "92f9ce32-3a29-4493-8d3f-b16e7e69c2b3",
+    "eng": "Cornelia",
+    "fLE": "C",
+    "tel": "కొర్నెలియా",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "7002a88e-e1ad-4487-b188-3e9feff42e05",
+    "eng": "Cornie",
+    "fLE": "C",
+    "tel": "కనియె",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "561dd786-a540-48d2-b72b-f467f5208039",
+    "eng": "Corona",
+    "fLE": "C",
+    "tel": "కరోనా",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "3f986fd4-e521-43a3-9ef4-ca9b67c26913",
+    "eng": "corona",
+    "fLE": "c",
+    "tel": "కరోనా",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "ec7ea19e-ba5d-4aa2-9135-a26e244e7976",
+    "eng": "Corra",
+    "fLE": "C",
+    "tel": "కర్ర",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "a63fd229-aeee-47f9-ab24-447bbd06720f",
+    "eng": "Corri",
+    "fLE": "C",
+    "tel": "కర్రీ",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "cafc44d8-7fed-4f7a-8c0a-527f7784fb53",
+    "eng": "Corrianna",
+    "fLE": "C",
+    "tel": "కరిస్తోన్న",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "59b3e58e-3153-4812-a23a-e0ce2562a17c",
+    "eng": "Corrianne",
+    "fLE": "C",
+    "tel": "కొర్రియాన్నే",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "6275f065-5c32-4c9e-bcf0-42930c952292",
+    "eng": "Corrie",
+    "fLE": "C",
+    "tel": "కార్రీ",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "d9be731f-9bc4-480a-9449-e4782ba96636",
+    "eng": "Corrina",
+    "fLE": "C",
+    "tel": "కరీనా",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "d2bb5a06-e4d0-4ad7-b45c-0b76eb7ee1d1",
+    "eng": "Corrine",
+    "fLE": "C",
+    "tel": "కర్రీని",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "e21c3207-304e-4986-bac6-f51217185a79",
+    "eng": "Corrissa",
+    "fLE": "C",
+    "tel": "కరిస్స",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "ed36f44a-fd11-4a5b-9e06-7ba9f9487bd3",
+    "eng": "Corry",
+    "fLE": "C",
+    "tel": "కోరి",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  }
+]

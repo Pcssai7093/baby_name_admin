@@ -132,51 +132,58 @@ const searchByFirstLetter = async (letter) => {
 };
 
 // Example Usage
-// (async () => {
-//   const sampleData = {
-//     name: { english: "Omkar", telugu: "ఓంకార్" },
-//     first_letter: { english: "O", telugu: "ఓ" },
-//     gender: "male",
-//     language: "telugu",
-//     religion: "Hindu",
-//     meanings: { english: "Sacred Sound of Om", telugu: "ఓం పవిత్ర ధ్వని" },
-//     origin: "Sanskrit",
-//     tags: ["spiritual", "sacred", "divine"],
-//   };
+(async () => {
+  const sampleData = {
+    name: { english: "Omkar", telugu: "ఓంకార్" },
+    first_letter: { english: "O", telugu: "ఓ" },
+    gender: "male",
+    language: "telugu",
+    religion: "Hindu",
+    meanings: { english: "Sacred Sound of Om", telugu: "ఓం పవిత్ర ధ్వని" },
+    origin: "Sanskrit",
+    tags: ["spiritual", "sacred", "divine"],
+  };
 
-//   const sampleData2 = [
-//     {
-//       name: { english: "Omkar", telugu: "ఓంకార్" },
-//       first_letter: { english: "O", telugu: "ఓ" },
-//       gender: "male",
-//       language: "telugu",
-//       religion: "Hindu",
-//       meanings: { english: "Sacred Sound of Om", telugu: "ఓం పవిత్ర ధ్వని" },
-//       origin: "Sanskrit",
-//       tags: ["spiritual", "sacred", "divine"],
-//     },
-//   ];
+  const sampleData2 = [
+    {
+      name: { english: "Omkar", telugu: "ఓంకార్" },
+      first_letter: { english: "O", telugu: "ఓ" },
+      gender: "male",
+      language: "telugu",
+      religion: "Hindu",
+      meanings: { english: "Sacred Sound of Om", telugu: "ఓం పవిత్ర ధ్వని" },
+      origin: "Sanskrit",
+      tags: ["spiritual", "sacred", "divine"],
+    },
+  ];
 
-//   // Add a new name
-//   //   const docId = await addName(sampleData);
-//   const rawData = fs.readFileSync("./dataBatch1.json", "utf-8"); // Read file
-//   const namesArray = JSON.parse(rawData); // Parse JSON
-//   const docIds = await uploadNamesAdmin(namesArray);
+  // Add a new name
+  //   const docId = await addName(sampleData);
+  let files = fs.readdirSync("./data/transformedData/girlNames");
+  for(let file of files){
+    await new Promise(resolve => setTimeout(resolve, 1000));
+    let rawData = fs.readFileSync(`./data/transformedData/girlNames/${file}`, "utf-8"); // 
+    let namesArray = JSON.parse(rawData); 
+    let docIds = await uploadNamesAdmin(namesArray);
+    // Parse JSON
+  // Read file
 
-//   //   // Get the document
-//   //   await getNameById("7saZOIugIrn0lFQ2bwT8");
+  }
 
-//   //   // Update the document
-//   //   await updateName(docId, { origin: "Updated Sanskrit" });
+  //   // Get the document
+  //   await getNameById("7saZOIugIrn0lFQ2bwT8");
 
-//   //   // List all names
-//   //   await listAllNames();
+  //   // Update the document
+  //   await updateName(docId, { origin: "Updated Sanskrit" });
 
-//   //   // Search by first letter
-//   //   await searchByFirstLetter("O");
+  //   // List all names
+  //   await listAllNames();
 
-//   //   // Delete the document
-//   //   await deleteName(docId);
-// })();
+  //   // Search by first letter
+  //   await searchByFirstLetter("O");
 
-console.log(lang.t("Ankita", "hk", "devanagari"));
+  //   // Delete the document
+  //   await deleteName(docId);
+})();
+
+// console.log(lang.t("Ankita", "hk", "devanagari"));

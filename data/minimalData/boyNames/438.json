@@ -1,0 +1,822 @@
+[
+  {
+    "id": "15b48043-94e2-4d69-8273-de1b313139a9",
+    "eng": "Prithvinder",
+    "fLE": "P",
+    "tel": "ప్రిథ్విన్డెర్",
+    "fLTel": "ప",
+    "tags": [],
+    "gen": "male",
+    "rel": "Sikh"
+  },
+  {
+    "id": "d09d63f0-d2c1-4332-a420-c6beb8988b99",
+    "eng": "Prithvipal",
+    "fLE": "P",
+    "tel": "ప్రిథ్విపాల్",
+    "fLTel": "ప",
+    "tags": [],
+    "gen": "male",
+    "rel": "Sikh"
+  },
+  {
+    "id": "eedd83a2-9239-402b-ba5a-a3a9739f1c3a",
+    "eng": "Prithviraj",
+    "fLE": "P",
+    "tel": "ప్రిథ్వీరాజ్",
+    "fLTel": "ప",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "b76b1992-e90a-4087-a1c0-eb74ca365257",
+    "eng": "Prithviraj-Singh",
+    "fLE": "P",
+    "tel": "ప్రిథ్వీరాజ్-సింగ్",
+    "fLTel": "ప",
+    "tags": [],
+    "gen": "male",
+    "rel": "Sikh"
+  },
+  {
+    "id": "53dc5157-ddaa-4c14-b86e-5d3ff595123f",
+    "eng": "Prithwish",
+    "fLE": "P",
+    "tel": "ప్రిత్విష్",
+    "fLTel": "ప",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "7415ee09-60b4-45ff-8f29-c725d97b617e",
+    "eng": "Prithyis",
+    "fLE": "P",
+    "tel": "ప్రిత్యిస్",
+    "fLTel": "ప",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "9f894db2-22bc-4ecf-bf8d-ab257bcc69ca",
+    "eng": "Pritin",
+    "fLE": "P",
+    "tel": "ప్రీతిం",
+    "fLTel": "ప",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "24bdd6a7-8d1c-4730-ade3-deba2b92cf96",
+    "eng": "Pritish",
+    "fLE": "P",
+    "tel": "పిరితిష్",
+    "fLTel": "ప",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "5f6d260a-a307-47ee-9d23-6a5a453ff3f8",
+    "eng": "Pritiviraj",
+    "fLE": "P",
+    "tel": "ప్రీతివిరాజ్",
+    "fLTel": "ప",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "8f39d2c0-4983-40c8-92fd-ada67d836693",
+    "eng": "Pritpal",
+    "fLE": "P",
+    "tel": "ప్రిత్పల్",
+    "fLTel": "ప",
+    "tags": [],
+    "gen": "male",
+    "rel": "Sikh"
+  },
+  {
+    "id": "f45fe38f-9320-4199-bc91-51faced06b95",
+    "eng": "Pritul",
+    "fLE": "P",
+    "tel": "ప్రియులు",
+    "fLTel": "ప",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "d33f984a-d2c1-440d-ae5d-c25b7338ea5b",
+    "eng": "Pritwish",
+    "fLE": "P",
+    "tel": "ప్రిట్విస్",
+    "fLTel": "ప",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "bb801998-fc46-4540-a331-2edff5578631",
+    "eng": "Prity",
+    "fLE": "P",
+    "tel": "పార్టీ",
+    "fLTel": "ప",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "a480160f-0d31-40fc-b211-3b2f3f3884dc",
+    "eng": "Privrata",
+    "fLE": "P",
+    "tel": "ప్రివ్రత",
+    "fLTel": "ప",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "97a05124-3312-449f-8153-bd7bca3a6372",
+    "eng": "Priyaa",
+    "fLE": "P",
+    "tel": "ప్రియా",
+    "fLTel": "ప",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "4c58725c-27d0-4f3b-8d29-298422abbc84",
+    "eng": "Priyabhakta",
+    "fLE": "P",
+    "tel": "ప్రియభక్త",
+    "fLTel": "ప",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "e50d892e-8592-4b56-ab31-97c36219fb74",
+    "eng": "Priyabrat",
+    "fLE": "P",
+    "tel": "ప్రియబ్రాట్",
+    "fLTel": "ప",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "7ca36160-3e75-49f8-b47e-14d5efa5fb68",
+    "eng": "Priyabrata",
+    "fLE": "P",
+    "tel": "ప్రియబ్రత",
+    "fLTel": "ప",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "3c711bf0-bf78-4efa-a605-5df60a5bbf00",
+    "eng": "Priyadarshan",
+    "fLE": "P",
+    "tel": "ప్రియదర్శన్",
+    "fLTel": "ప",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "967f91a0-34d5-48df-947b-e175af8cb166",
+    "eng": "Priyadarshana",
+    "fLE": "P",
+    "tel": "ప్రియదర్శన్",
+    "fLTel": "ప",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "b6070f7c-2786-4a4d-bd55-ecfd96e0003c",
+    "eng": "Priyadarshi",
+    "fLE": "P",
+    "tel": "ప్రియదర్శి",
+    "fLTel": "ప",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "bfb9d62a-8d98-4d25-a015-6979d238e134",
+    "eng": "Priyadharshan",
+    "fLE": "P",
+    "tel": "ప్రియదర్శన్",
+    "fLTel": "ప",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "fbeffa8d-8aff-46f4-b986-5c6e523221b6",
+    "eng": "Priyak",
+    "fLE": "P",
+    "tel": "ప్రియక్",
+    "fLTel": "ప",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "9e81a1a7-6bdd-4fbb-a79c-bd8e00fe8482",
+    "eng": "Priyaka",
+    "fLE": "P",
+    "tel": "ప్రియక",
+    "fLTel": "ప",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "089445a6-3865-46d7-ac0a-3d4238f8b9dd",
+    "eng": "Priyakant",
+    "fLE": "P",
+    "tel": "ప్రియకాంత్",
+    "fLTel": "ప",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "ef42db25-c4f0-4d59-8e28-b7de1c38c6e9",
+    "eng": "Priyambad",
+    "fLE": "P",
+    "tel": "ప్రియమబాద్",
+    "fLTel": "ప",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "ed585651-7b41-4fa8-9976-49bf9e0abd0f",
+    "eng": "Priyamvad",
+    "fLE": "P",
+    "tel": "ప్రియంవద",
+    "fLTel": "ప",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "42bb722c-6bec-4fcb-8fe4-68f14b2ed813",
+    "eng": "Priyanesh",
+    "fLE": "P",
+    "tel": "పీరియన్స్",
+    "fLTel": "ప",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "d7b39b48-df0f-4fd1-86c6-376dbf46871d",
+    "eng": "Priyangshu",
+    "fLE": "P",
+    "tel": "ప్రియాంగ్సహు",
+    "fLTel": "ప",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "3df8ec59-9f84-43ef-b11d-2e16cedd156d",
+    "eng": "Priyangu",
+    "fLE": "P",
+    "tel": "ప్రియంగు",
+    "fLTel": "ప",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "b653cb27-01ce-4225-8762-7395bfb58130",
+    "eng": "Priyanjan",
+    "fLE": "P",
+    "tel": "ప్రియాంజిన్",
+    "fLTel": "ప",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "2f7daf05-a52f-47c0-9b74-3c77ac2ef403",
+    "eng": "Priyank",
+    "fLE": "P",
+    "tel": "ప్రియాంక",
+    "fLTel": "ప",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "a46e72e4-e8f7-42e9-9824-3290acdc2b21",
+    "eng": "Priyankan",
+    "fLE": "P",
+    "tel": "ప్రియాంకను",
+    "fLTel": "ప",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "eb06f662-364e-4199-a17e-87926801677e",
+    "eng": "Priyansh",
+    "fLE": "P",
+    "tel": "పీరియన్స్",
+    "fLTel": "ప",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "dc975f6f-5bd3-4c7f-8ac8-1af4ad579558",
+    "eng": "Priyanshu",
+    "fLE": "P",
+    "tel": "ప్రియాంశు",
+    "fLTel": "ప",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "ef07a9ef-6447-4adf-b574-5a9a6378a005",
+    "eng": "Priyanvad",
+    "fLE": "P",
+    "tel": "ప్రియంవద",
+    "fLTel": "ప",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "f0e66f41-fd4e-4ef4-808b-9cdce5b90639",
+    "eng": "Priyaranjan",
+    "fLE": "P",
+    "tel": "ప్రియరంజన్",
+    "fLTel": "ప",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "29e447c3-4f15-4313-96c8-c50c25e12494",
+    "eng": "Priyasaran",
+    "fLE": "P",
+    "tel": "ప్రియసరం",
+    "fLTel": "ప",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "daace603-e5d3-4f59-ad46-28fdde5b4358",
+    "eng": "Priyatar",
+    "fLE": "P",
+    "tel": "ప్రియతర్",
+    "fLTel": "ప",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "129c5405-239b-4587-aa26-8faf4bce53b5",
+    "eng": "Priyatma",
+    "fLE": "P",
+    "tel": "ప్రియతమా",
+    "fLTel": "ప",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "b51528ac-d1b0-4f4d-85e1-77161bb30d3e",
+    "eng": "Priyavrata",
+    "fLE": "P",
+    "tel": "ప్రియవ్రత",
+    "fLTel": "ప",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "91c9266f-1e01-404c-afc0-794f60591e33",
+    "eng": "Priyesh",
+    "fLE": "P",
+    "tel": "ప్రియేశ్",
+    "fLTel": "ప",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "a7522e4d-ce83-407b-95b5-152a4babb20d",
+    "eng": "Priyom",
+    "fLE": "P",
+    "tel": "ప్రియామ్",
+    "fLTel": "ప",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "69a262bf-b668-4177-bf91-7fdf98508395",
+    "eng": "Prnav",
+    "fLE": "P",
+    "tel": "ప్రణవ్",
+    "fLTel": "ప",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "00810d85-4b69-4679-ac25-97ca7d6d5bc3",
+    "eng": "Probal",
+    "fLE": "P",
+    "tel": "ప్రోబ్ల",
+    "fLTel": "ప",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "df6937f5-f027-4088-a92a-0a5592c997b2",
+    "eng": "Probert",
+    "fLE": "P",
+    "tel": "ప్రోబెర్ట్",
+    "fLTel": "ప",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "b059f525-c00e-4043-be01-d816002bd1d8",
+    "eng": "probert",
+    "fLE": "p",
+    "tel": "ప్రోబెర్ట్",
+    "fLTel": "ప",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "79b4c176-1901-4350-93c0-6384de7eb715",
+    "eng": "Probhakor",
+    "fLE": "P",
+    "tel": "ప్రభాకర్",
+    "fLTel": "ప",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "b11cd7e8-ea25-47c7-b227-720ae18cd5a3",
+    "eng": "Proctor",
+    "fLE": "P",
+    "tel": "ప్రోక్టర్",
+    "fLTel": "ప",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "39634dc7-d456-47db-b028-bc6c1372113c",
+    "eng": "Prodan",
+    "fLE": "P",
+    "tel": "ప్రాధాన్",
+    "fLTel": "ప",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "c7634d8d-73b5-47b8-a28c-4100d91403a6",
+    "eng": "Prodeep",
+    "fLE": "P",
+    "tel": "ప్రదీప్",
+    "fLTel": "ప",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "82d249f2-487e-4c9d-9c8c-6094909a3ee4",
+    "eng": "Prodyut",
+    "fLE": "P",
+    "tel": "ప్రొడ్యూస్",
+    "fLTel": "ప",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "04e1113c-1220-45fe-8e22-5e9ff7b7099b",
+    "eng": "Profit",
+    "fLE": "P",
+    "tel": "ప్రాఫిట్",
+    "fLTel": "ప",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "3f06a4b6-4960-44cc-b2e8-b065c311bcdc",
+    "eng": "Proinsias",
+    "fLE": "P",
+    "tel": "ప్రోఇన్సిల్స్",
+    "fLTel": "ప",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "e09bda89-9497-4f0c-a11c-696b5c5db982",
+    "eng": "Prokhor",
+    "fLE": "P",
+    "tel": "ప్రోఖోర్",
+    "fLTel": "ప",
+    "tags": [],
+    "gen": "male",
+    "rel": "others"
+  },
+  {
+    "id": "e00e4882-14b2-4682-a80e-7c2a655f528d",
+    "eng": "Prokshan",
+    "fLE": "P",
+    "tel": "ప్రోక్షణ",
+    "fLTel": "ప",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "96836792-f6df-45d9-a21f-6ac50a3657e0",
+    "eng": "Prolaya",
+    "fLE": "P",
+    "tel": "ప్రోలయ",
+    "fLTel": "ప",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "f46196b3-5011-4e1d-bc5e-98e0674a48c2",
+    "eng": "Prom",
+    "fLE": "P",
+    "tel": "ప్రాం",
+    "fLTel": "ప",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "eb019d27-d7de-4894-9eae-9ef2b514f4ca",
+    "eng": "Prometheus",
+    "fLE": "P",
+    "tel": "ప్రోమేతియస్",
+    "fLTel": "ప",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "9e6f1b44-c9a5-47d7-bed3-ff8432e271bc",
+    "eng": "prometheus",
+    "fLE": "p",
+    "tel": "ప్రోమేతియస్",
+    "fLTel": "ప",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "454fdb65-8158-459f-949e-055c26be4cbd",
+    "eng": "Promod",
+    "fLE": "P",
+    "tel": "ప్రమోద్",
+    "fLTel": "ప",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "dd9f5e9f-dcee-49de-9e5a-3bb75c356307",
+    "eng": "Pronoi",
+    "fLE": "P",
+    "tel": "ప్రోనోయ్",
+    "fLTel": "ప",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "f13b125f-3653-4dee-bf03-d706b4919a0b",
+    "eng": "propus",
+    "fLE": "p",
+    "tel": "ప్రాప్స్",
+    "fLTel": "ప",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "20e6aa74-04ab-4aaa-9e74-869e8a2cb679",
+    "eng": "Pros",
+    "fLE": "P",
+    "tel": "ప్రోస్",
+    "fLTel": "ప",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "fa415711-1860-4a40-85f2-249b6ff0014b",
+    "eng": "Prosad",
+    "fLE": "P",
+    "tel": "ప్రసాద్",
+    "fLTel": "ప",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "3c231ef4-7346-48d7-8b2e-1b4d8ceac817",
+    "eng": "Prosenjit",
+    "fLE": "P",
+    "tel": "ప్రోసెన్జిట్",
+    "fLTel": "ప",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "5260a7b2-161f-4ff2-950a-0393d7e69727",
+    "eng": "Prospero",
+    "fLE": "P",
+    "tel": "ప్రోస్పెరో",
+    "fLTel": "ప",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "7378f558-6cc0-4a24-8852-9363a5d67126",
+    "eng": "prospero",
+    "fLE": "p",
+    "tel": "ప్రోస్పెరో",
+    "fLTel": "ప",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "1a8eb584-58e8-4df5-a377-107d4893d4c2",
+    "eng": "Protec",
+    "fLE": "P",
+    "tel": "ప్రొటెక్",
+    "fLTel": "ప",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "6bbd6460-4e83-41cd-b396-2525074ba473",
+    "eng": "Protik",
+    "fLE": "P",
+    "tel": "ప్రోటిక్",
+    "fLTel": "ప",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "813ae461-fcef-4e92-9417-7edb3ef33fbe",
+    "eng": "Prottoy",
+    "fLE": "P",
+    "tel": "ప్రోట్టోయ్",
+    "fLTel": "ప",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "468060ad-1392-4ee7-adde-a3e8e3862a8a",
+    "eng": "proust",
+    "fLE": "p",
+    "tel": "ప్రౌస్ట్",
+    "fLTel": "ప",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "9c3d82cc-d496-4acd-97ad-d2098090a1c8",
+    "eng": "Provakar",
+    "fLE": "P",
+    "tel": "ప్రోవకర్",
+    "fLTel": "ప",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "a891d758-7999-405f-88f6-51f92087cce1",
+    "eng": "Prudhvi",
+    "fLE": "P",
+    "tel": "పృథ్వి",
+    "fLTel": "ప",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "809ff905-9364-4e9a-9bfc-907d70d7d112",
+    "eng": "Prudhvi-nandan",
+    "fLE": "P",
+    "tel": "పృథ్వి-నందన్",
+    "fLTel": "ప",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "a072e349-8db3-4414-a9cc-324dbbd53270",
+    "eng": "Prujvall",
+    "fLE": "P",
+    "tel": "పృజ్వల్",
+    "fLTel": "ప",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "f098f699-4978-41ff-a16d-38e95022c5a5",
+    "eng": "Prunal",
+    "fLE": "P",
+    "tel": "పృనల్",
+    "fLTel": "ప",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "0f614a32-4994-474f-803d-f46c98bcd313",
+    "eng": "Pruth",
+    "fLE": "P",
+    "tel": "పృథ్",
+    "fLTel": "ప",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "9afbb984-6294-428f-9699-6734577d7a76",
+    "eng": "Pruthal",
+    "fLE": "P",
+    "tel": "పృథల్",
+    "fLTel": "ప",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "4d2d8aa9-b085-4588-92db-99b08989a68b",
+    "eng": "Pruthivi",
+    "fLE": "P",
+    "tel": "పృథివీ",
+    "fLTel": "ప",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "e10e251c-b95a-4eea-9dc0-c7bfa9238ee3",
+    "eng": "Pruthu",
+    "fLE": "P",
+    "tel": "పృథు",
+    "fLTel": "ప",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "2779eb3e-7f1a-4d26-b26a-385ffd7d73f8",
+    "eng": "Pruthuraaj",
+    "fLE": "P",
+    "tel": "పృథురాజ్",
+    "fLTel": "ప",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  }
+]

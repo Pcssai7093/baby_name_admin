@@ -1,0 +1,882 @@
+[
+  {
+    "id": "a770cc89-d4a3-4ae5-ba60-4ada6846adbb",
+    "eng": "Avaline",
+    "fLE": "A",
+    "tel": "ఆవలినే",
+    "fLTel": "ఆ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "cfadb415-3287-4ca6-9ceb-de1a5f62fb08",
+    "eng": "Avalon",
+    "fLE": "A",
+    "tel": "అవలోన్",
+    "fLTel": "అ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "2de9264d-61e5-4804-b49c-29170c84853b",
+    "eng": "Avalyn",
+    "fLE": "A",
+    "tel": "అవలీన్",
+    "fLTel": "అ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "dab573d9-aeaa-482e-ae04-1647abc8be37",
+    "eng": "Avalynn",
+    "fLE": "A",
+    "tel": "అవలీన్",
+    "fLTel": "అ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "efcedf80-a4fc-4799-9fcb-80170146fe73",
+    "eng": "Avanda",
+    "fLE": "A",
+    "tel": "అవండి",
+    "fLTel": "అ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "6722589f-456f-43c8-a8bf-36608923e522",
+    "eng": "Avanee",
+    "fLE": "A",
+    "tel": "అవనీ",
+    "fLTel": "అ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "aa110d25-e81c-4a28-8554-3b24fb525756",
+    "eng": "Avanell",
+    "fLE": "A",
+    "tel": "అవనేల్",
+    "fLTel": "అ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "9afb2f17-0f90-44d5-9eb7-2e294448301b",
+    "eng": "Avangeline",
+    "fLE": "A",
+    "tel": "అవాంజెలినే",
+    "fLTel": "అ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "96c5002c-0382-4a21-b477-01ae544ecbb7",
+    "eng": "Avani",
+    "fLE": "A",
+    "tel": "అవని",
+    "fLTel": "అ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "00ee0817-0e19-49fa-87cb-1ca545e79f94",
+    "eng": "Avanija",
+    "fLE": "A",
+    "tel": "అవనిజ",
+    "fLTel": "అ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "299799be-00cf-4fa2-97ca-01eb66db92d1",
+    "eng": "Avanika",
+    "fLE": "A",
+    "tel": "యవనిక",
+    "fLTel": "య",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "5fb365c1-826b-4f21-9adc-830ab6f099e4",
+    "eng": "Avanita",
+    "fLE": "A",
+    "tel": "వనిత",
+    "fLTel": "వ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "f2c5fb1d-f01f-490d-baab-e9821ea61864",
+    "eng": "Avanitha",
+    "fLE": "A",
+    "tel": "వనిత",
+    "fLTel": "వ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "bc23ae2a-da36-4724-a592-0d4f5ae87463",
+    "eng": "Avanthi",
+    "fLE": "A",
+    "tel": "అవంతి",
+    "fLTel": "అ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "75d53438-0618-4c76-8c3b-65512ad7750f",
+    "eng": "Avanthika",
+    "fLE": "A",
+    "tel": "అవంతిక",
+    "fLTel": "అ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "968dfda7-6a44-4343-99da-89434aa919ac",
+    "eng": "Avanti",
+    "fLE": "A",
+    "tel": "అవంతి",
+    "fLTel": "అ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "cd85f0a5-2155-4ac4-bf98-7724203165e4",
+    "eng": "Avantika",
+    "fLE": "A",
+    "tel": "అవంతిక",
+    "fLTel": "అ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "f4ab2370-62c9-4c70-9253-aa196a50fed8",
+    "eng": "Avantisha",
+    "fLE": "A",
+    "tel": "అవంతిష",
+    "fLTel": "అ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "5984cfdc-b6ec-42d8-8fbf-89cbb5e09844",
+    "eng": "Avanya",
+    "fLE": "A",
+    "tel": "లావణ్య",
+    "fLTel": "ల",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "2d75c7d0-3ea4-4079-9eec-c67763f93cf6",
+    "eng": "Avapya",
+    "fLE": "A",
+    "tel": "అవాప్య",
+    "fLTel": "అ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "a5a21bd7-db54-466b-aa9f-dde317c14d05",
+    "eng": "Avar",
+    "fLE": "A",
+    "tel": "అవర్",
+    "fLTel": "అ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Sikh"
+  },
+  {
+    "id": "96f5fcb7-fa50-4019-a06d-66f3488d2470",
+    "eng": "Avara",
+    "fLE": "A",
+    "tel": "ఆవారా",
+    "fLTel": "ఆ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "b101c7d3-423c-4175-935a-570bf28ce0f6",
+    "eng": "Avaraja",
+    "fLE": "A",
+    "tel": "అవరాజా",
+    "fLTel": "అ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "69668eae-814f-4380-aa71-c5ac322d73f8",
+    "eng": "Avari",
+    "fLE": "A",
+    "tel": "ఎవరి",
+    "fLTel": "ఎ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "35dd2db3-fbd8-4013-867c-ff6295d50ef1",
+    "eng": "Avarie",
+    "fLE": "A",
+    "tel": "ఎవరీ",
+    "fLTel": "ఎ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "c80ce00a-17b1-4ee5-9281-69e48038f67c",
+    "eng": "Avariella",
+    "fLE": "A",
+    "tel": "అవరైళ్ల",
+    "fLTel": "అ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "243233ee-89c0-42d7-9ce9-5dab9abf3c27",
+    "eng": "Avarielle",
+    "fLE": "A",
+    "tel": "అవరైళ్ళే",
+    "fLTel": "అ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "123e5605-d1f9-42af-b47b-3b82638cc7af",
+    "eng": "Avarthika",
+    "fLE": "A",
+    "tel": "అవార్తిక",
+    "fLTel": "అ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "78272fee-0b30-4b30-92f6-ed7e3f5c486f",
+    "eng": "Avas",
+    "fLE": "A",
+    "tel": "ఆవాస్",
+    "fLTel": "ఆ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "67c744cb-6a71-4e79-9320-e2253a476fa7",
+    "eng": "Avasa",
+    "fLE": "A",
+    "tel": "అవస",
+    "fLTel": "అ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "779ba03e-3c44-459b-bab5-ce11f811eae7",
+    "eng": "Avaset",
+    "fLE": "A",
+    "tel": "అవసేత్",
+    "fLTel": "అ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "ede780fd-fd27-473b-9b51-d47687f9fc5e",
+    "eng": "Avasti",
+    "fLE": "A",
+    "tel": "అవసతి",
+    "fLTel": "అ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "b3066e0b-67fc-4c66-ba6a-0d19d17bd314",
+    "eng": "Avathara",
+    "fLE": "A",
+    "tel": "అవతార",
+    "fLTel": "అ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "6766c064-d1cb-4c81-9391-644d457f2b94",
+    "eng": "Ave",
+    "fLE": "A",
+    "tel": "ఏవ్",
+    "fLTel": "ఏ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "2577bb22-f562-4f28-9424-a27a07e36448",
+    "eng": "ave",
+    "fLE": "a",
+    "tel": "ఏవ్",
+    "fLTel": "ఏ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "79c419f0-58c5-4182-811b-336859bbf566",
+    "eng": "Avedna",
+    "fLE": "A",
+    "tel": "ఆవేదన",
+    "fLTel": "ఆ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "cf59d0e4-fbc5-4707-8092-0067c4212302",
+    "eng": "Avelaine",
+    "fLE": "A",
+    "tel": "అవేలైనే",
+    "fLTel": "అ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "f6e996d8-4382-4209-bf75-37a66d936c27",
+    "eng": "Aveleen",
+    "fLE": "A",
+    "tel": "అవేలీన్",
+    "fLTel": "అ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "61b25ac0-5849-4740-8088-2bb9334c918d",
+    "eng": "Avelen",
+    "fLE": "A",
+    "tel": "అవేలేం",
+    "fLTel": "అ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "86eba38f-b8b2-44da-9e81-b70f21a02ae9",
+    "eng": "Avelin",
+    "fLE": "A",
+    "tel": "అవేలిన్",
+    "fLTel": "అ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "53575786-af32-4581-9748-1f55248e03f3",
+    "eng": "Avelina",
+    "fLE": "A",
+    "tel": "అవేలైన",
+    "fLTel": "అ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "36023ad2-83b6-4207-b6c5-fbdcb36e5853",
+    "eng": "Aveline",
+    "fLE": "A",
+    "tel": "అవేలిన్",
+    "fLTel": "అ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "aa2a1d51-dc55-4a33-907f-e20d1292e60b",
+    "eng": "avelot",
+    "fLE": "a",
+    "tel": "అవేలోట్",
+    "fLTel": "అ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "2b3238db-671a-41ea-963d-c3d389602bbf",
+    "eng": "Avelyn",
+    "fLE": "A",
+    "tel": "అవేలిన్",
+    "fLTel": "అ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "52a4086e-57d2-4190-9e9f-51300ce5bbf5",
+    "eng": "aven",
+    "fLE": "a",
+    "tel": "అవేం",
+    "fLTel": "అ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "5dbfa928-ec3f-49ac-9924-514436666b20",
+    "eng": "Avena",
+    "fLE": "A",
+    "tel": "అవేనా",
+    "fLTel": "అ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "b9f0a607-b4a6-4bec-8019-43b72a52e680",
+    "eng": "Avenable",
+    "fLE": "A",
+    "tel": "అవెనల్",
+    "fLTel": "అ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "ccb02686-d37a-4c11-9cfb-c6b366be53bb",
+    "eng": "Aveni",
+    "fLE": "A",
+    "tel": "ఏవేని",
+    "fLTel": "ఏ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "1662c371-556e-49d5-ba8f-2caf1f841423",
+    "eng": "Avenlee",
+    "fLE": "A",
+    "tel": "అవేంలీ",
+    "fLTel": "అ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "79cc0fb9-8180-44d7-9bfc-006116d0c191",
+    "eng": "Aventika",
+    "fLE": "A",
+    "tel": "అవేంటిక",
+    "fLTel": "అ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "2120ffa7-4364-4487-870b-999355181a5e",
+    "eng": "Averi",
+    "fLE": "A",
+    "tel": "ఆవిరి",
+    "fLTel": "ఆ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "3a695189-7e1f-4ee5-8ad4-215d812aabe2",
+    "eng": "Averie",
+    "fLE": "A",
+    "tel": "ఆవిరై",
+    "fLTel": "ఆ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "35367538-40c7-4377-bc05-fbfdb8763a2d",
+    "eng": "Averley",
+    "fLE": "A",
+    "tel": "ఎవెర్ల్య్",
+    "fLTel": "ఎ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "b1604ab0-2766-4967-a0c1-653d5f642ffc",
+    "eng": "Avery",
+    "fLE": "A",
+    "tel": "ఆవిరి",
+    "fLTel": "ఆ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "111345c6-37a9-4ce0-9a8f-4437332e0a4f",
+    "eng": "avery-3",
+    "fLE": "a",
+    "tel": "ఆవిరి-త్రీ",
+    "fLTel": "ఆ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "6278e573-42d1-41df-a21d-c90ab08229c7",
+    "eng": "Averyl",
+    "fLE": "A",
+    "tel": "ఎవెర్య్ల",
+    "fLTel": "ఎ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "f19d25f8-a551-4af8-adfb-528022e97ec1",
+    "eng": "Aveson",
+    "fLE": "A",
+    "tel": "ఆవేశోన్",
+    "fLTel": "ఆ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "2fd0686e-9d98-46f4-9f64-4bf7a2930e1a",
+    "eng": "Avett",
+    "fLE": "A",
+    "tel": "అవ్ట్",
+    "fLTel": "అ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "0ccc4055-57c9-4e32-9c1b-338bba6312bb",
+    "eng": "Avgi",
+    "fLE": "A",
+    "tel": "అవీగి",
+    "fLTel": "అ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "8ec21902-be52-46a9-9e64-387abe707fe7",
+    "eng": "Avgousta",
+    "fLE": "A",
+    "tel": "అవగోస్ట",
+    "fLTel": "అ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "aec0a92b-1303-4d22-a9c5-65b7be75c150",
+    "eng": "Avhni",
+    "fLE": "A",
+    "tel": "అవ్హని",
+    "fLTel": "అ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "5746ff4e-e64b-4460-8d6d-d83d159e3f53",
+    "eng": "Avhnipaala",
+    "fLE": "A",
+    "tel": "అవహ్నిపాల",
+    "fLTel": "అ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "46f39878-de6e-4bb1-82ad-5eb2fd7ec26a",
+    "eng": "Avhnitanaya",
+    "fLE": "A",
+    "tel": "అవ్హనితనాయ",
+    "fLTel": "అ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "39947d81-f1d3-415d-b5da-9248477e9af9",
+    "eng": "Avia",
+    "fLE": "A",
+    "tel": "అవియే",
+    "fLTel": "అ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "d147a198-2cd2-43c1-b844-eac4b29a4bb1",
+    "eng": "Aviaja",
+    "fLE": "A",
+    "tel": "అవిజ్జతి",
+    "fLTel": "అ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "05512225-9d68-4c02-8d95-e9c84594da3f",
+    "eng": "avian",
+    "fLE": "a",
+    "tel": "ఏవియన్",
+    "fLTel": "ఏ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "57a35add-e7ac-483e-9e0e-738e7862cbbf",
+    "eng": "Aviana",
+    "fLE": "A",
+    "tel": "ఏవైనా",
+    "fLTel": "ఏ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "ce31260b-a1ff-4f7f-ad03-98f2c2ed99de",
+    "eng": "Aviance",
+    "fLE": "A",
+    "tel": "అవియన్స్",
+    "fLTel": "అ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "b67aef73-06a4-4dd2-8b02-60d24ccd80b8",
+    "eng": "Avianna",
+    "fLE": "A",
+    "tel": "అవియన్న",
+    "fLTel": "అ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "ae2770e1-4e6c-4b7b-aa74-0da9bff5f0c7",
+    "eng": "Avic",
+    "fLE": "A",
+    "tel": "అవిక్",
+    "fLTel": "అ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "5d3cb912-919b-4e0a-8e47-0dddebe5f910",
+    "eng": "Avice",
+    "fLE": "A",
+    "tel": "అవిసె",
+    "fLTel": "అ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "24c2be4e-c4e3-4463-805b-ed23b2f93a8e",
+    "eng": "Avicia",
+    "fLE": "A",
+    "tel": "ఆవిష",
+    "fLTel": "ఆ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "3509fd79-6c76-4006-a21e-7b00ab9aba5b",
+    "eng": "Avie",
+    "fLE": "A",
+    "tel": "అవీ",
+    "fLTel": "అ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "7644f3d4-6eb6-40d9-8395-4146d1e75ce9",
+    "eng": "aviella",
+    "fLE": "a",
+    "tel": "అవిఎలా",
+    "fLTel": "అ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "d05e3a29-33b2-4b17-b0e4-064db4f57fc1",
+    "eng": "avielle",
+    "fLE": "a",
+    "tel": "అవిఏళ్లే",
+    "fLTel": "అ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "278b752b-8653-46e4-a63b-119dee9482a9",
+    "eng": "Avigail",
+    "fLE": "A",
+    "tel": "ఆగైల్",
+    "fLTel": "ఆ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "1ade7864-dd7a-470f-bca0-a4c20b7a3aad",
+    "eng": "avigail",
+    "fLE": "a",
+    "tel": "ఆగైల్",
+    "fLTel": "ఆ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "8de51780-d50f-414f-b982-694861c97bdb",
+    "eng": "Avigayil",
+    "fLE": "A",
+    "tel": "అవిగయిల్",
+    "fLTel": "అ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "2c72598d-51d3-44b4-9c95-e15447a26968",
+    "eng": "Avighnita",
+    "fLE": "A",
+    "tel": "అవిఘ్నిట",
+    "fLTel": "అ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "0dda5e2b-7684-430d-90f7-9da756625ff7",
+    "eng": "Avigna",
+    "fLE": "A",
+    "tel": "ఆజ్ఞ",
+    "fLTel": "ఆ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "10974fe8-3325-4bc1-ab4e-a6d74ec991d9",
+    "eng": "Avignon",
+    "fLE": "A",
+    "tel": "ఆజ్ఞోన్",
+    "fLTel": "ఆ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "d92dca6e-7478-4425-97fb-edffc8b437d9",
+    "eng": "Avika",
+    "fLE": "A",
+    "tel": "అవికా",
+    "fLTel": "అ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "77fe7b1a-59e5-4451-a575-af8186ae4ffd",
+    "eng": "Avila",
+    "fLE": "A",
+    "tel": "ఆలా",
+    "fLTel": "ఆ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "af0e0f16-6935-42f6-aade-13b31d99090b",
+    "eng": "Avilina",
+    "fLE": "A",
+    "tel": "అవిలీన",
+    "fLTel": "అ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "174bd00a-913d-4acb-aa80-903b3f683708",
+    "eng": "Avilynn",
+    "fLE": "A",
+    "tel": "అవిలిన్",
+    "fLTel": "అ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "7789344d-58c6-4bef-9efa-a327c40845fe",
+    "eng": "Avinandita",
+    "fLE": "A",
+    "tel": "ఆనందితా",
+    "fLTel": "ఆ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "50cac73b-ffe5-40e2-8995-9a4871239608",
+    "eng": "Avinashika",
+    "fLE": "A",
+    "tel": "అవినాశికా",
+    "fLTel": "అ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "c8ccc812-76ce-40de-befc-5dda7e241de1",
+    "eng": "Avinashini",
+    "fLE": "A",
+    "tel": "అవినాశిని",
+    "fLTel": "అ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  }
+]

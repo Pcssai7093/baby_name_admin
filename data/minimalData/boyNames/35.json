@@ -1,0 +1,472 @@
+[
+  {
+    "id": "c848dfa2-e6ba-42d9-9d66-3db6528f6c5f",
+    "eng": "Al-Ghaffar",
+    "fLE": "A",
+    "tel": "అల-గఫ్ఫార్",
+    "fLTel": "అ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "e6cbbedf-b394-4c20-9484-7f6da1756786",
+    "eng": "Al-Ghafur",
+    "fLE": "A",
+    "tel": "అల-ఘూఫుర్",
+    "fLTel": "అ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "452a9ae2-e3c1-430b-9573-b0e6292cad55",
+    "eng": "Al-Ghani",
+    "fLE": "A",
+    "tel": "అల-ఘనీ",
+    "fLTel": "అ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "30fc2426-3890-4d40-a521-b2a761e5cac3",
+    "eng": "Al-Ghaniyy",
+    "fLE": "A",
+    "tel": "అల-ఘనియ్",
+    "fLTel": "అ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "3b12047e-643f-4615-99f3-278323ba29e2",
+    "eng": "Al-Hadi",
+    "fLE": "A",
+    "tel": "అల-హది",
+    "fLTel": "అ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "e7df1223-a4b0-43f0-8cb1-6c094b49c0be",
+    "eng": "Al-Hafiz",
+    "fLE": "A",
+    "tel": "అల-హాఫిజ్",
+    "fLTel": "అ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "a8a90daf-36f4-4db0-8ad5-43a45687ca91",
+    "eng": "Al-Hakam",
+    "fLE": "A",
+    "tel": "అల-హకం",
+    "fLTel": "అ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "3eb79d4f-bb0a-44e4-a777-ea3bbf01781b",
+    "eng": "Al-Hakim",
+    "fLE": "A",
+    "tel": "అల-హకీమ్",
+    "fLTel": "అ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "4683df29-5d0a-42be-9a23-dfa3af091730",
+    "eng": "Al-Halim",
+    "fLE": "A",
+    "tel": "అల-హలీమ్",
+    "fLTel": "అ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "a1650d22-8672-49b2-b8ed-c1c7c0e9113f",
+    "eng": "Al-Hamid",
+    "fLE": "A",
+    "tel": "అల-హమిద్",
+    "fLTel": "అ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "eb75cb1b-4c58-46dd-b4fa-de9dec931ef4",
+    "eng": "Al-Hasib",
+    "fLE": "A",
+    "tel": "అల-హసీబ్",
+    "fLTel": "అ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "b3c4e569-953d-45c9-9527-39e797b617b2",
+    "eng": "Al-Hayy",
+    "fLE": "A",
+    "tel": "అల-హాయ్",
+    "fLTel": "అ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "208cb02b-feec-436c-8bf8-6f3ec5eb629e",
+    "eng": "Al-Jabbar",
+    "fLE": "A",
+    "tel": "అల-జబ్బార్",
+    "fLTel": "అ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "87e45907-ebae-43e9-b77d-228a3af45b3b",
+    "eng": "Al-Jalil",
+    "fLE": "A",
+    "tel": "అల-జలీల్",
+    "fLTel": "అ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "29389048-a490-4a0d-bede-1bfc79997d9b",
+    "eng": "Al-Jami",
+    "fLE": "A",
+    "tel": "అల-జామి",
+    "fLTel": "అ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "f81d7b97-6abc-4d08-bb26-2d8234d80315",
+    "eng": "Al-Kabir",
+    "fLE": "A",
+    "tel": "అల-కబీర్",
+    "fLTel": "అ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "7c237174-cf3a-406b-90e3-36d63e0cf888",
+    "eng": "Al-Karim",
+    "fLE": "A",
+    "tel": "అల-కరీం",
+    "fLTel": "అ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "94265a14-42d0-4ee5-abf6-05fbdde3d4c5",
+    "eng": "Al-Khabir",
+    "fLE": "A",
+    "tel": "అల-కబీర్",
+    "fLTel": "అ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "4ee14bca-cfe5-4858-be47-585de98c6a87",
+    "eng": "Al-Khafid",
+    "fLE": "A",
+    "tel": "అల-ఖాఫిడ్",
+    "fLTel": "అ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "f3180930-52b3-467e-abf8-148a1c8c4d2f",
+    "eng": "Al-Latif",
+    "fLE": "A",
+    "tel": "అల-లతీఫ్",
+    "fLTel": "అ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "c2551910-a4aa-46b8-9f51-4b9e3f0c43a9",
+    "eng": "Al-Majid",
+    "fLE": "A",
+    "tel": "అల-మజీద్",
+    "fLTel": "అ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "607b0500-f2f3-43ab-afe9-ddc72a49e289",
+    "eng": "Al-Malik",
+    "fLE": "A",
+    "tel": "అల-మాలిక్",
+    "fLTel": "అ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "186052c7-a215-46fa-947e-9c0af88e520d",
+    "eng": "Al-Mani",
+    "fLE": "A",
+    "tel": "అల-మని",
+    "fLTel": "అ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "0d5ab0e1-b1a6-4ced-9e06-508867e270db",
+    "eng": "Al-Matin",
+    "fLE": "A",
+    "tel": "అల-మతీన్",
+    "fLTel": "అ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "86bacb03-5390-46f3-9dc0-143d258f5fa2",
+    "eng": "Al-Mu'izz",
+    "fLE": "A",
+    "tel": "అల-ము'ఈజ్",
+    "fLTel": "అ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "2845a97d-c42f-4427-8e01-a818d5e92fcd",
+    "eng": "Al-Mu'min",
+    "fLE": "A",
+    "tel": "అల-ము'మైన",
+    "fLTel": "అ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "46d49a18-76a6-43d4-834e-bfdbe15b7969",
+    "eng": "Al-Muakhkhir",
+    "fLE": "A",
+    "tel": "అల-ముసఙ్ఖఖిర్",
+    "fLTel": "అ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "2015ac78-03c2-40ff-bd89-cff92feba219",
+    "eng": "Al-Mubdi",
+    "fLE": "A",
+    "tel": "అల-ముబడి",
+    "fLTel": "అ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "ceaf6657-2316-448f-8bcc-5b32dc1e397f",
+    "eng": "Al-Mubdi'",
+    "fLE": "A",
+    "tel": "అల-ముబడి'",
+    "fLTel": "అ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "15c0c514-8fb7-4336-a1b7-9ab431a0a519",
+    "eng": "Al-Mudhill",
+    "fLE": "A",
+    "tel": "అల-ముదిల్",
+    "fLTel": "అ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "028f2191-ab35-4974-9dc9-27555fcc63cf",
+    "eng": "Al-Mughni",
+    "fLE": "A",
+    "tel": "అల-మెగ్ని",
+    "fLTel": "అ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "add580ab-ccd1-45a2-afdf-6c2bbbdd01b5",
+    "eng": "Al-Muhaymin",
+    "fLE": "A",
+    "tel": "అల-ముహయామిన్",
+    "fLTel": "అ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "66c4cebc-6a87-4af4-b525-10874cb6db56",
+    "eng": "Al-Muhsi",
+    "fLE": "A",
+    "tel": "అల-ముహ్సి",
+    "fLTel": "అ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "5ac6aa43-7ccf-41af-9a81-fc54ce450977",
+    "eng": "Al-Muhyi",
+    "fLE": "A",
+    "tel": "అల-ముహ్యి",
+    "fLTel": "అ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "be4f4464-3cd0-4be1-a9df-25de5a0386fe",
+    "eng": "Al-Muid",
+    "fLE": "A",
+    "tel": "అల-ముడి",
+    "fLTel": "అ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "a203cf54-5b0c-4090-b179-edaf3f58a6dd",
+    "eng": "Al-Muizz",
+    "fLE": "A",
+    "tel": "అల-ముయిజ్",
+    "fLTel": "అ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "e96b7cc3-4c80-45e7-9ea6-b6de7bd3252d",
+    "eng": "Al-Mujib",
+    "fLE": "A",
+    "tel": "అల-ముజీబ్",
+    "fLTel": "అ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "d9e03167-2c48-4c09-9334-99412ec6358e",
+    "eng": "Al-Mumin",
+    "fLE": "A",
+    "tel": "అల-ముమైన",
+    "fLTel": "అ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "38747deb-8111-43f4-9677-efce4425155c",
+    "eng": "Al-Mumit",
+    "fLE": "A",
+    "tel": "అల-ముమైత్",
+    "fLTel": "అ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "21297493-671b-45d3-8df5-8eb7b2964447",
+    "eng": "Al-Mutaali",
+    "fLE": "A",
+    "tel": "అల-ముతాలి",
+    "fLTel": "అ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "3e05ec8d-f399-44c0-aaf8-0de18a703b71",
+    "eng": "Al-Mutakabbir",
+    "fLE": "A",
+    "tel": "అల-మూటకబ్బిర్",
+    "fLTel": "అ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "b4152f48-0fbb-4453-8849-e23ed1648dd1",
+    "eng": "Al-Muzill",
+    "fLE": "A",
+    "tel": "అల-ముజిల్",
+    "fLTel": "అ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "43ba8f83-f520-4fa5-8c63-7181be7fba5d",
+    "eng": "Al-Wadud",
+    "fLE": "A",
+    "tel": "అల-వదుద్",
+    "fLTel": "అ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "4c90a914-65a5-47f5-b543-c8103eada06b",
+    "eng": "Al-Wahhab",
+    "fLE": "A",
+    "tel": "అల-వాహహాబ్",
+    "fLTel": "అ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "51c4fe81-7332-4d28-b62e-861111459cc7",
+    "eng": "Al-Wahid",
+    "fLE": "A",
+    "tel": "అల-వాహీద్",
+    "fLTel": "అ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "787b0031-ec69-4d93-af50-82b07a5cb93b",
+    "eng": "Al-Wajid",
+    "fLE": "A",
+    "tel": "అల-వాజిద్",
+    "fLTel": "అ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "73e90f5b-93f2-43f5-a1a7-88e4e4caa173",
+    "eng": "Al-Wakil",
+    "fLE": "A",
+    "tel": "అల-వాకిలీ",
+    "fLTel": "అ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  }
+]

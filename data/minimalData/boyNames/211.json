@@ -1,0 +1,902 @@
+[
+  {
+    "id": "64b0cbfa-0fd0-4939-8f9c-abe640410d8f",
+    "eng": "Garbhaka",
+    "fLE": "G",
+    "tel": "గర్భక",
+    "fLTel": "గ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "f1cb49de-b2a1-46e6-b3de-fe94d4b5eabd",
+    "eng": "Garc",
+    "fLE": "G",
+    "tel": "గార్కి",
+    "fLTel": "గ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "d323bf40-c7c8-4a98-8e14-c403998b43c4",
+    "eng": "Gard",
+    "fLE": "G",
+    "tel": "గార్డ్",
+    "fLTel": "గ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "853067b2-7463-4ea5-8658-7bc80d686da1",
+    "eng": "Gardener",
+    "fLE": "G",
+    "tel": "గర్దెనెర్",
+    "fLTel": "గ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "d4424ab2-661c-4ef8-8475-310d42f4880f",
+    "eng": "Gardie",
+    "fLE": "G",
+    "tel": "గారడీ",
+    "fLTel": "గ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "53aab7d4-d9da-4009-8e69-8d5b10dbce9e",
+    "eng": "Gardiner",
+    "fLE": "G",
+    "tel": "గార్డినెర్",
+    "fLTel": "గ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "858230c8-1f45-4588-8f2d-2cd5875f3978",
+    "eng": "Gardner",
+    "fLE": "G",
+    "tel": "గార్డనర్",
+    "fLTel": "గ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "083293c4-d400-40b5-91f3-3d8e90b156b8",
+    "eng": "Gareb",
+    "fLE": "G",
+    "tel": "గరీబ్",
+    "fLTel": "గ",
+    "tags": [],
+    "gen": "male",
+    "rel": "others"
+  },
+  {
+    "id": "4018576f-4444-4ea0-a5fb-8887368e5bb1",
+    "eng": "Gared",
+    "fLE": "G",
+    "tel": "గార్డ్",
+    "fLTel": "గ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "e0d14573-bff1-47a4-9b7b-a7faffe8b429",
+    "eng": "Garek",
+    "fLE": "G",
+    "tel": "గారికి",
+    "fLTel": "గ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "4c1f6b67-c5fc-4b64-b7a1-49f1fb5824a0",
+    "eng": "Garen",
+    "fLE": "G",
+    "tel": "గారేం",
+    "fLTel": "గ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "48c4eea2-281f-4d1b-b417-8a10276d0ffe",
+    "eng": "Garet",
+    "fLE": "G",
+    "tel": "గారెట్",
+    "fLTel": "గ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "ebf714a2-947f-472c-87e2-c9d88036c779",
+    "eng": "Garett",
+    "fLE": "G",
+    "tel": "గారెట్",
+    "fLTel": "గ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "d21e4bf8-339f-4c00-bc86-99437ac58918",
+    "eng": "Garey",
+    "fLE": "G",
+    "tel": "గారెయ్",
+    "fLTel": "గ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "03c8ba19-b8b1-488a-9970-8125ffc614d8",
+    "eng": "Garfield",
+    "fLE": "G",
+    "tel": "గార్ఫీల్డ్",
+    "fLTel": "గ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "09bd1fe8-7825-41b3-81da-678c8f4866b0",
+    "eng": "garfield",
+    "fLE": "g",
+    "tel": "గార్ఫీల్డ్",
+    "fLTel": "గ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "528bee8f-74e1-4a6e-9fee-ea8ce8f068cd",
+    "eng": "Garg",
+    "fLE": "G",
+    "tel": "గార్గ్",
+    "fLTel": "గ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "6366237e-44d2-48b8-b3f2-a69ab6a3dc83",
+    "eng": "Garga",
+    "fLE": "G",
+    "tel": "గర్గ",
+    "fLTel": "గ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "a8570d2f-a98d-4420-8fab-1944edcd1289",
+    "eng": "Gargya",
+    "fLE": "G",
+    "tel": "గార్గ్య",
+    "fLTel": "గ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "6e5f20ee-4b38-4b4c-994a-a61e4ed48670",
+    "eng": "Garhapati",
+    "fLE": "G",
+    "tel": "గార్హపతి",
+    "fLTel": "గ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "81569098-dafd-4ab3-a47a-6a9ac7662f29",
+    "eng": "Garhault",
+    "fLE": "G",
+    "tel": "గార్హఉల్ట్",
+    "fLTel": "గ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "ece2da59-0a24-4014-85f6-683d3d217098",
+    "eng": "Garibnivaj",
+    "fLE": "G",
+    "tel": "గరీబ్నివాజ్",
+    "fLTel": "గ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Sikh"
+  },
+  {
+    "id": "6890f91a-619d-4107-83ea-9dbcaf3afd6d",
+    "eng": "Garick",
+    "fLE": "G",
+    "tel": "గారిక్",
+    "fLTel": "గ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "0526b99c-321f-4dbf-882f-cca9b9376e17",
+    "eng": "Gariland",
+    "fLE": "G",
+    "tel": "గారిలాండ్",
+    "fLTel": "గ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "dd6ed83e-0e9c-4158-9d35-f7a1fa173578",
+    "eng": "Gariman",
+    "fLE": "G",
+    "tel": "గరిమం",
+    "fLTel": "గ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "b01e0410-af26-4507-8b64-c4e4928b9d26",
+    "eng": "Garinder",
+    "fLE": "G",
+    "tel": "గరిందర్",
+    "fLTel": "గ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Sikh"
+  },
+  {
+    "id": "05556e56-3b44-4d5b-ab8f-82457fa2ef7d",
+    "eng": "Garion",
+    "fLE": "G",
+    "tel": "గరిన్",
+    "fLTel": "గ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "703d33e2-c1ba-48ed-8cf7-f7a0eec4fb3c",
+    "eng": "Garis",
+    "fLE": "G",
+    "tel": "గిరీష్",
+    "fLTel": "గ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "c64622d1-0ec9-4635-b712-3cb27eed7bb9",
+    "eng": "Garishit",
+    "fLE": "G",
+    "tel": "గరిషిత్",
+    "fLTel": "గ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "00871de4-68b7-4fd4-91f0-6a7ee14301f1",
+    "eng": "Garisht",
+    "fLE": "G",
+    "tel": "గరిష్ట",
+    "fLTel": "గ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "8a583023-d8bf-41dd-8804-911637f28665",
+    "eng": "Garistha",
+    "fLE": "G",
+    "tel": "గరిష్ట",
+    "fLTel": "గ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "76bfaef6-6555-4f1a-98a3-991316f390de",
+    "eng": "Garit",
+    "fLE": "G",
+    "tel": "గరిట",
+    "fLTel": "గ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "423562b0-b4fa-4e97-a21d-0d5f2f1ba8ea",
+    "eng": "Garja",
+    "fLE": "G",
+    "tel": "గర్జ",
+    "fLTel": "గ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "b8aa74fa-d19b-4325-bfad-ce03a75ae0da",
+    "eng": "Garjan",
+    "fLE": "G",
+    "tel": "గర్జన",
+    "fLTel": "గ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "0d8a8ec3-53ac-41a2-8dc9-8a69ac8c0330",
+    "eng": "Garllan",
+    "fLE": "G",
+    "tel": "గార్లను",
+    "fLTel": "గ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "98855cd8-99e2-4ccf-8963-b04d33ae8e26",
+    "eng": "Garlon",
+    "fLE": "G",
+    "tel": "గర్లోని",
+    "fLTel": "గ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "5be2d578-2902-40b5-a88d-c395f8a35697",
+    "eng": "Garman",
+    "fLE": "G",
+    "tel": "గర్మన్",
+    "fLTel": "గ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "4d3af511-5983-49cd-bc74-5e60ad7154d9",
+    "eng": "Garmann",
+    "fLE": "G",
+    "tel": "గర్మన్",
+    "fLTel": "గ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "b12dc3a3-3030-4b52-af5c-cc107a3311af",
+    "eng": "Garmon",
+    "fLE": "G",
+    "tel": "కార్మోన్",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "2449163d-2736-430b-9bfd-8b84cf4e2c11",
+    "eng": "Garmond",
+    "fLE": "G",
+    "tel": "గారేమండ్",
+    "fLTel": "గ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "208a8921-bec9-4313-8d19-72477e32879e",
+    "eng": "Garmund",
+    "fLE": "G",
+    "tel": "గర్వమును",
+    "fLTel": "గ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "10f6679a-df42-4066-a01d-b5cbd7c87fd4",
+    "eng": "Garnell",
+    "fLE": "G",
+    "tel": "గార్నెల్",
+    "fLTel": "గ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "d10ec53d-54ab-48ab-8824-9ceab699b6c8",
+    "eng": "Garner",
+    "fLE": "G",
+    "tel": "కార్నెర్",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "09aadaf9-afe2-40c1-85b3-60d455929b35",
+    "eng": "Garnet",
+    "fLE": "G",
+    "tel": "గార్నెట్",
+    "fLTel": "గ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "cbaafc8a-9536-4965-9963-86dbe8a639fe",
+    "eng": "Garnett",
+    "fLE": "G",
+    "tel": "గార్నెట్",
+    "fLTel": "గ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "0971edb0-a520-48e1-a0db-6fc2972426bd",
+    "eng": "Garnier",
+    "fLE": "G",
+    "tel": "గర్నిర్",
+    "fLTel": "గ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "c2a25cf6-812c-4587-861f-97cfca73aec1",
+    "eng": "Garo",
+    "fLE": "G",
+    "tel": "గారో",
+    "fLTel": "గ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "6c83ab6b-bb5a-4209-a794-a71bf2cbe575",
+    "eng": "Garold",
+    "fLE": "G",
+    "tel": "గారోల్డ్",
+    "fLTel": "గ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "64fd1698-d4b7-496e-bf98-3dfb52c8f685",
+    "eng": "Garon",
+    "fLE": "G",
+    "tel": "గారొన్",
+    "fLTel": "గ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "2ce3e1c6-ef55-42b0-8f72-f4ed954b720d",
+    "eng": "Garr",
+    "fLE": "G",
+    "tel": "గారు",
+    "fLTel": "గ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "98b99295-63b3-4801-8c5e-d0fa6116f582",
+    "eng": "Garrad",
+    "fLE": "G",
+    "tel": "గార్డ్",
+    "fLTel": "గ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "2c99ed8e-97b3-4ccb-8c5d-97dae9e8ebf7",
+    "eng": "Garran",
+    "fLE": "G",
+    "tel": "గుర్రం",
+    "fLTel": "గ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "e8609baa-d42d-444a-9290-4a09360a615d",
+    "eng": "Garrard",
+    "fLE": "G",
+    "tel": "గార్నర్డ్",
+    "fLTel": "గ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "706cdbd4-931b-40f5-88fd-274c5d371fcd",
+    "eng": "Garrath",
+    "fLE": "G",
+    "tel": "గఱత్",
+    "fLTel": "గ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "f6096668-5c60-45b2-a8fb-da65238a240b",
+    "eng": "Garraway",
+    "fLE": "G",
+    "tel": "గఱవే",
+    "fLTel": "గ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "62447446-34ef-4118-b22b-c8597d4408fc",
+    "eng": "Garreck",
+    "fLE": "G",
+    "tel": "గర్రెక్",
+    "fLTel": "గ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "b92e0264-7e5a-40dc-9425-99dca521680d",
+    "eng": "Garred",
+    "fLE": "G",
+    "tel": "గర్రెద",
+    "fLTel": "గ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "1a6377d5-acf3-4588-afc3-c3e02254e591",
+    "eng": "Garren",
+    "fLE": "G",
+    "tel": "గర్రెన్",
+    "fLTel": "గ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "1b11882f-3d47-46d9-838f-eaee25eda32f",
+    "eng": "Garret",
+    "fLE": "G",
+    "tel": "గర్రెట్",
+    "fLTel": "గ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "9fbe11ba-468a-4607-be9d-b06c30f28c63",
+    "eng": "Garreth",
+    "fLE": "G",
+    "tel": "గర్రెత్",
+    "fLTel": "గ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "abd0bb2f-e784-4117-881c-03e299feb013",
+    "eng": "Garrett",
+    "fLE": "G",
+    "tel": "గర్రెట్",
+    "fLTel": "గ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "9d383f3d-6251-4f8e-a823-de5a8a8342aa",
+    "eng": "Garrey",
+    "fLE": "G",
+    "tel": "గొర్రేయ్",
+    "fLTel": "గ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "25272bbb-0be7-4a4d-8e01-332917157b5d",
+    "eng": "garrhett",
+    "fLE": "g",
+    "tel": "గర్హ్ట్",
+    "fLTel": "గ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "d082f41d-ec2d-4bd3-88a1-ce90dffaf861",
+    "eng": "Garrick",
+    "fLE": "G",
+    "tel": "గొర్రిక్",
+    "fLTel": "గ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "12b52bef-6166-4ef6-afc3-30f1ec3a94eb",
+    "eng": "garrick",
+    "fLE": "g",
+    "tel": "గొర్రిక్",
+    "fLTel": "గ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "70fb1eb2-4f1c-4576-ac2a-eb10e4b8e134",
+    "eng": "Garridan",
+    "fLE": "G",
+    "tel": "గఱిడం",
+    "fLTel": "గ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "65646277-80a5-4a45-83f9-938f61da34fe",
+    "eng": "Garrie",
+    "fLE": "G",
+    "tel": "గర్రాయి",
+    "fLTel": "గ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "6b5fad3c-4b9e-49ec-882b-df79c12f9735",
+    "eng": "Garrik",
+    "fLE": "G",
+    "tel": "గఱిక",
+    "fLTel": "గ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "1e1fa3c7-36e0-4b64-945e-aec151ea4059",
+    "eng": "Garrin",
+    "fLE": "G",
+    "tel": "గఱిన్",
+    "fLTel": "గ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "2881c011-9268-4264-a43f-9bc99c9affdd",
+    "eng": "Garrison",
+    "fLE": "G",
+    "tel": "గారిసన్",
+    "fLTel": "గ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "19bd6b85-1ead-442b-87c8-c0c5f8fd7312",
+    "eng": "garrison",
+    "fLE": "g",
+    "tel": "గారిసన్",
+    "fLTel": "గ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "cdaf98df-fac2-4142-89bb-2be1c3d4f9be",
+    "eng": "Garritt",
+    "fLE": "G",
+    "tel": "గఱిట్",
+    "fLTel": "గ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "43ce9129-e2e8-416e-8240-6fe546c36c84",
+    "eng": "Garrman",
+    "fLE": "G",
+    "tel": "గుర్రమం",
+    "fLTel": "గ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "d1714174-8c98-4eed-a355-eeaf2cdd6117",
+    "eng": "Garron",
+    "fLE": "G",
+    "tel": "గార్న్",
+    "fLTel": "గ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "6473efa6-3cd5-490b-ad96-1164314e0237",
+    "eng": "Garrott",
+    "fLE": "G",
+    "tel": "కార్రోట్",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "456833e2-3eb6-4b4a-b251-300249473b5f",
+    "eng": "Garroway",
+    "fLE": "G",
+    "tel": "కార్రోవే",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "55f28120-5b0b-490e-a3aa-318af69ba95a",
+    "eng": "Garrson",
+    "fLE": "G",
+    "tel": "గార్స్న్",
+    "fLTel": "గ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "ce1e7a8b-c9c1-4fe9-8dfb-9aaf009e4c09",
+    "eng": "Garrwood",
+    "fLE": "G",
+    "tel": "గర్రావుడ్",
+    "fLTel": "గ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "2b8a39d2-1174-492e-8d12-285840c1a04f",
+    "eng": "Garry",
+    "fLE": "G",
+    "tel": "గారి",
+    "fLTel": "గ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "c747e704-f2fb-4cd0-aff9-6dd6c9ef0d1c",
+    "eng": "Garryck",
+    "fLE": "G",
+    "tel": "గారిక్",
+    "fLTel": "గ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "af6b7c73-158a-447b-984d-37713a689af8",
+    "eng": "Garryk",
+    "fLE": "G",
+    "tel": "గారిక్",
+    "fLTel": "గ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "e131139a-1069-4b80-ba04-4562fc58bdd9",
+    "eng": "Garrytt",
+    "fLE": "G",
+    "tel": "గరిట్",
+    "fLTel": "గ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "d6bdd404-149f-4c48-831b-061242c137e5",
+    "eng": "Garsa",
+    "fLE": "G",
+    "tel": "గర్శ",
+    "fLTel": "గ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "c276ae01-d9a4-4c97-93ee-e35fb91bdc58",
+    "eng": "Garson",
+    "fLE": "G",
+    "tel": "కార్సన్",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "c34d4260-c29b-49a0-9c41-bf39e638ccec",
+    "eng": "Garsone",
+    "fLE": "G",
+    "tel": "గార్స్లోనే",
+    "fLTel": "గ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "b5cd016c-1227-4d0b-acbb-44bff640cd13",
+    "eng": "Garth",
+    "fLE": "G",
+    "tel": "గర్త్",
+    "fLTel": "గ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "29458daa-a98b-4303-9b07-bff6667c3c97",
+    "eng": "Gartheride",
+    "fLE": "G",
+    "tel": "గుర్తెరిగే",
+    "fLTel": "గ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "782eeac9-bc3e-4472-8ad8-a791e00f6bef",
+    "eng": "Garthrite",
+    "fLE": "G",
+    "tel": "గార్థ్రిటే",
+    "fLTel": "గ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "bb278d55-ad97-4e2d-8b34-aea77bd19b03",
+    "eng": "Garton",
+    "fLE": "G",
+    "tel": "గుర్తొన్",
+    "fLTel": "గ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "7d578eb7-6439-45de-bbae-8ea1083aaab0",
+    "eng": "Gartrett",
+    "fLE": "G",
+    "tel": "గార్ట్రేట్",
+    "fLTel": "గ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  }
+]

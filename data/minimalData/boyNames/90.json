@@ -1,0 +1,822 @@
+[
+  {
+    "id": "cc75148c-8bbb-4098-ae50-c5fae2661cb8",
+    "eng": "Barnim",
+    "fLE": "B",
+    "tel": "బార్నిమ్",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "a63e2e3e-74db-400f-b535-9e347ac6f407",
+    "eng": "Barnum",
+    "fLE": "B",
+    "tel": "బర్నయం",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "aed99283-b491-4bb3-adff-c5ae59b8c2ae",
+    "eng": "Barny",
+    "fLE": "B",
+    "tel": "బర్నీ",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "83d1d90b-96bd-4f28-8a87-8fe6ec17ad25",
+    "eng": "Barocunas",
+    "fLE": "B",
+    "tel": "బారోక్యూన్స్",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "db27c90d-4bb9-4c29-aa5d-499774d395d8",
+    "eng": "Baroka",
+    "fLE": "B",
+    "tel": "బ్రొక",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "ef3aa609-063a-40d2-ad5a-5942c1d61c7b",
+    "eng": "Baron",
+    "fLE": "B",
+    "tel": "బారన్",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "cbca3438-b5bb-4687-91e7-239aced85d97",
+    "eng": "baron",
+    "fLE": "b",
+    "tel": "బారన్",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "72194cac-6fda-45aa-acc2-38e8344808dc",
+    "eng": "Baronet",
+    "fLE": "B",
+    "tel": "బరోనేట్",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "17b1946a-0a80-4524-a774-c22e8ee37066",
+    "eng": "Baronett",
+    "fLE": "B",
+    "tel": "బ్రొనేట్",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "ca89c259-b3e7-43db-99fd-fec75ad0f7e7",
+    "eng": "Barrak",
+    "fLE": "B",
+    "tel": "బర్రాక్",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "9a785403-4391-4f16-8b45-f0301c51cec6",
+    "eng": "Barrant",
+    "fLE": "B",
+    "tel": "బఱన్త",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "326fdbb7-e765-4514-8fe3-533c46ad172a",
+    "eng": "Barrat",
+    "fLE": "B",
+    "tel": "బార్ట్",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "64ad3f13-b9bb-4e7f-ad51-5ebdcdc86a38",
+    "eng": "Barratt",
+    "fLE": "B",
+    "tel": "బర్త్",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "147565db-a183-4d3c-aa67-ffe8c6282468",
+    "eng": "Barrclay",
+    "fLE": "B",
+    "tel": "బార్క్లేయ్",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "21387937-7037-464a-ad88-5b4ee5a25a88",
+    "eng": "Barre",
+    "fLE": "B",
+    "tel": "బఱ్ఱె",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "c1afd0c4-5cf2-430d-8dff-cf18a6b01f84",
+    "eng": "Barret",
+    "fLE": "B",
+    "tel": "బర్రేట్",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "7c8d87d8-93be-4f3c-afb4-60c680a4a70b",
+    "eng": "Barrey",
+    "fLE": "B",
+    "tel": "బర్రేయ్",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "3d660680-9367-4014-8e52-b0b53155317b",
+    "eng": "Barric",
+    "fLE": "B",
+    "tel": "బర్రిక్",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "dcc4855e-5cc1-4f92-a9f4-17cc30cffb5a",
+    "eng": "Barrick",
+    "fLE": "B",
+    "tel": "బర్రిక్",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "f4f21c43-54e5-40ad-8ecb-ad080616eea5",
+    "eng": "barrick",
+    "fLE": "b",
+    "tel": "బర్రిక్",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "0a8f699d-aee7-47b3-b9eb-9e8bed2f6d96",
+    "eng": "Barrie",
+    "fLE": "B",
+    "tel": "బెరీ",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "8a14ce5c-458f-44d9-a20d-2d03dc69e536",
+    "eng": "Barrik",
+    "fLE": "B",
+    "tel": "బర్రిక్",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "b594132f-5d93-4e0f-adb0-b8ee08dbfbdb",
+    "eng": "Barrington",
+    "fLE": "B",
+    "tel": "బర్రింగ్టన్",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "4d1d4f1c-76ee-4880-a567-9907a22d6cda",
+    "eng": "barrington",
+    "fLE": "b",
+    "tel": "బర్రింగ్టన్",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "5880a037-1d7c-4b7c-8001-3e21e381a939",
+    "eng": "Barris",
+    "fLE": "B",
+    "tel": "బెర్రీస్",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "2927cc12-a822-406d-a049-1cc075057426",
+    "eng": "Barrivendi",
+    "fLE": "B",
+    "tel": "బర్రివెండి",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "4a74bfdb-cee9-4f20-a832-d878ea1fec06",
+    "eng": "Barrlow",
+    "fLE": "B",
+    "tel": "బాఱఁలౌ",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "e439bb81-1f20-4f35-98ba-ae79172ac991",
+    "eng": "Barron",
+    "fLE": "B",
+    "tel": "బర్న్",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "a09c8093-2314-430a-b6c5-fddcbddf66a1",
+    "eng": "barron",
+    "fLE": "b",
+    "tel": "బర్న్",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "c3dff8a2-b07f-4d9e-8aa1-19d76e757b09",
+    "eng": "Barrow",
+    "fLE": "B",
+    "tel": "బెరౌ",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "50c2d799-73e9-4b7d-b9d7-0ba1a0ba39f5",
+    "eng": "Barrton",
+    "fLE": "B",
+    "tel": "బెర్టోన్",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "7aa5df96-d450-45ec-a313-ec5942bf32bc",
+    "eng": "Barry",
+    "fLE": "B",
+    "tel": "బారీ",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "e4d8c672-017a-45e1-aef7-5b4464461e91",
+    "eng": "barry",
+    "fLE": "b",
+    "tel": "బారీ",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "1dad61d7-774c-4d09-b2c5-4e6ac5b92151",
+    "eng": "Barrymore",
+    "fLE": "B",
+    "tel": "బరిమోరే",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "3d00390b-085f-4a14-9fa1-694b707c360f",
+    "eng": "Barsaat",
+    "fLE": "B",
+    "tel": "బర్సాటు",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "1c0f48f2-9ad3-4015-b136-d40957481ca6",
+    "eng": "Barsat",
+    "fLE": "B",
+    "tel": "బెస్ట్",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "d3ff88e0-27af-4917-bde7-d3ab79ae86d3",
+    "eng": "Barse",
+    "fLE": "B",
+    "tel": "బేర్స్",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "0e30112f-3459-47e2-9e35-851e68dccf23",
+    "eng": "Barshan",
+    "fLE": "B",
+    "tel": "బార్షన్",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "65bb6851-a135-4f14-aacc-1d1e62bea46d",
+    "eng": "Bart",
+    "fLE": "B",
+    "tel": "బార్ట్",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "7e3cb5c7-ac46-4369-8c0a-724bc5c44e46",
+    "eng": "bart",
+    "fLE": "b",
+    "tel": "బార్ట్",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "fe303907-9626-4b50-ac8d-32c0d3a2c445",
+    "eng": "bartal",
+    "fLE": "b",
+    "tel": "భర్తల",
+    "fLTel": "భ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "0cc0511f-62dd-4e82-b320-03dc11725732",
+    "eng": "Bartek",
+    "fLE": "B",
+    "tel": "బర్టేక్",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "5c446a1e-cede-452d-822f-2051751818ea",
+    "eng": "Bartel",
+    "fLE": "B",
+    "tel": "బార్టల్",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "9ff1d27c-7cbe-4b2e-b0ec-af08e6f6349f",
+    "eng": "Bartemius",
+    "fLE": "B",
+    "tel": "బర్తేమీస్",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "7a38287c-6269-468c-abda-68e36a5b03a7",
+    "eng": "barth",
+    "fLE": "b",
+    "tel": "బర్త్",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "6f4ea78a-3e7b-496c-a692-bf15e535a429",
+    "eng": "Barthalemy",
+    "fLE": "B",
+    "tel": "భర్తలేమి",
+    "fLTel": "భ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "69ff6921-6601-479f-bd6c-a57ba14e3a0e",
+    "eng": "Barthelemy",
+    "fLE": "B",
+    "tel": "బర్తేలేమి",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "271a97e6-33ec-4a67-981a-651dcec26a78",
+    "eng": "Barthelmy",
+    "fLE": "B",
+    "tel": "బర్తేలమై",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "87a32337-4d54-46b0-9093-e66c94c6ce31",
+    "eng": "Barthold",
+    "fLE": "B",
+    "tel": "బర్తోలీద్",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "b8da739b-4ac0-49de-b01b-b25709aabfd7",
+    "eng": "Bartholome",
+    "fLE": "B",
+    "tel": "బర్తొలొమే",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "05cc6ad7-7f2b-4eeb-96f3-b5f6cdb32920",
+    "eng": "Bartholomeo",
+    "fLE": "B",
+    "tel": "బర్తొలొమేమో",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "cfa0a188-732d-4798-b902-334bbff35776",
+    "eng": "Bartholomeus",
+    "fLE": "B",
+    "tel": "బర్తొలొమ్స్",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "059af6e0-3bd1-4420-a0fa-2423b8db076b",
+    "eng": "bartholomew",
+    "fLE": "b",
+    "tel": "బర్తోలోమ్యూ",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "b2d07d58-6adb-4d85-be5d-7297e0eda250",
+    "eng": "Bartholomieu",
+    "fLE": "B",
+    "tel": "బర్తలోమియూ",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "f4f90992-a181-44c9-82bc-8b37a1cf43f4",
+    "eng": "Barthram",
+    "fLE": "B",
+    "tel": "బెర్ట్రం",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "be7f31f6-3571-4398-885f-83b7a22f82c5",
+    "eng": "Bartle",
+    "fLE": "B",
+    "tel": "బార్ట్లే",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "c3619eff-29d2-4db2-83e7-fbc95b1a80cd",
+    "eng": "Bartleah",
+    "fLE": "B",
+    "tel": "బార్ట్లేఅహ్",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "2bdef519-09b0-42f3-896b-bc3e5abfb98b",
+    "eng": "bartleby",
+    "fLE": "b",
+    "tel": "బార్ట్లేబ్య",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "7da44409-57a0-42a2-a0b7-1c46ac496be4",
+    "eng": "Bartleigh",
+    "fLE": "B",
+    "tel": "బార్ట్లేఇఘ్",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "dddc0e3b-d6d2-4e0f-a5ba-a77bd6bb8f4d",
+    "eng": "Bartlet",
+    "fLE": "B",
+    "tel": "బార్ట్లేట్",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "ca86ac9d-ed64-4b3c-b528-bb067a7c8a88",
+    "eng": "Bartlett",
+    "fLE": "B",
+    "tel": "బార్ట్లెట్",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "a46541cc-adb1-4e32-97e3-9de98e06beb7",
+    "eng": "Bartley",
+    "fLE": "B",
+    "tel": "బార్ట్లేయ్",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "d1eb3984-831f-4052-b55a-852e5dba6afd",
+    "eng": "Bartlomiej",
+    "fLE": "B",
+    "tel": "బెట్లోమైజ్",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "5ea045b7-6079-4c21-b94d-67f84f4405e4",
+    "eng": "Barto",
+    "fLE": "B",
+    "tel": "బర్తో",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "ca0ea9b5-0718-4935-99e4-d406119267d8",
+    "eng": "Bartol",
+    "fLE": "B",
+    "tel": "బర్తోలీ",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "1e8ac556-093d-4a27-8b52-cc2d568a0513",
+    "eng": "Bartold",
+    "fLE": "B",
+    "tel": "బర్తోలీద్",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "5f9318e2-5991-4dc2-8024-17e749f603be",
+    "eng": "Bartolmeu",
+    "fLE": "B",
+    "tel": "బర్తోలీమెను",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "6c0dfff3-4dc5-4541-bf46-90a618306697",
+    "eng": "Bartolo",
+    "fLE": "B",
+    "tel": "బర్తొలొ",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "9dbaf0d4-5d58-4118-a64c-b1aa93c4b4c5",
+    "eng": "Bartolomaj",
+    "fLE": "B",
+    "tel": "బర్తొలొమజ్",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "5aa8f71a-7876-4d27-935d-9e05f1d6e263",
+    "eng": "Bartolome",
+    "fLE": "B",
+    "tel": "బర్తొలొమే",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "111f0075-45e9-4262-b7d4-70d25a7eacbc",
+    "eng": "Bartolomej",
+    "fLE": "B",
+    "tel": "బర్తొలొమేజ్",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "18136afd-53cd-4742-adf1-b650fd5d5e2b",
+    "eng": "Bartolomeo",
+    "fLE": "B",
+    "tel": "బర్తొలొమేమో",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "649f65a2-7e12-4ae6-904f-231a4ac46450",
+    "eng": "Bartolomeu",
+    "fLE": "B",
+    "tel": "బర్తొలొమయూ",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "78994da2-2f20-4e34-9de9-2b3b1eb1113f",
+    "eng": "Barton",
+    "fLE": "B",
+    "tel": "బార్టన్",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "cd5398ce-9786-4e13-92a2-8870ae38570e",
+    "eng": "Bartosz",
+    "fLE": "B",
+    "tel": "బర్టోస్జ్",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "15bf7f89-cbad-4fa0-ad30-92111580ceff",
+    "eng": "Bartram",
+    "fLE": "B",
+    "tel": "బెర్ట్రం",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "c116af86-09be-4a82-9c7a-7a850831fd44",
+    "eng": "Bartulme",
+    "fLE": "B",
+    "tel": "బార్థులమే",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "069ef2a5-670e-4e3e-bf9e-e5cafb7f8679",
+    "eng": "Barty",
+    "fLE": "B",
+    "tel": "బర్తి",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "32d54078-a126-41f7-8138-012fb4c07378",
+    "eng": "Baru",
+    "fLE": "B",
+    "tel": "బారు",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "716c186b-8478-4fa3-8bb7-7c6d4a64f224",
+    "eng": "baruch",
+    "fLE": "b",
+    "tel": "బారుచ్",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "ed7dd473-4825-40ec-b864-82910d3e4eb1",
+    "eng": "Barun",
+    "fLE": "B",
+    "tel": "బరున్",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "669df3a5-d7ce-42ca-90eb-0910ab3def6f",
+    "eng": "Barwick",
+    "fLE": "B",
+    "tel": "బర్విక్",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  }
+]

@@ -1,0 +1,662 @@
+[
+  {
+    "id": "235dda5c-8649-404e-b966-49ee22e05458",
+    "eng": "Akhilesha",
+    "fLE": "A",
+    "tel": "అఖిలేశ",
+    "fLTel": "అ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "ffc282f9-19f4-4ff4-ba28-725a3841688b",
+    "eng": "Akhileshwa",
+    "fLE": "A",
+    "tel": "అఖిలేశ్వ",
+    "fLTel": "అ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "ba45025f-135d-45ac-8cd3-8ca04a74b582",
+    "eng": "Akhileshwar",
+    "fLE": "A",
+    "tel": "అఖిలేశ్వర్",
+    "fLTel": "అ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "a1a4bc94-8a9e-4a16-8be8-1be65cfc46d9",
+    "eng": "Akhileswar",
+    "fLE": "A",
+    "tel": "అఖిలేశ్వర్",
+    "fLTel": "అ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "bec43cc9-ec4f-48ae-af3e-9a9c834d13b4",
+    "eng": "Akhilpal",
+    "fLE": "A",
+    "tel": "అఖిలపల్",
+    "fLTel": "అ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Sikh"
+  },
+  {
+    "id": "2ba81dc3-680c-49bb-895a-336acb8f6ffc",
+    "eng": "Akhilpreet",
+    "fLE": "A",
+    "tel": "అఖిల్ప్రీత్",
+    "fLTel": "అ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "4557ea7d-220a-4ab3-ae25-30cd397e0acd",
+    "eng": "Akhir",
+    "fLE": "A",
+    "tel": "ఆఖిర్",
+    "fLTel": "ఆ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "324dc8eb-ea7f-4f73-8546-bb7a05a57287",
+    "eng": "Akhkaz",
+    "fLE": "A",
+    "tel": "ఆఖ్కాజ్",
+    "fLTel": "ఆ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "de2af4b8-36c9-4b1e-9f58-97c7fb80bf2d",
+    "eng": "Akhlas",
+    "fLE": "A",
+    "tel": "అఖ్లాస్",
+    "fLTel": "అ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "a294d9e4-730f-4251-b723-e777d9eaadd5",
+    "eng": "Akhsaj",
+    "fLE": "A",
+    "tel": "అక్షయాజ్",
+    "fLTel": "అ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "cf3c6761-c96a-4f38-a5bf-119a3232d012",
+    "eng": "Akhsam",
+    "fLE": "A",
+    "tel": "అక్షరం",
+    "fLTel": "అ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "513885e3-170a-438b-aee4-f220385aff76",
+    "eng": "Akhtar",
+    "fLE": "A",
+    "tel": "అఖ్తర్",
+    "fLTel": "అ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "462de091-9942-4cce-a9b4-750a237a0685",
+    "eng": "Akhuga",
+    "fLE": "A",
+    "tel": "ఆఖుగా",
+    "fLTel": "ఆ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "bb23bc1f-6fc2-42fe-89c4-160becbe282e",
+    "eng": "Akhund",
+    "fLE": "A",
+    "tel": "అఖుండ్",
+    "fLTel": "అ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "012a1535-1127-4d77-a63d-f068f6a7d2b5",
+    "eng": "Akhundzada",
+    "fLE": "A",
+    "tel": "అఖుండ్జాడ",
+    "fLTel": "అ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "25228573-0653-44d7-bfcb-cf8d3a5f05a9",
+    "eng": "Akhurath",
+    "fLE": "A",
+    "tel": "ఆఖురాత్",
+    "fLTel": "ఆ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "5035c5a3-2dd0-4f9d-9ae6-26a488d836ce",
+    "eng": "Akhyath",
+    "fLE": "A",
+    "tel": "ఆఖ్యాత్",
+    "fLTel": "ఆ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "be32559c-f8b8-4a1e-ad4c-cbf92db33a4d",
+    "eng": "Akhzam",
+    "fLE": "A",
+    "tel": "ఆఖ్జాం",
+    "fLTel": "ఆ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "9fe50ee1-532c-4e15-83e9-11ab4007a0e9",
+    "eng": "Akhzar",
+    "fLE": "A",
+    "tel": "ఆఖ్జార్",
+    "fLTel": "ఆ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "68771d80-0976-4e54-85aa-26aca211aead",
+    "eng": "Akib",
+    "fLE": "A",
+    "tel": "యాకుబ్",
+    "fLTel": "య",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "b1d773bc-7240-490d-a13c-bfb726df2364",
+    "eng": "Akiba",
+    "fLE": "A",
+    "tel": "ఏకీభ",
+    "fLTel": "ఏ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "85f6bee4-6c78-46af-bf98-d7db01b39b3c",
+    "eng": "Akid",
+    "fLE": "A",
+    "tel": "అక్కడి",
+    "fLTel": "అ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "f4881872-5aae-409a-9562-bf14a4677e4d",
+    "eng": "Akiel",
+    "fLE": "A",
+    "tel": "అఖిల్",
+    "fLTel": "అ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "11a8e311-dcab-44fe-adcd-1d3b1cf80d3d",
+    "eng": "Akif",
+    "fLE": "A",
+    "tel": "అఖీఫ్",
+    "fLTel": "అ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "25e312bf-112a-45fd-a685-da1001084602",
+    "eng": "Akifa",
+    "fLE": "A",
+    "tel": "అకిఫ",
+    "fLTel": "అ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "b39a9a31-ee67-45c9-950c-25a0dba9edfb",
+    "eng": "Akikta",
+    "fLE": "A",
+    "tel": "అఖీక్త",
+    "fLTel": "అ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "7badf5c0-a044-4867-8d2c-91ae63a9e94f",
+    "eng": "akikta",
+    "fLE": "a",
+    "tel": "అఖీక్త",
+    "fLTel": "అ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "6352f4e5-ec81-400d-b803-05227f1f698f",
+    "eng": "Akil",
+    "fLE": "A",
+    "tel": "అఖిల్",
+    "fLTel": "అ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "da344090-b975-405a-bd08-4720aa0d24ae",
+    "eng": "Akilan",
+    "fLE": "A",
+    "tel": "అఖిలం",
+    "fLTel": "అ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "74539581-4ad9-4a47-a9c4-b0aa4610d081",
+    "eng": "Akilesh",
+    "fLE": "A",
+    "tel": "అఖిలేష్",
+    "fLTel": "అ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "4dc70c31-78d2-4454-9e24-3a9baf3c964e",
+    "eng": "Akilroop",
+    "fLE": "A",
+    "tel": "అకిల్రూప్",
+    "fLTel": "అ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Sikh"
+  },
+  {
+    "id": "775873cd-0ffd-4ff6-bbd7-f9ba25b791a7",
+    "eng": "Akim",
+    "fLE": "A",
+    "tel": "ఆకీము",
+    "fLTel": "ఆ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "b894d952-b940-4fff-9ef2-c41a3f5c6d06",
+    "eng": "akim",
+    "fLE": "a",
+    "tel": "ఆకీము",
+    "fLTel": "ఆ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "00d4239e-023d-45be-b87c-15efaf20b105",
+    "eng": "Akin",
+    "fLE": "A",
+    "tel": "అకిన్",
+    "fLTel": "అ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "06037300-74a9-47a4-97d7-0779a5bab378",
+    "eng": "Akith",
+    "fLE": "A",
+    "tel": "అంకిత్",
+    "fLTel": "అ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "657d61c3-c75f-43dd-80f9-618f0771df80",
+    "eng": "Akiyatri",
+    "fLE": "A",
+    "tel": "అకియాట్రీ",
+    "fLTel": "అ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "0c4a9ff9-1efd-41e5-b19f-d910484e250c",
+    "eng": "Akiyl",
+    "fLE": "A",
+    "tel": "అకీయాల్",
+    "fLTel": "అ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "c37005e0-5f09-470e-814b-d07eb1327cd9",
+    "eng": "Akkamma",
+    "fLE": "A",
+    "tel": "అక్కమ్మ",
+    "fLTel": "అ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "45769585-3801-4df3-87e8-16b7e7d142c6",
+    "eng": "Akkara",
+    "fLE": "A",
+    "tel": "అక్కర",
+    "fLTel": "అ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "4c567b80-0c09-44b3-a495-25d84b05ee7a",
+    "eng": "Akkashh",
+    "fLE": "A",
+    "tel": "అక్కష్",
+    "fLTel": "అ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "e5bfbeca-8d97-4d2e-9547-a941ad6f9e9e",
+    "eng": "Akker",
+    "fLE": "A",
+    "tel": "అక్కర్",
+    "fLTel": "అ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "3e6ce0c4-fb70-446c-b74c-c7a7d1090c12",
+    "eng": "Akki",
+    "fLE": "A",
+    "tel": "అక్కి",
+    "fLTel": "అ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "4940d13a-003c-44c7-a14b-e87223f6407a",
+    "eng": "Akkiraju",
+    "fLE": "A",
+    "tel": "అక్కిరాజు",
+    "fLTel": "అ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "9a18f2e4-b6e6-481c-b407-09b0bc536aba",
+    "eng": "Akkrum",
+    "fLE": "A",
+    "tel": "అక్ఖరం",
+    "fLTel": "అ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "6a16d920-e6e6-4f93-872a-28ca24169e30",
+    "eng": "Akl",
+    "fLE": "A",
+    "tel": "అక్కల్",
+    "fLTel": "అ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "41a9f15d-a23b-46cd-8bb6-8845a9e810c4",
+    "eng": "Aklaf",
+    "fLE": "A",
+    "tel": "అక్లాఫ్",
+    "fLTel": "అ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "d7118abd-b4ad-4070-8640-a9966a24fe09",
+    "eng": "Aklaksh",
+    "fLE": "A",
+    "tel": "ఆక్లాక్ష్",
+    "fLTel": "ఆ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Sikh"
+  },
+  {
+    "id": "87804547-f966-46ca-9570-3c80c6bb07f9",
+    "eng": "Aklamash",
+    "fLE": "A",
+    "tel": "అలామస్",
+    "fLTel": "అ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "c2c78c67-2f80-4c7e-9ea7-eaff5930aa4a",
+    "eng": "Aklen",
+    "fLE": "A",
+    "tel": "ఆకాలం",
+    "fLTel": "ఆ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "c64a0b8a-5f60-4f26-9563-110a6d70f382",
+    "eng": "Akmal",
+    "fLE": "A",
+    "tel": "అక్మల్",
+    "fLTel": "అ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "3b4f7534-510c-4aef-9782-a9fc0347cffc",
+    "eng": "akoni",
+    "fLE": "a",
+    "tel": "ఆకొని",
+    "fLTel": "ఆ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "a5fc6241-0821-413d-9505-5e374b62cea2",
+    "eng": "akos",
+    "fLE": "a",
+    "tel": "టాకోస్",
+    "fLTel": "ట",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "89cab17e-2e44-4d07-9dc1-82c1f0c8cdeb",
+    "eng": "Akram",
+    "fLE": "A",
+    "tel": "అక్రమ్",
+    "fLTel": "అ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "cd6297d8-797a-4a27-9778-4be9c488ecf9",
+    "eng": "Akrant",
+    "fLE": "A",
+    "tel": "అక్రాట్",
+    "fLTel": "అ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "49701e61-67be-4333-95c0-af45bc21ee45",
+    "eng": "Akrash",
+    "fLE": "A",
+    "tel": "అక్రష్",
+    "fLTel": "అ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "79fb50c5-951e-4317-a03f-adb18f5944db",
+    "eng": "Akrish",
+    "fLE": "A",
+    "tel": "అకృష్",
+    "fLTel": "అ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "035e8f6a-26a3-4681-8b2d-a52b79571757",
+    "eng": "Akrit",
+    "fLE": "A",
+    "tel": "ఆకృతి",
+    "fLTel": "ఆ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "d1cdbe91-ba27-4e3e-b71f-a84ca3121122",
+    "eng": "Akrodh",
+    "fLE": "A",
+    "tel": "అక్రోధః",
+    "fLTel": "అ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "df22b6f2-aa9c-40ed-ba2d-0a000fc33710",
+    "eng": "Akrodhana",
+    "fLE": "A",
+    "tel": "అక్రోధన",
+    "fLTel": "అ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "64e5fa56-3ac5-4788-89c9-ea997c4faab8",
+    "eng": "Akroor",
+    "fLE": "A",
+    "tel": "అక్రూరు",
+    "fLTel": "అ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "2a2d1bba-aefd-4672-b6ac-a47fbb781f0a",
+    "eng": "Akruti",
+    "fLE": "A",
+    "tel": "ఆకృతి",
+    "fLTel": "ఆ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "2fd91802-7d12-497e-8b37-4da7476dc024",
+    "eng": "Aksar",
+    "fLE": "A",
+    "tel": "అక్షర్",
+    "fLTel": "అ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "cb3db250-d207-410e-8132-93b3f5bb9a50",
+    "eng": "Aksat",
+    "fLE": "A",
+    "tel": "అక్షత్",
+    "fLTel": "అ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "d87052fc-5230-46d5-a677-69da308e7d24",
+    "eng": "Aksel",
+    "fLE": "A",
+    "tel": "అక్సెల్",
+    "fLTel": "అ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "6fd1486e-d50c-417c-8cf8-888c62ce9662",
+    "eng": "aksel",
+    "fLE": "a",
+    "tel": "అక్సెల్",
+    "fLTel": "అ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "ac8219c9-78c5-4313-a276-71e6ee04890d",
+    "eng": "Aksh",
+    "fLE": "A",
+    "tel": "అక్ష",
+    "fLTel": "అ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  }
+]

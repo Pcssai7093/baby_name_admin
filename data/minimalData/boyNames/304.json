@@ -1,0 +1,992 @@
+[
+  {
+    "id": "8818e940-e67e-4dd0-bad5-d31126fd1b81",
+    "eng": "Kapoor",
+    "fLE": "K",
+    "tel": "కపూర్",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "39d31a25-ce85-436a-9ce1-16059a1122ed",
+    "eng": "Kapoora",
+    "fLE": "K",
+    "tel": "కాపుర",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "2d30396c-7678-4a21-9253-77b4b3fca1e0",
+    "eng": "Kapota",
+    "fLE": "K",
+    "tel": "కాపోతే",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "c7ff862c-6989-4eb4-8175-b67cddea8d53",
+    "eng": "Kapriel",
+    "fLE": "K",
+    "tel": "కాప్రిల్",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "3964f505-7956-4043-8f58-eba6831fa493",
+    "eng": "Kara",
+    "fLE": "K",
+    "tel": "కార",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "c6bf72da-b1e2-45ad-ad9c-144de624a394",
+    "eng": "Karaamat",
+    "fLE": "K",
+    "tel": "కారణాత్",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "64e1adb1-da06-44ea-8e1a-f61389332e7b",
+    "eng": "Karac",
+    "fLE": "K",
+    "tel": "కారక",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "31055a1a-7291-489e-8b15-e694b15db762",
+    "eng": "Karacura",
+    "fLE": "K",
+    "tel": "కరకర",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "a1fc0a25-656e-4cc5-bc45-37815cb604f9",
+    "eng": "Karagrahavimoktre",
+    "fLE": "K",
+    "tel": "కరగ్రహావిమోక్త్రే",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "3eb53595-2a89-4f51-bb80-698f224c398f",
+    "eng": "Karaimidarran",
+    "fLE": "K",
+    "tel": "కరిమీదరెం",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "3cb7aab0-26a7-4019-bfe5-93130a96570f",
+    "eng": "Karaj",
+    "fLE": "K",
+    "tel": "క్రజ్",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "ba2b0d91-beed-4c5f-a1dc-e33b6acf2784",
+    "eng": "Karajala",
+    "fLE": "K",
+    "tel": "కరజల",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "9926ee72-e77c-485f-b869-8997b3256d2e",
+    "eng": "Karakasa",
+    "fLE": "K",
+    "tel": "కారకస",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "6c6af967-d62d-427f-9831-bf5f9a774af3",
+    "eng": "Karambir",
+    "fLE": "K",
+    "tel": "కరంబైర్",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "male",
+    "rel": "others"
+  },
+  {
+    "id": "35c11815-c7fd-4ed7-8b41-b71c149312c7",
+    "eng": "Karamdeep",
+    "fLE": "K",
+    "tel": "కరందీప్",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "male",
+    "rel": "Sikh"
+  },
+  {
+    "id": "cd00ca59-426e-4462-8b6b-27c2afea4b4b",
+    "eng": "Karamjeet",
+    "fLE": "K",
+    "tel": "కరంజీత్",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "544e330d-2e66-4064-9209-3b529a39023b",
+    "eng": "Karamjit",
+    "fLE": "K",
+    "tel": "కరంజిత్",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "male",
+    "rel": "Sikh"
+  },
+  {
+    "id": "0172e28a-33fa-4a56-b79b-c3da4e9aaa22",
+    "eng": "Karamjodh",
+    "fLE": "K",
+    "tel": "కరంజాద్",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "male",
+    "rel": "Sikh"
+  },
+  {
+    "id": "ce9435cb-b080-4729-9fa6-f7815e4453e9",
+    "eng": "Karamjot",
+    "fLE": "K",
+    "tel": "కరంజోత్",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "male",
+    "rel": "Sikh"
+  },
+  {
+    "id": "88eaa99d-ab95-4bb8-9188-81032b2faf43",
+    "eng": "Karamleen",
+    "fLE": "K",
+    "tel": "కారములీన్",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "male",
+    "rel": "Sikh"
+  },
+  {
+    "id": "1bc84e64-746e-4e33-8296-bcdaf1807133",
+    "eng": "Karampal",
+    "fLE": "K",
+    "tel": "కర్మపాల్",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "male",
+    "rel": "Sikh"
+  },
+  {
+    "id": "c6b73c44-5652-4c57-81af-0d8e288edff7",
+    "eng": "Karampaul",
+    "fLE": "K",
+    "tel": "కర్మపాల్",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "male",
+    "rel": "Sikh"
+  },
+  {
+    "id": "348ad5b5-ad7a-40c5-a5da-3443857bc2b1",
+    "eng": "Karampreet",
+    "fLE": "K",
+    "tel": "కారమప్రీత్",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "male",
+    "rel": "Sikh"
+  },
+  {
+    "id": "5da93726-fda6-49f9-bbdb-6ee1865d8679",
+    "eng": "Karamprem",
+    "fLE": "K",
+    "tel": "కరీంప్రీం",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "male",
+    "rel": "Sikh"
+  },
+  {
+    "id": "633bfa8c-bfa7-4620-97e7-fd821ceffd62",
+    "eng": "Karamroop",
+    "fLE": "K",
+    "tel": "కర్మరూప్",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "male",
+    "rel": "Sikh"
+  },
+  {
+    "id": "22ae4ecb-77a2-43aa-93cb-9d33f68829c3",
+    "eng": "Karamshi",
+    "fLE": "K",
+    "tel": "కర్మశి",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "3f8ef4c7-bda5-4dd4-ba7f-dcf2cf9f44a4",
+    "eng": "Karamullah",
+    "fLE": "K",
+    "tel": "కరాముల్లాహ్",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "73e2d5b3-3045-4af1-b365-b1c5341e5012",
+    "eng": "Karamveer",
+    "fLE": "K",
+    "tel": "కరంవీర్",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "male",
+    "rel": "Sikh"
+  },
+  {
+    "id": "3d230b31-66c0-4fa6-b2dc-05a852b20c96",
+    "eng": "Karamwant",
+    "fLE": "K",
+    "tel": "కారమవన్త",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "male",
+    "rel": "Sikh"
+  },
+  {
+    "id": "c54781ef-6e42-4f42-924b-eb0757c685a0",
+    "eng": "Karan",
+    "fLE": "K",
+    "tel": "కారం",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "89a7001d-1166-40f1-9e8d-e02c44ddf74c",
+    "eng": "Karanail",
+    "fLE": "K",
+    "tel": "కార్నైల్",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "46b9000a-cc3a-4770-8f0a-6f4173dd72c7",
+    "eng": "Karanam",
+    "fLE": "K",
+    "tel": "కారణం",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "f78b464c-d3fb-429f-b867-1cb52360aec2",
+    "eng": "Karanbir",
+    "fLE": "K",
+    "tel": "కరంబైర్",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "025e29a5-35bb-4f7a-9c5f-7a2ffa0825e7",
+    "eng": "Karandeep",
+    "fLE": "K",
+    "tel": "కరందీప్",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "male",
+    "rel": "Sikh"
+  },
+  {
+    "id": "a9519053-55db-49c7-9fa9-2e93bacad087",
+    "eng": "Karani",
+    "fLE": "K",
+    "tel": "కరణి",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "a7bc09b3-27d5-450b-931e-be2818871542",
+    "eng": "Karanja",
+    "fLE": "K",
+    "tel": "కారంజ",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "c2f28de8-043e-40dc-a895-38d40638484e",
+    "eng": "Karanjeet",
+    "fLE": "K",
+    "tel": "కరంజీత్",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "f3d77fd8-00f1-4821-bacc-6bbe3f05fd98",
+    "eng": "Karanjit",
+    "fLE": "K",
+    "tel": "కరంజిత్",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "9685d82c-6c43-4422-86ab-a2c35979e340",
+    "eng": "Karanmeet",
+    "fLE": "K",
+    "tel": "ఖరంమీత్",
+    "fLTel": "ఖ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Sikh"
+  },
+  {
+    "id": "260a87cf-f0f7-45b8-9d17-4d1255eae063",
+    "eng": "Karanos",
+    "fLE": "K",
+    "tel": "కరణోస్",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "e88aff58-4f57-4249-a7bb-456fbdf5761e",
+    "eng": "Karanpal",
+    "fLE": "K",
+    "tel": "కరాంపల్",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "male",
+    "rel": "Sikh"
+  },
+  {
+    "id": "dc161f7c-e09f-452a-a0e0-e8aaaa659e9c",
+    "eng": "Karanpreet",
+    "fLE": "K",
+    "tel": "కరన్ప్రీత్",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "male",
+    "rel": "Sikh"
+  },
+  {
+    "id": "efc3459f-d947-4086-8dbc-b96466512143",
+    "eng": "Karanprem",
+    "fLE": "K",
+    "tel": "కరణ్ప్రేమ్",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "male",
+    "rel": "Sikh"
+  },
+  {
+    "id": "241634be-5e28-4f50-8ad7-3c0ef31ef19f",
+    "eng": "Karanroop",
+    "fLE": "K",
+    "tel": "కరంరూప్",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "male",
+    "rel": "Sikh"
+  },
+  {
+    "id": "6b01ccde-c23a-4624-b149-199322f17d99",
+    "eng": "Karanveer",
+    "fLE": "K",
+    "tel": "కారన్వీర్",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "male",
+    "rel": "Sikh"
+  },
+  {
+    "id": "02555a47-942d-4ce3-be77-61d76d66ef92",
+    "eng": "Karanvir",
+    "fLE": "K",
+    "tel": "కారన్వీర్",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "male",
+    "rel": "Sikh"
+  },
+  {
+    "id": "32f2a5d0-9c74-432d-87f9-1b5deed00979",
+    "eng": "Karasten",
+    "fLE": "K",
+    "tel": "కారస్తేన్",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "21aad01f-35ce-409f-b52d-2963ea8e05f7",
+    "eng": "Karata",
+    "fLE": "K",
+    "tel": "కరత",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "ad824da4-9dc2-49a9-a6f1-0a8059a0ce50",
+    "eng": "Karbhari",
+    "fLE": "K",
+    "tel": "కార్బరీ",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "3a6e0bc6-f918-42b9-8c0e-b5d9da6b0113",
+    "eng": "Karch",
+    "fLE": "K",
+    "tel": "కార్చి",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "cdd14bd0-4970-45ff-8008-0581e42a3958",
+    "eng": "Karcher",
+    "fLE": "K",
+    "tel": "కార్చేర్",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "8a1bf8f2-6ba4-4e04-995f-6af80d4ebeb5",
+    "eng": "Karcsi",
+    "fLE": "K",
+    "tel": "కార్కిసి",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "b56ae625-e145-4828-b27f-aeaa728cc464",
+    "eng": "Kardaar",
+    "fLE": "K",
+    "tel": "కారిడార్",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "4c06ba77-45c8-46b1-8a62-e58c320a278e",
+    "eng": "Kardal",
+    "fLE": "K",
+    "tel": "కర్డాల్",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "ddf9bc67-cdc7-4503-975d-0d2d19734680",
+    "eng": "Kardam",
+    "fLE": "K",
+    "tel": "కారడం",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "40165506-2137-4496-9334-e3679fb27ba3",
+    "eng": "Kardama",
+    "fLE": "K",
+    "tel": "కర్దమ",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "c4d374f2-741d-4abd-baa0-ca88cc4337dd",
+    "eng": "Kardar",
+    "fLE": "K",
+    "tel": "కారిడార్",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "5de24107-1cae-48cd-b228-2deccf2821c3",
+    "eng": "Kare",
+    "fLE": "K",
+    "tel": "కారే",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "male",
+    "rel": "others"
+  },
+  {
+    "id": "708457b3-3fa9-463b-96e7-097c87100da7",
+    "eng": "Kareef",
+    "fLE": "K",
+    "tel": "ఖరీఫ్",
+    "fLTel": "ఖ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "3bb411be-1819-4794-99b4-16f1bbe19fd5",
+    "eng": "Kareem",
+    "fLE": "K",
+    "tel": "క్రీం",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "692be2b8-d75c-4f6e-bcbb-2352217dd77e",
+    "eng": "kareem",
+    "fLE": "k",
+    "tel": "క్రీం",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "38de8ba8-d5b3-4d15-b4a9-6a3bb67287b1",
+    "eng": "Kareem karim",
+    "fLE": "K",
+    "tel": "కరీమ్ క్రీం",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "737c70dc-dbfa-4fe8-93db-bb710cbd1ea8",
+    "eng": "Karel",
+    "fLE": "K",
+    "tel": "కార్ల్",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "69f96741-8c04-4695-a5c5-1afec156cf9f",
+    "eng": "Karem",
+    "fLE": "K",
+    "tel": "కారం",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "0b1c5a54-e8bd-4261-a2a2-47eeb49710d1",
+    "eng": "Kareme",
+    "fLE": "K",
+    "tel": "కారేమే",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "80659097-0e50-483d-97ff-619d81e13bde",
+    "eng": "Karhedin",
+    "fLE": "K",
+    "tel": "కార్చెడి",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "38d6f47d-6b9e-4d53-b573-fba315cbf3d2",
+    "eng": "Karhik",
+    "fLE": "K",
+    "tel": "కర్హిక్",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "fd1908e8-0289-4734-9227-785e2a94a2f5",
+    "eng": "Karian",
+    "fLE": "K",
+    "tel": "కారియన్",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "2d3f08ea-db73-49d1-bbf0-99ed8c2c65f3",
+    "eng": "Kariappa",
+    "fLE": "K",
+    "tel": "కరియప్ప",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "32ec1138-3658-4b97-bc1f-cd5500f86b02",
+    "eng": "Karidena",
+    "fLE": "K",
+    "tel": "కరిదేనా",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "78b843de-2245-49b4-8e8d-bae2c7559602",
+    "eng": "Karif",
+    "fLE": "K",
+    "tel": "ఖరీఫ్",
+    "fLTel": "ఖ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "6f30a945-afce-4435-9142-1e104ba8c433",
+    "eng": "karif",
+    "fLE": "k",
+    "tel": "ఖరీఫ్",
+    "fLTel": "ఖ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "af3846a8-e37c-4284-b13d-a3e0e03c48e0",
+    "eng": "Karik",
+    "fLE": "K",
+    "tel": "కరిక్",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "5d57bad7-edf4-4fc7-b48e-5808cef91423",
+    "eng": "karik",
+    "fLE": "k",
+    "tel": "కరిక్",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "88332ca3-fb84-4aa0-ba25-9fe887e5754e",
+    "eng": "Karika",
+    "fLE": "K",
+    "tel": "కోరిక",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "52400071-d297-4931-8855-563146d19c0b",
+    "eng": "Karikaalan",
+    "fLE": "K",
+    "tel": "కరికాలం",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "6ce209e8-8ad3-4154-8784-11c117a56933",
+    "eng": "Karikalan",
+    "fLE": "K",
+    "tel": "కరికులం",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "b3e21637-bf27-4005-9cc5-11c22a7b7fb6",
+    "eng": "Karim",
+    "fLE": "K",
+    "tel": "కరీం",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "b4c1fad1-7b5f-4eed-8381-6348f84bb5cf",
+    "eng": "karim",
+    "fLE": "k",
+    "tel": "కరీం",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "db46d285-5326-441f-8879-d95e69a0b500",
+    "eng": "Karina",
+    "fLE": "K",
+    "tel": "కరీనా",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "fef51f29-42b2-4b97-9048-5a4d6b7880f9",
+    "eng": "Karinith",
+    "fLE": "K",
+    "tel": "కారిణిత",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "149f40a9-6c52-41f7-8277-ad5794bd44a3",
+    "eng": "Kariraj",
+    "fLE": "K",
+    "tel": "కరిరాజ్",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "15f62207-1f3f-47bd-a1bf-b40b2ee749da",
+    "eng": "Karish",
+    "fLE": "K",
+    "tel": "కరిష్",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "fd4ed64b-8343-4562-9176-264093ba6cc6",
+    "eng": "Karisidh",
+    "fLE": "K",
+    "tel": "కరిసిద్",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "5c25646c-9c28-46f3-a18a-a3986becca14",
+    "eng": "Karisnu",
+    "fLE": "K",
+    "tel": "కరిష్ణు",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "f3fbf850-fb7a-4ed2-8a08-524ab95306c7",
+    "eng": "Karithik",
+    "fLE": "K",
+    "tel": "కరిథిక్",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "9b2e48e9-d765-4794-be5f-fdda81ca63ef",
+    "eng": "Karjuna",
+    "fLE": "K",
+    "tel": "కార్జున",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "638f584b-0070-42fe-b629-cfbfa891a305",
+    "eng": "Karkasa",
+    "fLE": "K",
+    "tel": "కర్కశ",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "3fb543c1-5b9e-46cd-9ded-9ffab3a54009",
+    "eng": "Karkitak",
+    "fLE": "K",
+    "tel": "కార్కిటిక్",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "23aa7bf2-0340-4425-a4e5-5ddd77865f27",
+    "eng": "Karkodan",
+    "fLE": "K",
+    "tel": "కర్కోడం",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "1d15e87f-4a67-4aba-b7c9-fe425b0085ef",
+    "eng": "Karkotak",
+    "fLE": "K",
+    "tel": "కర్కోటక",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "2c66ebd5-6b45-466f-bc60-ea2b9b5a62cd",
+    "eng": "Karkotaka",
+    "fLE": "K",
+    "tel": "కర్కోటక",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "df890271-bebb-4c17-b693-a75668e5c890",
+    "eng": "Karl",
+    "fLE": "K",
+    "tel": "కార్ల్",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "b835c740-23d8-4f31-b7bc-ac74eaf9fc93",
+    "eng": "Karlan",
+    "fLE": "K",
+    "tel": "కార్లను",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "850079cd-077a-4933-923c-d57ccd7737a2",
+    "eng": "Karle",
+    "fLE": "K",
+    "tel": "కార్లే",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "3ee0ada9-be70-4d51-a040-1e97af753365",
+    "eng": "Karlens",
+    "fLE": "K",
+    "tel": "కార్లెన్స్",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "79fde514-c0fe-4609-b6c1-30ecfedbfb75",
+    "eng": "Karlik",
+    "fLE": "K",
+    "tel": "గార్లిక్",
+    "fLTel": "గ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "124cb476-11b2-4e6e-92a6-07a94dfb232b",
+    "eng": "Karling",
+    "fLE": "K",
+    "tel": "కర్లింగ్",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "f1c300f3-eeb9-48b1-9c50-feb8f8742cf5",
+    "eng": "Karlis",
+    "fLE": "K",
+    "tel": "కార్లిస్",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  }
+]

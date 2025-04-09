@@ -1,0 +1,932 @@
+[
+  {
+    "id": "7df582e0-d57a-4b1b-a27b-2d948c826da7",
+    "eng": "Abiheshan",
+    "fLE": "A",
+    "tel": "బిహేశం",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "914e63a3-2fdc-4f19-a1d2-befb180ae6b8",
+    "eng": "Abij",
+    "fLE": "A",
+    "tel": "బిజ్",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "32843ab4-00bd-480a-8cb7-105160c2417c",
+    "eng": "Abijah",
+    "fLE": "A",
+    "tel": "బిజ",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "male",
+    "rel": "others"
+  },
+  {
+    "id": "03a54603-d32a-43d1-bb9d-185867a25f12",
+    "eng": "Abijeet",
+    "fLE": "A",
+    "tel": "అభిజీత్",
+    "fLTel": "అ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "85672227-bb09-435f-8c37-b5977a24f03b",
+    "eng": "Abijith",
+    "fLE": "A",
+    "tel": "అభిజిత్",
+    "fLTel": "అ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "5f77a429-9a2d-4519-919d-87472403abb3",
+    "eng": "Abilash",
+    "fLE": "A",
+    "tel": "అభిలాష్",
+    "fLTel": "అ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "63360302-5c3b-4c08-9f13-cd2b04128ee2",
+    "eng": "Abilio",
+    "fLE": "A",
+    "tel": "బిలీవ్",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "b9f8a5f9-e48d-492b-ba27-fd6169264ada",
+    "eng": "Abilo",
+    "fLE": "A",
+    "tel": "బిలో",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "b1d0bb23-eb1a-4304-a0d4-c510329be537",
+    "eng": "Abimael",
+    "fLE": "A",
+    "tel": "బిమల్",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "81f4459d-affb-4881-ad1b-fe8bc040a346",
+    "eng": "abimael",
+    "fLE": "a",
+    "tel": "బిమల్",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "4ce43a54-7991-4410-8d69-856255216115",
+    "eng": "Abimanyu",
+    "fLE": "A",
+    "tel": "అభిమన్యు",
+    "fLTel": "అ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "f4092206-827d-4ed2-93cb-b7b97b1dce8b",
+    "eng": "Abimbola",
+    "fLE": "A",
+    "tel": "బిమ్బోల",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "fa40d012-a943-4ef8-b929-643bf8227819",
+    "eng": "Abimola",
+    "fLE": "A",
+    "tel": "అబీమెలె",
+    "fLTel": "అ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "eef3bd10-8560-4074-bfce-b0ad4c88ccca",
+    "eng": "Abin",
+    "fLE": "A",
+    "tel": "బిన్",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "8f306f2c-04d6-4bae-adfb-f89337a9215e",
+    "eng": "Abinaash",
+    "fLE": "A",
+    "tel": "అబీనాష్",
+    "fLTel": "అ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "4cb8ae02-bfa0-41b8-93f7-35f701d0e327",
+    "eng": "Abinaashjot",
+    "fLE": "A",
+    "tel": "అబీనాశ్జోత్",
+    "fLTel": "అ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "a2b4471b-e44d-4e44-873c-99d249c6f486",
+    "eng": "Abinash",
+    "fLE": "A",
+    "tel": "అబినష",
+    "fLTel": "అ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "8be3a7cc-aab8-4231-b5a7-e2532b3d203a",
+    "eng": "Abinaswar",
+    "fLE": "A",
+    "tel": "అబినశ్వర్",
+    "fLTel": "అ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "3c2067ef-657a-4e6f-8692-78eb0e065668",
+    "eng": "Abinav",
+    "fLE": "A",
+    "tel": "అభినవ్",
+    "fLTel": "అ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "296876f4-b2f2-41fb-b7b7-654bdc746cd0",
+    "eng": "Abinay",
+    "fLE": "A",
+    "tel": "అభినయ్",
+    "fLTel": "అ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "b4c435a2-409d-4985-ac19-db83bb2a38bc",
+    "eng": "Abinesh",
+    "fLE": "A",
+    "tel": "అభినేష్",
+    "fLTel": "అ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "f8236056-8bae-4b74-8e09-ff8997adf920",
+    "eng": "Abinish",
+    "fLE": "A",
+    "tel": "అభినిష్",
+    "fLTel": "అ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "37ab7a4c-0550-46a3-8126-58b0b8caf8f7",
+    "eng": "Abiodun",
+    "fLE": "A",
+    "tel": "అబివుడున్",
+    "fLTel": "అ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "d76ecda9-2d9f-438f-82bd-a86d3b4dbb7b",
+    "eng": "Abiola",
+    "fLE": "A",
+    "tel": "అబియోల",
+    "fLTel": "అ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "f7c88bf9-16e6-4a42-992d-e6f0769a0954",
+    "eng": "Abioye",
+    "fLE": "A",
+    "tel": "బిఒఎ",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "1aa20a7e-b016-4426-90a2-78dbb37c5581",
+    "eng": "Abiral",
+    "fLE": "A",
+    "tel": "అబీరాల్",
+    "fLTel": "అ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "53b5debc-1ea7-45c8-9b67-f790e8ae00ea",
+    "eng": "Abiram",
+    "fLE": "A",
+    "tel": "అభిరామ్",
+    "fLTel": "అ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "e295cca2-4803-48ac-8d4f-f2cdcd25827d",
+    "eng": "Abis",
+    "fLE": "A",
+    "tel": "బిస్",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "7bdd6431-561a-4bc7-a7bb-e4a631354300",
+    "eng": "Abisali",
+    "fLE": "A",
+    "tel": "అబిసాలి",
+    "fLTel": "అ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "13bc85ff-86fc-4640-883b-3528ce4bf039",
+    "eng": "Abiseshan",
+    "fLE": "A",
+    "tel": "అభిసేశాం",
+    "fLTel": "అ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "4021f0e0-a744-4526-a7d9-70b8662a92e9",
+    "eng": "Abish",
+    "fLE": "A",
+    "tel": "బిష్",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "aebb2c2e-771e-4f07-aaf9-56b059f1bdef",
+    "eng": "Abisheik",
+    "fLE": "A",
+    "tel": "అబిషేయిక్",
+    "fLTel": "అ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "e55b6c8f-0650-47e2-9837-2e76ec842443",
+    "eng": "Abishek",
+    "fLE": "A",
+    "tel": "అభిషేక్",
+    "fLTel": "అ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "7f58d618-7ad9-429c-8b66-4a4cac3ab1a5",
+    "eng": "Abishua",
+    "fLE": "A",
+    "tel": "అభిషుల",
+    "fLTel": "అ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "e7d7bcb2-e151-499d-9f4a-3f39a1f9aeaa",
+    "eng": "Abivanth",
+    "fLE": "A",
+    "tel": "అభివంత్",
+    "fLTel": "అ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "7165c3ca-1e61-4d31-a765-bbd55b5a3fad",
+    "eng": "Abiyram",
+    "fLE": "A",
+    "tel": "బివైరం",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "male",
+    "rel": "others"
+  },
+  {
+    "id": "a584fa50-f36b-428b-821e-f943916c114b",
+    "eng": "abiyram",
+    "fLE": "a",
+    "tel": "బివైరం",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "a84989fa-3e4d-4370-a011-c78cc94fcae0",
+    "eng": "Abiz",
+    "fLE": "A",
+    "tel": "బిజ్",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "82acb865-6281-46ff-8df6-0123e24408ca",
+    "eng": "Abizer",
+    "fLE": "A",
+    "tel": "బిజెర్",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "54443885-3f4f-4828-b571-a6feb7674fa7",
+    "eng": "Abjayoni",
+    "fLE": "A",
+    "tel": "అబ్జాయోని",
+    "fLTel": "అ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "0e3e352f-a2fa-4ec8-9e69-9aca8eb441cf",
+    "eng": "Abjit",
+    "fLE": "A",
+    "tel": "అబ్జిత్",
+    "fLTel": "అ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "7f548d56-923d-4d40-8d5d-b77ee9350698",
+    "eng": "Abkar",
+    "fLE": "A",
+    "tel": "అబ్కారి",
+    "fLTel": "అ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "7a0b378a-690f-4696-bd13-ad3f1a025d61",
+    "eng": "Ablagh",
+    "fLE": "A",
+    "tel": "అబ్లాగ్",
+    "fLTel": "అ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "8c2fea43-823f-4843-ae33-e17e873b627e",
+    "eng": "Ablaj",
+    "fLE": "A",
+    "tel": "అబ్లజ్",
+    "fLTel": "అ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "d31614b9-9eb2-44d9-8b9c-1984f5a64ef1",
+    "eng": "Ablamar",
+    "fLE": "A",
+    "tel": "అబ్లెమార్",
+    "fLTel": "అ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "50163225-c180-470e-b8cc-68edf763d22c",
+    "eng": "Abnaasi",
+    "fLE": "A",
+    "tel": "అబీనాసి",
+    "fLTel": "అ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Sikh"
+  },
+  {
+    "id": "e8e4083c-994b-404b-b215-f5bc76835d7c",
+    "eng": "Abnar",
+    "fLE": "A",
+    "tel": "అబ్నర్",
+    "fLTel": "అ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "c0c8d915-d9d6-43ff-9adb-56a716159ced",
+    "eng": "Abnash",
+    "fLE": "A",
+    "tel": "అబ్నాష్",
+    "fLTel": "అ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "a6cc2e4d-15ab-4fd8-973b-434a1a15dcd9",
+    "eng": "Abnat",
+    "fLE": "A",
+    "tel": "అబినట్",
+    "fLTel": "అ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "e59a9382-b777-4541-bae7-877cb9b2c0d7",
+    "eng": "Abner",
+    "fLE": "A",
+    "tel": "అబ్నేరు",
+    "fLTel": "అ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "731de590-b928-463d-923e-667c9b5ba3bb",
+    "eng": "Abo",
+    "fLE": "A",
+    "tel": "ఆబో",
+    "fLTel": "ఆ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "e9ad2fcc-e3eb-4975-ae53-0e59d28c4063",
+    "eng": "Abood",
+    "fLE": "A",
+    "tel": "అబూద",
+    "fLTel": "అ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "85c40e16-4e3c-47a1-b6e4-8d23157a3b54",
+    "eng": "Abott",
+    "fLE": "A",
+    "tel": "అబోట్",
+    "fLTel": "అ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "4ebbd070-8ead-4d98-82d1-509edfa33224",
+    "eng": "Aboud",
+    "fLE": "A",
+    "tel": "అబౌద్",
+    "fLTel": "అ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "5a9dfdac-7d4f-4867-b319-7955991758d5",
+    "eng": "Abrad",
+    "fLE": "A",
+    "tel": "అబ్రాడ్",
+    "fLTel": "అ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "4fbbe666-e3b2-491b-9425-9fcf5d56b23a",
+    "eng": "Abrahah",
+    "fLE": "A",
+    "tel": "అబ్రహహ్",
+    "fLTel": "అ",
+    "tags": [],
+    "gen": "male",
+    "rel": "others"
+  },
+  {
+    "id": "2f10a30e-fed2-43d4-a0b6-cc8ff51d62d8",
+    "eng": "Abraham",
+    "fLE": "A",
+    "tel": "అబ్రహం",
+    "fLTel": "అ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "d5793290-e0c0-4bf3-a290-79776ca01613",
+    "eng": "Abrahan",
+    "fLE": "A",
+    "tel": "అబ్రహాం",
+    "fLTel": "అ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "aa40ad50-9157-40f2-b5c0-b993a6e073ad",
+    "eng": "Abrahm",
+    "fLE": "A",
+    "tel": "అబ్రాహాము",
+    "fLTel": "అ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "86be6e1f-ee69-440a-8626-5bd249dbcf61",
+    "eng": "Abraj",
+    "fLE": "A",
+    "tel": "అబ్రాజ్",
+    "fLTel": "అ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "633b207e-082c-41f2-8b1d-6ec512c111b0",
+    "eng": "Abrak",
+    "fLE": "A",
+    "tel": "అబ్రాక్",
+    "fLTel": "అ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "d61c5cca-cfac-4849-9aa2-cfc61a7d470c",
+    "eng": "Abram",
+    "fLE": "A",
+    "tel": "అబ్రాము",
+    "fLTel": "అ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "ebdf5815-e620-458a-a7d8-639601000e76",
+    "eng": "Abramo",
+    "fLE": "A",
+    "tel": "అబ్రామ్",
+    "fLTel": "అ",
+    "tags": [],
+    "gen": "male",
+    "rel": "others"
+  },
+  {
+    "id": "fd7bc6cf-4a24-4a3a-86c3-a1aebfbdded8",
+    "eng": "Abrams",
+    "fLE": "A",
+    "tel": "అబ్రామ్స్",
+    "fLTel": "అ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "be037704-f61d-4290-8e98-06610dd2d18a",
+    "eng": "abrams",
+    "fLE": "a",
+    "tel": "అబ్రామ్స్",
+    "fLTel": "అ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "159bb6f9-2f92-4c42-ba69-3a64074db3d2",
+    "eng": "Abramson",
+    "fLE": "A",
+    "tel": "అబ్రామ్స్లోన్",
+    "fLTel": "అ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "1e050208-d4eb-4dac-a4d4-835ad59386cd",
+    "eng": "Abrar",
+    "fLE": "A",
+    "tel": "అబీరార్",
+    "fLTel": "అ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "de25665b-9ff5-49ac-ab55-5800e234da31",
+    "eng": "Abrash",
+    "fLE": "A",
+    "tel": "ఆంబ్రోస్",
+    "fLTel": "ఆ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "ba8954a7-e8ad-4e89-b517-332cf3bfa68f",
+    "eng": "Abrasha",
+    "fLE": "A",
+    "tel": "అభ్రష",
+    "fLTel": "అ",
+    "tags": [],
+    "gen": "male",
+    "rel": "others"
+  },
+  {
+    "id": "a268f7e3-4983-4ad9-a061-b21cd0f54c15",
+    "eng": "Abrax",
+    "fLE": "A",
+    "tel": "ఆంబ్రోస్",
+    "fLTel": "ఆ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "0739019a-c584-48f9-8371-c07cc6ab0179",
+    "eng": "Abraxas",
+    "fLE": "A",
+    "tel": "అబ్రక్సస్",
+    "fLTel": "అ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "9499ba48-66aa-4299-a6a2-f35f8d2d47ed",
+    "eng": "Abraz",
+    "fLE": "A",
+    "tel": "అబ్రాజ్",
+    "fLTel": "అ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "55a064b7-d717-4a30-8b91-4acca1b9c040",
+    "eng": "Abrik",
+    "fLE": "A",
+    "tel": "అబ్రిక్",
+    "fLTel": "అ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "bdc5ce09-ac93-426f-86ff-814e0f001607",
+    "eng": "Abrin",
+    "fLE": "A",
+    "tel": "అబ్రిన్",
+    "fLTel": "అ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "2fcedb28-d8c1-44ea-8cb1-d621485a89d6",
+    "eng": "Abriz",
+    "fLE": "A",
+    "tel": "అబ్రిజ్",
+    "fLTel": "అ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "ebc8050c-8933-4035-b58c-b79d67638413",
+    "eng": "Abrohom",
+    "fLE": "A",
+    "tel": "అబ్రాహాము",
+    "fLTel": "అ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "f7716230-5606-4ca0-94ce-c152cfd63b49",
+    "eng": "Abronoma",
+    "fLE": "A",
+    "tel": "అబ్రానోమా",
+    "fLTel": "అ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "5f67bc34-a203-4ffb-aba3-96ed74fcf6d4",
+    "eng": "Abs",
+    "fLE": "A",
+    "tel": "అబ్స్",
+    "fLTel": "అ",
+    "tags": [],
+    "gen": "male",
+    "rel": "others"
+  },
+  {
+    "id": "5ce1a109-f0ba-440e-baf9-7bdab1036c90",
+    "eng": "Absaar",
+    "fLE": "A",
+    "tel": "అబ్సర్",
+    "fLTel": "అ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "57c6ce10-fb77-4245-bfe8-9fd91b35bf19",
+    "eng": "Absalom",
+    "fLE": "A",
+    "tel": "అబీషాలోమ్",
+    "fLTel": "అ",
+    "tags": [],
+    "gen": "male",
+    "rel": "others"
+  },
+  {
+    "id": "4f722b06-6656-4c9b-94f7-b2ae4df634df",
+    "eng": "Absalon",
+    "fLE": "A",
+    "tel": "అబీషాలోన్",
+    "fLTel": "అ",
+    "tags": [],
+    "gen": "male",
+    "rel": "others"
+  },
+  {
+    "id": "b37d155d-4b13-4bc3-957e-a39fdc09aec5",
+    "eng": "Absar",
+    "fLE": "A",
+    "tel": "అబ్సర్",
+    "fLTel": "అ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "ba3f8647-bb5b-48f4-be80-0321b5e140bd",
+    "eng": "Absat",
+    "fLE": "A",
+    "tel": "అబ్సట్",
+    "fLTel": "అ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "ff73f1f3-6b72-4869-9b9e-f34190570604",
+    "eng": "Absham",
+    "fLE": "A",
+    "tel": "అబీషమ్",
+    "fLTel": "అ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "bc50fe69-1a17-4505-926d-46ced3cfae7f",
+    "eng": "Absi",
+    "fLE": "A",
+    "tel": "ఏబీసీ",
+    "fLTel": "ఏ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "6c5f857b-0520-41b2-a340-97d9e93ac072",
+    "eng": "Absko",
+    "fLE": "A",
+    "tel": "అబ్సకో",
+    "fLTel": "అ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "591d87c1-2adc-4af5-906c-40b06cc3bb94",
+    "eng": "Absolom",
+    "fLE": "A",
+    "tel": "అబిసాలోమ్",
+    "fLTel": "అ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "f3f0f6e0-5d81-4ad1-b9bb-574f1cdf4826",
+    "eng": "absolom",
+    "fLE": "a",
+    "tel": "అబిసాలోమ్",
+    "fLTel": "అ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "4c7634ad-8963-4fa4-a4ff-406af56fd437",
+    "eng": "Abtal",
+    "fLE": "A",
+    "tel": "అబీటల్",
+    "fLTel": "అ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "b565a55a-6326-4b57-a7d1-99a27e96296b",
+    "eng": "Abtar",
+    "fLE": "A",
+    "tel": "అబీటర్",
+    "fLTel": "అ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "e71e7550-562f-48b9-b03f-67d7958587ab",
+    "eng": "Abteen",
+    "fLE": "A",
+    "tel": "అబీటీన్",
+    "fLTel": "అ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "6513b43b-0c58-4939-9ae6-d63d6f06c671",
+    "eng": "Abtin",
+    "fLE": "A",
+    "tel": "అబీటిన్",
+    "fLTel": "అ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "b2639543-6d4a-4b24-bf7d-40376b2ce976",
+    "eng": "Abtum",
+    "fLE": "A",
+    "tel": "ఆబిట్యుమ్",
+    "fLTel": "ఆ",
+    "tags": [],
+    "gen": "male",
+    "rel": "others"
+  }
+]

@@ -1,0 +1,912 @@
+[
+  {
+    "id": "95054b8f-6191-4dbb-931a-d4ecef0fa599",
+    "eng": "Abd-Allah",
+    "fLE": "A",
+    "tel": "అబ్ద్-అల్లాహ్",
+    "fLTel": "అ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "747df8d7-73e2-492a-beb3-d9d6df2789f7",
+    "eng": "Abd-almuhsin",
+    "fLE": "A",
+    "tel": "అబ్ద్-అల్ముహాసిం",
+    "fLTel": "అ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "3190f6ab-1e5d-4e14-b300-3181bb1bb982",
+    "eng": "Abdal",
+    "fLE": "A",
+    "tel": "అబ్దల్",
+    "fLTel": "అ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "36a29644-cbfd-409b-acaf-6abbd9177b2d",
+    "eng": "Abdalah",
+    "fLE": "A",
+    "tel": "అబ్దాలహ్",
+    "fLTel": "అ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "fa440081-bb45-4480-ba52-0efdf9f6cf35",
+    "eng": "Abdalala",
+    "fLE": "A",
+    "tel": "అబదలాల",
+    "fLTel": "అ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "56e75e96-3990-44fb-a554-aad71a16a02f",
+    "eng": "Abdalalim",
+    "fLE": "A",
+    "tel": "అబదలాలిమ్",
+    "fLTel": "అ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "147d37b8-e9f1-4fa3-8f40-90a72b1f31fa",
+    "eng": "Abdalati",
+    "fLE": "A",
+    "tel": "అబ్దాలతి",
+    "fLTel": "అ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "a9c629fa-4364-472a-8441-bdabae70a7ef",
+    "eng": "Abdalaziz",
+    "fLE": "A",
+    "tel": "అబదలాజిజ్",
+    "fLTel": "అ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "3d8d2672-bf1c-4774-ae5a-23745e8a9688",
+    "eng": "Abdalbari",
+    "fLE": "A",
+    "tel": "అబ్దల్బరి",
+    "fLTel": "అ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "4707e6ba-e62a-4636-8199-2f481acd07b8",
+    "eng": "Abdalfattah",
+    "fLE": "A",
+    "tel": "అబ్దాలీఫత్తాహ్",
+    "fLTel": "అ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "f183d3f5-6cb0-4712-a837-c8db1a80a112",
+    "eng": "Abdalhadi",
+    "fLE": "A",
+    "tel": "అబ్దల్హాది",
+    "fLTel": "అ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "a84bdeb7-33d6-4e05-8029-5015a9ae180d",
+    "eng": "Abdalhakim",
+    "fLE": "A",
+    "tel": "అబ్దల్హాకిమ్",
+    "fLTel": "అ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "5208b8f6-d7e8-4486-b3f3-26bd0ccd833c",
+    "eng": "Abdalhalim",
+    "fLE": "A",
+    "tel": "అబ్దాలహాలిమ్",
+    "fLTel": "అ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "05062545-5893-4bf6-aee1-045fe704cd2e",
+    "eng": "Abdalhamid",
+    "fLE": "A",
+    "tel": "అబ్దల్హంది",
+    "fLTel": "అ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "a32a1e97-5b70-4d80-9964-e7b016a95210",
+    "eng": "Abdaljabbar",
+    "fLE": "A",
+    "tel": "అబ్దల్జబ్బర్",
+    "fLTel": "అ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "c227ee07-db95-4848-ba3c-7d71fcfb6266",
+    "eng": "Abdaljabir",
+    "fLE": "A",
+    "tel": "అబ్దల్జబీర్",
+    "fLTel": "అ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "62b493c8-df2d-43fb-aa42-7de061e69594",
+    "eng": "Abdalkadir",
+    "fLE": "A",
+    "tel": "అబ్దల్కదిర్",
+    "fLTel": "అ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "d270f38d-477c-449a-8ad5-ceaaa828bd7b",
+    "eng": "Abdalkarim",
+    "fLE": "A",
+    "tel": "అబ్దాలీకరిం",
+    "fLTel": "అ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "f488c8af-dfc7-47d4-8f24-206a6027f229",
+    "eng": "Abdalla",
+    "fLE": "A",
+    "tel": "అబ్దాలీల",
+    "fLTel": "అ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "d9c841d2-7aad-4f17-a32a-263e90a13711",
+    "eng": "Abdallafif",
+    "fLE": "A",
+    "tel": "అబ్దాలీలాఫిఫ్",
+    "fLTel": "అ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "d275b588-01fb-4f9d-9ead-04294a6f2409",
+    "eng": "Abdallah",
+    "fLE": "A",
+    "tel": "అబ్దల్లాహ్",
+    "fLTel": "అ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "7f854eaa-f02f-4517-bfd6-80e61aa6fb50",
+    "eng": "Abdalmajid",
+    "fLE": "A",
+    "tel": "అబ్దల్మజిద్",
+    "fLTel": "అ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "cda5ec42-7236-457a-b559-6faf883b6e1a",
+    "eng": "Abdalmalik",
+    "fLE": "A",
+    "tel": "అబ్దల్మాలిక్",
+    "fLTel": "అ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "cb6f3442-4079-4aba-abab-88188c63daa8",
+    "eng": "Abdalmatin",
+    "fLE": "A",
+    "tel": "అబ్దల్మతిం",
+    "fLTel": "అ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "7e258c5e-3ef2-4039-a438-efd6f6f0b921",
+    "eng": "Abdalmufi",
+    "fLE": "A",
+    "tel": "అబ్దల్ముఫై",
+    "fLTel": "అ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "6219e70e-39d0-469b-ac1b-516a729671ed",
+    "eng": "Abdalmuhsin",
+    "fLE": "A",
+    "tel": "అబ్దల్ముహాసిం",
+    "fLTel": "అ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "b1398dd0-688e-4d47-81a0-c80f04bba426",
+    "eng": "Abdalrahim",
+    "fLE": "A",
+    "tel": "అబ్దల్రహీం",
+    "fLTel": "అ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "969e2d23-097f-4062-9493-bdb4d93bd5b8",
+    "eng": "Abdalrahman",
+    "fLE": "A",
+    "tel": "అబ్దల్రహ్మన్",
+    "fLTel": "అ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "2f9395f2-d87a-48be-83d7-1e43f9514fb0",
+    "eng": "Abdalrashid",
+    "fLE": "A",
+    "tel": "అబ్దల్రాషిద్",
+    "fLTel": "అ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "4b32b46b-f943-4108-ae49-2dc7219c2ce6",
+    "eng": "Abdalrauf",
+    "fLE": "A",
+    "tel": "అబ్దల్రాఫ్",
+    "fLTel": "అ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "383a3b84-0bae-4021-8d28-a84e1da370f7",
+    "eng": "Abdalsalam",
+    "fLE": "A",
+    "tel": "అబ్దల్స్లమ్",
+    "fLTel": "అ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "2150951e-8240-4744-a6da-006d8ee98dd4",
+    "eng": "Abdalsami",
+    "fLE": "A",
+    "tel": "అబ్దల్సామి",
+    "fLTel": "అ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "26c8a12f-4dbf-4969-b7a0-d2049ffb55a4",
+    "eng": "Abdalwahab",
+    "fLE": "A",
+    "tel": "అబ్దల్వాహబ్",
+    "fLTel": "అ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "d60134ab-3053-4d4d-8f5b-79fe928f86be",
+    "eng": "Abdan",
+    "fLE": "A",
+    "tel": "అబదం",
+    "fLTel": "అ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "ae60ff0a-824c-49b5-8f90-9a27be75bebf",
+    "eng": "Abdar",
+    "fLE": "A",
+    "tel": "అబ్దర్",
+    "fLTel": "అ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "229aabe0-45ec-4717-998f-c7afcd2e9d60",
+    "eng": "Abdarrahman",
+    "fLE": "A",
+    "tel": "అబ్దర్రహ్మాన్",
+    "fLTel": "అ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "75abe8b3-613f-41f3-a042-7ffe3af46290",
+    "eng": "Abdeali",
+    "fLE": "A",
+    "tel": "అబ్దేయాలి",
+    "fLTel": "అ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "7836ad3b-872a-40be-8979-2436c4c57b07",
+    "eng": "Abdeel",
+    "fLE": "A",
+    "tel": "అబీడీల్",
+    "fLTel": "అ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "eacc21ef-29a3-49b2-9953-d0f8fd826aca",
+    "eng": "Abdel",
+    "fLE": "A",
+    "tel": "అబ్దేల్",
+    "fLTel": "అ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "67978cc8-da0a-423b-af1a-33fc6ba1bf73",
+    "eng": "Abdeladir",
+    "fLE": "A",
+    "tel": "అబ్దేలాడిరి",
+    "fLTel": "అ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "08c76dde-819f-4bf4-b0e5-623fe45f6388",
+    "eng": "Abdelati",
+    "fLE": "A",
+    "tel": "అబ్దేలాటి",
+    "fLTel": "అ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "5f9e16e6-8076-43c2-817d-3e1010992996",
+    "eng": "Abdelazim",
+    "fLE": "A",
+    "tel": "అబ్దేలాజిమ్",
+    "fLTel": "అ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "3fc4ba2e-c9c0-4efe-826f-6f03f9952810",
+    "eng": "Abdelaziz",
+    "fLE": "A",
+    "tel": "అబ్దేలాజిజ్",
+    "fLTel": "అ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "a5fbdeea-bed3-491b-9491-f1b8daf368f3",
+    "eng": "Abdelfattah",
+    "fLE": "A",
+    "tel": "అబ్దేల్ఫేట్తః",
+    "fLTel": "అ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "a8683ac5-745c-4ef7-9cc2-2cb5bc07ad16",
+    "eng": "Abdelhadi",
+    "fLE": "A",
+    "tel": "అబ్దేల్హది",
+    "fLTel": "అ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "b4f1fe87-5519-4dd7-9811-2143b7f2fc4b",
+    "eng": "Abdelhakim",
+    "fLE": "A",
+    "tel": "అబ్దేలహాకిమ్",
+    "fLTel": "అ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "dc6e2ce9-8869-400a-a2bb-6b625217f1c2",
+    "eng": "Abdelhalim",
+    "fLE": "A",
+    "tel": "అబ్దేల్హలిమ్",
+    "fLTel": "అ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "704f2f80-a0e7-4025-a14c-df9fc79a8e1e",
+    "eng": "Abdelhamid",
+    "fLE": "A",
+    "tel": "అబ్దేలహంది",
+    "fLTel": "అ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "f6d37197-68ec-466c-89e6-0de1a2d5fd66",
+    "eng": "Abdelkadir",
+    "fLE": "A",
+    "tel": "అబ్దేల్కదిర్",
+    "fLTel": "అ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "d47093c4-b303-48b2-be8c-35ff875507e5",
+    "eng": "Abdelkarim",
+    "fLE": "A",
+    "tel": "అబ్దేల్కరిం",
+    "fLTel": "అ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "02fa427d-cf29-494c-a9b5-e1b4a164648e",
+    "eng": "Abdelkerim",
+    "fLE": "A",
+    "tel": "అబ్దేల్కేరిమ్",
+    "fLTel": "అ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "5b3b2ccc-b4cf-4f35-9af8-965d032d5410",
+    "eng": "Abdelkrim",
+    "fLE": "A",
+    "tel": "అబ్దేల్కరిం",
+    "fLTel": "అ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "b83442a0-16fc-49c9-b6f9-f39d1a44284f",
+    "eng": "Abdellafif",
+    "fLE": "A",
+    "tel": "అబ్దేళ్ళఫైఫ్",
+    "fLTel": "అ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "16f3d698-a786-4f59-9c99-fa95c7ca6544",
+    "eng": "Abdellatif",
+    "fLE": "A",
+    "tel": "అబ్దేల్లతీఫ్",
+    "fLTel": "అ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "fbd5cae2-5a73-430c-bdb4-033eec70e554",
+    "eng": "Abdelmalik",
+    "fLE": "A",
+    "tel": "అబ్దేల్మలిక్",
+    "fLTel": "అ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "d85e8a94-2831-4294-95e8-657a89c593f4",
+    "eng": "Abdelmufi",
+    "fLE": "A",
+    "tel": "అబ్దేల్ముఫై",
+    "fLTel": "అ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "d2796ef6-18f3-4429-98fc-242314092706",
+    "eng": "Abdelouahid",
+    "fLE": "A",
+    "tel": "అబ్దేలౌఅహిద్",
+    "fLTel": "అ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "b8876624-1da2-4857-b9df-c02786397329",
+    "eng": "Abdelrahim",
+    "fLE": "A",
+    "tel": "అబ్దేల్రాహీం",
+    "fLTel": "అ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "317e4f67-d2d7-4e9b-8453-43d6d6f7f2e1",
+    "eng": "Abdelrahman",
+    "fLE": "A",
+    "tel": "అబ్దేల్రాహ్మన్",
+    "fLTel": "అ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "c284404b-f5db-4338-8363-5e06583f4cbd",
+    "eng": "Abdelsalam",
+    "fLE": "A",
+    "tel": "అబ్దేల్సలం",
+    "fLTel": "అ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "ae3d5fde-6ecb-4e5f-8857-6454b25fde2b",
+    "eng": "Abderrahim",
+    "fLE": "A",
+    "tel": "అబ్దేర్రహీమ్",
+    "fLTel": "అ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "68885505-e57b-4b50-a99d-16c702b51d71",
+    "eng": "Abderrahman",
+    "fLE": "A",
+    "tel": "అబ్దేర్రహ్మాన్",
+    "fLTel": "అ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "e71514b4-f969-46dc-a6da-41800caf1fd3",
+    "eng": "Abderraouf",
+    "fLE": "A",
+    "tel": "అబ్దేర్రావుఫ్",
+    "fLTel": "అ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "e75a776e-3b80-42c0-8b7c-e3b2c94c6865",
+    "eng": "Abderrazi",
+    "fLE": "A",
+    "tel": "అబ్దేర్రజి",
+    "fLTel": "అ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "9d13d91e-6f85-4877-b5fe-5a3c043b8cd7",
+    "eng": "Abderrazza",
+    "fLE": "A",
+    "tel": "అబ్దేరేజా",
+    "fLTel": "అ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "88538b54-94d8-4580-b6c4-fc7cdfac3e26",
+    "eng": "Abdes shakur",
+    "fLE": "A",
+    "tel": "అబిడ్స్ షకుర్",
+    "fLTel": "అ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "c2818456-a727-419f-8715-9fdcd9d7dd8c",
+    "eng": "Abdhisayana",
+    "fLE": "A",
+    "tel": "అబ్ధిశయన",
+    "fLTel": "అ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "0f506b8b-a9e5-43da-8ee9-81800fafb241",
+    "eng": "Abdi",
+    "fLE": "A",
+    "tel": "లబ్ది",
+    "fLTel": "ల",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "9ca7b489-19ee-4845-93b2-fdf9b0e58575",
+    "eng": "Abdiel",
+    "fLE": "A",
+    "tel": "అబీడీఎల్",
+    "fLTel": "అ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "701b003f-2b6c-4a91-853b-df4bcbf7a549",
+    "eng": "abdiel",
+    "fLE": "a",
+    "tel": "అబీడీఎల్",
+    "fLTel": "అ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "8133b5a4-56cc-4dbd-b236-e125f7ce0a16",
+    "eng": "Abdieso",
+    "fLE": "A",
+    "tel": "అబ్దిఎస్లో",
+    "fLTel": "అ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "60e8d092-5be9-4697-93ae-0fa5e6453755",
+    "eng": "Abdiesus",
+    "fLE": "A",
+    "tel": "అబీడీఎస్యూస్",
+    "fLTel": "అ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "2ff63867-cae5-4220-bbb2-208c4fa725f5",
+    "eng": "Abdirahman",
+    "fLE": "A",
+    "tel": "అబ్దిరహ్మన్",
+    "fLTel": "అ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "61b99105-9815-42e7-80f4-1ce54773b2e5",
+    "eng": "abdirahman",
+    "fLE": "a",
+    "tel": "అబ్దిరహ్మన్",
+    "fLTel": "అ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "38b857f7-206c-4d2d-9978-a1d63ba234e7",
+    "eng": "Abdkhayr",
+    "fLE": "A",
+    "tel": "అబ్ద్ఖాయ్ర్",
+    "fLTel": "అ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "c9d779bb-6f5e-4b80-9c7d-76a8c2bf601b",
+    "eng": "Abdmanaf",
+    "fLE": "A",
+    "tel": "అబ్ద్మానాఫ్",
+    "fLTel": "అ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "52bbf8c1-7279-4eb9-bd8c-82895595dfd3",
+    "eng": "Abdo",
+    "fLE": "A",
+    "tel": "అబ్దో",
+    "fLTel": "అ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "dadd52d8-e699-411c-82e4-dd999ef68c0c",
+    "eng": "Abdolrahem",
+    "fLE": "A",
+    "tel": "అబ్డోల్రాహెం",
+    "fLTel": "అ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "dbb5d795-4135-49e7-b4c7-50613e7d3400",
+    "eng": "Abdou",
+    "fLE": "A",
+    "tel": "అబ్దోను",
+    "fLTel": "అ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "82e4faaf-d4dc-4f64-b4a1-05dc89b1db18",
+    "eng": "Abdoul",
+    "fLE": "A",
+    "tel": "అబ్డోఉల్",
+    "fLTel": "అ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "de87291e-d599-460a-9240-4f5e25cf5aef",
+    "eng": "Abdu",
+    "fLE": "A",
+    "tel": "అబ్దు",
+    "fLTel": "అ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "bc9c30a1-8979-4bda-b056-30991ab1327b",
+    "eng": "Abdual",
+    "fLE": "A",
+    "tel": "అబ్దుల్",
+    "fLTel": "అ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "99244ef7-b9fa-4463-80d0-209ef0487050",
+    "eng": "Abdualla",
+    "fLE": "A",
+    "tel": "అబ్దుల్ల్ల",
+    "fLTel": "అ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "2b570508-2988-4edd-92b2-f5cde6880a9f",
+    "eng": "Abdud Daar",
+    "fLE": "A",
+    "tel": "అబ్దుద్ దార్",
+    "fLTel": "అ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "508d85ec-6deb-4e72-baa2-540191f13810",
+    "eng": "Abdud daarr",
+    "fLE": "A",
+    "tel": "అబ్దుద్ దార్",
+    "fLTel": "అ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "98bded6d-5fcb-4677-8699-d3d564ad7f77",
+    "eng": "Abduddaar",
+    "fLE": "A",
+    "tel": "అబ్దుడ్డారు",
+    "fLTel": "అ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "f5702393-fba3-480d-af9d-97d7f4f9c71a",
+    "eng": "Abduh",
+    "fLE": "A",
+    "tel": "అబ్దుహ్",
+    "fLTel": "అ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "cb66507b-4bb8-44a9-a431-5ccc397ab170",
+    "eng": "Abduk",
+    "fLE": "A",
+    "tel": "అబ్దుక్",
+    "fLTel": "అ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "fd2a41da-bcc2-47de-8b23-d1ccd579a3a3",
+    "eng": "Abdukhdra",
+    "fLE": "A",
+    "tel": "అబ్దుక్డ్రా",
+    "fLTel": "అ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "7876af35-ea00-4e6c-a053-bf46606013a3",
+    "eng": "Abdukrahman",
+    "fLE": "A",
+    "tel": "అబ్దుక్రహ్మన్",
+    "fLTel": "అ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "12f91efe-1702-4815-b6b1-9bdfc1e6f836",
+    "eng": "abdukrahman",
+    "fLE": "a",
+    "tel": "అబ్దుక్రహ్మన్",
+    "fLTel": "అ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  }
+]

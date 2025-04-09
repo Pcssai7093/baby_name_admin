@@ -1,0 +1,782 @@
+[
+  {
+    "id": "9011c517-7e5f-415b-b47f-f1fdcbc260f4",
+    "eng": "Inzamam",
+    "fLE": "I",
+    "tel": "ఇంజమామ్",
+    "fLTel": "ఇ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "a053e947-e5fa-4fde-b6d8-aa3e44848425",
+    "eng": "ioane",
+    "fLE": "i",
+    "tel": "ఈయనే",
+    "fLTel": "ఈ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "e62fe556-be84-42c1-a089-f708d5bfa022",
+    "eng": "ioann",
+    "fLE": "i",
+    "tel": "యన్",
+    "fLTel": "య",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "04df12db-d581-403f-bb42-248d20794977",
+    "eng": "Ioannes",
+    "fLE": "I",
+    "tel": "యోన్స్",
+    "fLTel": "య",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "509844ea-8dd5-4c04-bd21-757fe4492221",
+    "eng": "ioannis",
+    "fLE": "i",
+    "tel": "యోగాన్నిస్",
+    "fLTel": "య",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "f9b52ca7-1f9a-47a9-a087-fa600c2d1253",
+    "eng": "Ioco",
+    "fLE": "I",
+    "tel": "ఐయోకో",
+    "fLTel": "ఐ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "5c49430d-baae-4bd3-a4c0-13897362df8e",
+    "eng": "Iocyn",
+    "fLE": "I",
+    "tel": "ఈసీన్",
+    "fLTel": "ఈ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "c7ed9a08-441e-4597-a186-63960dbc7eda",
+    "eng": "Iohannes",
+    "fLE": "I",
+    "tel": "యోహాన్నెస్",
+    "fLTel": "య",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "a6322277-ff32-483b-9208-01fdd3a3d625",
+    "eng": "iokepa",
+    "fLE": "i",
+    "tel": "ఇఒకేప",
+    "fLTel": "ఇ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "cbf26c8f-985b-4b01-8363-9b8ca7bb4d67",
+    "eng": "iokua",
+    "fLE": "i",
+    "tel": "యువకుల",
+    "fLTel": "య",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "fb11f00d-3948-480f-8227-c4360b575686",
+    "eng": "Ion",
+    "fLE": "I",
+    "tel": "ఇఒన్",
+    "fLTel": "ఇ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "145886ac-98f9-4dd4-b9d2-c30f87009ea7",
+    "eng": "Ionas",
+    "fLE": "I",
+    "tel": "యోనాస్",
+    "fLTel": "య",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "0bd4d11a-a837-4cf1-8328-37d317d103c7",
+    "eng": "Ionatan",
+    "fLE": "I",
+    "tel": "యన్తం",
+    "fLTel": "య",
+    "tags": [],
+    "gen": "male",
+    "rel": "others"
+  },
+  {
+    "id": "8205b443-af7d-4453-9e43-8c533ce25cfa",
+    "eng": "Ionel",
+    "fLE": "I",
+    "tel": "యోనెల్",
+    "fLTel": "య",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "b0eaffb2-f5c3-4ea0-98f3-7676a14ec7dc",
+    "eng": "Ionut",
+    "fLE": "I",
+    "tel": "యనుట",
+    "fLTel": "య",
+    "tags": [],
+    "gen": "male",
+    "rel": "others"
+  },
+  {
+    "id": "c4e0db1e-63f2-4b2d-940d-7256f7510a03",
+    "eng": "Iorama",
+    "fLE": "I",
+    "tel": "యరమ",
+    "fLTel": "య",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "7f4253e5-a531-48c2-ae96-95365b44954c",
+    "eng": "Iordan",
+    "fLE": "I",
+    "tel": "యర్దన్",
+    "fLTel": "య",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "82249bc9-0dd9-494a-b44f-495d65656bf7",
+    "eng": "Iordanus",
+    "fLE": "I",
+    "tel": "యర్దన్స్",
+    "fLTel": "య",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "c67370fe-38f7-4f41-b516-a0f438b218f1",
+    "eng": "Iorghu",
+    "fLE": "I",
+    "tel": "ఇవర్గు",
+    "fLTel": "ఇ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "52156c07-5aa9-472a-9ad9-dd0ae2d2d3ef",
+    "eng": "Ioruert",
+    "fLE": "I",
+    "tel": "ఇరుర్ట్",
+    "fLTel": "ఇ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "d4ab4bcd-e028-4328-87e9-83b48a96482a",
+    "eng": "Ioseb",
+    "fLE": "I",
+    "tel": "ఐఓసీబీ",
+    "fLTel": "ఐ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "cb1bf5f1-4278-4424-be11-8b2dad473a10",
+    "eng": "Ioseph",
+    "fLE": "I",
+    "tel": "యోసెఫ్",
+    "fLTel": "య",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "21958af1-de72-4398-a1b0-1ec1aa5f3848",
+    "eng": "Iosif",
+    "fLE": "I",
+    "tel": "ఐఒసిఫ్",
+    "fLTel": "ఐ",
+    "tags": [],
+    "gen": "male",
+    "rel": "others"
+  },
+  {
+    "id": "960dad84-5137-4e48-a6c5-05971602e487",
+    "eng": "iosif",
+    "fLE": "i",
+    "tel": "ఐఒసిఫ్",
+    "fLTel": "ఐ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "8225c270-18de-4659-9c84-4be809eb2e45",
+    "eng": "Iosua",
+    "fLE": "I",
+    "tel": "యసుపై",
+    "fLTel": "య",
+    "tags": [],
+    "gen": "male",
+    "rel": "others"
+  },
+  {
+    "id": "b0de354e-e0d8-45cc-8b5d-68463033d5fb",
+    "eng": "Iotama",
+    "fLE": "I",
+    "tel": "ఇఓటమా",
+    "fLTel": "ఇ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "814d9cba-f08e-4900-94f5-87244814dc35",
+    "eng": "Iouanaul",
+    "fLE": "I",
+    "tel": "ఇఔఅనౌల్",
+    "fLTel": "ఇ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "0bd130a3-262e-4472-b657-780b6b8ac9f2",
+    "eng": "Iovenali",
+    "fLE": "I",
+    "tel": "యువనాలి",
+    "fLTel": "య",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "003839b8-5bb3-4949-9e7a-e34b783a5ef5",
+    "eng": "ioviano",
+    "fLE": "i",
+    "tel": "యవీయానో",
+    "fLTel": "య",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "ed0e28e5-cb0c-442c-ab48-bfd79da6bcdf",
+    "eng": "Ipa",
+    "fLE": "I",
+    "tel": "ఇప",
+    "fLTel": "ఇ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "60d8d317-c2bc-49d6-90dd-016ff54f92e8",
+    "eng": "Ipela",
+    "fLE": "I",
+    "tel": "ఐపీల",
+    "fLTel": "ఐ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "1cacbdaf-c019-4078-99b6-67d550d51fe1",
+    "eng": "Ipil",
+    "fLE": "I",
+    "tel": "ఐపిల్",
+    "fLTel": "ఐ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "85448de1-6370-4a20-9971-c2936bcbbd9d",
+    "eng": "Ippa",
+    "fLE": "I",
+    "tel": "ఇప్ప",
+    "fLTel": "ఇ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "7fac4c75-20b9-45f2-bd11-6bbf39b90001",
+    "eng": "Ipsit",
+    "fLE": "I",
+    "tel": "ఇప్సిట్",
+    "fLTel": "ఇ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "fa48ff78-176d-45de-b830-c310c11258b3",
+    "eng": "Iraaivan",
+    "fLE": "I",
+    "tel": "ఇఱైవన్",
+    "fLTel": "ఇ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "ff08d71f-db9d-467e-a92a-857d77470f4e",
+    "eng": "Iraavanan",
+    "fLE": "I",
+    "tel": "ఐరావణాం",
+    "fLTel": "ఐ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "083b3216-14a0-4b95-86f3-8ac21537ab19",
+    "eng": "Iraianbu",
+    "fLE": "I",
+    "tel": "ఇఱైఅంబు",
+    "fLTel": "ఇ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "a7ebe2a0-9a08-48b4-88c9-01d2bfca8199",
+    "eng": "Iraivan",
+    "fLE": "I",
+    "tel": "ఇరైవన్",
+    "fLTel": "ఇ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "3e792a10-e16a-4e85-a611-0301de55639b",
+    "eng": "Iraiyan",
+    "fLE": "I",
+    "tel": "ఇఱైయన్",
+    "fLTel": "ఇ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "1b61fb2b-d72f-4912-b415-bcbc94b4157d",
+    "eng": "Iraiyannal",
+    "fLE": "I",
+    "tel": "ఇఱైయన్నల్",
+    "fLTel": "ఇ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "d46f3f5b-2063-41eb-a3d5-9cb012dce0a2",
+    "eng": "Iraiyavan",
+    "fLE": "I",
+    "tel": "ఇఱైయవం",
+    "fLTel": "ఇ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "4ace231a-3882-4e1e-a643-9edcc6541706",
+    "eng": "Irama",
+    "fLE": "I",
+    "tel": "ఇరమ",
+    "fLTel": "ఇ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "ab480e9c-4046-4197-928a-9643d5c26a3f",
+    "eng": "Irana",
+    "fLE": "I",
+    "tel": "ఇరాన్",
+    "fLTel": "ఇ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "0be6e5ea-b398-43b9-9b40-a7114ed95aad",
+    "eng": "Iranola",
+    "fLE": "I",
+    "tel": "ఇరానాల",
+    "fLTel": "ఇ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "68f5a07b-6c40-4f9e-bb00-f92b69351b4a",
+    "eng": "Irao",
+    "fLE": "I",
+    "tel": "ఇరవు",
+    "fLTel": "ఇ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "56c08c27-24a0-414f-9be1-3cca5771a61e",
+    "eng": "Iravad",
+    "fLE": "I",
+    "tel": "ఇరవడి",
+    "fLTel": "ఇ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "ba9eec2f-05ee-44c3-87ef-40e1d2395d9c",
+    "eng": "Iravaj",
+    "fLE": "I",
+    "tel": "ఇరవజ్",
+    "fLTel": "ఇ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "f3990d35-3950-4d95-b087-394a64c64354",
+    "eng": "Iravan",
+    "fLE": "I",
+    "tel": "ఇరావం",
+    "fLTel": "ఇ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "73dd048e-482a-4a11-8cbb-aecbe5650fc3",
+    "eng": "Iravat",
+    "fLE": "I",
+    "tel": "ఐరావత్",
+    "fLTel": "ఐ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "e469bc11-daad-4ff1-ad4d-c9ad67eb189f",
+    "eng": "Iraveta",
+    "fLE": "I",
+    "tel": "ఇరవేత",
+    "fLTel": "ఇ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "c39e427c-fdc7-42a7-ba9a-20443061952d",
+    "eng": "Irawat",
+    "fLE": "I",
+    "tel": "ఇటావా",
+    "fLTel": "ఇ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "8d29d43f-9d62-4e7c-b2a5-44365af9f0e2",
+    "eng": "irenaeus",
+    "fLE": "i",
+    "tel": "ఐరెనేస్",
+    "fLTel": "ఐ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "a443a5e6-54af-4c23-b67f-76f3497fe63f",
+    "eng": "Ireneusz",
+    "fLE": "I",
+    "tel": "ఐరెనేస్స్",
+    "fLTel": "ఐ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "d13ab79a-9c21-419e-a4be-f2c1dfa46877",
+    "eng": "Irenpreet",
+    "fLE": "I",
+    "tel": "ఐరేన్ప్రీత్",
+    "fLTel": "ఐ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "f0e59385-4f38-4545-be22-1ad510102307",
+    "eng": "Iresh",
+    "fLE": "I",
+    "tel": "ఐరిష్",
+    "fLTel": "ఐ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "e54ef91c-cb96-472d-804c-2005fad8fbb8",
+    "eng": "Irfaan",
+    "fLE": "I",
+    "tel": "ఇర్ఫాన్",
+    "fLTel": "ఇ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "07b73b59-ceff-4788-9519-97b0d27a073c",
+    "eng": "Irfan",
+    "fLE": "I",
+    "tel": "ఇర్ఫాన్",
+    "fLTel": "ఇ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "650e8a94-8aa9-4fc8-93f9-7aa10029c6de",
+    "eng": "Irhsad",
+    "fLE": "I",
+    "tel": "ఇరఃసాద్",
+    "fLTel": "ఇ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "7a3c6b8a-4c62-42fe-8d8f-eb5854062100",
+    "eng": "Iri",
+    "fLE": "I",
+    "tel": "ఇరి",
+    "fLTel": "ఇ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "34134a8b-fa77-49b0-a780-4991b1082e87",
+    "eng": "Irin",
+    "fLE": "I",
+    "tel": "ఐరన్",
+    "fLTel": "ఐ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "2cab43f6-5ca2-4895-943a-83f04f4c1ab3",
+    "eng": "Irish",
+    "fLE": "I",
+    "tel": "ఐరిష్",
+    "fLTel": "ఐ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "9a70aacf-9a24-412a-ab1d-283c42b6be5d",
+    "eng": "Irith",
+    "fLE": "I",
+    "tel": "ఇరిత్",
+    "fLTel": "ఇ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "6e3e5c97-a4bf-433b-906f-fa044efa9e76",
+    "eng": "Irmaa",
+    "fLE": "I",
+    "tel": "ఇర్మా",
+    "fLTel": "ఇ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "529fe999-3c6d-42ff-93a2-574ceb3005da",
+    "eng": "Irmand",
+    "fLE": "I",
+    "tel": "ఇర్మాండ్",
+    "fLTel": "ఇ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "c48b4c7e-a0d1-4009-bb6a-70743db2aed6",
+    "eng": "Irmas",
+    "fLE": "I",
+    "tel": "ఇర్మాస్",
+    "fLTel": "ఇ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "bc4371e1-2855-4724-bd59-d129ab52762a",
+    "eng": "Irminric",
+    "fLE": "I",
+    "tel": "ఇర్మింరిక్",
+    "fLTel": "ఇ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "eabc06ba-b877-4c74-a3a8-21d92028aa7e",
+    "eng": "Ironside",
+    "fLE": "I",
+    "tel": "ఇరోన్సిదే",
+    "fLTel": "ఇ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "3b7a0f18-9962-490f-945e-45336c154dbe",
+    "eng": "Irshaad",
+    "fLE": "I",
+    "tel": "ఇర్షాద్",
+    "fLTel": "ఇ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "54c4ec0a-801f-4b0d-a6d3-a7d10bc961a4",
+    "eng": "Irshad",
+    "fLE": "I",
+    "tel": "ఇర్షాద్",
+    "fLTel": "ఇ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "7faa5d41-94d1-452f-8fc6-268838ca71fd",
+    "eng": "Irtiza Husain",
+    "fLE": "I",
+    "tel": "ఇర్తిజా హుసైన్",
+    "fLTel": "ఇ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "75c9e7df-ed51-4423-9be7-6ff84f558938",
+    "eng": "Irudayarasan",
+    "fLE": "I",
+    "tel": "ఇరుదయరసం",
+    "fLTel": "ఇ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "5f6a5be4-242c-4766-9b55-7bb2392114e9",
+    "eng": "Irumporai",
+    "fLE": "I",
+    "tel": "ఇరుమ్పోరై",
+    "fLTel": "ఇ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "f33cd8cb-b622-49a8-aa9c-55f224c8fb09",
+    "eng": "Irumudi",
+    "fLE": "I",
+    "tel": "ఇరుముడి",
+    "fLTel": "ఇ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "6de0198b-eb0e-4575-88ff-423e0305b544",
+    "eng": "Irven",
+    "fLE": "I",
+    "tel": "ఇర్వేం",
+    "fLTel": "ఇ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "2cc6288a-8a36-4ee6-8837-188d9cbd0f32",
+    "eng": "irvin",
+    "fLE": "i",
+    "tel": "ఇర్విన్",
+    "fLTel": "ఇ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "e49d8ab0-f4ad-4bac-adc6-0b806df2a8a0",
+    "eng": "Irvin",
+    "fLE": "I",
+    "tel": "ఇర్విన్",
+    "fLTel": "ఇ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "4e30ee93-4dad-4f03-852c-b740796b9fd3",
+    "eng": "irvine",
+    "fLE": "i",
+    "tel": "ఇర్విన్",
+    "fLTel": "ఇ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "92fb808f-897c-4668-b192-69c59a90e236",
+    "eng": "Irvine",
+    "fLE": "I",
+    "tel": "ఇర్విన్",
+    "fLTel": "ఇ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  }
+]

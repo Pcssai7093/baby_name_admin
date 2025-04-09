@@ -1,0 +1,782 @@
+[
+  {
+    "id": "73cbd8a3-95d9-465a-bfb1-2bc3073df37b",
+    "eng": "Chandrangshu",
+    "fLE": "C",
+    "tel": "చంద్రన్గ్షు",
+    "fLTel": "చ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "2b6c0093-04d5-4fe2-84ab-8669709c4208",
+    "eng": "Chandranshu",
+    "fLE": "C",
+    "tel": "చంద్రాంశు",
+    "fLTel": "చ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "4d50a978-543f-4c39-ae65-f937953363a2",
+    "eng": "Chandrapal",
+    "fLE": "C",
+    "tel": "చంద్రపాల్",
+    "fLTel": "చ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "eb13c1d7-ed5c-4d49-afb0-cb6f2df8746d",
+    "eng": "Chandrapol",
+    "fLE": "C",
+    "tel": "చండ్రపోల్",
+    "fLTel": "చ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "e9e6200b-0fca-4888-a285-3fee65fcb565",
+    "eng": "Chandraprabhu",
+    "fLE": "C",
+    "tel": "చంద్రప్రభు",
+    "fLTel": "చ",
+    "tags": [],
+    "gen": "male",
+    "rel": "others"
+  },
+  {
+    "id": "9009d2a4-80be-44a3-a81b-5ec31007b1bf",
+    "eng": "Chandraprakaash",
+    "fLE": "C",
+    "tel": "చంద్రప్రకాష్",
+    "fLTel": "చ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "093cbebe-cec0-430a-aa36-ba74d9921da4",
+    "eng": "Chandraprakash",
+    "fLE": "C",
+    "tel": "చంద్రప్రకాష్",
+    "fLTel": "చ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "c958766f-0f0b-42ef-beee-39bef249dccd",
+    "eng": "Chandraraj",
+    "fLE": "C",
+    "tel": "చండ్రరాజే",
+    "fLTel": "చ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "1b23270c-1dbb-44b7-af8d-0d1e459bb0d5",
+    "eng": "Chandrasen",
+    "fLE": "C",
+    "tel": "చంద్రసేన్",
+    "fLTel": "చ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "11c73107-5a30-4f89-9dd5-b3473453a00f",
+    "eng": "Chandrashekar",
+    "fLE": "C",
+    "tel": "చంద్రశేఖర్",
+    "fLTel": "చ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "d6fceb09-fd46-4805-90f2-530ce4edb492",
+    "eng": "Chandrashekara",
+    "fLE": "C",
+    "tel": "చంద్రశేఖర",
+    "fLTel": "చ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "c466c5ed-8231-43c3-a5bd-1d39939861f5",
+    "eng": "Chandrashekhar",
+    "fLE": "C",
+    "tel": "చంద్రశేఖర్",
+    "fLTel": "చ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "ffa816be-34f3-470c-acf0-20829e850d47",
+    "eng": "Chandratej",
+    "fLE": "C",
+    "tel": "చంద్రతేజ్",
+    "fLTel": "చ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "40c6c882-beab-4141-b2af-908303c3a05e",
+    "eng": "Chandratha",
+    "fLE": "C",
+    "tel": "చంద్రతా",
+    "fLTel": "చ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "6044c9c9-3603-4cf8-98b1-5521dd0d738d",
+    "eng": "Chandravadan",
+    "fLE": "C",
+    "tel": "చంద్రవదన్",
+    "fLTel": "చ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "9d75e1ee-792b-48dd-aca3-c1163c320900",
+    "eng": "Chandravardhan",
+    "fLE": "C",
+    "tel": "చంద్రవర్దన్",
+    "fLTel": "చ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "a669588b-eb9e-44eb-ac26-4e73c45c8e30",
+    "eng": "Chandrayaan",
+    "fLE": "C",
+    "tel": "చంద్రయాన్",
+    "fLTel": "చ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "5a8f76f2-8057-458c-b2d5-4f7c0bf02dca",
+    "eng": "Chandrayan",
+    "fLE": "C",
+    "tel": "చంద్రయాన్",
+    "fLTel": "చ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "f3a9d04b-bd5e-42cb-bea8-5a0ac69fb017",
+    "eng": "Chandresh",
+    "fLE": "C",
+    "tel": "చంద్రేశ్",
+    "fLTel": "చ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "95585369-63bc-48d7-8814-ca19fd5ab87e",
+    "eng": "Chandreshwar",
+    "fLE": "C",
+    "tel": "చంద్రేశ్వర్",
+    "fLTel": "చ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "054ef935-b715-4fc3-8176-f70e538999d0",
+    "eng": "Chandreswar",
+    "fLE": "C",
+    "tel": "చంద్రేశ్వర్",
+    "fLTel": "చ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "d88dac3e-09dd-497e-9070-0be4159157c5",
+    "eng": "Chandrim",
+    "fLE": "C",
+    "tel": "చంద్రమ్",
+    "fLTel": "చ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "d8217894-da07-474f-96c7-28311f777398",
+    "eng": "Chandrodaya",
+    "fLE": "C",
+    "tel": "చంద్రోదయ",
+    "fLTel": "చ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "f1ef8096-aabf-482e-baac-efafdd1d7b60",
+    "eng": "Chandrollas",
+    "fLE": "C",
+    "tel": "చన్ద్రోల్లస్",
+    "fLTel": "చ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "1ccc4df2-5ffe-4605-9bd5-d8167d371c19",
+    "eng": "Chandrpeed",
+    "fLE": "C",
+    "tel": "చంద్రపీడీ",
+    "fLTel": "చ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "cdf55156-8aaa-4b84-93f4-c115f5ae7582",
+    "eng": "Chandru",
+    "fLE": "C",
+    "tel": "చంద్రు",
+    "fLTel": "చ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "ca13879d-3466-4a20-bfe0-cf730cfee6f7",
+    "eng": "Chandu",
+    "fLE": "C",
+    "tel": "చందు",
+    "fLTel": "చ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "37d429b4-7938-47dc-bec5-9027421f0dcb",
+    "eng": "Chandulal",
+    "fLE": "C",
+    "tel": "చందూలాల్",
+    "fLTel": "చ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "e5ca658b-87c0-4874-abe6-7577c67509d8",
+    "eng": "Chane",
+    "fLE": "C",
+    "tel": "చానె",
+    "fLTel": "చ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "adfbfcf5-beba-4c55-8ca0-22a90522cae7",
+    "eng": "Chaney",
+    "fLE": "C",
+    "tel": "చానెయ్",
+    "fLTel": "చ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "42d0309d-e48a-492f-a925-4f7aa73c064a",
+    "eng": "Chang",
+    "fLE": "C",
+    "tel": "చాంగ్",
+    "fLTel": "చ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "266dcc29-426b-4338-94a0-5773f12b7243",
+    "eng": "Changaz",
+    "fLE": "C",
+    "tel": "చంగజ్",
+    "fLTel": "చ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "15b3f1be-14d1-4166-a9fc-e1182277d023",
+    "eng": "Change",
+    "fLE": "C",
+    "tel": "చేంజ్",
+    "fLTel": "చ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "7c4f3224-c779-47ba-9a06-85282b72a0c5",
+    "eng": "Changeez",
+    "fLE": "C",
+    "tel": "ఛాంగీజ్",
+    "fLTel": "ఛ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "0c778e7f-dd19-44f9-876d-2d7722f0e921",
+    "eng": "chaniel",
+    "fLE": "c",
+    "tel": "చనియెల్",
+    "fLTel": "చ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "42065d84-47cf-4dfe-8b3f-3c671534fd14",
+    "eng": "Chanky",
+    "fLE": "C",
+    "tel": "చాణక్య",
+    "fLTel": "చ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "b0cea033-31e9-4546-8b7e-44173515e9c7",
+    "eng": "Chankya",
+    "fLE": "C",
+    "tel": "చాణక్య",
+    "fLTel": "చ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "6f5e7a71-c304-430f-bf76-3affcd5d71b0",
+    "eng": "Chanlan",
+    "fLE": "C",
+    "tel": "ఛాలం",
+    "fLTel": "ఛ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "e2568935-ffab-4163-9984-e1e6eeb2a8e0",
+    "eng": "Channappa",
+    "fLE": "C",
+    "tel": "చెన్నప్ప",
+    "fLTel": "చ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "e90e9380-1b65-46a4-8ccd-24d28f6abe33",
+    "eng": "Channarong",
+    "fLE": "C",
+    "tel": "చన్నరోన్గ్",
+    "fLTel": "చ",
+    "tags": [],
+    "gen": "male",
+    "rel": "others"
+  },
+  {
+    "id": "7c431969-7cc8-444b-b6df-dca26ae69253",
+    "eng": "Channe",
+    "fLE": "C",
+    "tel": "చాన్నే",
+    "fLTel": "చ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "b9936f06-1e08-444b-8ea5-9da1e4cb9137",
+    "eng": "Channing",
+    "fLE": "C",
+    "tel": "చానింగ్",
+    "fLTel": "చ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "550548a6-9cdd-47eb-b655-0561597727e5",
+    "eng": "Channon",
+    "fLE": "C",
+    "tel": "ఛన్నోన్",
+    "fLTel": "ఛ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "3c6356c9-06f6-4aaa-a714-9ce5977a453a",
+    "eng": "Chano",
+    "fLE": "C",
+    "tel": "చానో",
+    "fLTel": "చ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "4d0084ef-c990-4060-8081-60aac9535965",
+    "eng": "Chanoch",
+    "fLE": "C",
+    "tel": "చనోచ్",
+    "fLTel": "చ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "b5d15558-2bed-4e32-a95c-faae9a6ad85f",
+    "eng": "Chanpreet",
+    "fLE": "C",
+    "tel": "చన్ప్రీత్",
+    "fLTel": "చ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Sikh"
+  },
+  {
+    "id": "c0afa125-e292-4e0e-a3bb-35758c629e80",
+    "eng": "Chanse",
+    "fLE": "C",
+    "tel": "ఛాన్స్",
+    "fLTel": "ఛ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "8eeb5066-43c5-448c-86c1-522f80960f23",
+    "eng": "Chant",
+    "fLE": "C",
+    "tel": "ఛణ్త్",
+    "fLTel": "ఛ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "eb135860-c1fc-4b95-9237-1f2687bef908",
+    "eng": "Chanti",
+    "fLE": "C",
+    "tel": "చంటి",
+    "fLTel": "చ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "6343e48b-fa8d-4711-82b1-32b812a8b0d4",
+    "eng": "Chanyana",
+    "fLE": "C",
+    "tel": "ఛాయాన",
+    "fLTel": "ఛ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "a9b88a72-e7ec-4ac3-978a-3ee0785d9057",
+    "eng": "Chap",
+    "fLE": "C",
+    "tel": "చాప్",
+    "fLTel": "చ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "d6c13205-f5ea-4cfe-92d0-2bcfb118de4e",
+    "eng": "Chapal",
+    "fLE": "C",
+    "tel": "చాపెల్",
+    "fLTel": "చ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "214fe4d5-694a-43e1-a1a2-1593e6770d8d",
+    "eng": "Chapalabikas",
+    "fLE": "C",
+    "tel": "చాపలాబికాస్",
+    "fLTel": "చ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "5c7df40a-d49b-43ad-888b-9a52f0471860",
+    "eng": "Chapelle",
+    "fLE": "C",
+    "tel": "చాపెల్లె",
+    "fLTel": "చ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "e826d97a-dcf0-473b-abed-1d24bfaefbf4",
+    "eng": "Chaperel",
+    "fLE": "C",
+    "tel": "చాపేరెల్",
+    "fLTel": "చ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "90e665aa-167f-4ebc-83e0-fc29695f9ca6",
+    "eng": "Chaplin",
+    "fLE": "C",
+    "tel": "చాప్లిన్",
+    "fLTel": "చ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "28f37aab-7fa7-4530-9ed6-9fd3af901706",
+    "eng": "Chapman",
+    "fLE": "C",
+    "tel": "చాప్మన్",
+    "fLTel": "చ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "3bf135cb-8142-4345-a2ef-c794e1192498",
+    "eng": "Chapolacharan",
+    "fLE": "C",
+    "tel": "చాపాలాచారం",
+    "fLTel": "చ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "7343f301-9d25-4a47-ac95-e2c9c817189e",
+    "eng": "Chappy",
+    "fLE": "C",
+    "tel": "చాపపై",
+    "fLTel": "చ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "6120570a-4682-4a0a-a73d-eba634a8e587",
+    "eng": "Charagh",
+    "fLE": "C",
+    "tel": "చిరాగ్",
+    "fLTel": "చ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "841f14c8-ee14-4be7-8ebe-5f22a29daff4",
+    "eng": "Charak",
+    "fLE": "C",
+    "tel": "చరక",
+    "fLTel": "చ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "c144bf74-4597-4a1d-90db-c932f7db0ec8",
+    "eng": "charaka",
+    "fLE": "c",
+    "tel": "చరక",
+    "fLTel": "చ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "4c39cfd0-c4c4-41cb-aad1-9ba1f218707f",
+    "eng": "Charalambos",
+    "fLE": "C",
+    "tel": "చారాలంబా",
+    "fLTel": "చ",
+    "tags": [],
+    "gen": "male",
+    "rel": "others"
+  },
+  {
+    "id": "7a616ca6-7509-42b2-add0-e2065d998c13",
+    "eng": "Charan",
+    "fLE": "C",
+    "tel": "చరణ్",
+    "fLTel": "చ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "067c99b4-a7d1-4612-9677-b74b1199eaf3",
+    "eng": "Charan Raj",
+    "fLE": "C",
+    "tel": "చరణ్ రాజ్",
+    "fLTel": "చ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "0f42b433-a1af-413d-be4f-f91f340419fb",
+    "eng": "Charanam",
+    "fLE": "C",
+    "tel": "చరణం",
+    "fLTel": "చ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "82a329bb-3b40-4364-a70e-371d2f0b5dac",
+    "eng": "Charanbir",
+    "fLE": "C",
+    "tel": "చరాంబీర్",
+    "fLTel": "చ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "a48e1970-6870-4aed-a0f4-756670edbe3a",
+    "eng": "Charandas",
+    "fLE": "C",
+    "tel": "చరాందాస్",
+    "fLTel": "చ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "f8874202-f051-4030-9f18-0afccb975992",
+    "eng": "Charandayal",
+    "fLE": "C",
+    "tel": "చరందయాళ్",
+    "fLTel": "చ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "58328c48-0d1e-4cc1-917c-d5a82b50401c",
+    "eng": "Charandev",
+    "fLE": "C",
+    "tel": "చరాందేవ్",
+    "fLTel": "చ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "a512747e-b37b-4762-9734-6637c7c5abfd",
+    "eng": "Charanjit",
+    "fLE": "C",
+    "tel": "చిరంజీత్",
+    "fLTel": "చ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "be3bfbf8-59a7-4054-8142-93281fb28183",
+    "eng": "Charanjiv",
+    "fLE": "C",
+    "tel": "చిరంజీవ",
+    "fLTel": "చ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Sikh"
+  },
+  {
+    "id": "44e63b73-12ec-4802-a48c-6b5f3c1ad49b",
+    "eng": "Charanjot",
+    "fLE": "C",
+    "tel": "చరంజోత్",
+    "fLTel": "చ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Sikh"
+  },
+  {
+    "id": "ee13b071-338d-43d4-8b03-1bb554b0dd6b",
+    "eng": "Charanjyot",
+    "fLE": "C",
+    "tel": "చరంజ్యోత్",
+    "fLTel": "చ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Sikh"
+  },
+  {
+    "id": "e04093b4-a6d6-49c9-92c7-1c163d9f1157",
+    "eng": "Charankanwal",
+    "fLE": "C",
+    "tel": "చరాంకాన్వాల్",
+    "fLTel": "చ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Sikh"
+  },
+  {
+    "id": "beab828c-cdaa-481d-a3ce-6066e1318307",
+    "eng": "Charankawal",
+    "fLE": "C",
+    "tel": "చరాంకావాల్",
+    "fLTel": "చ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Sikh"
+  },
+  {
+    "id": "87507385-2e2b-42e1-9c6f-8e3a0ed3c971",
+    "eng": "Charanleen",
+    "fLE": "C",
+    "tel": "చరాంలీన్",
+    "fLTel": "చ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "5e1fa756-f54a-4e13-879e-d50413d0a9b2",
+    "eng": "Charanprem",
+    "fLE": "C",
+    "tel": "చరణ్ప్రేమ్",
+    "fLTel": "చ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Sikh"
+  }
+]

@@ -1,0 +1,932 @@
+[
+  {
+    "id": "73f59acd-69d3-4ca1-b71a-8911f66f2336",
+    "eng": "Maezie",
+    "fLE": "M",
+    "tel": "మేజిఎ",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "female",
+    "rel": "others"
+  },
+  {
+    "id": "4aabbe11-57f4-4296-8396-15b697772956",
+    "eng": "Mafalda",
+    "fLE": "M",
+    "tel": "మఫలదా",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "female",
+    "rel": "others"
+  },
+  {
+    "id": "c91ef349-67cc-474f-b212-6e6a72a7af17",
+    "eng": "mafalda",
+    "fLE": "m",
+    "tel": "మఫలదా",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "f77477de-0cea-499a-b085-505b402b2adb",
+    "eng": "Mafaz",
+    "fLE": "M",
+    "tel": "మాఫేజ్",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Muslim"
+  },
+  {
+    "id": "978771fc-5fe5-46e1-9422-ff85807b96ad",
+    "eng": "Mag",
+    "fLE": "M",
+    "tel": "మాగ్",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "female",
+    "rel": "others"
+  },
+  {
+    "id": "72eca50f-9ca4-4c62-8473-1d72bcca03c9",
+    "eng": "Magadhi",
+    "fLE": "M",
+    "tel": "మాగధి",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "3f9c222e-4016-41a0-a37e-b08899aeea68",
+    "eng": "magaidh",
+    "fLE": "m",
+    "tel": "మగైద్",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "fb025ff0-916b-49b8-ba73-f3abeab99ad3",
+    "eng": "Magali",
+    "fLE": "M",
+    "tel": "మంగలి",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Muslim"
+  },
+  {
+    "id": "7a45b918-43e8-4726-90f8-18306614221e",
+    "eng": "Magalie",
+    "fLE": "M",
+    "tel": "మగలై",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "female",
+    "rel": "others"
+  },
+  {
+    "id": "8d672de6-238f-4942-89db-d5b54ada995d",
+    "eng": "magalie",
+    "fLE": "m",
+    "tel": "మగలై",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "8d330909-d9ed-4f99-8462-f2d665eb8ee3",
+    "eng": "Magaly",
+    "fLE": "M",
+    "tel": "మాంగళ్య",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "female",
+    "rel": "others"
+  },
+  {
+    "id": "ea8c8e2d-a9bc-4432-b7df-318c00998337",
+    "eng": "Magana",
+    "fLE": "M",
+    "tel": "మగానా",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "62d4d5c0-e1d3-45bc-b62d-eeea6a605f5d",
+    "eng": "Maganhildi",
+    "fLE": "M",
+    "tel": "మగణ్హిల్ది",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "03052e81-d216-4a75-abd3-3b133eed0a8b",
+    "eng": "Magaska",
+    "fLE": "M",
+    "tel": "మగాస్క",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "be431909-3dea-4dc4-a014-d2f83d934926",
+    "eng": "Magathi",
+    "fLE": "M",
+    "tel": "మగతి",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "8e057f5e-bc5c-449e-bd5f-e03d9f8ec5c4",
+    "eng": "Magathy",
+    "fLE": "M",
+    "tel": "మాగతే",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "2d960bcc-db39-4722-821f-1f02a5e76725",
+    "eng": "Magd",
+    "fLE": "M",
+    "tel": "మజీద్",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "3964773c-f83e-4417-b101-999c72b4b1cd",
+    "eng": "Magda",
+    "fLE": "M",
+    "tel": "మగడా",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "female",
+    "rel": "others"
+  },
+  {
+    "id": "eee14492-6361-49da-9115-7abcf8799d46",
+    "eng": "magda",
+    "fLE": "m",
+    "tel": "మగడా",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "e512ae21-2f33-4594-9cb1-01da1941136f",
+    "eng": "Magdala",
+    "fLE": "M",
+    "tel": "మాగ్దలా",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "female",
+    "rel": "others"
+  },
+  {
+    "id": "48285b0c-6bd7-4314-953a-2d8ab16926dd",
+    "eng": "magdala",
+    "fLE": "m",
+    "tel": "మాగ్దలా",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "6072daef-5c4a-44e8-a2ba-bcee01819f51",
+    "eng": "Magdalen",
+    "fLE": "M",
+    "tel": "మగ్దలేన్",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "female",
+    "rel": "others"
+  },
+  {
+    "id": "9edda0a0-2901-4f57-b793-db78ccb4b711",
+    "eng": "magdalen",
+    "fLE": "m",
+    "tel": "మగ్దలేన్",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "7150c34b-aca5-472e-a36c-bbe43e24a6a6",
+    "eng": "Magdalene",
+    "fLE": "M",
+    "tel": "మాగ్డలీన్",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "female",
+    "rel": "others"
+  },
+  {
+    "id": "9ff07284-bd7c-4db1-bd4e-d78372a23efd",
+    "eng": "magdalene",
+    "fLE": "m",
+    "tel": "మాగ్డలీన్",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "f70a7f1f-d732-4d89-aae1-891ef3da5546",
+    "eng": "magdalia",
+    "fLE": "m",
+    "tel": "మగ్దలీనా",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "f5494b74-fdf9-4076-b4ad-3f5453e4665b",
+    "eng": "Magdalina",
+    "fLE": "M",
+    "tel": "మగ్దలీనా",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "female",
+    "rel": "others"
+  },
+  {
+    "id": "143d87df-823b-48c1-a457-8102f97915c6",
+    "eng": "Magdalini",
+    "fLE": "M",
+    "tel": "మగ్దలీని",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "female",
+    "rel": "others"
+  },
+  {
+    "id": "1459610a-e8ca-4801-91c2-f63bc9d236ae",
+    "eng": "Magdalone",
+    "fLE": "M",
+    "tel": "మాగ్డలోనే",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "female",
+    "rel": "others"
+  },
+  {
+    "id": "0a40ec27-5354-4d9e-a258-a7ca085ae17a",
+    "eng": "magdalone",
+    "fLE": "m",
+    "tel": "మాగ్డలోనే",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "13890c6e-0ac8-4066-a862-0bae100f830a",
+    "eng": "Magdalyn",
+    "fLE": "M",
+    "tel": "మగ్దలీనా",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "female",
+    "rel": "others"
+  },
+  {
+    "id": "cf575340-ce4e-4fdb-bfab-17904daceefb",
+    "eng": "Magdeline",
+    "fLE": "M",
+    "tel": "మఙ్గదేలై",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "female",
+    "rel": "others"
+  },
+  {
+    "id": "7de5518d-8824-4b11-ad59-bc16755b376e",
+    "eng": "Magdira",
+    "fLE": "M",
+    "tel": "మగధీర",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "2269b87f-74db-43c6-8b54-90c55a9e77cd",
+    "eng": "Magdolna",
+    "fLE": "M",
+    "tel": "మఙ్గదోళన",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "female",
+    "rel": "others"
+  },
+  {
+    "id": "16ceeb3b-f45b-48b0-9dda-f585654889e9",
+    "eng": "magdolna",
+    "fLE": "m",
+    "tel": "మఙ్గదోళన",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "2a7bef9e-1a41-47d9-bf2e-6440ee29f75f",
+    "eng": "Magenta",
+    "fLE": "M",
+    "tel": "మేజెంటా",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "female",
+    "rel": "others"
+  },
+  {
+    "id": "e8a530e0-5001-4575-906f-4841625bab11",
+    "eng": "magenta",
+    "fLE": "m",
+    "tel": "మేజెంటా",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "e24c5de6-ed9d-4884-bc86-6534862050c5",
+    "eng": "Mageshwari",
+    "fLE": "M",
+    "tel": "మాగేశ్వరి",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "1ef7a40a-0e3f-4a8d-87e4-7750c6bc212f",
+    "eng": "Magg",
+    "fLE": "M",
+    "tel": "మగ్",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "female",
+    "rel": "others"
+  },
+  {
+    "id": "be257084-fd69-4ba5-8992-93247e423142",
+    "eng": "Magga",
+    "fLE": "M",
+    "tel": "మగ్గా",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "female",
+    "rel": "others"
+  },
+  {
+    "id": "746f43cf-5bb3-4aa9-8650-9ceb28ce31b3",
+    "eng": "Magge",
+    "fLE": "M",
+    "tel": "మగ్గే",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "female",
+    "rel": "others"
+  },
+  {
+    "id": "eacc6331-b5a5-44af-acfd-82938895c585",
+    "eng": "Magges",
+    "fLE": "M",
+    "tel": "మగ్గేసు",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "female",
+    "rel": "others"
+  },
+  {
+    "id": "43e5f81f-c6a2-4576-a4a0-f52eaa76bda4",
+    "eng": "Maggi",
+    "fLE": "M",
+    "tel": "మగ్గి",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "female",
+    "rel": "others"
+  },
+  {
+    "id": "30b7ad55-63d4-48f7-a061-8541ea382c61",
+    "eng": "Maggie",
+    "fLE": "M",
+    "tel": "మాగీ",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "female",
+    "rel": "others"
+  },
+  {
+    "id": "f39bd2a6-0707-4ddb-a730-1650c7bc4249",
+    "eng": "maggie",
+    "fLE": "m",
+    "tel": "మాగీ",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "3656934d-9467-4611-b796-6c2912f458b8",
+    "eng": "Maggot",
+    "fLE": "M",
+    "tel": "మగ్గోతి",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "female",
+    "rel": "others"
+  },
+  {
+    "id": "2e28aeed-645c-46e5-9648-4cc910199772",
+    "eng": "Maggote",
+    "fLE": "M",
+    "tel": "మగ్గోతి",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "female",
+    "rel": "others"
+  },
+  {
+    "id": "0aba06b2-0342-4524-b1fe-a0380844dccd",
+    "eng": "Maggy",
+    "fLE": "M",
+    "tel": "మాగ్య్",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "female",
+    "rel": "others"
+  },
+  {
+    "id": "c14787eb-2571-43cb-9cf5-8af0b8ea6d25",
+    "eng": "Magha",
+    "fLE": "M",
+    "tel": "మాఘ",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "68a57f03-13fb-4cdf-bdd2-ee02a133db85",
+    "eng": "Maghadhi",
+    "fLE": "M",
+    "tel": "మాఘాది",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "41c25799-6953-4831-9951-b477605497be",
+    "eng": "Maghadi",
+    "fLE": "M",
+    "tel": "మాఘాది",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "b3859078-d6fa-4d32-a9a7-1058a1adb65d",
+    "eng": "Maghenyld",
+    "fLE": "M",
+    "tel": "మాఘేనీల్డ్",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "female",
+    "rel": "others"
+  },
+  {
+    "id": "dda355b6-40bc-42de-8767-d6953ad89fe4",
+    "eng": "Maghi",
+    "fLE": "M",
+    "tel": "మాఘి",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "3aceb6a4-532a-4ae0-aa2c-861910ca243c",
+    "eng": "Maghna",
+    "fLE": "M",
+    "tel": "మఘ్న",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "8415a1b7-7d8d-4c17-9db6-7808ce9a669e",
+    "eng": "Maghona",
+    "fLE": "M",
+    "tel": "మఘోణ",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "01b0310a-0816-4c9e-ba99-dc5486770a61",
+    "eng": "Magic",
+    "fLE": "M",
+    "tel": "మేజిక్",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "female",
+    "rel": "others"
+  },
+  {
+    "id": "51de190d-3788-4e8e-9afe-0204a059c596",
+    "eng": "Magisha",
+    "fLE": "M",
+    "tel": "ముగిశా",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "b60b8b7d-f0a3-4ac9-90b0-81dd4eba04bc",
+    "eng": "magistra",
+    "fLE": "m",
+    "tel": "మాజిస్ట్ర",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "cca28d65-4691-4c70-8a49-b64e2a7da3e0",
+    "eng": "Magli",
+    "fLE": "M",
+    "tel": "మజిలీ",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "female",
+    "rel": "others"
+  },
+  {
+    "id": "1d8de3b5-bf0f-46a5-8f0d-3de4f702d2de",
+    "eng": "Magna",
+    "fLE": "M",
+    "tel": "మాగ్నా",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "female",
+    "rel": "others"
+  },
+  {
+    "id": "96be288e-a116-4a39-bd20-d63671c7964b",
+    "eng": "Magnhild",
+    "fLE": "M",
+    "tel": "మఙ్గణ్హిల్డ్",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "female",
+    "rel": "others"
+  },
+  {
+    "id": "7b3e18c0-71b3-479f-b104-932723e8b083",
+    "eng": "magnhild",
+    "fLE": "m",
+    "tel": "మఙ్గణ్హిల్డ్",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "f1be4321-fe2f-4cfe-9bd6-87f24e4f303a",
+    "eng": "Magnhilda",
+    "fLE": "M",
+    "tel": "మఙ్గణ్హిల్డా",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "eec95f05-88ee-428c-b5d5-9cc214587f25",
+    "eng": "Magnhilde",
+    "fLE": "M",
+    "tel": "మఙ్గణ్హిల్డ్",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "b58f5ec8-5cd8-4f58-9b41-748b364b915a",
+    "eng": "Magnild",
+    "fLE": "M",
+    "tel": "మగ్నిల్డ్",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "fce209a7-adf4-4d38-ac5b-09252d05efda",
+    "eng": "Magnilda",
+    "fLE": "M",
+    "tel": "మగ్నిల్డా",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "e6554baf-d7b1-4fa8-b1f7-6372c07e5b28",
+    "eng": "Magnilde",
+    "fLE": "M",
+    "tel": "మగ్నిల్డ్",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "8ea7779b-c774-4c89-b352-1c0ead861223",
+    "eng": "Magnolia",
+    "fLE": "M",
+    "tel": "మాగ్నోలియా",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "c7e53ace-d6c5-43ab-b898-39382beed463",
+    "eng": "mago",
+    "fLE": "m",
+    "tel": "మాగో",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "ab1652d8-0e53-40e7-8444-661e1365e027",
+    "eng": "Magola",
+    "fLE": "M",
+    "tel": "మగోల",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "female",
+    "rel": "others"
+  },
+  {
+    "id": "6622061d-bdd2-4915-8ee8-a49e6e748e3e",
+    "eng": "magola",
+    "fLE": "m",
+    "tel": "మగోల",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "f463d6ad-f151-4614-ab94-9878c8f923e4",
+    "eng": "Magone",
+    "fLE": "M",
+    "tel": "మాగోనే",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "84d5d5ea-92b5-45d9-a9ed-716b97f0d16e",
+    "eng": "Magot",
+    "fLE": "M",
+    "tel": "మాగోట్",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "female",
+    "rel": "others"
+  },
+  {
+    "id": "e48273f3-db1e-4cac-8eea-c20d43665c2f",
+    "eng": "Magota",
+    "fLE": "M",
+    "tel": "మగుట",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "female",
+    "rel": "others"
+  },
+  {
+    "id": "975ea30e-2e79-4bcd-9ea6-070710d80c37",
+    "eng": "Magote",
+    "fLE": "M",
+    "tel": "మాగోటే",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "female",
+    "rel": "others"
+  },
+  {
+    "id": "4d4b45dd-5b88-45ef-8bf4-30fe49678dbd",
+    "eng": "magritte",
+    "fLE": "m",
+    "tel": "మగ్రిట్టే",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "4921e45c-636f-444d-b216-31ce0210eb11",
+    "eng": "Mah",
+    "fLE": "M",
+    "tel": "మహ్",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Muslim"
+  },
+  {
+    "id": "6c00d959-b810-4014-881c-c64a65fb67e6",
+    "eng": "Mah jabeen",
+    "fLE": "M",
+    "tel": "మహా జబీన్",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Muslim"
+  },
+  {
+    "id": "4389e08f-530f-4784-b50e-deb544be23ea",
+    "eng": "Mah Jabin",
+    "fLE": "M",
+    "tel": "మహా జబీన్",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Muslim"
+  },
+  {
+    "id": "34627e47-2c8b-4350-89da-45320ace9f8d",
+    "eng": "Mah Naz",
+    "fLE": "M",
+    "tel": "మహా నాజ్",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Muslim"
+  },
+  {
+    "id": "315f5876-8b68-40ba-b48c-ab63d2039b8d",
+    "eng": "Mah Noor",
+    "fLE": "M",
+    "tel": "మః నూర్",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Muslim"
+  },
+  {
+    "id": "70c10e1d-9284-4c0d-9b80-52f100e02633",
+    "eng": "Mah Rukh",
+    "fLE": "M",
+    "tel": "మహా రుఖ్",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Muslim"
+  },
+  {
+    "id": "6d0783aa-1bb4-47c5-8046-bbbf65b6f47a",
+    "eng": "Maha",
+    "fLE": "M",
+    "tel": "మహా",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Muslim"
+  },
+  {
+    "id": "b500968a-3ff1-44a4-a9a6-f23eeda53acc",
+    "eng": "Maha Durga",
+    "fLE": "M",
+    "tel": "మహా దుర్గ",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "d81dbdc6-c9d6-42f0-bd41-e88a0bbf2793",
+    "eng": "Maha Lakshmi",
+    "fLE": "M",
+    "tel": "మహా లక్ష్మి",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "e6f773ca-1ed8-4800-a51b-9a781e02e53e",
+    "eng": "Maha wild cow",
+    "fLE": "M",
+    "tel": "మహా వైల్డ్ కౌ",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Muslim"
+  },
+  {
+    "id": "08d8398b-9ea1-4fd4-bc98-354ebc420f9c",
+    "eng": "Mahaabala",
+    "fLE": "M",
+    "tel": "మహాబల",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "446f4e1d-985c-4363-9807-89d8b56eed7e",
+    "eng": "Mahabbah",
+    "fLE": "M",
+    "tel": "మహబ్బహ్",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Muslim"
+  },
+  {
+    "id": "0dc7af45-394d-462a-a902-a9cc8817f016",
+    "eng": "Mahabhadra",
+    "fLE": "M",
+    "tel": "మహాభద్ర",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "5b5cce86-ae0d-4093-b393-5f170562e6f7",
+    "eng": "Mahadevi",
+    "fLE": "M",
+    "tel": "మహాదేవి",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "eaeace5c-528f-4fcb-84a5-70897daf4787",
+    "eng": "Mahaganga",
+    "fLE": "M",
+    "tel": "మహాగంగా",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "4cc5d402-8cde-4818-a15e-1178d8b20b7b",
+    "eng": "Mahagauri",
+    "fLE": "M",
+    "tel": "మహాగౌరి",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "28d3013f-3ee0-429e-8b74-7c7511d60ef7",
+    "eng": "mahah",
+    "fLE": "m",
+    "tel": "మహః",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Muslim"
+  }
+]

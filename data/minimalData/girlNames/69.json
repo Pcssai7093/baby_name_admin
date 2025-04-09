@@ -1,0 +1,922 @@
+[
+  {
+    "id": "63f0b33d-441b-4ced-959f-61eafb5da2e2",
+    "eng": "Bhindu",
+    "fLE": "B",
+    "tel": "భిందు",
+    "fLTel": "భ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "ac2a67bc-9b25-4682-93bc-31d6fe7e4622",
+    "eng": "Bhini",
+    "fLE": "B",
+    "tel": "భిని",
+    "fLTel": "భ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "4fe8be8c-120c-452c-8610-6279d2f09d3b",
+    "eng": "Bhinna",
+    "fLE": "B",
+    "tel": "భిన్న",
+    "fLTel": "భ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "0a058b95-4347-43d2-8e52-062b0e588700",
+    "eng": "Bhinu",
+    "fLE": "B",
+    "tel": "బిను",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "f95b32a6-27bb-4245-a837-9f8ff652162d",
+    "eng": "Bhiravi",
+    "fLE": "B",
+    "tel": "భిరవి",
+    "fLTel": "భ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "4212860f-ab9f-4e65-a0bf-ca80c92b9170",
+    "eng": "Bhoja",
+    "fLE": "B",
+    "tel": "భోజ",
+    "fLTel": "భ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "4691f24d-4ce2-46cc-be83-e8519e8c0e77",
+    "eng": "Bhojana",
+    "fLE": "B",
+    "tel": "భోజన",
+    "fLTel": "భ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "bf736245-65ff-4ae6-aaf8-7e890c349bf1",
+    "eng": "Bhomi",
+    "fLE": "B",
+    "tel": "భోమి",
+    "fLTel": "భ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "7b396b78-c717-4939-88c0-ec3e5b341b72",
+    "eng": "Bhoo",
+    "fLE": "B",
+    "tel": "భూ",
+    "fLTel": "భ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "6411de7e-8ec4-4adb-aeb2-acb341d30e4e",
+    "eng": "Bhoodevi",
+    "fLE": "B",
+    "tel": "భూదేవి",
+    "fLTel": "భ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "b2f71a99-cea8-4803-a901-c352d04c9dad",
+    "eng": "Bhooma",
+    "fLE": "B",
+    "tel": "భూమా",
+    "fLTel": "భ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "4ef860f7-ed47-4f22-9c98-60fc71c988cf",
+    "eng": "Bhoomi",
+    "fLE": "B",
+    "tel": "భూమి",
+    "fLTel": "భ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "5db1c0a0-7bfc-4859-b503-d72b22f1557e",
+    "eng": "Bhoomija",
+    "fLE": "B",
+    "tel": "భూమిజా",
+    "fLTel": "భ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "e53e27eb-d37c-43c6-a012-c292f72c28d7",
+    "eng": "Bhoomika",
+    "fLE": "B",
+    "tel": "భూమిక",
+    "fLTel": "భ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "8eec9fbd-e69e-419f-8945-f7163a1bc4e0",
+    "eng": "Bhoopali",
+    "fLE": "B",
+    "tel": "భూపాలీ",
+    "fLTel": "భ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "b10e0114-c30f-4d30-8ba3-28fe279e3635",
+    "eng": "Bhoovanika",
+    "fLE": "B",
+    "tel": "భూవానిక",
+    "fLTel": "భ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "33b99c27-f137-4e2c-ae8f-0419b1c48d2d",
+    "eng": "Bhovika",
+    "fLE": "B",
+    "tel": "భొవిక",
+    "fLTel": "భ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "6c999637-3634-40b7-a016-50cbf32cbabc",
+    "eng": "Bhramari",
+    "fLE": "B",
+    "tel": "భ్రామరీ",
+    "fLTel": "భ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "a78f5821-0bd4-4553-9a31-f222a85e0657",
+    "eng": "Bhranti",
+    "fLE": "B",
+    "tel": "భ్రాంతి",
+    "fLTel": "భ",
+    "tags": [],
+    "gen": "female",
+    "rel": "others"
+  },
+  {
+    "id": "ce079a2e-b6d8-4af7-aa09-ea5cf35e845d",
+    "eng": "Bhrithi",
+    "fLE": "B",
+    "tel": "భ్రితి",
+    "fLTel": "భ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "b36295c0-b91a-43ab-92fe-c1ee03472c19",
+    "eng": "Bhruhanth",
+    "fLE": "B",
+    "tel": "బృహన్త్",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "974b63a0-d3f9-4cb8-b0d9-13bfe1938f3e",
+    "eng": "Bhruthika",
+    "fLE": "B",
+    "tel": "భృతిక",
+    "fLTel": "భ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "6ae1bb36-3b00-4700-952e-a88c9b6d7c63",
+    "eng": "Bhu",
+    "fLE": "B",
+    "tel": "భూ",
+    "fLTel": "భ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "25668e69-545a-4335-8d1e-0d4055f71cd6",
+    "eng": "Bhuma",
+    "fLE": "B",
+    "tel": "భూమా",
+    "fLTel": "భ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "1a8cc529-84d1-4830-a4b8-c69044ee061d",
+    "eng": "Bhumi",
+    "fLE": "B",
+    "tel": "భూమి",
+    "fLTel": "భ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "275aac61-c45c-470b-b3ef-ea145c2f1ec1",
+    "eng": "Bhumija",
+    "fLE": "B",
+    "tel": "భూమిజా",
+    "fLTel": "భ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "283552f8-21d4-4cdd-be9b-e8c90f23230f",
+    "eng": "Bhumika",
+    "fLE": "B",
+    "tel": "భూమిక",
+    "fLTel": "భ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "7f7d5ec4-fc61-4d9c-acc0-ccabb877aab3",
+    "eng": "Bhupali",
+    "fLE": "B",
+    "tel": "భూపాలీ",
+    "fLTel": "భ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "50433987-45b1-4206-972f-1c8ee2a27752",
+    "eng": "Bhupinder",
+    "fLE": "B",
+    "tel": "భూపిందర్",
+    "fLTel": "భ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "e023b98e-f136-4b77-8547-4fb018380b35",
+    "eng": "Bhushandev",
+    "fLE": "B",
+    "tel": "భూషణ్దేవ్",
+    "fLTel": "భ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "0d949dd9-3341-430a-9984-7ead82c97129",
+    "eng": "Bhuti",
+    "fLE": "B",
+    "tel": "భూతి",
+    "fLTel": "భ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "080cff68-1ef3-40f3-94b7-46eb3fdc8e74",
+    "eng": "Bhuva",
+    "fLE": "B",
+    "tel": "భువ",
+    "fLTel": "భ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "1a741ac6-f091-4dbe-a570-d9e2ae437282",
+    "eng": "Bhuvainika",
+    "fLE": "B",
+    "tel": "భూవైణిక",
+    "fLTel": "భ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "d472cb30-8555-4f26-85a2-0b81dc95ccae",
+    "eng": "Bhuvana",
+    "fLE": "B",
+    "tel": "భువన",
+    "fLTel": "భ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "42b9b30b-eefc-4969-8e73-07544d51652a",
+    "eng": "Bhuvanasree",
+    "fLE": "B",
+    "tel": "భువనశ్రీ",
+    "fLTel": "భ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "c59d08cb-0f6d-4e57-8ad4-ec159b48e4ff",
+    "eng": "Bhuvaneshwari",
+    "fLE": "B",
+    "tel": "భువనేశ్వరి",
+    "fLTel": "భ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "cfb8aac1-ed8f-4bbf-81dc-efa05ebdcb0f",
+    "eng": "Bhuvaneswari",
+    "fLE": "B",
+    "tel": "భువనేశ్వరి",
+    "fLTel": "భ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "4bfcfba0-6ee9-44c3-9297-74d5594c8db6",
+    "eng": "Bhuvanika",
+    "fLE": "B",
+    "tel": "భువనైక",
+    "fLTel": "భ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "c268f7af-3781-403d-aace-8794a6658cd9",
+    "eng": "Bhuvi",
+    "fLE": "B",
+    "tel": "భువి",
+    "fLTel": "భ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "b807337e-f43a-4655-a1ae-4838523b8aaa",
+    "eng": "Bhuvika",
+    "fLE": "B",
+    "tel": "భువికే",
+    "fLTel": "భ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "e9e776bb-6f16-4da3-b265-ce4839dcd0ba",
+    "eng": "Bhuwi",
+    "fLE": "B",
+    "tel": "భువి",
+    "fLTel": "భ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "2d7e3606-b5fd-4436-b514-8fdcb7a4ea7e",
+    "eng": "Bi",
+    "fLE": "B",
+    "tel": "బి",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "female",
+    "rel": "others"
+  },
+  {
+    "id": "abc73889-8b29-41f4-aa97-fb8e6f106748",
+    "eng": "Bia",
+    "fLE": "B",
+    "tel": "బిల్",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "9e94ff8f-f142-4b97-b788-ff85f600c699",
+    "eng": "bia",
+    "fLE": "b",
+    "tel": "బిల్",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "30110914-8134-4834-84ac-9fceeec48c25",
+    "eng": "Bian",
+    "fLE": "B",
+    "tel": "బిఎన్",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "d3534dd6-a849-4892-b74b-3fd40b0df398",
+    "eng": "Biana",
+    "fLE": "B",
+    "tel": "బియాంత్",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "cd56a9de-469d-42c1-9a5e-0adcae37211a",
+    "eng": "biana",
+    "fLE": "b",
+    "tel": "బియాంత్",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "8d9c385c-f44f-4554-b73e-bdcd370f97fe",
+    "eng": "Bianca",
+    "fLE": "B",
+    "tel": "బియాంకా",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "a840e1bf-fd75-4433-bddf-767fbdcb7bcd",
+    "eng": "Bianka",
+    "fLE": "B",
+    "tel": "బియాంకా",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "7a9ffee6-9d84-48cb-8f41-15d3ea2dd7a9",
+    "eng": "Bianna",
+    "fLE": "B",
+    "tel": "బిస్తోన్న",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "268eca57-f779-4cd6-a090-3e9e5c912d11",
+    "eng": "Biata",
+    "fLE": "B",
+    "tel": "బీటా",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "4a8a526c-80de-4d6a-92a4-aa5ec9ae14e5",
+    "eng": "Biba",
+    "fLE": "B",
+    "tel": "బైబ",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "f4abe755-e706-4674-99b6-fd6b13183421",
+    "eng": "Bibanpreet",
+    "fLE": "B",
+    "tel": "బిబాన్ప్రీత్",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Sikh"
+  },
+  {
+    "id": "58d20612-fc0c-443b-bdea-08cb9e8780a8",
+    "eng": "Bibby",
+    "fLE": "B",
+    "tel": "బీబ్య్",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "c723b6b9-4be5-43de-a3ef-57cb386d002d",
+    "eng": "Bibel",
+    "fLE": "B",
+    "tel": "బైబెల్",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "8086021f-7d1d-4358-86fc-8aeac7434057",
+    "eng": "Bibele",
+    "fLE": "B",
+    "tel": "బైబెల్",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "5935136a-4d72-45a1-9966-1d8f5cffeb6d",
+    "eng": "Bibha",
+    "fLE": "B",
+    "tel": "బిభ",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "fa7d47a2-b1fd-4bc1-a6b7-e83e7763819f",
+    "eng": "Bibhabori",
+    "fLE": "B",
+    "tel": "బిభబోరి",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "fa6dde5b-3f33-4a46-ae67-7b58484bdc70",
+    "eng": "Bibi",
+    "fLE": "B",
+    "tel": "బిబి",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Muslim"
+  },
+  {
+    "id": "ace2d667-452d-4dc4-bf86-8a04ab0950f2",
+    "eng": "Bibiana",
+    "fLE": "B",
+    "tel": "బిబియన",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "256dea6f-2b9d-4da9-a8d8-e6e6684fa5a0",
+    "eng": "Bibiane",
+    "fLE": "B",
+    "tel": "బిబియన్",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "d514870a-ff5f-40d8-8413-5e8c7edeac7b",
+    "eng": "Bibsbebe",
+    "fLE": "B",
+    "tel": "బిబిసిబెబే",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Muslim"
+  },
+  {
+    "id": "0fd5d2bf-531d-4ced-9e72-5433535cf3c1",
+    "eng": "Biby",
+    "fLE": "B",
+    "tel": "బైబై",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "e4590c87-46fc-45bd-b5a8-8f3dde50391f",
+    "eng": "Bica",
+    "fLE": "B",
+    "tel": "బికె",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "842c89cc-5048-47ca-984a-8fe85934b362",
+    "eng": "Bicca",
+    "fLE": "B",
+    "tel": "బిక్క",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "4e905488-8e75-46cf-b4f5-a09df5d91a39",
+    "eng": "Biccel",
+    "fLE": "B",
+    "tel": "బీసీసెల్",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "bfec04d5-231f-41c1-9622-95500329904b",
+    "eng": "Bice",
+    "fLE": "B",
+    "tel": "బీచే",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "d83a7fb9-16d1-4332-ae54-2dbc97c0e5a8",
+    "eng": "bichette",
+    "fLE": "b",
+    "tel": "బిచెట్టే",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "3d460e41-3349-4231-8a47-953c061f8f9b",
+    "eng": "Bida",
+    "fLE": "B",
+    "tel": "బీద",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Muslim"
+  },
+  {
+    "id": "f4551714-e3ff-45cd-87c2-b7649e5e603a",
+    "eng": "Bidda",
+    "fLE": "B",
+    "tel": "బిడ్డ",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Muslim"
+  },
+  {
+    "id": "c9d51dd3-fcc4-4d11-b4f7-7566b77cb2e0",
+    "eng": "Biddi",
+    "fLE": "B",
+    "tel": "బిడ్డి",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "c8f744e5-370e-46a1-b2b8-67f1e75fd7f2",
+    "eng": "Biddie",
+    "fLE": "B",
+    "tel": "బిడిఎ",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "797de7d3-09d6-4877-ae7b-9deb97e4eb98",
+    "eng": "Biddy",
+    "fLE": "B",
+    "tel": "బిడ్డి",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "4f3b3b57-d38a-45e4-ac21-7da1b83c4d2a",
+    "eng": "biddy",
+    "fLE": "b",
+    "tel": "బిడ్డి",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "fc84f36c-2d4a-4249-acc4-fbd1c02daefd",
+    "eng": "Bidelia",
+    "fLE": "B",
+    "tel": "బిదెలియ",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "cf2de04b-d667-468a-83b5-00be619c0edb",
+    "eng": "bidelia",
+    "fLE": "b",
+    "tel": "బిదెలియ",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "f453b788-881d-45f9-ba4a-5ceb5a8f4497",
+    "eng": "Bidemi",
+    "fLE": "B",
+    "tel": "బిడేమి",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "c8671afa-69f1-439a-b808-a54f3d061b08",
+    "eng": "Bidhumukhi",
+    "fLE": "B",
+    "tel": "బిదుముఖి",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "264efa98-2f36-4f7a-bab1-081519473a61",
+    "eng": "Bidhya",
+    "fLE": "B",
+    "tel": "బిధ్యా",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "7b51641e-5be2-4408-9dec-f9e15f050b96",
+    "eng": "Bidisha",
+    "fLE": "B",
+    "tel": "బిదిశ",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "a913c27e-5f6c-47fe-a166-1728ec91cf68",
+    "eng": "Bidita",
+    "fLE": "B",
+    "tel": "బిడియ",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "32c9a275-5ff2-4d7a-aadf-2311c81b221f",
+    "eng": "Bidiya",
+    "fLE": "B",
+    "tel": "బిడియ",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "f70233d0-2a0f-4f7a-9fc1-e4e6cbd63376",
+    "eng": "Bidushi",
+    "fLE": "B",
+    "tel": "బిదుషి",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "fb0a8bb6-7a62-4612-9d5c-91ad718c961a",
+    "eng": "Bidya",
+    "fLE": "B",
+    "tel": "బిద్యా",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "9a5b7d62-936e-4b18-b70d-3df2e1c6e939",
+    "eng": "Bienna",
+    "fLE": "B",
+    "tel": "బిఎన్న",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "a13abfd1-0180-4df9-9d7a-46bf7b067f8d",
+    "eng": "bienvenida",
+    "fLE": "b",
+    "tel": "బిఎంవీనిదా",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "4e95db5e-8a05-46a7-9360-93648280936c",
+    "eng": "Bifrost",
+    "fLE": "B",
+    "tel": "బిఫ్రోస్ట్",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "113e260d-7fef-4974-8159-4382b751c4da",
+    "eng": "Biggi",
+    "fLE": "B",
+    "tel": "బిగ్గీ",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "baebd755-0df8-4491-902a-f9cbaa245157",
+    "eng": "Biggy",
+    "fLE": "B",
+    "tel": "బిగ్య్",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "f9cbb8af-753f-4177-9659-0b7a8befe7a7",
+    "eng": "Bihin",
+    "fLE": "B",
+    "tel": "బిహిం",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Muslim"
+  },
+  {
+    "id": "9f5ce8df-f630-4365-9cf3-f8f792cc64db",
+    "eng": "Bihula",
+    "fLE": "B",
+    "tel": "బిహుల",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "2a8da3a7-8b07-4267-a185-d6f39aa73106",
+    "eng": "Bijali",
+    "fLE": "B",
+    "tel": "బీజాలు",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  }
+]

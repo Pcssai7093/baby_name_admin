@@ -1,0 +1,932 @@
+[
+  {
+    "id": "f8542d6a-e50c-48c1-83f9-d960a7e19014",
+    "eng": "Jogindra",
+    "fLE": "J",
+    "tel": "జోగిన్ద్ర",
+    "fLTel": "జ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "f6e87f58-a8fa-46d1-8cf5-65b0ae0e674b",
+    "eng": "Jogishwar",
+    "fLE": "J",
+    "tel": "జోగీశ్వర్",
+    "fLTel": "జ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Sikh"
+  },
+  {
+    "id": "f3d4d0dd-c070-4d9a-a07a-14dca611cf70",
+    "eng": "Jogprakash",
+    "fLE": "J",
+    "tel": "జోగ్ప్రకాష్",
+    "fLTel": "జ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Sikh"
+  },
+  {
+    "id": "e0dd905b-4022-4f6b-a903-db17db50b250",
+    "eng": "Jograj",
+    "fLE": "J",
+    "tel": "జాగ్రజ్",
+    "fLTel": "జ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "ccdafc61-5af4-4469-86b3-a55e8e70420b",
+    "eng": "Jograja",
+    "fLE": "J",
+    "tel": "జాగ్రజ",
+    "fLTel": "జ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "19f4fee4-3432-4d4c-b409-c82a9b239c89",
+    "eng": "Jogvichaar",
+    "fLE": "J",
+    "tel": "జొగ్విచారు",
+    "fLTel": "జ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Sikh"
+  },
+  {
+    "id": "cad699b2-efad-4198-8708-152542236650",
+    "eng": "Joh",
+    "fLE": "J",
+    "tel": "జా",
+    "fLTel": "జ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "42233ce5-664e-406e-86bd-bcf25d71c623",
+    "eng": "Johaar",
+    "fLE": "J",
+    "tel": "జోహార్",
+    "fLTel": "జ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Sikh"
+  },
+  {
+    "id": "7fba5a71-bdbd-46ed-a3fd-74d9c718a851",
+    "eng": "Johan",
+    "fLE": "J",
+    "tel": "జోహాన్",
+    "fLTel": "జ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "50146d25-dd7d-4277-ade1-7299b2e34879",
+    "eng": "Johanan",
+    "fLE": "J",
+    "tel": "జోహనం",
+    "fLTel": "జ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "2f9607f4-d4c4-407b-9956-3cb386d5a3ba",
+    "eng": "Johanizmin",
+    "fLE": "J",
+    "tel": "జోహానిజమిన్",
+    "fLTel": "జ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "51f7af29-9a4c-407c-8459-9d783c086c4e",
+    "eng": "Johann",
+    "fLE": "J",
+    "tel": "జొహన్నా",
+    "fLTel": "జ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "d7ac7204-85e8-4bd1-8654-d1e87af4ec50",
+    "eng": "johann",
+    "fLE": "j",
+    "tel": "జొహన్నా",
+    "fLTel": "జ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "0b3fe439-ad80-4454-b323-610f32ac33aa",
+    "eng": "johann\n",
+    "fLE": "j",
+    "tel": "జొహన్నా\n",
+    "fLTel": "జ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "891c83f3-c6cd-4657-9f92-6733a3b6b63e",
+    "eng": "Johannes",
+    "fLE": "J",
+    "tel": "జొహాన్నెస్",
+    "fLTel": "జ",
+    "tags": [],
+    "gen": "male",
+    "rel": "others"
+  },
+  {
+    "id": "e2d475c0-00eb-415e-903a-9bdc6f6ef8e9",
+    "eng": "johannes",
+    "fLE": "j",
+    "tel": "జొహాన్నెస్",
+    "fLTel": "జ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "7e2f507a-d6d1-4d8c-a46d-e801354806c1",
+    "eng": "Johanny",
+    "fLE": "J",
+    "tel": "జోహాన్నీ",
+    "fLTel": "జ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "70c484e7-d9b8-47b8-b1e5-3bf2e6580466",
+    "eng": "Johansen",
+    "fLE": "J",
+    "tel": "జోహాన్సెన్",
+    "fLTel": "జ",
+    "tags": [],
+    "gen": "male",
+    "rel": "others"
+  },
+  {
+    "id": "1070706c-385e-4bdb-8edd-f8707a6bf1ec",
+    "eng": "Johathan",
+    "fLE": "J",
+    "tel": "జోహతం",
+    "fLTel": "జ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "b72ec506-3d79-4a65-b4b4-e29e556efb2d",
+    "eng": "Johen",
+    "fLE": "J",
+    "tel": "జోహెన్",
+    "fLTel": "జ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "35a7ae6c-2eaa-4514-9b3b-19ee041e99e9",
+    "eng": "Johll",
+    "fLE": "J",
+    "tel": "జాల్",
+    "fLTel": "జ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "5604dc56-20e7-4c46-b9e0-db49c5da1a4a",
+    "eng": "John",
+    "fLE": "J",
+    "tel": "జాన్",
+    "fLTel": "జ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "39504b2d-8cb8-4f45-a0ef-fb74dd1a4080",
+    "eng": "Johnathan",
+    "fLE": "J",
+    "tel": "జానథన్",
+    "fLTel": "జ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "7848c15c-1d88-46d1-8699-5df26557fb5e",
+    "eng": "johnathan",
+    "fLE": "j",
+    "tel": "జానథన్",
+    "fLTel": "జ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "6c9b4fc8-c291-4c4b-ac46-83b666cea79d",
+    "eng": "Johnathon",
+    "fLE": "J",
+    "tel": "జానథన్",
+    "fLTel": "జ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "ce6905ff-e6af-4558-bfb0-19849518b485",
+    "eng": "johnathon",
+    "fLE": "j",
+    "tel": "జానథన్",
+    "fLTel": "జ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "c4738dec-3ed8-4103-bb26-10fae3fdad0d",
+    "eng": "johnavan",
+    "fLE": "j",
+    "tel": "జానవం",
+    "fLTel": "జ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "73c3271f-8a52-4988-bf76-d3d11fa7bd5c",
+    "eng": "johnavon",
+    "fLE": "j",
+    "tel": "జాహ్నవీన్",
+    "fLTel": "జ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "7655ccd3-b21e-4ad2-9999-b88539719575",
+    "eng": "Johnda",
+    "fLE": "J",
+    "tel": "జానంద",
+    "fLTel": "జ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "a5472290-f851-466d-aa2f-118299113e38",
+    "eng": "Johni",
+    "fLE": "J",
+    "tel": "జానీ",
+    "fLTel": "జ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "a3fbc540-27c5-424c-a09a-935f774ebeb2",
+    "eng": "Johnie",
+    "fLE": "J",
+    "tel": "జానియె",
+    "fLTel": "జ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Sikh"
+  },
+  {
+    "id": "62bfc648-da15-4add-996b-e1b5ec6169c5",
+    "eng": "Johnna",
+    "fLE": "J",
+    "tel": "జొహన్నా",
+    "fLTel": "జ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "7e5bbb46-70e9-455a-8463-005e067f1038",
+    "eng": "Johnniemae",
+    "fLE": "J",
+    "tel": "జాన్నిఎంఏ",
+    "fLTel": "జ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "70884768-2f26-4ccf-bea4-15530da647cb",
+    "eng": "Johnny",
+    "fLE": "J",
+    "tel": "జానీ",
+    "fLTel": "జ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "dab75f80-6695-4bae-90be-0a4f7a66f9ae",
+    "eng": "Johnpaul",
+    "fLE": "J",
+    "tel": "జానపాల్",
+    "fLTel": "జ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "fd3101ee-0291-4578-8af9-3e17a4c169ab",
+    "eng": "Johnson",
+    "fLE": "J",
+    "tel": "జాన్సన్",
+    "fLTel": "జ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "1f099dc9-e15b-44a5-a02d-7d5a023e30ec",
+    "eng": "johnson",
+    "fLE": "j",
+    "tel": "జాన్సన్",
+    "fLTel": "జ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "5cb584f7-ad88-419f-b65f-49d28e939c30",
+    "eng": "Johnston",
+    "fLE": "J",
+    "tel": "జాన్స్టన్",
+    "fLTel": "జ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "c140ab3a-7c87-4282-8f08-1e9c2e1a5fd8",
+    "eng": "Johntel",
+    "fLE": "J",
+    "tel": "జోహెన్ట్ల్",
+    "fLTel": "జ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "eae2261f-c2a8-4a72-b2c6-2a4f39fc181a",
+    "eng": "johntel",
+    "fLE": "j",
+    "tel": "జోహెన్ట్ల్",
+    "fLTel": "జ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "58f3265c-fcc7-42a9-86fb-f087df89729d",
+    "eng": "Joideep",
+    "fLE": "J",
+    "tel": "జోయిదీప్",
+    "fLTel": "జ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "794e8eb0-2d2e-45df-89bf-058f1d0473b4",
+    "eng": "Joinda",
+    "fLE": "J",
+    "tel": "జోయిఁడా",
+    "fLTel": "జ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "d1447ad1-f51a-4bc2-88a1-b5e7d7f77fb2",
+    "eng": "jojen",
+    "fLE": "j",
+    "tel": "జోజిన్",
+    "fLTel": "జ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "9402ddcd-0340-465e-8ed7-5ddcf790115a",
+    "eng": "Joka",
+    "fLE": "J",
+    "tel": "జోకా",
+    "fLTel": "జ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "6380f80c-abdf-419f-8e59-37ed671dc5fd",
+    "eng": "Jokith",
+    "fLE": "J",
+    "tel": "జోకిత్",
+    "fLTel": "జ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "a30b7851-0932-4879-b253-08827ab7c8de",
+    "eng": "Jokull",
+    "fLE": "J",
+    "tel": "జొకుల్",
+    "fLTel": "జ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "3b25f240-74b0-465e-b487-955d14a668b9",
+    "eng": "Jokum",
+    "fLE": "J",
+    "tel": "జోకుమ్",
+    "fLTel": "జ",
+    "tags": [],
+    "gen": "male",
+    "rel": "others"
+  },
+  {
+    "id": "162382e2-424f-4bdc-85a6-bc7b4c196afc",
+    "eng": "Joldewin",
+    "fLE": "J",
+    "tel": "జాదేవిం",
+    "fLTel": "జ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "c7008285-a69e-4a95-95e4-aa3274d60460",
+    "eng": "Jolly",
+    "fLE": "J",
+    "tel": "జొల్ల్య్",
+    "fLTel": "జ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "f10b667b-c58f-4197-a7a7-473569bb9a31",
+    "eng": "Jolyon",
+    "fLE": "J",
+    "tel": "జాయ్న్",
+    "fLTel": "జ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "6f2c301f-37fd-4b85-9f37-da123107457f",
+    "eng": "Jomar",
+    "fLE": "J",
+    "tel": "జామర్",
+    "fLTel": "జ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "58dfbf12-1aa1-4794-aa69-b2deb7349f2a",
+    "eng": "Jomei",
+    "fLE": "J",
+    "tel": "జామెయి",
+    "fLTel": "జ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Sikh"
+  },
+  {
+    "id": "50590a1f-053f-4277-bf33-f82848a7514c",
+    "eng": "Jomo",
+    "fLE": "J",
+    "tel": "జామ్",
+    "fLTel": "జ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "1093ad7d-9152-4237-baf3-100cbce5870d",
+    "eng": "Jomon",
+    "fLE": "J",
+    "tel": "జొంన్",
+    "fLTel": "జ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Sikh"
+  },
+  {
+    "id": "ea2fce83-6682-40d2-96f3-184e3727ed8e",
+    "eng": "Jon",
+    "fLE": "J",
+    "tel": "జోన్",
+    "fLTel": "జ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Sikh"
+  },
+  {
+    "id": "3d578942-c538-4116-b0a4-36e6f589973b",
+    "eng": "jon",
+    "fLE": "j",
+    "tel": "జోన్",
+    "fLTel": "జ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "bcba9f6e-a39b-4ca3-8d00-9eefed1130e1",
+    "eng": "Jonah",
+    "fLE": "J",
+    "tel": "జోనా",
+    "fLTel": "జ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Sikh"
+  },
+  {
+    "id": "a1959974-9105-457b-ab02-06e4013b4a88",
+    "eng": "jonan",
+    "fLE": "j",
+    "tel": "జోనం",
+    "fLTel": "జ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "41fbeb0a-c6e5-4ef1-b27b-df006630fe0a",
+    "eng": "Jonaraaja",
+    "fLE": "J",
+    "tel": "జోనరాజా",
+    "fLTel": "జ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "cf4c7a5a-8101-4bc0-8b45-78feb1c575ab",
+    "eng": "Jonas",
+    "fLE": "J",
+    "tel": "జోనస్",
+    "fLTel": "జ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "cbf2a3e9-7ee0-427f-93e0-3bb91dcd5055",
+    "eng": "Jonatan",
+    "fLE": "J",
+    "tel": "జాన్తాన్",
+    "fLTel": "జ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "d23ef2bb-c843-464e-86f5-2087cb08c9fe",
+    "eng": "jonatas",
+    "fLE": "j",
+    "tel": "జాన్తాస్",
+    "fLTel": "జ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "9fb4a5f5-c3a0-4504-ae8a-7695a69525b8",
+    "eng": "Jonathan",
+    "fLE": "J",
+    "tel": "జోనాథన్",
+    "fLTel": "జ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "2ea475ba-002c-4efb-afb2-0de8e58f29a6",
+    "eng": "jonathan",
+    "fLE": "j",
+    "tel": "జోనాథన్",
+    "fLTel": "జ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "e16f4fa6-a365-4b11-96c8-860ad523ca92",
+    "eng": "Jonathen",
+    "fLE": "J",
+    "tel": "జోనతేం",
+    "fLTel": "జ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "f2549e7f-8432-47b6-bec3-d1f1c05d6493",
+    "eng": "Jonathon",
+    "fLE": "J",
+    "tel": "జోనాథన్",
+    "fLTel": "జ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "342e9943-7316-4784-a1be-99fcfa789606",
+    "eng": "jonathon",
+    "fLE": "j",
+    "tel": "జోనాథన్",
+    "fLTel": "జ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "bec5c5fa-8e68-4d9d-93c9-f2f9eff8d4b2",
+    "eng": "Jonco",
+    "fLE": "J",
+    "tel": "జోన్గాకా",
+    "fLTel": "జ",
+    "tags": [],
+    "gen": "male",
+    "rel": "others"
+  },
+  {
+    "id": "4009f718-7cf3-4160-860e-d5b6e4c54604",
+    "eng": "jonco",
+    "fLE": "j",
+    "tel": "జోన్గాకా",
+    "fLTel": "జ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "24569bbd-6c2b-441b-8b5e-bc9f35309021",
+    "eng": "Jondalar",
+    "fLE": "J",
+    "tel": "జోండ్లర్",
+    "fLTel": "జ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Sikh"
+  },
+  {
+    "id": "7a6250d2-dc35-4c65-b884-8cca4df082eb",
+    "eng": "jondalar",
+    "fLE": "j",
+    "tel": "జోండ్లర్",
+    "fLTel": "జ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "7d563a8c-930b-44a0-8fdc-0ee82acfeef4",
+    "eng": "jondor",
+    "fLE": "j",
+    "tel": "జొన్డోర్",
+    "fLTel": "జ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "8a619843-7d00-442c-9c05-bdfbe2d0aeee",
+    "eng": "jones",
+    "fLE": "j",
+    "tel": "జోన్స్",
+    "fLTel": "జ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "547bdde9-bad7-4955-b426-fb8fe5402adc",
+    "eng": "Jonnalagadda",
+    "fLE": "J",
+    "tel": "జొన్నలగడ్డ",
+    "fLTel": "జ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "b94c6efc-168c-4d35-88a0-e84214835b66",
+    "eng": "Jonnie",
+    "fLE": "J",
+    "tel": "జొన్నయి",
+    "fLTel": "జ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "78ac875c-678b-4e56-a292-314ed626ae5d",
+    "eng": "Jonny",
+    "fLE": "J",
+    "tel": "జాన్నీ",
+    "fLTel": "జ",
+    "tags": [],
+    "gen": "male",
+    "rel": "others"
+  },
+  {
+    "id": "94faf5ca-061a-4a29-998c-d0e99bfa1b0d",
+    "eng": "jonny",
+    "fLE": "j",
+    "tel": "జాన్నీ",
+    "fLTel": "జ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "5b1c7de2-a60e-4f6b-a0ca-746592ad074c",
+    "eng": "jono",
+    "fLE": "j",
+    "tel": "జానా",
+    "fLTel": "జ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "002764f1-6161-48a9-a8b2-cebe4ddc6bb3",
+    "eng": "Jontae",
+    "fLE": "J",
+    "tel": "జొన్టే",
+    "fLTel": "జ",
+    "tags": [],
+    "gen": "male",
+    "rel": "others"
+  },
+  {
+    "id": "eb7db605-cbfe-47d5-a63e-40c4b870ee33",
+    "eng": "Jonty",
+    "fLE": "J",
+    "tel": "జోంటే",
+    "fLTel": "జ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "3be73c0c-3126-4bce-9b40-c7e902e482c0",
+    "eng": "Jony",
+    "fLE": "J",
+    "tel": "జానీ",
+    "fLTel": "జ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "208bc31a-0186-4960-983f-5408d51986f7",
+    "eng": "jooa",
+    "fLE": "j",
+    "tel": "జూహీ",
+    "fLTel": "జ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "2d3168bf-6e86-4582-a191-fdb72b27eacb",
+    "eng": "Joon",
+    "fLE": "J",
+    "tel": "జూన్",
+    "fLTel": "జ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "b523407a-9cd0-4017-a10f-c2792726700f",
+    "eng": "joona",
+    "fLE": "j",
+    "tel": "జూన్",
+    "fLTel": "జ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "ac0ad972-29ec-44e9-b16c-f95a093fd50e",
+    "eng": "Joonas",
+    "fLE": "J",
+    "tel": "జోనస్",
+    "fLTel": "జ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "07caa5ef-386c-4818-9e42-0e82ab0186d8",
+    "eng": "joop",
+    "fLE": "j",
+    "tel": "జూపి",
+    "fLTel": "జ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "16d3d881-fbfd-41da-b628-c3926128a317",
+    "eng": "Jooseppi",
+    "fLE": "J",
+    "tel": "జూసెప్పి",
+    "fLTel": "జ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "8e8b14bd-5a68-414e-95c3-e470a7f443b9",
+    "eng": "Joosua",
+    "fLE": "J",
+    "tel": "జూసుఆ",
+    "fLTel": "జ",
+    "tags": [],
+    "gen": "male",
+    "rel": "others"
+  },
+  {
+    "id": "4989a713-2afc-4f92-b821-b02a37e9c686",
+    "eng": "Joozhar",
+    "fLE": "J",
+    "tel": "జూజర్",
+    "fLTel": "జ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "5a76fd03-a09d-4ffc-ba4c-2da198f0576e",
+    "eng": "Jopie",
+    "fLE": "J",
+    "tel": "జోపై",
+    "fLTel": "జ",
+    "tags": [],
+    "gen": "male",
+    "rel": "others"
+  },
+  {
+    "id": "1a38d9d0-708a-49d1-9390-2c165f81e372",
+    "eng": "Joram",
+    "fLE": "J",
+    "tel": "జోరం",
+    "fLTel": "జ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "d9400103-4b78-4bf4-9834-be4c21c01537",
+    "eng": "Joran",
+    "fLE": "J",
+    "tel": "జోరం",
+    "fLTel": "జ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "e6d8cb93-ad6b-42e5-aca7-aad23c26e715",
+    "eng": "Jorcina",
+    "fLE": "J",
+    "tel": "జొరఁసిన",
+    "fLTel": "జ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  }
+]

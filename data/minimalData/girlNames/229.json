@@ -1,0 +1,832 @@
+[
+  {
+    "id": "12d1d525-4163-4d97-b9c2-400cef344a41",
+    "eng": "Khushpinder",
+    "fLE": "K",
+    "tel": "ఖుష్పిండెర్",
+    "fLTel": "ఖ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Sikh"
+  },
+  {
+    "id": "f73f2966-f56b-457e-9b07-687145206ab3",
+    "eng": "Khushprit",
+    "fLE": "K",
+    "tel": "ఖుష్ప్రెస్",
+    "fLTel": "ఖ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Sikh"
+  },
+  {
+    "id": "2557d2c0-7f3b-43e8-9adf-080f68beaac0",
+    "eng": "Khushu",
+    "fLE": "K",
+    "tel": "ఖుషు",
+    "fLTel": "ఖ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "6487dc6f-2cfa-4646-b935-b9f78a567dc2",
+    "eng": "Khushvi",
+    "fLE": "K",
+    "tel": "ఖుశ్వి",
+    "fLTel": "ఖ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "1e0783a0-4975-452e-b80c-558494fb88c6",
+    "eng": "Khushvika",
+    "fLE": "K",
+    "tel": "ఖుశ్విక",
+    "fLTel": "ఖ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "bf7cffe4-de4b-4c54-b7b7-39b9620be43b",
+    "eng": "Khusi",
+    "fLE": "K",
+    "tel": "ఖుషి",
+    "fLTel": "ఖ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "b91a914e-c747-4875-9aa3-cd012af4cae9",
+    "eng": "Khusila",
+    "fLE": "K",
+    "tel": "ఖుషిల",
+    "fLTel": "ఖ",
+    "tags": [],
+    "gen": "female",
+    "rel": "others"
+  },
+  {
+    "id": "8e83b083-7ed7-4035-94b7-45e66fbe731f",
+    "eng": "Khusmana",
+    "fLE": "K",
+    "tel": "ఖుస్మాన",
+    "fLTel": "ఖ",
+    "tags": [],
+    "gen": "female",
+    "rel": "others"
+  },
+  {
+    "id": "aad49a11-a241-4146-ac52-105906706a76",
+    "eng": "Khuwailah",
+    "fLE": "K",
+    "tel": "ఖువైలాహ్",
+    "fLTel": "ఖ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Muslim"
+  },
+  {
+    "id": "b32816c7-10ec-40a7-b4cc-424838fb8016",
+    "eng": "Khuwaylah",
+    "fLE": "K",
+    "tel": "ఖువేలాహ్",
+    "fLTel": "ఖ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Muslim"
+  },
+  {
+    "id": "2556c8f0-880c-45de-a220-defeb520be1b",
+    "eng": "Khuyen",
+    "fLE": "K",
+    "tel": "ఖుఎం",
+    "fLTel": "ఖ",
+    "tags": [],
+    "gen": "female",
+    "rel": "others"
+  },
+  {
+    "id": "4806cdcc-ec9e-46d3-8884-55fc1f3b5f83",
+    "eng": "Khuzaimah",
+    "fLE": "K",
+    "tel": "ఖుజాయమః",
+    "fLTel": "ఖ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Muslim"
+  },
+  {
+    "id": "09e8379b-55d8-4b12-a0c5-3f63adce1be7",
+    "eng": "Khuzama",
+    "fLE": "K",
+    "tel": "ఖుజామ",
+    "fLTel": "ఖ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Muslim"
+  },
+  {
+    "id": "1113833b-f309-4fb3-ae80-cc0f470963ff",
+    "eng": "Khuzamah",
+    "fLE": "K",
+    "tel": "ఖుజామః",
+    "fLTel": "ఖ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Muslim"
+  },
+  {
+    "id": "c6d44ff7-f8ad-49a0-a46d-4d1d47f915ea",
+    "eng": "Khuzaymah",
+    "fLE": "K",
+    "tel": "ఖుజాయ్మః",
+    "fLTel": "ఖ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Muslim"
+  },
+  {
+    "id": "73703ac0-d3d2-455c-b9cd-fd8b7227b768",
+    "eng": "Khwaga",
+    "fLE": "K",
+    "tel": "కాహ్వాగా",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "female",
+    "rel": "Muslim"
+  },
+  {
+    "id": "270f2835-58cc-45be-87de-b5d0595f0729",
+    "eng": "Khwahish",
+    "fLE": "K",
+    "tel": "కాహ్వాహిష్",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "272bb354-0c40-4e77-8570-416a085ce7af",
+    "eng": "Khwaish",
+    "fLE": "K",
+    "tel": "ఖ్వైష్",
+    "fLTel": "ఖ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "35ec0ea9-0fd2-4c29-a2c0-80dab221d359",
+    "eng": "Khyaati",
+    "fLE": "K",
+    "tel": "ఖ్యాతి",
+    "fLTel": "ఖ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "eb370e1c-ce2e-4343-aad2-4a4c5d54c4b2",
+    "eng": "Khyana",
+    "fLE": "K",
+    "tel": "ఖ్యాన",
+    "fLTel": "ఖ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "ef3f6dea-9fc4-4bef-bdc3-ed5597d337b3",
+    "eng": "Khyath",
+    "fLE": "K",
+    "tel": "ఖ్యాత్",
+    "fLTel": "ఖ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "b92caf54-dd35-4f24-b378-55fb62c0c074",
+    "eng": "Khyathi",
+    "fLE": "K",
+    "tel": "ఖ్యాతి",
+    "fLTel": "ఖ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "1cf3e0cc-224c-486d-bffc-94d9c31b4678",
+    "eng": "Khyati",
+    "fLE": "K",
+    "tel": "ఖ్యాతి",
+    "fLTel": "ఖ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "18aa0319-a5c6-4b6e-a48a-8bfbe3d61fab",
+    "eng": "Ki",
+    "fLE": "K",
+    "tel": "కి",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "female",
+    "rel": "others"
+  },
+  {
+    "id": "183a44d8-0fdf-4734-b131-1426f85e7e6b",
+    "eng": "Kiah",
+    "fLE": "K",
+    "tel": "కెయ్య",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "female",
+    "rel": "Muslim"
+  },
+  {
+    "id": "2b426ab4-c3a5-4c6d-aee0-9da6eaa5f46a",
+    "eng": "Kialyn",
+    "fLE": "K",
+    "tel": "కీయాలైన",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "female",
+    "rel": "others"
+  },
+  {
+    "id": "e0f18dd1-be1d-4632-a4a6-73dc6ef7248a",
+    "eng": "Kiana",
+    "fLE": "K",
+    "tel": "కిరాణా",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "67db50e8-9810-4d7d-81af-1d9e4311cc78",
+    "eng": "Kiandra",
+    "fLE": "K",
+    "tel": "కిఆంధ్ర",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "female",
+    "rel": "others"
+  },
+  {
+    "id": "1f440c3d-7970-43c1-8ca3-bb7f2e10d275",
+    "eng": "kiandra",
+    "fLE": "k",
+    "tel": "కిఆంధ్ర",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "7f106b67-c486-424b-9d93-3e8eb334ba84",
+    "eng": "Kiandre",
+    "fLE": "K",
+    "tel": "కిఆండ్రే",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "female",
+    "rel": "others"
+  },
+  {
+    "id": "a02b88b6-5f4b-4eff-bf62-45ef2d5fec3f",
+    "eng": "Kiania",
+    "fLE": "K",
+    "tel": "కిఅనిఆ",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "4164b3ac-2993-4947-88ee-4d385152aca1",
+    "eng": "Kianna",
+    "fLE": "K",
+    "tel": "కిఅన్నా",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "female",
+    "rel": "others"
+  },
+  {
+    "id": "d5357db7-1e54-4140-b549-c137cb833ccb",
+    "eng": "kianna",
+    "fLE": "k",
+    "tel": "కిఅన్నా",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "bd9467a3-698f-4a2e-8621-e3a208aecde8",
+    "eng": "Kianne",
+    "fLE": "K",
+    "tel": "కియాన్నే",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "female",
+    "rel": "others"
+  },
+  {
+    "id": "00040010-dc65-4aea-adce-722996cb8b61",
+    "eng": "Kiara",
+    "fLE": "K",
+    "tel": "కీసర",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "3cebd1b9-54de-42df-9c3f-6db34f8e0519",
+    "eng": "Kiaria",
+    "fLE": "K",
+    "tel": "కిఅరియా",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "female",
+    "rel": "others"
+  },
+  {
+    "id": "a4354fe8-50bd-4e93-a05c-f50b17032f95",
+    "eng": "Kiarn",
+    "fLE": "K",
+    "tel": "కిరణ్",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "female",
+    "rel": "others"
+  },
+  {
+    "id": "6bbc9d1c-5ee6-4eab-9963-e9f3e5b68987",
+    "eng": "Kiasax",
+    "fLE": "K",
+    "tel": "కిఅసస్",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "df650655-265a-403e-9f80-745c24ef6066",
+    "eng": "Kiba",
+    "fLE": "K",
+    "tel": "కీబా",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "female",
+    "rel": "others"
+  },
+  {
+    "id": "48d4341b-883d-4c97-8e36-62f396d1a3da",
+    "eng": "Kibriah",
+    "fLE": "K",
+    "tel": "కిబ్రాయ్య",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "female",
+    "rel": "Muslim"
+  },
+  {
+    "id": "6f611ef3-a580-4bf7-8b3d-d3142a90de83",
+    "eng": "Kiena",
+    "fLE": "K",
+    "tel": "కైనా",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "female",
+    "rel": "others"
+  },
+  {
+    "id": "771758f4-5104-46e4-9375-8fbf64bb1aed",
+    "eng": "Kiera",
+    "fLE": "K",
+    "tel": "కీరా",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "female",
+    "rel": "others"
+  },
+  {
+    "id": "de469705-0349-4f47-bec7-879d3473b495",
+    "eng": "kiera",
+    "fLE": "k",
+    "tel": "కీరా",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "76cd1cc9-fc8f-40ab-a4cd-2aff25fafd23",
+    "eng": "Kierah",
+    "fLE": "K",
+    "tel": "కిరాహ్",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "female",
+    "rel": "others"
+  },
+  {
+    "id": "7159dc6a-9505-44f0-8ceb-a6bcb07420a9",
+    "eng": "Kierat",
+    "fLE": "K",
+    "tel": "పైరేట్",
+    "fLTel": "ప",
+    "tags": [],
+    "gen": "female",
+    "rel": "others"
+  },
+  {
+    "id": "949dc3b6-f6f5-4684-811e-0a043459ce92",
+    "eng": "Kierra",
+    "fLE": "K",
+    "tel": "కుర్ర",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "female",
+    "rel": "others"
+  },
+  {
+    "id": "b2f883cf-6828-4c42-8a20-c58281e521d3",
+    "eng": "kierra",
+    "fLE": "k",
+    "tel": "కుర్ర",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "95b0b242-138f-425f-9010-363f0694c985",
+    "eng": "Kierslei",
+    "fLE": "K",
+    "tel": "కిర్స్లేయ్",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "female",
+    "rel": "others"
+  },
+  {
+    "id": "7637049d-abff-4014-9aa1-398b443bca19",
+    "eng": "Kierslyn",
+    "fLE": "K",
+    "tel": "కిర్స్లీన్",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "female",
+    "rel": "others"
+  },
+  {
+    "id": "89982d30-e2e6-4af4-af2a-c0b47243f2a3",
+    "eng": "Kiersten",
+    "fLE": "K",
+    "tel": "కిర్స్టన్",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "286a2957-7c0f-4998-9ad5-b6d823251028",
+    "eng": "Kiesh",
+    "fLE": "K",
+    "tel": "కీషు",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "17a5b827-481d-4d5d-8b5b-51b39586f66d",
+    "eng": "Kieu",
+    "fLE": "K",
+    "tel": "కేయూ",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "female",
+    "rel": "others"
+  },
+  {
+    "id": "ca34d8c9-6a71-4c9d-aa20-d105e10ac015",
+    "eng": "Kieve",
+    "fLE": "K",
+    "tel": "కీవ్",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "female",
+    "rel": "others"
+  },
+  {
+    "id": "7b25b988-9de2-4011-ab3c-2b07c41bdde5",
+    "eng": "Kifaya",
+    "fLE": "K",
+    "tel": "కిఫాయా",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "female",
+    "rel": "Muslim"
+  },
+  {
+    "id": "f393af12-4902-4823-a512-59731ff756bd",
+    "eng": "Kiffany",
+    "fLE": "K",
+    "tel": "కిఫ్ఫాన్య్",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "female",
+    "rel": "others"
+  },
+  {
+    "id": "6f2b07dc-f3d1-4477-a2af-bce33119f6bb",
+    "eng": "kiffany",
+    "fLE": "k",
+    "tel": "కిఫ్ఫాన్య్",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "75c53473-4dc3-4629-94d3-def75fda831d",
+    "eng": "Kiffen",
+    "fLE": "K",
+    "tel": "కిఫన్",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "female",
+    "rel": "others"
+  },
+  {
+    "id": "2e339fe7-ce89-4f02-b419-940a872a34ff",
+    "eng": "Kiira",
+    "fLE": "K",
+    "tel": "క్కిఱ",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "female",
+    "rel": "others"
+  },
+  {
+    "id": "b70069ba-ed96-43eb-bfcd-49c9412e5393",
+    "eng": "Kiirah",
+    "fLE": "K",
+    "tel": "కిఇరః",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "female",
+    "rel": "others"
+  },
+  {
+    "id": "33137842-05db-40f6-85b7-5676f271dd3f",
+    "eng": "Kijal",
+    "fLE": "K",
+    "tel": "పైజల్",
+    "fLTel": "ప",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "c3fcc3af-5439-43bc-86d1-669d62c7f331",
+    "eng": "kika",
+    "fLE": "k",
+    "tel": "కిక",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "d5f3c710-275a-4782-8c92-b59486ded589",
+    "eng": "Kikelomo",
+    "fLE": "K",
+    "tel": "కికెలోమో",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "767e65b0-40cc-4069-839c-28da89d01d65",
+    "eng": "Kikka",
+    "fLE": "K",
+    "tel": "కుక్క",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "6fac6f03-22b9-43ce-9349-c2fb8209c00e",
+    "eng": "Kikkan",
+    "fLE": "K",
+    "tel": "కిక్కం",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "e39cc312-219e-4d31-8ceb-5355e7137248",
+    "eng": "Kikky",
+    "fLE": "K",
+    "tel": "కిక్క్",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "female",
+    "rel": "others"
+  },
+  {
+    "id": "722526da-f35e-40f4-9267-5ead5476c61c",
+    "eng": "Kiku",
+    "fLE": "K",
+    "tel": "కిక్కు",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "female",
+    "rel": "others"
+  },
+  {
+    "id": "e6287527-2b4a-48af-a58f-758286b71383",
+    "eng": "Kilala",
+    "fLE": "K",
+    "tel": "కులాల",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "female",
+    "rel": "others"
+  },
+  {
+    "id": "9c0d95b7-6e48-47ea-accb-05b0d118e904",
+    "eng": "kilala",
+    "fLE": "k",
+    "tel": "కులాల",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "8cafe0ab-ae2f-45e4-bc74-bf1c694209e3",
+    "eng": "Kilenya",
+    "fLE": "K",
+    "tel": "కిలేన్య",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "7ecf8784-0fad-46a8-bc4f-fb6654b2a329",
+    "eng": "kilenya",
+    "fLE": "k",
+    "tel": "కిలేన్య",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "43a1c595-818c-4fc7-8ae4-49afde790e5d",
+    "eng": "Kiley",
+    "fLE": "K",
+    "tel": "కిలేయ్",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "female",
+    "rel": "others"
+  },
+  {
+    "id": "af34b7dc-868c-43c3-afef-9f75556d0bfb",
+    "eng": "Kili",
+    "fLE": "K",
+    "tel": "కిలి",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "baf3d596-78b8-44bb-85f3-febd6c027ba2",
+    "eng": "kilikina",
+    "fLE": "k",
+    "tel": "కిలికిన",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "d363d258-50ee-433b-b05a-9cae48938e9b",
+    "eng": "Kilimoli",
+    "fLE": "K",
+    "tel": "కిళిమొళి",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "4f0fa8ff-749b-45e0-8183-d50a3da325f2",
+    "eng": "Kilmeny",
+    "fLE": "K",
+    "tel": "కిలమ్మను",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "female",
+    "rel": "others"
+  },
+  {
+    "id": "dc6f5b79-b64e-4d3e-9a67-c54af75f6f2b",
+    "eng": "Kima",
+    "fLE": "K",
+    "tel": "ఖీమా",
+    "fLTel": "ఖ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "f56c0dc0-f13c-404e-872a-33766f719f6b",
+    "eng": "Kimaayra",
+    "fLE": "K",
+    "tel": "కిమాయారా",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "female",
+    "rel": "others"
+  },
+  {
+    "id": "4ba69407-d49e-4ad7-85fc-64ef4bb8e71b",
+    "eng": "Kimama",
+    "fLE": "K",
+    "tel": "కిమమ",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "adfbe558-0e2c-492b-bbf8-05a54ae65f71",
+    "eng": "kimama",
+    "fLE": "k",
+    "tel": "కిమమ",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "053af99c-7cc5-426b-939e-1a4dc4368d85",
+    "eng": "kimana",
+    "fLE": "k",
+    "tel": "కిమన",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "59c42c11-b263-43aa-9294-d33a3bce2f7a",
+    "eng": "Kimani",
+    "fLE": "K",
+    "tel": "కిమని",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "female",
+    "rel": "others"
+  },
+  {
+    "id": "b6e62f37-ef07-451a-a2a8-8d19a6cfd89b",
+    "eng": "Kimatra",
+    "fLE": "K",
+    "tel": "కిమత్ర",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "2de108f5-8410-4898-b228-3af833959271",
+    "eng": "Kimaya",
+    "fLE": "K",
+    "tel": "కిమయ",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  }
+]

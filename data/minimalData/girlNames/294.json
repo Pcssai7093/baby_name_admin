@@ -1,0 +1,902 @@
+[
+  {
+    "id": "a3555e4e-74c6-4a19-912e-20e43149709a",
+    "eng": "Minnalkodi",
+    "fLE": "M",
+    "tel": "మిన్నలకోడి",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "e557cd01-8135-4248-829e-a414f455bfce",
+    "eng": "Minnat",
+    "fLE": "M",
+    "tel": "మిన్నట",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Muslim"
+  },
+  {
+    "id": "d769560a-d287-414d-a940-080b07f9c8cc",
+    "eng": "Minnati",
+    "fLE": "M",
+    "tel": "మిన్నంటి",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "e5ff1ab9-6ad8-4cc6-9266-e65be12bcffe",
+    "eng": "Minne",
+    "fLE": "M",
+    "tel": "మిన్నే",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "female",
+    "rel": "others"
+  },
+  {
+    "id": "425d546e-1703-4cfc-b9f4-75c267b24bca",
+    "eng": "Minni",
+    "fLE": "M",
+    "tel": "మిన్నీ",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "3dea2d3a-cba0-423f-b457-257e4e2e6d24",
+    "eng": "Minnie",
+    "fLE": "M",
+    "tel": "మిన్నిఈ",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "7a19a1cf-31fa-4631-b56a-384cfd8ca5c1",
+    "eng": "Minnoli",
+    "fLE": "M",
+    "tel": "మిన్నొలి",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "e9826725-9001-48be-a255-6b1aa5dfd2c8",
+    "eng": "Minnoliyal",
+    "fLE": "M",
+    "tel": "మిన్నొలియల్",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "93dbae62-6b71-409a-9e18-322f912ad09a",
+    "eng": "Minnu",
+    "fLE": "M",
+    "tel": "మిన్ను",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "female",
+    "rel": "others"
+  },
+  {
+    "id": "4cd5670c-0e54-4ec4-b40b-3aa794bc7346",
+    "eng": "Minny",
+    "fLE": "M",
+    "tel": "మిన్నీ",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "78a686ab-6be5-430d-be0b-d9b78e30cb67",
+    "eng": "Minodora",
+    "fLE": "M",
+    "tel": "మినోడోరా",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "3af06a12-2dd5-4136-bf56-998b9aa9d3f7",
+    "eng": "Minoo",
+    "fLE": "M",
+    "tel": "మెనూ",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Muslim"
+  },
+  {
+    "id": "9713270d-08b2-4102-9ae5-b7950c42e832",
+    "eng": "Minor",
+    "fLE": "M",
+    "tel": "మైనర్",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "female",
+    "rel": "others"
+  },
+  {
+    "id": "68a1b843-ff95-4851-b507-8eac63838021",
+    "eng": "Minoti",
+    "fLE": "M",
+    "tel": "మినోటి",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "d99cf352-6fb8-4ac6-a164-d5ecd95f10d1",
+    "eng": "Mint",
+    "fLE": "M",
+    "tel": "మింట్",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "female",
+    "rel": "others"
+  },
+  {
+    "id": "c47772ab-7c0a-4eec-919e-13b6be274450",
+    "eng": "Minta",
+    "fLE": "M",
+    "tel": "మింట",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "68d37200-c1b6-4b52-868f-a728c7a1cb04",
+    "eng": "Mintie",
+    "fLE": "M",
+    "tel": "మింటిఎ",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "female",
+    "rel": "others"
+  },
+  {
+    "id": "b6ff5494-bab5-4786-8d70-533fa92eb28c",
+    "eng": "Minty",
+    "fLE": "M",
+    "tel": "మింటి",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "395e2266-4c76-4bb4-b01d-243cd88619e5",
+    "eng": "Minu",
+    "fLE": "M",
+    "tel": "మిను",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "4e436ab5-94a9-493d-a7ea-711951545ed0",
+    "eng": "minuet",
+    "fLE": "m",
+    "tel": "మినుయేట్",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "c11b9300-9673-47cf-b0e4-e259eb1c9089",
+    "eng": "Minuette",
+    "fLE": "M",
+    "tel": "మినుఇట్టే",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "female",
+    "rel": "others"
+  },
+  {
+    "id": "c4ca5939-f536-470e-9c57-5c8306674ef3",
+    "eng": "Minuyara",
+    "fLE": "M",
+    "tel": "మిణుయారా",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Muslim"
+  },
+  {
+    "id": "1d213df2-9a4c-4520-80b8-bf09e5f4d6b2",
+    "eng": "Minya",
+    "fLE": "M",
+    "tel": "మియా",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "female",
+    "rel": "others"
+  },
+  {
+    "id": "bb5b615a-db6d-45cb-b203-077653c1cff7",
+    "eng": "Mio",
+    "fLE": "M",
+    "tel": "ఎంఇఓ",
+    "fLTel": "ఎ",
+    "tags": [],
+    "gen": "female",
+    "rel": "others"
+  },
+  {
+    "id": "a9e180e1-b11e-4f53-a77f-628678b26e52",
+    "eng": "Miosoti",
+    "fLE": "M",
+    "tel": "మీవుసోతి",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "female",
+    "rel": "others"
+  },
+  {
+    "id": "848c8fb0-36eb-41e0-bacd-95ef387da979",
+    "eng": "Mipasha",
+    "fLE": "M",
+    "tel": "మీపాషా",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "fac19381-f162-4a06-99fe-64370e6d8098",
+    "eng": "Mira",
+    "fLE": "M",
+    "tel": "మీరు",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "5b3cb3a6-fa7f-401f-be21-a523e2116ed9",
+    "eng": "Miraan",
+    "fLE": "M",
+    "tel": "మీరాన్",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "7d50d45d-f387-41eb-b872-5c8f6938a406",
+    "eng": "Mirabai",
+    "fLE": "M",
+    "tel": "మీరాబాయి",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "female",
+    "rel": "others"
+  },
+  {
+    "id": "a7217ad5-81e0-42fa-a525-e96b35e33e25",
+    "eng": "Mirabel",
+    "fLE": "M",
+    "tel": "మీరాబెల్",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "female",
+    "rel": "others"
+  },
+  {
+    "id": "362cf972-4fb0-4570-83d1-9aabe80678eb",
+    "eng": "Mirabella",
+    "fLE": "M",
+    "tel": "మిరబెల్ల",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "female",
+    "rel": "others"
+  },
+  {
+    "id": "5ceeb0a2-8c74-4727-957c-5a2c6e39aba1",
+    "eng": "Mirabelle",
+    "fLE": "M",
+    "tel": "మీరాబెల్లె",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "8d3e7298-033d-4fca-8d6f-6bea26837ae9",
+    "eng": "Mirabilis",
+    "fLE": "M",
+    "tel": "మిరాబిలిస్",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "female",
+    "rel": "others"
+  },
+  {
+    "id": "3303a3b8-8690-4028-a0ee-a1a9ff47d81d",
+    "eng": "Miracle",
+    "fLE": "M",
+    "tel": "మిరచ్లె",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "female",
+    "rel": "others"
+  },
+  {
+    "id": "cf9dbb1d-5736-4742-a514-b2416c2bd62f",
+    "eng": "Mirah",
+    "fLE": "M",
+    "tel": "మీరహ్",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Muslim"
+  },
+  {
+    "id": "059402a1-60b8-45a4-93c4-b0ba3479152b",
+    "eng": "Mirai",
+    "fLE": "M",
+    "tel": "మిరై",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "female",
+    "rel": "others"
+  },
+  {
+    "id": "fbcd3c3b-4d98-47eb-ad4c-618b85c6fd8d",
+    "eng": "Mirain",
+    "fLE": "M",
+    "tel": "మెరైన్",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "female",
+    "rel": "others"
+  },
+  {
+    "id": "70ca08a5-216a-4c87-8273-8c1b26958957",
+    "eng": "Miraj",
+    "fLE": "M",
+    "tel": "మిరాజ్",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "92a7d80e-a53e-4a2f-9f45-4d1c301dcdc0",
+    "eng": "Mirajkar",
+    "fLE": "M",
+    "tel": "మీరజ్కర్",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "female",
+    "rel": "others"
+  },
+  {
+    "id": "e50b48ec-f4e4-4e9b-88f5-6975ee958f82",
+    "eng": "Mirakeshi",
+    "fLE": "M",
+    "tel": "మిరకేశి",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "7f735c3d-e215-464f-94ff-e18b961829ef",
+    "eng": "Miral",
+    "fLE": "M",
+    "tel": "మిర్యాల",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "efe2b20b-b629-4020-bcf9-4ce7327328ef",
+    "eng": "Miranda",
+    "fLE": "M",
+    "tel": "మిరాండా",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "female",
+    "rel": "others"
+  },
+  {
+    "id": "8a99a040-4d18-408e-a337-ef194331b6c3",
+    "eng": "Miranka",
+    "fLE": "M",
+    "tel": "మిరంగా",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "e86d1de5-f820-4acf-a357-b98c926b7e9e",
+    "eng": "Mirari",
+    "fLE": "M",
+    "tel": "మురారి",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "female",
+    "rel": "others"
+  },
+  {
+    "id": "ee61591a-1e24-478a-a9ab-04faf65296b9",
+    "eng": "Mirasol",
+    "fLE": "M",
+    "tel": "మిరసాల్",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "female",
+    "rel": "others"
+  },
+  {
+    "id": "9c7fe4f3-5b83-4de9-9ba8-264f9849661e",
+    "eng": "Miraya",
+    "fLE": "M",
+    "tel": "మిరయా",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "f1655c46-b18f-4568-82b2-ea2a13486318",
+    "eng": "Mireia",
+    "fLE": "M",
+    "tel": "మిరియా",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "female",
+    "rel": "others"
+  },
+  {
+    "id": "72f01ba0-bff6-4783-8206-5dbb7ca6a68d",
+    "eng": "Mireille",
+    "fLE": "M",
+    "tel": "మిరేయిల్లే",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "a9836258-c002-4a68-ade3-c3775abdf0a1",
+    "eng": "Mirel",
+    "fLE": "M",
+    "tel": "మీరెలా",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "female",
+    "rel": "others"
+  },
+  {
+    "id": "cb50422c-7f2d-4bf5-9b5b-0727ffe194a8",
+    "eng": "Mirela",
+    "fLE": "M",
+    "tel": "మీరెలా",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "female",
+    "rel": "others"
+  },
+  {
+    "id": "85ec3d5a-5ee2-4ef5-b547-4b0009a49edf",
+    "eng": "Mirele",
+    "fLE": "M",
+    "tel": "మీరెలా",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "female",
+    "rel": "others"
+  },
+  {
+    "id": "257e67b0-9e02-41d1-ba27-cfb33914c8f3",
+    "eng": "Mirella",
+    "fLE": "M",
+    "tel": "మీరెల్ల",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "1af76d99-a182-47f0-a0b8-ce5c577ee8c0",
+    "eng": "Mirembe",
+    "fLE": "M",
+    "tel": "మిరంబె",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "female",
+    "rel": "others"
+  },
+  {
+    "id": "efc785e3-dacc-4686-9bf8-2fdd8e5f8239",
+    "eng": "Miren",
+    "fLE": "M",
+    "tel": "మీరేం",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "female",
+    "rel": "others"
+  },
+  {
+    "id": "ab5fcebe-4c77-46ce-85ca-142c407aa1b5",
+    "eng": "Mirena",
+    "fLE": "M",
+    "tel": "మీరేనా",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "female",
+    "rel": "others"
+  },
+  {
+    "id": "2a870a0f-a192-4475-8a85-c3ba56d032cb",
+    "eng": "Mirette",
+    "fLE": "M",
+    "tel": "మీరెత్తే",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "4b0712a8-6063-4cc0-a10a-96441c532ddd",
+    "eng": "Mireya",
+    "fLE": "M",
+    "tel": "మిరియా",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "female",
+    "rel": "others"
+  },
+  {
+    "id": "c692f1b9-36c3-4322-ba6c-58a5627759aa",
+    "eng": "Mirfa",
+    "fLE": "M",
+    "tel": "మిరఫా",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Muslim"
+  },
+  {
+    "id": "5922b17f-5074-45e6-acab-641240e02e22",
+    "eng": "Mirgaksini",
+    "fLE": "M",
+    "tel": "మీఱఁగఁక్సిణి",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "2b7075ba-a451-4a77-bffb-63c00cfd832c",
+    "eng": "Miri",
+    "fLE": "M",
+    "tel": "మీరు",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "c76ba44d-62cf-4401-881a-5a8361683bde",
+    "eng": "Miria",
+    "fLE": "M",
+    "tel": "మిరియా",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "female",
+    "rel": "others"
+  },
+  {
+    "id": "fb572de9-3f90-41df-bb39-7ce889d6b15e",
+    "eng": "Miriam",
+    "fLE": "M",
+    "tel": "మిరియం",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "female",
+    "rel": "others"
+  },
+  {
+    "id": "6def3a89-fda0-409c-bf31-a144c85b7667",
+    "eng": "miriam",
+    "fLE": "m",
+    "tel": "మిరియం",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "10cea572-a01b-4c6e-8604-a2060c6cb60f",
+    "eng": "mirian",
+    "fLE": "m",
+    "tel": "మిరియాన్",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "62c8bec8-df53-45b4-a521-f864c13f2ba8",
+    "eng": "Miriana",
+    "fLE": "M",
+    "tel": "మీరిన",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "7ebb09ba-07ee-4545-beca-3e4655197d76",
+    "eng": "Miridhini",
+    "fLE": "M",
+    "tel": "మీరిదిని",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "043bb2f8-a56f-4c6c-9da5-6755792a038e",
+    "eng": "Mirielis",
+    "fLE": "M",
+    "tel": "మిరియలిస్",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "female",
+    "rel": "others"
+  },
+  {
+    "id": "0a1d4ec3-f2bd-45bf-93c0-6e00ee955959",
+    "eng": "Mirielle",
+    "fLE": "M",
+    "tel": "మీరైళ్ళే",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "female",
+    "rel": "others"
+  },
+  {
+    "id": "a41dcb93-f151-48f5-9b50-216db7f25836",
+    "eng": "Mirin",
+    "fLE": "M",
+    "tel": "మీరిన",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "540ba8a2-df7e-4f63-bece-1fd2c140f332",
+    "eng": "Mirinalini",
+    "fLE": "M",
+    "tel": "మిరినళిని",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "8cb4892a-4fcd-4a6f-9e7f-69236ef795e1",
+    "eng": "Mirinda",
+    "fLE": "M",
+    "tel": "మిరిండా",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "female",
+    "rel": "others"
+  },
+  {
+    "id": "34e2c338-b29c-4146-8f21-14c0082f9305",
+    "eng": "Mirit",
+    "fLE": "M",
+    "tel": "మెరిట్",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "female",
+    "rel": "others"
+  },
+  {
+    "id": "71ffb4cf-a25e-43e3-a62a-0c385e81f2dd",
+    "eng": "Mirium",
+    "fLE": "M",
+    "tel": "మిరియం",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "373827ba-44ea-41bc-8ad4-bb79eb303eaf",
+    "eng": "Miriyana",
+    "fLE": "M",
+    "tel": "మిరియానా",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "female",
+    "rel": "others"
+  },
+  {
+    "id": "c749df44-8ae8-4a1f-99a9-ffae7c44b30b",
+    "eng": "mirja",
+    "fLE": "m",
+    "tel": "మీర్జా",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "be31d5f6-0173-4035-b565-240c0d7c6256",
+    "eng": "Mirjam",
+    "fLE": "M",
+    "tel": "మిర్జామ్",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "female",
+    "rel": "others"
+  },
+  {
+    "id": "5b74587e-6af8-4409-be55-3c7471924015",
+    "eng": "Mirjana",
+    "fLE": "M",
+    "tel": "మీర్జాను",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "264d0c93-eaf6-43d2-833a-c1b9aa900850",
+    "eng": "Mirka",
+    "fLE": "M",
+    "tel": "మిర్కా",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "female",
+    "rel": "others"
+  },
+  {
+    "id": "e4d9d0c2-b0fb-4145-b2ef-011bb737b63c",
+    "eng": "Mirke",
+    "fLE": "M",
+    "tel": "మిర్క్",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "female",
+    "rel": "others"
+  },
+  {
+    "id": "7145eb01-eb1e-46af-9356-fbe7a410e6b6",
+    "eng": "Mirlande",
+    "fLE": "M",
+    "tel": "మిర్లాండ్",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "female",
+    "rel": "others"
+  },
+  {
+    "id": "3299d3ee-3e6e-4ea5-bbd1-8f467f68bc97",
+    "eng": "Mirna",
+    "fLE": "M",
+    "tel": "మీరిన",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "female",
+    "rel": "others"
+  },
+  {
+    "id": "daa062b2-8fe3-41dc-8462-89c961da5713",
+    "eng": "Mirnalini",
+    "fLE": "M",
+    "tel": "మిర్నలిని",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "852ab2c7-7fa1-416d-9097-12533aef7ae8",
+    "eng": "Mirosha",
+    "fLE": "M",
+    "tel": "మీరోష",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "1b159688-166b-4dc7-97bf-f1917ad6f741",
+    "eng": "Mirra",
+    "fLE": "M",
+    "tel": "మిర్ర",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "female",
+    "rel": "others"
+  },
+  {
+    "id": "fe2d3e09-08fc-4224-a472-f86bd0b6dbd6",
+    "eng": "Mirre",
+    "fLE": "M",
+    "tel": "ముర్రే",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "3d9eb7f3-36fe-423b-9d8e-7c0168d7e70a",
+    "eng": "Mirshika",
+    "fLE": "M",
+    "tel": "మిర్షిక",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "5ab5830c-74d0-4890-945f-0f227cc3399f",
+    "eng": "Mirta",
+    "fLE": "M",
+    "tel": "మీరుట",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "female",
+    "rel": "others"
+  },
+  {
+    "id": "0ecc23c7-b110-497a-9635-b88003198213",
+    "eng": "mirte",
+    "fLE": "m",
+    "tel": "మిర్టే",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "10359f65-ed93-494c-b31a-83238f2ec69c",
+    "eng": "Mirth",
+    "fLE": "M",
+    "tel": "మిర్త్",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "female",
+    "rel": "others"
+  },
+  {
+    "id": "d73bac58-11e1-4340-8db1-90d08eb4458f",
+    "eng": "mirtha",
+    "fLE": "m",
+    "tel": "మిర్థ",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  }
+]

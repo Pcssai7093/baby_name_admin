@@ -1,0 +1,902 @@
+[
+  {
+    "id": "576807d1-9b6c-4709-bb3e-ca2c3b5277b8",
+    "eng": "Fultushi",
+    "fLE": "F",
+    "tel": "ఫుల్తుషి",
+    "fLTel": "ఫ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "ea5151a3-e682-42d6-9230-ecabf6ce1915",
+    "eng": "Fulva",
+    "fLE": "F",
+    "tel": "ఫుల్వ",
+    "fLTel": "ఫ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "1233f9b0-c5a0-4523-bc90-45324da26a74",
+    "eng": "Fulvia",
+    "fLE": "F",
+    "tel": "ఫులీవియా",
+    "fLTel": "ఫ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "d3cf30b7-fa8e-44ee-b298-034054cb090f",
+    "eng": "Fumiko",
+    "fLE": "F",
+    "tel": "ఫుమికో",
+    "fLTel": "ఫ",
+    "tags": [],
+    "gen": "female",
+    "rel": "others"
+  },
+  {
+    "id": "76e71d36-a4b6-4226-8adb-978a525acbdc",
+    "eng": "Fumnaya",
+    "fLE": "F",
+    "tel": "ఫుమ్నాయ",
+    "fLTel": "ఫ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "f48e98db-b739-437e-a462-6983f8be0f34",
+    "eng": "Funda",
+    "fLE": "F",
+    "tel": "ఫండ",
+    "fLTel": "ఫ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Muslim"
+  },
+  {
+    "id": "6f5b7c2b-3220-40b6-9274-11ebe6c537cb",
+    "eng": "Funmilayo",
+    "fLE": "F",
+    "tel": "ఫంమిలాయో",
+    "fLTel": "ఫ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "f5cf4aa3-4b2e-4cc0-88d1-e9bf7ab1e18c",
+    "eng": "Funoon",
+    "fLE": "F",
+    "tel": "ఫునోన్",
+    "fLTel": "ఫ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Muslim"
+  },
+  {
+    "id": "91e7f9f9-b7cc-4b47-aa7c-76e034d56e2f",
+    "eng": "Furada",
+    "fLE": "F",
+    "tel": "ఫురద",
+    "fLTel": "ఫ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Muslim"
+  },
+  {
+    "id": "6e5e4872-4a8b-4b18-a5cb-713c79ca7ad4",
+    "eng": "Furaha",
+    "fLE": "F",
+    "tel": "ఫురహా",
+    "fLTel": "ఫ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "b0778b7c-28f6-401f-b9d7-6195118b7b04",
+    "eng": "Furat",
+    "fLE": "F",
+    "tel": "ఫురత్",
+    "fLTel": "ఫ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Muslim"
+  },
+  {
+    "id": "54bcbc3f-fab4-4d9e-9371-9f18d21b8e56",
+    "eng": "Furayah",
+    "fLE": "F",
+    "tel": "ఫురయ్హ",
+    "fLTel": "ఫ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Muslim"
+  },
+  {
+    "id": "a49f2357-3007-43a8-92b3-f8d9b897f88b",
+    "eng": "Furoozan",
+    "fLE": "F",
+    "tel": "ఫురోజాన్",
+    "fLTel": "ఫ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Muslim"
+  },
+  {
+    "id": "c3005921-33ac-4136-af79-e684d98830f5",
+    "eng": "Furough",
+    "fLE": "F",
+    "tel": "ఫురౌగ్",
+    "fLTel": "ఫ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Muslim"
+  },
+  {
+    "id": "59e80e32-b3a9-4413-8431-13db21f62cbb",
+    "eng": "Fursat",
+    "fLE": "F",
+    "tel": "ఫుర్సత్",
+    "fLTel": "ఫ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Muslim"
+  },
+  {
+    "id": "df62d83e-4bb8-454d-9609-2b2d2ca6ddc2",
+    "eng": "Fusaylah",
+    "fLE": "F",
+    "tel": "ఫుసయ్లహ్",
+    "fLTel": "ఫ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Muslim"
+  },
+  {
+    "id": "9721759d-80c4-4679-8940-ea447a263c57",
+    "eng": "Fuseelah",
+    "fLE": "F",
+    "tel": "ఫుశీలః",
+    "fLTel": "ఫ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Muslim"
+  },
+  {
+    "id": "2066789e-89bd-4bdc-ad40-89281fc2a505",
+    "eng": "fusun",
+    "fLE": "f",
+    "tel": "ఫుసుం",
+    "fLTel": "ఫ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Muslim"
+  },
+  {
+    "id": "a0602902-54b0-40ab-a40d-69f7819be25c",
+    "eng": "Futun",
+    "fLE": "F",
+    "tel": "ఫుతుం",
+    "fLTel": "ఫ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Muslim"
+  },
+  {
+    "id": "91421ca7-ec67-41b8-8f63-02e2b5b8d756",
+    "eng": "Fyiynfoluwa",
+    "fLE": "F",
+    "tel": "ఫ్యఐన్ఫోలువా",
+    "fLTel": "ఫ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "fbf6a08c-bafe-47d1-95e7-7abca6e5f9f4",
+    "eng": "Fylla",
+    "fLE": "F",
+    "tel": "ఫ్యల్ల",
+    "fLTel": "ఫ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "1c4eafe1-be49-4ff3-a113-9c5e91c4c3b8",
+    "eng": "Fynch",
+    "fLE": "F",
+    "tel": "ఫ్యఞ్చ",
+    "fLTel": "ఫ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "ac30e22a-2c6d-4cb4-9d7a-6aaed79b36e9",
+    "eng": "Ga",
+    "fLE": "G",
+    "tel": "గ",
+    "fLTel": "గ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "407eca75-152b-4616-b791-96416ec55016",
+    "eng": "Gaangi",
+    "fLE": "G",
+    "tel": "గాఁగి",
+    "fLTel": "గ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "7bb57607-2802-46e1-9807-d1921a1bb69f",
+    "eng": "Gaatha",
+    "fLE": "G",
+    "tel": "గాథ",
+    "fLTel": "గ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "a5846fd7-6793-42ff-99fc-19fbbe8b6f3a",
+    "eng": "Gaatri",
+    "fLE": "G",
+    "tel": "గాయత్రి",
+    "fLTel": "గ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "f7a25869-f932-4d88-aa21-e41aa73540da",
+    "eng": "Gabbi",
+    "fLE": "G",
+    "tel": "గబ్బి",
+    "fLTel": "గ",
+    "tags": [],
+    "gen": "female",
+    "rel": "others"
+  },
+  {
+    "id": "68cffbcb-9ec1-472d-ab27-23dac6447539",
+    "eng": "Gabbie",
+    "fLE": "G",
+    "tel": "గబ్బియే",
+    "fLTel": "గ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "2d6b3581-c509-407e-95d5-ef9bab3f6332",
+    "eng": "Gabbs",
+    "fLE": "G",
+    "tel": "గిబ్స్",
+    "fLTel": "గ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "2e2fff86-9051-4553-acc1-c4b7a856fd91",
+    "eng": "Gabby",
+    "fLE": "G",
+    "tel": "గాబీ",
+    "fLTel": "గ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "a56b2a4e-8ed4-4f6e-b37b-57b092eb555c",
+    "eng": "gabby",
+    "fLE": "g",
+    "tel": "గాబీ",
+    "fLTel": "గ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "2357d2d7-3d11-464b-9089-d4a66d8b915a",
+    "eng": "Gabela",
+    "fLE": "G",
+    "tel": "గాబేళా",
+    "fLTel": "గ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "5923678c-d972-4080-9ac9-7598a053fa1f",
+    "eng": "Gabi",
+    "fLE": "G",
+    "tel": "గాబి",
+    "fLTel": "గ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "43381224-0cbf-47de-a2bb-ad984e87d13f",
+    "eng": "gabi",
+    "fLE": "g",
+    "tel": "గాబి",
+    "fLTel": "గ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "3d27da11-9317-4791-b72c-20ea1f81e554",
+    "eng": "Gabie",
+    "fLE": "G",
+    "tel": "గాబిఎ",
+    "fLTel": "గ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "dd8d5f9a-1d80-49af-9509-c9b17e57cbc7",
+    "eng": "Gabija",
+    "fLE": "G",
+    "tel": "గాబిజా",
+    "fLTel": "గ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "290bdfda-46ed-4ca2-a397-b56a4d37abc5",
+    "eng": "Gabina",
+    "fLE": "G",
+    "tel": "గాబీనా",
+    "fLTel": "గ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Muslim"
+  },
+  {
+    "id": "48e02b94-34e5-4e11-8c22-ed0540457446",
+    "eng": "gabouray",
+    "fLE": "g",
+    "tel": "గాబోలురై",
+    "fLTel": "గ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "eeb339ea-464e-4039-95b3-4889ecc31182",
+    "eng": "Gabourey",
+    "fLE": "G",
+    "tel": "గాబోఉరేయ్",
+    "fLTel": "గ",
+    "tags": [],
+    "gen": "female",
+    "rel": "others"
+  },
+  {
+    "id": "caec3506-e587-4d70-9b4b-b78d8490ac0f",
+    "eng": "Gabrianna",
+    "fLE": "G",
+    "tel": "గాబ్రియన్న",
+    "fLTel": "గ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "e49a87c4-567c-4b19-b938-fde94df15f9a",
+    "eng": "Gabrie",
+    "fLE": "G",
+    "tel": "గాబ్రియే",
+    "fLTel": "గ",
+    "tags": [],
+    "gen": "female",
+    "rel": "others"
+  },
+  {
+    "id": "bf224d94-4d3c-4344-af78-15a89c3891b3",
+    "eng": "gabrie",
+    "fLE": "g",
+    "tel": "గాబ్రియే",
+    "fLTel": "గ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "c3512684-91b8-494a-ae04-0fdd41ae4f27",
+    "eng": "gabrielle",
+    "fLE": "g",
+    "tel": "గాబ్రియేల్ల",
+    "fLTel": "గ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "790ee3c5-e224-411a-8eb2-7f0dc539dc0f",
+    "eng": "Gabrijela",
+    "fLE": "G",
+    "tel": "గాబ్రిజేల",
+    "fLTel": "గ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "c514bb0c-a669-492e-9bac-ca2e065ef6c8",
+    "eng": "gabrina",
+    "fLE": "g",
+    "tel": "గాబ్రిన",
+    "fLTel": "గ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "d35862a9-d160-4e57-96b5-6d33f39805ba",
+    "eng": "Gabryelle",
+    "fLE": "G",
+    "tel": "గుబురైళ్ళే",
+    "fLTel": "గ",
+    "tags": [],
+    "gen": "female",
+    "rel": "others"
+  },
+  {
+    "id": "c86a7504-e618-4e70-9b72-e38182887b51",
+    "eng": "Gaby",
+    "fLE": "G",
+    "tel": "గాబై",
+    "fLTel": "గ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "d2fb868d-f2e6-4db7-805f-bccb162c0da5",
+    "eng": "Gada",
+    "fLE": "G",
+    "tel": "గదా",
+    "fLTel": "గ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "0ac4dfa4-7346-4328-8846-762a1184aa2f",
+    "eng": "Gae",
+    "fLE": "G",
+    "tel": "గే",
+    "fLTel": "గ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "efd546b2-c243-415d-8c44-5ddbb7540c8d",
+    "eng": "Gaea",
+    "fLE": "G",
+    "tel": "గేయ",
+    "fLTel": "గ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "308c1a80-d476-435c-9f4b-e9d45475317d",
+    "eng": "Gaega",
+    "fLE": "G",
+    "tel": "గేజ్",
+    "fLTel": "గ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "d5bd8675-6a1a-4522-b296-82b209d46e04",
+    "eng": "Gaegi",
+    "fLE": "G",
+    "tel": "గేజి",
+    "fLTel": "గ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "d51a4fc9-801e-46b4-a581-8cc7f27e9323",
+    "eng": "Gael",
+    "fLE": "G",
+    "tel": "గేల్",
+    "fLTel": "గ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "861d7816-2458-49da-a3eb-d25c2f6f9a67",
+    "eng": "Gaela",
+    "fLE": "G",
+    "tel": "గేల",
+    "fLTel": "గ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "2f4c486c-898b-47e9-a888-8c66e9ced5d9",
+    "eng": "Gaelan",
+    "fLE": "G",
+    "tel": "గేలం",
+    "fLTel": "గ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "9bf9a4db-5421-4bcd-b906-d1c24f256691",
+    "eng": "Gaelle",
+    "fLE": "G",
+    "tel": "గేళ్లే",
+    "fLTel": "గ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "39ca19f4-e57b-42fb-9138-16d676f6ada9",
+    "eng": "Gaelyn",
+    "fLE": "G",
+    "tel": "గాఎలైన్",
+    "fLTel": "గ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "41aeb72b-2a63-4e9b-a21e-980b9bed427e",
+    "eng": "Gaenor",
+    "fLE": "G",
+    "tel": "గేనోర్",
+    "fLTel": "గ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "bafa303a-d5ba-4da4-9906-81aa99c01ef7",
+    "eng": "Gaetana",
+    "fLE": "G",
+    "tel": "గేతన",
+    "fLTel": "గ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "4759ad5a-5cb4-4798-8e44-2fb3e3cdc13a",
+    "eng": "gaetana",
+    "fLE": "g",
+    "tel": "గేతన",
+    "fLTel": "గ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "bcf3a231-e699-4723-9192-b66ca01881d2",
+    "eng": "Gaetane",
+    "fLE": "G",
+    "tel": "గెటాన్",
+    "fLTel": "గ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "36b10d03-2230-4487-a6b2-eebc7328c217",
+    "eng": "gaetane",
+    "fLE": "g",
+    "tel": "గెటాన్",
+    "fLTel": "గ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "b8b209e2-1c3b-4a18-8faa-2023f843b52c",
+    "eng": "Gaeti",
+    "fLE": "G",
+    "tel": "గేటి",
+    "fLTel": "గ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Muslim"
+  },
+  {
+    "id": "9db4d631-12e8-4708-b7bd-921a7b3207f5",
+    "eng": "Gafna",
+    "fLE": "G",
+    "tel": "గాఫ్న",
+    "fLTel": "గ",
+    "tags": [],
+    "gen": "female",
+    "rel": "others"
+  },
+  {
+    "id": "1bcf4db3-08a0-4237-b795-24c0a90ba1bb",
+    "eng": "gafna",
+    "fLE": "g",
+    "tel": "గాఫ్న",
+    "fLTel": "గ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "13a1f9c3-29ff-4701-8ede-87260430d097",
+    "eng": "gafnit",
+    "fLE": "g",
+    "tel": "గఫణితి",
+    "fLTel": "గ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "995ec7c6-dd41-4434-8741-8f25e25224f0",
+    "eng": "Gagana",
+    "fLE": "G",
+    "tel": "గగన",
+    "fLTel": "గ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "35996e71-fe87-4eb2-9fcd-f7f71da6e665",
+    "eng": "Gaganadipika",
+    "fLE": "G",
+    "tel": "గగనడిపిక",
+    "fLTel": "గ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "aca99fb4-b3c9-49d9-b682-00a27ed2c4fa",
+    "eng": "Gaganasindhu",
+    "fLE": "G",
+    "tel": "గగనసింధు",
+    "fLTel": "గ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "735d3b52-b2ce-46d6-900d-daaed594ae90",
+    "eng": "Gaganasri",
+    "fLE": "G",
+    "tel": "గగనశ్రీ",
+    "fLTel": "గ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "dd8f80b4-7844-4c2a-a79f-c143adf79858",
+    "eng": "Gaganpreet",
+    "fLE": "G",
+    "tel": "గగన్ప్రీత్",
+    "fLTel": "గ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Sikh"
+  },
+  {
+    "id": "f12f29e3-d920-4e3c-858e-459de48bd025",
+    "eng": "Gagni",
+    "fLE": "G",
+    "tel": "గజిని",
+    "fLTel": "గ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Sikh"
+  },
+  {
+    "id": "e285aa51-f4b9-4763-b217-78af0e5cc485",
+    "eng": "Gahana",
+    "fLE": "G",
+    "tel": "గాహన",
+    "fLTel": "గ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "7720f025-f4ef-42b3-a9dc-80d7ab9394fd",
+    "eng": "Gai",
+    "fLE": "G",
+    "tel": "గై",
+    "fLTel": "గ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "bb0cb7aa-51ec-4988-8fdd-dab6d7c89295",
+    "eng": "Gaia",
+    "fLE": "G",
+    "tel": "గయా",
+    "fLTel": "గ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "36600df2-eb60-4242-9b38-47bbb370a500",
+    "eng": "gaia",
+    "fLE": "g",
+    "tel": "గయా",
+    "fLTel": "గ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "528b85a4-e33c-450d-89ab-6150d3e97b9c",
+    "eng": "Gaiana",
+    "fLE": "G",
+    "tel": "గయానా",
+    "fLTel": "గ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "633ca8e0-03df-45c6-b32d-b21d0134752d",
+    "eng": "gaiana",
+    "fLE": "g",
+    "tel": "గయానా",
+    "fLTel": "గ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "b1b3ee33-b921-40dc-9381-b05b8d37704c",
+    "eng": "Gail",
+    "fLE": "G",
+    "tel": "గైల్",
+    "fLTel": "గ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "fb4573ce-1c28-4809-ab65-cb1e91f8b97a",
+    "eng": "Gaila",
+    "fLE": "G",
+    "tel": "గైలా",
+    "fLTel": "గ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "6350eaf2-cf2f-43d5-b046-91fc53bbf121",
+    "eng": "Gaile",
+    "fLE": "G",
+    "tel": "గైల్",
+    "fLTel": "గ",
+    "tags": [],
+    "gen": "female",
+    "rel": "others"
+  },
+  {
+    "id": "a98fd74e-083e-4dc7-b1af-cb9bb7c9ad9b",
+    "eng": "Gailey",
+    "fLE": "G",
+    "tel": "గైల్య్",
+    "fLTel": "గ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "bbcaca2f-7f0f-4ae8-bc7c-1c990ce6ca25",
+    "eng": "Gaille",
+    "fLE": "G",
+    "tel": "గైల్లె",
+    "fLTel": "గ",
+    "tags": [],
+    "gen": "female",
+    "rel": "others"
+  },
+  {
+    "id": "5f0f4fa6-a3c0-4eb5-b6f7-06c9ecf749de",
+    "eng": "Gainell",
+    "fLE": "G",
+    "tel": "గైనెల్",
+    "fLTel": "గ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "dd7506e9-0bed-421b-b61a-08437c4bda77",
+    "eng": "Gairika",
+    "fLE": "G",
+    "tel": "గైరిక",
+    "fLTel": "గ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "2f203ba9-86e3-4394-b82c-df2a8a6e8881",
+    "eng": "Gaja Lakshmi",
+    "fLE": "G",
+    "tel": "గాజా లక్ష్మి",
+    "fLTel": "గ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "d570815d-3ea3-485d-a6c7-f352d0846731",
+    "eng": "Gajadanta",
+    "fLE": "G",
+    "tel": "గజదంతా",
+    "fLTel": "గ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "3b9163a4-2526-4972-acf0-7bc72589078e",
+    "eng": "Gajagamini",
+    "fLE": "G",
+    "tel": "గజగామిని",
+    "fLTel": "గ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "9bd781c9-e112-47ff-9f06-53450419ae0a",
+    "eng": "Gajala",
+    "fLE": "G",
+    "tel": "గజాల",
+    "fLTel": "గ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "fe62e5bf-f682-484b-9654-762c35494173",
+    "eng": "Gajalakshmi",
+    "fLE": "G",
+    "tel": "గజలక్ష్మి",
+    "fLTel": "గ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  }
+]

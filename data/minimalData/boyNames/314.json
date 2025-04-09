@@ -1,0 +1,872 @@
+[
+  {
+    "id": "87001ab2-111f-4936-8515-6eddea1315fa",
+    "eng": "Khalis",
+    "fLE": "K",
+    "tel": "కలిస్",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "91888a2c-3927-4566-8e0b-92d976080bdd",
+    "eng": "Khallad",
+    "fLE": "K",
+    "tel": "ఖల్లాడ్",
+    "fLTel": "ఖ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "c06d8a29-1473-4d7c-82db-00d9cf4596c4",
+    "eng": "Khalo",
+    "fLE": "K",
+    "tel": "ఖలో",
+    "fLTel": "ఖ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "ef3e0a11-03a8-44cb-8fb5-8e25e227fa2d",
+    "eng": "Khalon",
+    "fLE": "K",
+    "tel": "ఖలోని",
+    "fLTel": "ఖ",
+    "tags": [],
+    "gen": "male",
+    "rel": "others"
+  },
+  {
+    "id": "e7d34a32-d22a-4ccf-8c11-6acdbbf428b7",
+    "eng": "khalon",
+    "fLE": "k",
+    "tel": "ఖలోని",
+    "fLTel": "ఖ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "de44353a-ad8d-4d3f-a817-a66fa1625e74",
+    "eng": "Khalpesh",
+    "fLE": "K",
+    "tel": "కల్పేష్",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "male",
+    "rel": "others"
+  },
+  {
+    "id": "f4ae67fe-05bd-498a-8a66-ac33f66cdfed",
+    "eng": "Khamani",
+    "fLE": "K",
+    "tel": "ఖమని",
+    "fLTel": "ఖ",
+    "tags": [],
+    "gen": "male",
+    "rel": "others"
+  },
+  {
+    "id": "a416c7a4-a811-4923-bce6-e04cbd444a62",
+    "eng": "Khambat",
+    "fLE": "K",
+    "tel": "ఖంబట్",
+    "fLTel": "ఖ",
+    "tags": [],
+    "gen": "male",
+    "rel": "others"
+  },
+  {
+    "id": "0f7d8acd-a217-4ecd-b2c0-fcff724655e7",
+    "eng": "Khamish",
+    "fLE": "K",
+    "tel": "ఖమీస్",
+    "fLTel": "ఖ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "cea2a716-8dbd-4103-8fa7-c7e4cd4ce77c",
+    "eng": "Khamurti",
+    "fLE": "K",
+    "tel": "ఖమూర్తి",
+    "fLTel": "ఖ",
+    "tags": [],
+    "gen": "male",
+    "rel": "others"
+  },
+  {
+    "id": "dd3b094d-fadd-4884-b8a7-df645da40ca4",
+    "eng": "Khan",
+    "fLE": "K",
+    "tel": "ఖాన్",
+    "fLTel": "ఖ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "470c361f-224d-4cd3-822f-0c6728eb2206",
+    "eng": "Khan Zada",
+    "fLE": "K",
+    "tel": "ఖాన్ జాడ",
+    "fLTel": "ఖ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "4a1c95d5-22e0-48b8-aaae-8a0dfdba7eef",
+    "eng": "Khanaam",
+    "fLE": "K",
+    "tel": "ఖానాం",
+    "fLTel": "ఖ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "d5e63655-cab6-442a-951a-df93f698bbb1",
+    "eng": "Khanaka",
+    "fLE": "K",
+    "tel": "కనక",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "male",
+    "rel": "others"
+  },
+  {
+    "id": "68e98114-1b28-48a5-8d70-2257d2bce03b",
+    "eng": "Khandana",
+    "fLE": "K",
+    "tel": "ఖండన",
+    "fLTel": "ఖ",
+    "tags": [],
+    "gen": "male",
+    "rel": "others"
+  },
+  {
+    "id": "5e170d61-1dbb-483c-abcc-d73d811c230b",
+    "eng": "Khandawar",
+    "fLE": "K",
+    "tel": "ఖండవార్",
+    "fLTel": "ఖ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "6bd2e2c4-f9f8-4d9c-8bce-cc5c5f5c4d8d",
+    "eng": "Khandu",
+    "fLE": "K",
+    "tel": "ఖండూ",
+    "fLTel": "ఖ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "ed5d625b-6edb-4ea5-9b09-c99f6105cdab",
+    "eng": "Khanh",
+    "fLE": "K",
+    "tel": "ఖఞ్చ",
+    "fLTel": "ఖ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "bc41ba31-05b7-4753-b5e3-214513f8447d",
+    "eng": "Khanish",
+    "fLE": "K",
+    "tel": "ఖనిష్",
+    "fLTel": "ఖ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "d17e9c50-c603-480a-bc68-23c9e50c6629",
+    "eng": "Khanjan",
+    "fLE": "K",
+    "tel": "ఖనిజం",
+    "fLTel": "ఖ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "f68f3851-546a-4113-a682-49709e2aa541",
+    "eng": "Khantil",
+    "fLE": "K",
+    "tel": "ఖన్తిల్",
+    "fLTel": "ఖ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "df904f70-d380-43dd-afda-5aae9d24f397",
+    "eng": "Khar",
+    "fLE": "K",
+    "tel": "ఖర్",
+    "fLTel": "ఖ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "5dfc251b-8988-4728-bfc8-b7e725031713",
+    "eng": "Kharadhwamsine",
+    "fLE": "K",
+    "tel": "ఖరధ్వంసినే",
+    "fLTel": "ఖ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "fd3cd398-965c-48b9-b8d0-2c0a38b8d571",
+    "eng": "Kharag",
+    "fLE": "K",
+    "tel": "ఖరగ్",
+    "fLTel": "ఖ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Sikh"
+  },
+  {
+    "id": "e7564ddc-8f88-4073-afaf-cadab5e66535",
+    "eng": "Kharak",
+    "fLE": "K",
+    "tel": "ఖరాక్",
+    "fLTel": "ఖ",
+    "tags": [],
+    "gen": "male",
+    "rel": "others"
+  },
+  {
+    "id": "0329b083-4970-4216-8f28-5be7a49846cc",
+    "eng": "Kharanshu",
+    "fLE": "K",
+    "tel": "ఖారంశు",
+    "fLTel": "ఖ",
+    "tags": [],
+    "gen": "male",
+    "rel": "others"
+  },
+  {
+    "id": "e811f4fa-0854-400c-8d6f-7ee036d33009",
+    "eng": "Kharbanda",
+    "fLE": "K",
+    "tel": "ఖర్బందా",
+    "fLTel": "ఖ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "435f5759-9f52-47f3-ac5b-9a2e1ce1b5ef",
+    "eng": "khari",
+    "fLE": "k",
+    "tel": "ఖారీ",
+    "fLTel": "ఖ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "3d87b46d-90b9-4ce4-8442-3982ccf6dc85",
+    "eng": "Kharim",
+    "fLE": "K",
+    "tel": "ఖరీం",
+    "fLTel": "ఖ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "2498e3c8-7959-4f9e-9470-4640d46782e0",
+    "eng": "Kharlie",
+    "fLE": "K",
+    "tel": "కర్లీ",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "male",
+    "rel": "others"
+  },
+  {
+    "id": "8b650fb0-e260-499d-9a2d-6fa00c7fad3f",
+    "eng": "Kharouf",
+    "fLE": "K",
+    "tel": "ఖరాఫ్",
+    "fLTel": "ఖ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "6220da57-712a-4824-837a-f2074b4bdbaf",
+    "eng": "Khasam",
+    "fLE": "K",
+    "tel": "ఖసం",
+    "fLTel": "ఖ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "84213107-7efe-4e9b-9d2c-8b91d3645f79",
+    "eng": "Khashi",
+    "fLE": "K",
+    "tel": "కాశి",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "63f8e986-818d-46d8-a6da-adb420d5d1eb",
+    "eng": "Khashif",
+    "fLE": "K",
+    "tel": "కషిఫ్",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "1289c497-a156-4b2d-abbc-553d14fdfc01",
+    "eng": "Khashram",
+    "fLE": "K",
+    "tel": "ఖశ్రం",
+    "fLTel": "ఖ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "85ba6c94-5a9f-4320-b777-ff85d67cfa13",
+    "eng": "Khasib",
+    "fLE": "K",
+    "tel": "ఖసీబీ",
+    "fLTel": "ఖ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "be9f87ef-7f15-4b92-87a4-c666ca0075c6",
+    "eng": "Khateeb",
+    "fLE": "K",
+    "tel": "ఖతీబ్",
+    "fLTel": "ఖ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "4bb2b234-769a-49e5-921d-ee283ea787fb",
+    "eng": "Khathiravan",
+    "fLE": "K",
+    "tel": "ఖతిరవం",
+    "fLTel": "ఖ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "9c6823a7-79fc-4aec-88b3-399380dcda18",
+    "eng": "Khatib",
+    "fLE": "K",
+    "tel": "ఖాతిబ్",
+    "fLTel": "ఖ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "bacfa16e-1d4f-44f7-866e-607cd8b6b4ce",
+    "eng": "Khatir",
+    "fLE": "K",
+    "tel": "ఖాతిర్",
+    "fLTel": "ఖ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "8d45ba11-b76f-4054-8d9d-ad5e701517d8",
+    "eng": "Khatri",
+    "fLE": "K",
+    "tel": "ఖత్రి",
+    "fLTel": "ఖ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "4a9e4141-82ed-4ac9-9e81-88bcde68dd2b",
+    "eng": "Khattaab",
+    "fLE": "K",
+    "tel": "ఖత్తాబ్",
+    "fLTel": "ఖ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "ad2d0940-5979-4a9a-8f23-185a616f865f",
+    "eng": "Khattab",
+    "fLE": "K",
+    "tel": "ఖత్తాబ్",
+    "fLTel": "ఖ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "03a24bab-2637-4cbc-b9f7-baace4a6633f",
+    "eng": "Khatvangin",
+    "fLE": "K",
+    "tel": "ఖట్వాఙ్గయిం",
+    "fLTel": "ఖ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "2d0e0957-5da5-4831-841c-0c6371d8d294",
+    "eng": "Khatvik",
+    "fLE": "K",
+    "tel": "ఖత్విక్",
+    "fLTel": "ఖ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "aafe76ad-f514-4a67-bd50-e5afb197e12b",
+    "eng": "Khavand",
+    "fLE": "K",
+    "tel": "కావండీ",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "0b3a80fd-698c-49b6-8a9d-faa1a2a4f8dd",
+    "eng": "Khavin",
+    "fLE": "K",
+    "tel": "కవీం",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "male",
+    "rel": "others"
+  },
+  {
+    "id": "2d069bb2-1c7e-4068-b8b2-daa70807cfb2",
+    "eng": "Khavish",
+    "fLE": "K",
+    "tel": "ఖవిష్",
+    "fLTel": "ఖ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "c9e46171-6fba-42b6-b11f-3321f21b00c2",
+    "eng": "Khawaja",
+    "fLE": "K",
+    "tel": "ఖవాజా",
+    "fLTel": "ఖ",
+    "tags": [],
+    "gen": "male",
+    "rel": "others"
+  },
+  {
+    "id": "f84729e2-1843-48f8-81e9-31981ba9c561",
+    "eng": "Khawar",
+    "fLE": "K",
+    "tel": "ఖవారు",
+    "fLTel": "ఖ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "f07baea6-e0c7-43b5-8036-7746e3ac2b7e",
+    "eng": "Khayaam",
+    "fLE": "K",
+    "tel": "ఖయాం",
+    "fLTel": "ఖ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "3eb33cb2-b1b7-4d60-b90d-323f78de8216",
+    "eng": "Khayal",
+    "fLE": "K",
+    "tel": "ఖయాల్",
+    "fLTel": "ఖ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "3cb2c258-e375-4f2c-ba2a-901f3634dd90",
+    "eng": "Khayr al din",
+    "fLE": "K",
+    "tel": "ఖాయర్ ఆల్ దిన్",
+    "fLTel": "ఖ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "2f3ce220-55ca-4f3d-aaa3-4676929e8805",
+    "eng": "Khayree",
+    "fLE": "K",
+    "tel": "ఖాయిరీ",
+    "fLTel": "ఖ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "fb275608-9397-4978-a807-ebce324e4ffa",
+    "eng": "Khayri",
+    "fLE": "K",
+    "tel": "ఖాయిరి",
+    "fLTel": "ఖ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "cb1bef23-df85-400d-8c06-fbb671d6f384",
+    "eng": "Khayru",
+    "fLE": "K",
+    "tel": "ఖయారు",
+    "fLTel": "ఖ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "a4f80044-a237-4a46-bc46-73e72b789723",
+    "eng": "Khayrullah",
+    "fLE": "K",
+    "tel": "ఖాయిరుల్లాహ్",
+    "fLTel": "ఖ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "62a23422-ceb8-412a-9565-d31516020e5a",
+    "eng": "Khayyaam",
+    "fLE": "K",
+    "tel": "ఖయ్యామ్",
+    "fLTel": "ఖ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "ba69a9e8-469b-45df-b801-ebab4ca7b77c",
+    "eng": "Khayyam",
+    "fLE": "K",
+    "tel": "ఖయ్యాం",
+    "fLTel": "ఖ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "c0318bce-ffb7-469d-a4de-7960bb2f9999",
+    "eng": "khayyam",
+    "fLE": "k",
+    "tel": "ఖయ్యాం",
+    "fLTel": "ఖ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "b71c52f9-b25c-4704-8766-6ad6b0e544d5",
+    "eng": "Khayyat",
+    "fLE": "K",
+    "tel": "ఖయ్యాత్",
+    "fLTel": "ఖ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "701b3779-22d3-45ba-a945-9ef4c9b24b68",
+    "eng": "Khayyir",
+    "fLE": "K",
+    "tel": "ఖయ్యిర్",
+    "fLTel": "ఖ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "ef389d50-d076-4928-b0ec-c59b39c5d105",
+    "eng": "khaza",
+    "fLE": "k",
+    "tel": "ఖాజా",
+    "fLTel": "ఖ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "e1c2ac5b-20b6-4800-b554-9bf78ac269cf",
+    "eng": "Khazana",
+    "fLE": "K",
+    "tel": "ఖజానా",
+    "fLTel": "ఖ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "25ae11dc-a89a-4aaf-9f02-e6625858c7f4",
+    "eng": "Khazin",
+    "fLE": "K",
+    "tel": "కజిన్",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "329d2a60-be6b-4b33-af5c-be7b6a76e1cf",
+    "eng": "Khean",
+    "fLE": "K",
+    "tel": "ఖేత్న్",
+    "fLTel": "ఖ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "38b8df2c-7705-45b8-959a-d466ebed8772",
+    "eng": "Khechra",
+    "fLE": "K",
+    "tel": "ఖేచర",
+    "fLTel": "ఖ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "8cd5da7b-8d71-4d18-a81a-74b6bda4b854",
+    "eng": "Khee",
+    "fLE": "K",
+    "tel": "ఖీ",
+    "fLTel": "ఖ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "8f7f3519-1ee0-4c8e-b2dc-8f11bf7e344f",
+    "eng": "Kheemchand",
+    "fLE": "K",
+    "tel": "ఖీమాచంద్",
+    "fLTel": "ఖ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "2f629e6f-9578-4078-92b4-12c63d74dca9",
+    "eng": "Kheeva",
+    "fLE": "K",
+    "tel": "ఖీవా",
+    "fLTel": "ఖ",
+    "tags": [],
+    "gen": "male",
+    "rel": "others"
+  },
+  {
+    "id": "8ae318e7-9ffb-4bdd-b7e6-c91d022fa4c7",
+    "eng": "Kheir",
+    "fLE": "K",
+    "tel": "కెహెయిర్",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "c6d21807-fae1-4175-8a5f-de4b2ead602c",
+    "eng": "Khelan",
+    "fLE": "K",
+    "tel": "ఖేళం",
+    "fLTel": "ఖ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "b20015d4-1474-4c84-9acc-85772d4708be",
+    "eng": "Khem",
+    "fLE": "K",
+    "tel": "ఖేం",
+    "fLTel": "ఖ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "92a8cec5-5d7f-4eba-abd4-b4f99a188862",
+    "eng": "Khembir",
+    "fLE": "K",
+    "tel": "ఖేంబీర్",
+    "fLTel": "ఖ",
+    "tags": [],
+    "gen": "male",
+    "rel": "others"
+  },
+  {
+    "id": "61878634-b9d5-432e-abde-d0a3eb25ef50",
+    "eng": "Khemchand",
+    "fLE": "K",
+    "tel": "ఖేమచంద్",
+    "fLTel": "ఖ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "67edae5b-53d0-4dcc-8bd6-137d248e26b1",
+    "eng": "Khemera",
+    "fLE": "K",
+    "tel": "కేమెరా",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "7291ed10-0b09-43a3-a469-50ccdf382e40",
+    "eng": "Khemil",
+    "fLE": "K",
+    "tel": "ఖేమిల్",
+    "fLTel": "ఖ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "9ba3e1db-ab42-4d41-9839-34502aa2a57d",
+    "eng": "Khemkhaeng",
+    "fLE": "K",
+    "tel": "ఖేముఖేంగ్",
+    "fLTel": "ఖ",
+    "tags": [],
+    "gen": "male",
+    "rel": "others"
+  },
+  {
+    "id": "11ef2b76-3abf-4e4c-9973-0ce3ff177d2c",
+    "eng": "Khemlok",
+    "fLE": "K",
+    "tel": "ఖేంలోక్",
+    "fLTel": "ఖ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Sikh"
+  },
+  {
+    "id": "dc6504e7-33e0-484a-aedb-4b278b48019b",
+    "eng": "Khempaal",
+    "fLE": "K",
+    "tel": "ఖేమ్పాల్",
+    "fLTel": "ఖ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Sikh"
+  },
+  {
+    "id": "11a2fd58-454f-4fcd-9782-56d9a16de6bf",
+    "eng": "Khemprakash",
+    "fLE": "K",
+    "tel": "ఖేంప్రకాష్",
+    "fLTel": "ఖ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "2bb65fbd-8b7c-4921-9935-c8b5ee5b4506",
+    "eng": "Khempreet",
+    "fLE": "K",
+    "tel": "ఖేంప్రీత్",
+    "fLTel": "ఖ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Sikh"
+  },
+  {
+    "id": "abd1655f-73fb-46d7-8ebf-c19afdc8876e",
+    "eng": "Khemprekash",
+    "fLE": "K",
+    "tel": "ఖేంప్రెకష",
+    "fLTel": "ఖ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "911aea87-42ca-4c42-8231-f405eafe1a00",
+    "eng": "Khemraaj",
+    "fLE": "K",
+    "tel": "కేమ్రాజ్",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "male",
+    "rel": "Sikh"
+  },
+  {
+    "id": "f233b828-c422-465c-b970-74f3dc2422ec",
+    "eng": "Khemraj",
+    "fLE": "K",
+    "tel": "కేమ్రాజ్",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "92c62d76-34af-4496-aff0-ee3b0b857b30",
+    "eng": "Khemroop",
+    "fLE": "K",
+    "tel": "ఖేమరూప్",
+    "fLTel": "ఖ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Sikh"
+  },
+  {
+    "id": "b002ec0e-acb1-41d3-8908-b09d44e87a5b",
+    "eng": "Khemwant",
+    "fLE": "K",
+    "tel": "ఖేమవన్త",
+    "fLTel": "ఖ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Sikh"
+  }
+]

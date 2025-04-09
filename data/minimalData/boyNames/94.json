@@ -1,0 +1,792 @@
+[
+  {
+    "id": "866a8e26-a9a1-4269-a637-120610ef08fc",
+    "eng": "Bebak",
+    "fLE": "B",
+    "tel": "బెబాక్",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "485393dc-d67d-4ce3-916b-9f6f58f11cf6",
+    "eng": "Bebba",
+    "fLE": "B",
+    "tel": "బెబ్బ",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "7d59ce88-f3e2-4509-9c8a-afca38d8ba3a",
+    "eng": "Bebo",
+    "fLE": "B",
+    "tel": "బెబో",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "08213c34-c214-43e2-8cc7-058d86a03395",
+    "eng": "becan",
+    "fLE": "b",
+    "tel": "బీకాం",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "b182d3f5-e905-4c29-93bd-ef85cf1750cb",
+    "eng": "Beceere",
+    "fLE": "B",
+    "tel": "బీసీయీరే",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "714e6c12-b6ad-48ae-b3be-ff9c35cd6ddf",
+    "eng": "Bechir",
+    "fLE": "B",
+    "tel": "బేచిరి",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "379937d2-5949-43c2-bd47-52e9bee980ec",
+    "eng": "Beck",
+    "fLE": "B",
+    "tel": "బెక్",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "10549c59-db8f-4955-adef-5d6a324d0308",
+    "eng": "Becker",
+    "fLE": "B",
+    "tel": "బెక్కెర్",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "1ca3d5bd-747f-489f-a180-c07dc1d6facf",
+    "eng": "Beckett",
+    "fLE": "B",
+    "tel": "బెకెట్",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "6a3283f2-8a9a-4a05-94ff-3ccf81e576e2",
+    "eng": "Beckham",
+    "fLE": "B",
+    "tel": "బేసిఖం",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "92053818-fc7e-46d4-aa00-75a9b9410e4d",
+    "eng": "beckham",
+    "fLE": "b",
+    "tel": "బేసిఖం",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "9ada08f3-1f68-4bda-aa6f-b21bac252cca",
+    "eng": "Beda",
+    "fLE": "B",
+    "tel": "బేడా",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "74a05e0d-0a5e-447e-a396-9de710bf2b87",
+    "eng": "Bedar",
+    "fLE": "B",
+    "tel": "బెటర్",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "2cbd6f7e-4c3a-47dd-a805-e38774f831f8",
+    "eng": "Bedaruddin",
+    "fLE": "B",
+    "tel": "బెదరుద్దీన్",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "8a4ddd69-9288-4057-b6cb-064138354703",
+    "eng": "Beddhu",
+    "fLE": "B",
+    "tel": "బెద్దు",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "b2d6a2df-96b5-45e7-a1fc-a4fd53595760",
+    "eng": "Bede",
+    "fLE": "B",
+    "tel": "బెడ్",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "8f6c2db8-1103-4282-9371-62671d0f920f",
+    "eng": "Bedel",
+    "fLE": "B",
+    "tel": "బెడెల్",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "81f7c5dd-3858-4bc2-8941-99e08aeb5d6e",
+    "eng": "Bedenis",
+    "fLE": "B",
+    "tel": "బెడెనిస్",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "42c9ce36-b043-4b4c-8b8c-ecb75ffed7d9",
+    "eng": "Bedford",
+    "fLE": "B",
+    "tel": "బెడ్ఫోర్డ్",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "5fd3cf84-f7d1-4fc9-ab19-1785a142c2a0",
+    "eng": "Bedfrith",
+    "fLE": "B",
+    "tel": "బెద్ఫ్రిత్",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "f0b6ec23-c9ca-4b2d-9e6b-288d2ef66dd1",
+    "eng": "Bedgeat",
+    "fLE": "B",
+    "tel": "బడ్జెట్",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "4739d467-e804-4c95-b493-c6a3f4e1823c",
+    "eng": "Bedhelm",
+    "fLE": "B",
+    "tel": "బెదెల్మ్",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "905da949-1d2d-4dc2-97c5-be18a43b7627",
+    "eng": "Bedivere",
+    "fLE": "B",
+    "tel": "బెదివేరే",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "4469942f-939a-479a-9dec-192f863059bf",
+    "eng": "Bedla",
+    "fLE": "B",
+    "tel": "బెడ్ల",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "c2a62d41-7736-4dc6-a127-e8c64a79d096",
+    "eng": "Bedoich",
+    "fLE": "B",
+    "tel": "బేదోయ్చ్",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "139b9f44-8832-4ff6-b016-4d10e9037a0a",
+    "eng": "Bedric",
+    "fLE": "B",
+    "tel": "బెడ్రిచ్",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "d6b47d9b-d771-431a-b07a-1c41dbb2bf55",
+    "eng": "Bedrich",
+    "fLE": "B",
+    "tel": "బెడ్రిచ్",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "d2b5a29b-6dda-4db4-bd5f-1363728604b1",
+    "eng": "bedrich",
+    "fLE": "b",
+    "tel": "బెడ్రిచ్",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "5bc46238-b72f-4e1e-b435-b1e8763297e6",
+    "eng": "Bedrisek",
+    "fLE": "B",
+    "tel": "బెదరిసెక్",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "278e556a-d8af-4530-8803-9cae66289246",
+    "eng": "Bedros",
+    "fLE": "B",
+    "tel": "బెడ్రోస్",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "402a85a3-55c9-4887-95e9-8c5ee3dbce3f",
+    "eng": "Bedwig",
+    "fLE": "B",
+    "tel": "బెద్విగ్",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "885baa89-e43e-43ef-bbb8-97b8c26b9f0d",
+    "eng": "Beech",
+    "fLE": "B",
+    "tel": "బీచ్",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "0f0379fa-93a4-43ef-b8f0-5296e51d6773",
+    "eng": "Beecher",
+    "fLE": "B",
+    "tel": "బీకేర్",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "b0f386f0-f22a-4e92-aea7-5d7f0601cae4",
+    "eng": "Beechy",
+    "fLE": "B",
+    "tel": "బీచే",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "84edc2b9-7996-4897-a141-e77d97b0e78c",
+    "eng": "Beejal",
+    "fLE": "B",
+    "tel": "బీజాలు",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "87bd2f0c-b2c8-45c5-9a3f-7408058292dc",
+    "eng": "Beeman",
+    "fLE": "B",
+    "tel": "బీమన్",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "9954dc3f-4ca4-4d6f-b219-12478a2b13c6",
+    "eng": "Beenu",
+    "fLE": "B",
+    "tel": "బీను",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "4bcb11e5-6c68-4c0b-a9d3-43ee38ac9e7f",
+    "eng": "Beerud",
+    "fLE": "B",
+    "tel": "బిరుదు",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "0a6b694d-dd30-40db-8221-cb041bbc2a12",
+    "eng": "Beffa",
+    "fLE": "B",
+    "tel": "బెఫ్ఫా",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "c46f9b75-580a-4d10-aa96-22929778a51f",
+    "eng": "Beg",
+    "fLE": "B",
+    "tel": "బేగ్",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "53ee34ed-322c-4887-b745-4fe7676ae695",
+    "eng": "Begild",
+    "fLE": "B",
+    "tel": "బేగెల్డ్",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "4df7b98b-40c2-42fe-a55a-b88962e7b4a9",
+    "eng": "Begin",
+    "fLE": "B",
+    "tel": "బెగిన్",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "5723ec90-f7ca-4fac-96e3-b53be2ec1d74",
+    "eng": "behan",
+    "fLE": "b",
+    "tel": "బెహన్",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "4d17a868-80fc-4f04-a969-3cddfb02779a",
+    "eng": "behar",
+    "fLE": "b",
+    "tel": "బీహార్",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "b0c8a659-cf1b-41d5-b065-75e17856adcd",
+    "eng": "Behlol",
+    "fLE": "B",
+    "tel": "బెహెలోల్",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "82fc84d5-5c02-408c-a6f6-fde00cd12f23",
+    "eng": "Behnam",
+    "fLE": "B",
+    "tel": "బెహ్నం",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "cc75176c-4680-49ee-b505-0128b870c6e3",
+    "eng": "Behr",
+    "fLE": "B",
+    "tel": "బీహార్",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "be4fb160-5673-4e55-a4e5-18d0236afc92",
+    "eng": "Behraam",
+    "fLE": "B",
+    "tel": "బెహరామ్",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "10d883d9-e170-4d76-8a6e-4ad0ed22d634",
+    "eng": "Behram",
+    "fLE": "B",
+    "tel": "బెహ్రామ్",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "680027e9-6177-4d85-a414-e62dc2068bc6",
+    "eng": "Behrang",
+    "fLE": "B",
+    "tel": "బెహ్రాన్గ్",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "bbed139b-2bf1-4b30-8fa1-681aae93eb59",
+    "eng": "Behrem",
+    "fLE": "B",
+    "tel": "బెహార్మ్",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "0bb7daab-56b4-495b-9fd6-e6bb5e41d410",
+    "eng": "Behrooz",
+    "fLE": "B",
+    "tel": "బెహెరూజ్",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "048f9fab-c0a9-4210-ad1e-44b0e2762d8b",
+    "eng": "Behrouz",
+    "fLE": "B",
+    "tel": "బెహ్రఔస్",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "24a04869-d3b4-4168-86bf-7148a17ea12b",
+    "eng": "Behroz",
+    "fLE": "B",
+    "tel": "బెహరాజ్",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "8c0d99cf-89d3-483b-b9e9-a634750afa44",
+    "eng": "Behrtferth",
+    "fLE": "B",
+    "tel": "బెహార్త్ఫ్ర్త్",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "a04c246b-98ce-402b-bb54-0b3fba9ac25f",
+    "eng": "Behrtwald",
+    "fLE": "B",
+    "tel": "బెహార్ట్వేల్డ్",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "19daaef4-bd09-4366-9ec1-f845b59b6ad7",
+    "eng": "Behruz",
+    "fLE": "B",
+    "tel": "బేహారుజ్",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "b691a216-4924-4d06-ae38-11512c3e093e",
+    "eng": "Behzad",
+    "fLE": "B",
+    "tel": "బెహజాద్",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "d54a29b4-7f4b-4d39-bc88-8068e6b39315",
+    "eng": "Beini",
+    "fLE": "B",
+    "tel": "బేణీ",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "8f38c4b8-97f8-4646-a530-f20bc9a4bb74",
+    "eng": "Beirne",
+    "fLE": "B",
+    "tel": "బెయిర్న్",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "0aed2a34-f728-47b3-9e97-4d6237e05f45",
+    "eng": "Bejit",
+    "fLE": "B",
+    "tel": "బేజిత్",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "4b479d98-5878-4205-a018-d1b3985199b0",
+    "eng": "Bejul",
+    "fLE": "B",
+    "tel": "బెజుల్",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "89bfb9b8-6657-48b6-9d4c-c613443dbb38",
+    "eng": "Bek",
+    "fLE": "B",
+    "tel": "బేక్",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "efd9555e-88f7-4a06-84a0-0d5d4fde5f25",
+    "eng": "Bekir",
+    "fLE": "B",
+    "tel": "బిక్కిరి",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "03c138ab-9b21-4d0f-a57a-3c79d40c5ca5",
+    "eng": "Bekkem",
+    "fLE": "B",
+    "tel": "బెక్కెం",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "0b9a7264-623e-436c-8867-4a99a1d9194b",
+    "eng": "Belarius",
+    "fLE": "B",
+    "tel": "బెలారస్",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "157c823a-a571-4978-8423-c4a0457eca8d",
+    "eng": "Belavardhana",
+    "fLE": "B",
+    "tel": "బేలవర్ధన",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "c8667c7a-b716-41bc-bc71-b43b324c6290",
+    "eng": "Belay",
+    "fLE": "B",
+    "tel": "బలయ్",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "215ce7eb-fba6-4616-b434-cf1e3cd35e74",
+    "eng": "belcher",
+    "fLE": "b",
+    "tel": "వెల్చేరు",
+    "fLTel": "వ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "05f20e75-c97c-4c87-98d6-9fdbe69cd800",
+    "eng": "Beldan",
+    "fLE": "B",
+    "tel": "బిల్డన్",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "8144c133-cb9d-421e-bc7d-7f3cee32476c",
+    "eng": "Beldane",
+    "fLE": "B",
+    "tel": "బేల్దానే",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "d7da8c0c-8ee9-4a97-97c3-d5dcfc3734da",
+    "eng": "Belden",
+    "fLE": "B",
+    "tel": "బెల్డెన్",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "8df38733-f8b6-4bb2-af43-451ab2a07497",
+    "eng": "Beldene",
+    "fLE": "B",
+    "tel": "వెల్దెనే",
+    "fLTel": "వ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "de1a85d1-6923-4676-abe9-f4dd9049eed4",
+    "eng": "Beldin",
+    "fLE": "B",
+    "tel": "బిల్డిం",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "eef02e33-cc5f-4bc5-981c-66de5f32ca28",
+    "eng": "Beldon",
+    "fLE": "B",
+    "tel": "బెల్డోణ",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "ab982052-013a-4018-bddf-68f121d2eca3",
+    "eng": "Belgr",
+    "fLE": "B",
+    "tel": "బెళగర్",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "d8c52d7c-cadb-4c3e-8f07-aeb52f14e545",
+    "eng": "Belial",
+    "fLE": "B",
+    "tel": "వెళిల్",
+    "fLTel": "వ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "7ff06405-b476-41a7-adb6-cb9e03473777",
+    "eng": "belisario",
+    "fLE": "b",
+    "tel": "వెలిసారియో",
+    "fLTel": "వ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "369a4299-0b7b-47c9-bf55-82bed0b86ca2",
+    "eng": "Bellamey",
+    "fLE": "B",
+    "tel": "బెల్లమే",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  }
+]

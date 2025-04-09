@@ -1,0 +1,872 @@
+[
+  {
+    "id": "d38691a3-e42e-49f6-908c-bd127f982ffd",
+    "eng": "Pontus",
+    "fLE": "P",
+    "tel": "పాంట్స్",
+    "fLTel": "ప",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "6b79ba21-5101-4325-acb1-6f80e90fe442",
+    "eng": "pontus",
+    "fLE": "p",
+    "tel": "పాంట్స్",
+    "fLTel": "ప",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "da661ad2-8da3-4c74-a9dd-749d031c053b",
+    "eng": "Ponvel",
+    "fLE": "P",
+    "tel": "పోంవెల్",
+    "fLTel": "ప",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "183cc6eb-6d15-4183-8566-03f8ebdd7a6d",
+    "eng": "Ponvela",
+    "fLE": "P",
+    "tel": "పోంవేళ",
+    "fLTel": "ప",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "3036c04e-0f0d-4b09-98b3-f8f5b704d112",
+    "eng": "pooh",
+    "fLE": "p",
+    "tel": "పోహ్",
+    "fLTel": "ప",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "3d04bdc9-da1f-45da-bc34-e7646be51044",
+    "eng": "Poojan",
+    "fLE": "P",
+    "tel": "పూజాం",
+    "fLTel": "ప",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "cfe0890e-2866-4c02-a3fa-0bcfb99007eb",
+    "eng": "Poojay",
+    "fLE": "P",
+    "tel": "పూజై",
+    "fLTel": "ప",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "a7d3bc9d-8505-425a-ba56-7a299ec36c8a",
+    "eng": "Poojit",
+    "fLE": "P",
+    "tel": "పూజిత",
+    "fLTel": "ప",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "5c608006-4d71-484b-aea8-a055b406ab42",
+    "eng": "Poojith",
+    "fLE": "P",
+    "tel": "పూజిత",
+    "fLTel": "ప",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "3ed831c8-ceb6-4c51-a47d-2a9af6927a75",
+    "eng": "Pooler",
+    "fLE": "P",
+    "tel": "పూలం",
+    "fLTel": "ప",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "b32dacbe-f6a9-46c6-80d9-f49dfee6d4b4",
+    "eng": "Poonish",
+    "fLE": "P",
+    "tel": "పూనిష్",
+    "fLTel": "ప",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "5ad00b55-687b-4df0-b4ac-c1c1fc94e88a",
+    "eng": "Poorab",
+    "fLE": "P",
+    "tel": "పూరబ్",
+    "fLTel": "ప",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "267ae580-ce52-4434-8d8f-aa9df1c7bcaf",
+    "eng": "Pooran",
+    "fLE": "P",
+    "tel": "పూరం",
+    "fLTel": "ప",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "e7b845df-8581-4605-90b7-f97b42560dac",
+    "eng": "Pooranbir",
+    "fLE": "P",
+    "tel": "పూరణబీర్",
+    "fLTel": "ప",
+    "tags": [],
+    "gen": "male",
+    "rel": "Sikh"
+  },
+  {
+    "id": "442ee31a-786e-490f-add9-3668e77a7489",
+    "eng": "Pooranjit",
+    "fLE": "P",
+    "tel": "పూరంజిత్",
+    "fLTel": "ప",
+    "tags": [],
+    "gen": "male",
+    "rel": "Sikh"
+  },
+  {
+    "id": "8c46d5c2-ba9f-46c0-98c0-549e4a48c591",
+    "eng": "Pooranjot",
+    "fLE": "P",
+    "tel": "పూరంజోత్",
+    "fLTel": "ప",
+    "tags": [],
+    "gen": "male",
+    "rel": "Sikh"
+  },
+  {
+    "id": "9c8afc88-2464-43bc-a5d3-365d3531c191",
+    "eng": "Pooranpreet",
+    "fLE": "P",
+    "tel": "పూరన్ప్రీత్",
+    "fLTel": "ప",
+    "tags": [],
+    "gen": "male",
+    "rel": "Sikh"
+  },
+  {
+    "id": "a864f8c4-58ba-41b5-b711-2746e0c7838b",
+    "eng": "Poornachander",
+    "fLE": "P",
+    "tel": "పూర్ణచందర్",
+    "fLTel": "ప",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "875885e1-cf20-421a-b66f-024f03daed3e",
+    "eng": "Poornachandra",
+    "fLE": "P",
+    "tel": "పూర్ణచంద్ర",
+    "fLTel": "ప",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "fb734ce7-dae7-4687-90b1-da712365d786",
+    "eng": "Poornamada",
+    "fLE": "P",
+    "tel": "పూర్ణమాదా",
+    "fLTel": "ప",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "d1e74432-0070-4ab4-8840-ebcf6e18c139",
+    "eng": "Poornamrith",
+    "fLE": "P",
+    "tel": "పూర్ణామ్రిత్",
+    "fLTel": "ప",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "95a9dc1c-a031-4bf0-9319-5fb2d7e93c0d",
+    "eng": "Poornan",
+    "fLE": "P",
+    "tel": "పూర్ణాం",
+    "fLTel": "ప",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "b1ca294b-4ba2-45cf-948f-338ab1bb8d02",
+    "eng": "Poornanand",
+    "fLE": "P",
+    "tel": "పూర్ణానంద",
+    "fLTel": "ప",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "26bc5e63-6458-4791-908e-cda7071746ad",
+    "eng": "Poornapragna",
+    "fLE": "P",
+    "tel": "పూర్ణప్రజ్ఞ",
+    "fLTel": "ప",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "cc2bee02-a274-4c1c-8fb7-4634b3999af9",
+    "eng": "Poornayu",
+    "fLE": "P",
+    "tel": "పూర్ణాయు",
+    "fLTel": "ప",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "db993da4-653d-46fb-bcf6-8428d30e04a0",
+    "eng": "Poornendu",
+    "fLE": "P",
+    "tel": "పూర్ణేన్దు",
+    "fLTel": "ప",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "228acc64-4664-49cb-982d-04b205270b8b",
+    "eng": "Poorv",
+    "fLE": "P",
+    "tel": "పృథివీ",
+    "fLTel": "ప",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "b7196b49-e8ab-4170-80f6-1a2d4feb097b",
+    "eng": "Poorvaj",
+    "fLE": "P",
+    "tel": "పూర్వాజ్",
+    "fLTel": "ప",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "4e067170-a1d5-4abb-a1a4-1e3e3464844b",
+    "eng": "Poorvans",
+    "fLE": "P",
+    "tel": "పూర్వాన్స్",
+    "fLTel": "ప",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "3ef761af-a6b9-4722-9eca-c31cfae78cc6",
+    "eng": "Poorvash",
+    "fLE": "P",
+    "tel": "పూర్వేష్",
+    "fLTel": "ప",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "d6447698-4c11-4d26-9d42-b490dc9fb4f5",
+    "eng": "Poorvesh",
+    "fLE": "P",
+    "tel": "పూర్వేష్",
+    "fLTel": "ప",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "48c6bdb6-91ab-4016-bc0d-9ccdeaef8194",
+    "eng": "Poorvith",
+    "fLE": "P",
+    "tel": "పూర్విత్",
+    "fLTel": "ప",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "d68ce288-2c63-43e8-84fb-d478f6383720",
+    "eng": "Pooshan",
+    "fLE": "P",
+    "tel": "పూషన్",
+    "fLTel": "ప",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "7c7d4160-185d-465a-85b6-492c47f75ac6",
+    "eng": "Poovan",
+    "fLE": "P",
+    "tel": "పూవం",
+    "fLTel": "ప",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "86e22305-7bb0-40d8-800a-eea3c6e7b9f6",
+    "eng": "Poovannan",
+    "fLE": "P",
+    "tel": "పూవన్నన్",
+    "fLTel": "ప",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "578fa429-ec9c-40c3-9ad4-3972312cead2",
+    "eng": "Poovarasan",
+    "fLE": "P",
+    "tel": "పూవరసం",
+    "fLTel": "ప",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "b832b02b-21a7-47e8-aa77-d430431c5f4d",
+    "eng": "Poovendan",
+    "fLE": "P",
+    "tel": "పూవేందన్",
+    "fLTel": "ప",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "a8f56be7-e62f-4bef-b3c7-879f65922fd2",
+    "eng": "porat",
+    "fLE": "p",
+    "tel": "పోరాట",
+    "fLTel": "ప",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "15a39290-c873-47d4-ba34-2856e91dd257",
+    "eng": "Pordal",
+    "fLE": "P",
+    "tel": "పోరాడాలి",
+    "fLTel": "ప",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "f364e5b8-b29a-41f6-83ba-a15d73032c03",
+    "eng": "Porfio",
+    "fLE": "P",
+    "tel": "పోర్ఫియో",
+    "fLTel": "ప",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "09f3e2a7-f67f-4030-99fa-47576afd2083",
+    "eng": "Porfirio",
+    "fLE": "P",
+    "tel": "పోర్ఫిరియా",
+    "fLTel": "ప",
+    "tags": [],
+    "gen": "male",
+    "rel": "others"
+  },
+  {
+    "id": "cce801b8-ea48-4a0e-8ae4-775f6ed9de41",
+    "eng": "porfirio",
+    "fLE": "p",
+    "tel": "పోర్ఫిరియా",
+    "fLTel": "ప",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "131b83c3-748b-4634-9eb1-2c3e9b17f97f",
+    "eng": "Porgav",
+    "fLE": "P",
+    "tel": "పొర్లాప్",
+    "fLTel": "ప",
+    "tags": [],
+    "gen": "male",
+    "rel": "others"
+  },
+  {
+    "id": "a6416a39-b143-4ab7-b4e9-d7e5bd6230a0",
+    "eng": "poriel",
+    "fLE": "p",
+    "tel": "పోరిల్",
+    "fLTel": "ప",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "65f83804-2925-4e52-9323-44f538a5c966",
+    "eng": "Porivs",
+    "fLE": "P",
+    "tel": "పోటివ్స్",
+    "fLTel": "ప",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "02188511-f02e-43bb-932b-c2cf69e5faae",
+    "eng": "Porkael",
+    "fLE": "P",
+    "tel": "పొర్కల్",
+    "fLTel": "ప",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "3becfede-b414-43fc-b3b4-3899530e5c9a",
+    "eng": "Porter",
+    "fLE": "P",
+    "tel": "పోర్టర్",
+    "fLTel": "ప",
+    "tags": [],
+    "gen": "male",
+    "rel": "others"
+  },
+  {
+    "id": "4c13c7ea-6657-40b6-8a7c-1f8653f56314",
+    "eng": "Porteur",
+    "fLE": "P",
+    "tel": "పోర్టర్",
+    "fLTel": "ప",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "8df3ae27-999b-4560-a97e-4cf49ad44059",
+    "eng": "Portier",
+    "fLE": "P",
+    "tel": "పోర్టిర్",
+    "fLTel": "ప",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "ccbd53cf-ddaf-46a5-a5e5-61ca0c730828",
+    "eng": "portland",
+    "fLE": "p",
+    "tel": "పోర్ట్లాండ్",
+    "fLTel": "ప",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "1b4cb4c9-ec77-460f-ab86-ff14d92fca41",
+    "eng": "portwood",
+    "fLE": "p",
+    "tel": "పోర్టువుడ్",
+    "fLTel": "ప",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "b0c68c95-f94a-427f-918b-8a9df281ef55",
+    "eng": "Porunan",
+    "fLE": "P",
+    "tel": "పోరునం",
+    "fLTel": "ప",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "9ddc8578-f04f-4a5c-81ab-df7f7efdd92d",
+    "eng": "Porush",
+    "fLE": "P",
+    "tel": "పోర్ష్",
+    "fLTel": "ప",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "82c14681-f730-4bcf-a668-0b9bcdfeea85",
+    "eng": "Porushat",
+    "fLE": "P",
+    "tel": "పోరుశాట్",
+    "fLTel": "ప",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "67f871ca-2869-4783-84fb-7c14f9f488b7",
+    "eng": "Poseidon",
+    "fLE": "P",
+    "tel": "పోసీడోన్",
+    "fLTel": "ప",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "2bd76125-8eef-4cf6-b2e3-1abe839f4e7a",
+    "eng": "poseidon",
+    "fLE": "p",
+    "tel": "పోసీడోన్",
+    "fLTel": "ప",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "00838170-0470-4861-b0da-37fb793bc978",
+    "eng": "Posha",
+    "fLE": "P",
+    "tel": "పోష",
+    "fLTel": "ప",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "6edab9fc-5149-40c6-b197-4a8293f8cde6",
+    "eng": "Poshan",
+    "fLE": "P",
+    "tel": "ఫాషన్",
+    "fLTel": "ఫ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "1a6622bd-336a-4f39-8ab3-535ebb1235d2",
+    "eng": "Poshit",
+    "fLE": "P",
+    "tel": "పోషిట్",
+    "fLTel": "ప",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "c366a1f9-6373-40b7-9d5f-3e013e1b91e0",
+    "eng": "Poshith",
+    "fLE": "P",
+    "tel": "పోషిత్",
+    "fLTel": "ప",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "7f667431-2bac-4dfc-b42e-f8e41977884a",
+    "eng": "Poshya",
+    "fLE": "P",
+    "tel": "పోష్య",
+    "fLTel": "ప",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "23ae3356-90c6-42d5-8011-93bcc6d510a5",
+    "eng": "Poss",
+    "fLE": "P",
+    "tel": "పోస్",
+    "fLTel": "ప",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "b2a4b770-807a-4842-8fb2-156539d213ce",
+    "eng": "Possa",
+    "fLE": "P",
+    "tel": "పోసే",
+    "fLTel": "ప",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "dbffb77a-4c90-40cb-a4f9-67a12a462649",
+    "eng": "Pothraj",
+    "fLE": "P",
+    "tel": "పొత్రజ్",
+    "fLTel": "ప",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "d29c41e1-fea0-4b9e-8f67-dbdc3411c71c",
+    "eng": "Potriya",
+    "fLE": "P",
+    "tel": "పాట్రియా",
+    "fLTel": "ప",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "7cfb7883-aa92-4143-8edd-fa8ee6417280",
+    "eng": "Potter",
+    "fLE": "P",
+    "tel": "పాటర్",
+    "fLTel": "ప",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "01042ca7-3b69-4e02-a486-7da178b532b0",
+    "eng": "potter",
+    "fLE": "p",
+    "tel": "పాటర్",
+    "fLTel": "ప",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "65241154-902b-4872-a6c7-c8f4bac501fb",
+    "eng": "poul",
+    "fLE": "p",
+    "tel": "పౌల్",
+    "fLTel": "ప",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "998c32eb-cf4d-4b67-8efd-29650ea68b6c",
+    "eng": "Poumit",
+    "fLE": "P",
+    "tel": "పౌమిటీ",
+    "fLTel": "ప",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "b771efef-c57c-450d-b71f-72c2ff12be93",
+    "eng": "Pourab",
+    "fLE": "P",
+    "tel": "పౌరబ్",
+    "fLTel": "ప",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "2bd37a70-f5b1-4ae5-9e58-ac948209acea",
+    "eng": "Pourusham",
+    "fLE": "P",
+    "tel": "పౌరుషం",
+    "fLTel": "ప",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "b6954954-dcd8-4382-8969-a3d4926ab980",
+    "eng": "Pouyan",
+    "fLE": "P",
+    "tel": "పౌయం",
+    "fLTel": "ప",
+    "tags": [],
+    "gen": "male",
+    "rel": "others"
+  },
+  {
+    "id": "d67e76fd-2408-457b-b8ce-7a9d7c6804af",
+    "eng": "Powa",
+    "fLE": "P",
+    "tel": "పొర",
+    "fLTel": "ప",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "c696eea4-77d3-4410-bd8c-0b0bbbfd8fef",
+    "eng": "Powel",
+    "fLE": "P",
+    "tel": "పావెల్",
+    "fLTel": "ప",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "6022cb98-7848-4a38-8a3b-5523dfc314b3",
+    "eng": "powell",
+    "fLE": "p",
+    "tel": "పావెల్",
+    "fLTel": "ప",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "17bd6731-a1dd-4bbf-ad10-bee75af9d9eb",
+    "eng": "Powers",
+    "fLE": "P",
+    "tel": "పవర్స్",
+    "fLTel": "ప",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "12e5c44e-f292-494c-bcdd-a36605f9f5c5",
+    "eng": "powhatan",
+    "fLE": "p",
+    "tel": "పౌహతం",
+    "fLTel": "ప",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "83e87e4a-7260-41bb-99f6-bc8e00047f15",
+    "eng": "Poyo",
+    "fLE": "P",
+    "tel": "పోయి",
+    "fLTel": "ప",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "dcb9d2cf-b50b-4f81-abe3-3ccfd72d056c",
+    "eng": "Poyyamoli",
+    "fLE": "P",
+    "tel": "పొయ్యమొళి",
+    "fLTel": "ప",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "4bdcc127-5ceb-46b1-9a84-cfcf8b4320eb",
+    "eng": "Pozhilan",
+    "fLE": "P",
+    "tel": "పోజ్హిలాం",
+    "fLTel": "ప",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "b746c642-ccb6-4f3f-864d-0f3accf1aedb",
+    "eng": "Pra",
+    "fLE": "P",
+    "tel": "ప్ర",
+    "fLTel": "ప",
+    "tags": [],
+    "gen": "male",
+    "rel": "others"
+  },
+  {
+    "id": "63b998d9-07d7-4834-a44c-b60711df0789",
+    "eng": "Praacheth",
+    "fLE": "P",
+    "tel": "ప్రాచేత",
+    "fLTel": "ప",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "2e6be8d7-fa23-42ad-9357-de763abebaa6",
+    "eng": "Praachik",
+    "fLE": "P",
+    "tel": "ప్రాచిక్",
+    "fLTel": "ప",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "94e49fe5-c91c-40a5-8c9c-456086a018e7",
+    "eng": "Praakrit",
+    "fLE": "P",
+    "tel": "ప్రాకృత",
+    "fLTel": "ప",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "da59b0df-28e0-49cb-bca9-1ae08a6faaf5",
+    "eng": "Praakriti",
+    "fLE": "P",
+    "tel": "ప్రాకృతి",
+    "fLTel": "ప",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "0dd7df51-e7a4-46db-b8cb-832c14df14c9",
+    "eng": "Praan",
+    "fLE": "P",
+    "tel": "ప్రాం",
+    "fLTel": "ప",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "89467469-3ba3-4c9c-a091-4fada85faf09",
+    "eng": "Praana",
+    "fLE": "P",
+    "tel": "ప్రాణ",
+    "fLTel": "ప",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  }
+]

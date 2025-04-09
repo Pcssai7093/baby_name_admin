@@ -1,0 +1,902 @@
+[
+  {
+    "id": "24fcff8c-7bf8-47f6-a01f-b1630a6ab425",
+    "eng": "Majman",
+    "fLE": "M",
+    "tel": "మజ్మాన్",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "male",
+    "rel": "others"
+  },
+  {
+    "id": "069cf109-4300-48d3-bb04-aa6a4a54feb2",
+    "eng": "Majnun",
+    "fLE": "M",
+    "tel": "మజ్నున్",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "male",
+    "rel": "others"
+  },
+  {
+    "id": "ec6d9d3b-bb1e-40af-bc4d-33df06f03820",
+    "eng": "Majoo",
+    "fLE": "M",
+    "tel": "మంజూ",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "4243212a-0d88-488f-9d83-cfb22a83bb66",
+    "eng": "Major",
+    "fLE": "M",
+    "tel": "మేజర్",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "male",
+    "rel": "others"
+  },
+  {
+    "id": "d26436af-f7cf-4663-bbc2-79640ba0bd19",
+    "eng": "major",
+    "fLE": "m",
+    "tel": "మేజర్",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "7c926e58-5b6b-4df0-9160-396e152554d6",
+    "eng": "Mak",
+    "fLE": "M",
+    "tel": "మాక్",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "a7e275a5-70f1-46fc-96c7-0b920e842181",
+    "eng": "Makafui",
+    "fLE": "M",
+    "tel": "మకఫుయి",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "468cd5c7-eb2b-4692-b92b-4c4614b34c39",
+    "eng": "Makaiden",
+    "fLE": "M",
+    "tel": "మాకిదేం",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "male",
+    "rel": "others"
+  },
+  {
+    "id": "fb0434ec-8f4a-40e7-a847-f78829826324",
+    "eng": "Makakhan",
+    "fLE": "M",
+    "tel": "మక్ఖాన్",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "121e2324-17d0-4af5-8672-3a4a9828103e",
+    "eng": "Makal",
+    "fLE": "M",
+    "tel": "మక్కల్",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "male",
+    "rel": "others"
+  },
+  {
+    "id": "b2362b2c-9326-45f5-acbf-86f61f61b4c2",
+    "eng": "Makalani",
+    "fLE": "M",
+    "tel": "మాకాలని",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "b86ff614-e57d-4323-843a-6f3e8d7d09b1",
+    "eng": "Makan",
+    "fLE": "M",
+    "tel": "మకాం",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "f0a87828-2c73-4025-adfd-105b8350ee38",
+    "eng": "Makanji",
+    "fLE": "M",
+    "tel": "మెకంజీ",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "a9391562-57d9-426c-8300-a063e8eb1a73",
+    "eng": "Makantha",
+    "fLE": "M",
+    "tel": "మాకంత",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "0e5c2f91-2b56-48b0-bf76-fd8c69bc2a46",
+    "eng": "Makar",
+    "fLE": "M",
+    "tel": "మేకర్",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "411520ca-d5a0-4519-bd82-4e1ca0039260",
+    "eng": "Makaran",
+    "fLE": "M",
+    "tel": "మకరం",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "male",
+    "rel": "others"
+  },
+  {
+    "id": "13296f71-3547-432b-990c-27b447b831cd",
+    "eng": "Makarand",
+    "fLE": "M",
+    "tel": "మకరంద",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "5675ce43-cffb-485f-94bf-e4aa0bfc17a7",
+    "eng": "Makaranda",
+    "fLE": "M",
+    "tel": "మకరంద",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "male",
+    "rel": "others"
+  },
+  {
+    "id": "b6b061a8-c518-4d13-ad7a-565dfeb4e21e",
+    "eng": "Makari",
+    "fLE": "M",
+    "tel": "మకర",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "5a122e27-3a75-4e08-9474-2013154df05e",
+    "eng": "Makarios",
+    "fLE": "M",
+    "tel": "మకారియస్",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "male",
+    "rel": "others"
+  },
+  {
+    "id": "925f1629-e89b-456a-99a1-d543dbc6d3e1",
+    "eng": "Makarramkhan",
+    "fLE": "M",
+    "tel": "మకర్రంఖాన్",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "6d87df02-a173-492c-b576-6ece0ad86855",
+    "eng": "Makary",
+    "fLE": "M",
+    "tel": "మాకరీ",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "male",
+    "rel": "others"
+  },
+  {
+    "id": "d34d806d-6511-45cc-abd6-e739e4dbd1d8",
+    "eng": "Makay",
+    "fLE": "M",
+    "tel": "మాకే",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "male",
+    "rel": "others"
+  },
+  {
+    "id": "a676bf74-b0c7-4b05-9027-05bf622aa484",
+    "eng": "Makbul",
+    "fLE": "M",
+    "tel": "మక్బుల్",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "ed539b76-51e5-42c0-8684-458dfee6b34c",
+    "eng": "Makeady",
+    "fLE": "M",
+    "tel": "మాకేడీ",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "male",
+    "rel": "others"
+  },
+  {
+    "id": "24399bee-2862-4361-8966-32401b1bef25",
+    "eng": "Makeen",
+    "fLE": "M",
+    "tel": "మాకేఎం",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "0ddb35a5-e907-4996-b414-83a74a64f17f",
+    "eng": "Makenlee",
+    "fLE": "M",
+    "tel": "మాకెంలీ",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "109e9b6f-a598-4bdf-a396-0fee8c8b7b7b",
+    "eng": "Makepeace",
+    "fLE": "M",
+    "tel": "మాకేపీఎస్",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "male",
+    "rel": "others"
+  },
+  {
+    "id": "2d15ca40-6714-4bae-8e0f-17180a839be6",
+    "eng": "Makesh",
+    "fLE": "M",
+    "tel": "ముకేశ్",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "03f55241-6f17-4dcb-94bc-5b860dade436",
+    "eng": "Makhan",
+    "fLE": "M",
+    "tel": "మఖం",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "fde840b1-db23-453b-bf32-dc06d3645bfd",
+    "eng": "Makhdoom",
+    "fLE": "M",
+    "tel": "మఖ్డోం",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "91d4cdff-5ffd-424e-a9ca-470bafc8d7c0",
+    "eng": "Makhdum",
+    "fLE": "M",
+    "tel": "మఖ్డుం",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "fe95cf73-d733-48a6-9930-f3b080a7866e",
+    "eng": "Makhesh",
+    "fLE": "M",
+    "tel": "ముఖేష్",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "0000b59f-d3ea-4fbc-bf1c-06cfd7c7566c",
+    "eng": "Makhi",
+    "fLE": "M",
+    "tel": "మఖి",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "male",
+    "rel": "others"
+  },
+  {
+    "id": "b9c02672-6175-41c2-98e5-a8e98379f679",
+    "eng": "makhi",
+    "fLE": "m",
+    "tel": "మఖి",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "f4d48f2e-19d3-4788-aef8-7104e208b4e7",
+    "eng": "Makhid",
+    "fLE": "M",
+    "tel": "మఖిద్",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "b54009b4-c13d-40fc-b98e-d2f6ae1366e7",
+    "eng": "Makin",
+    "fLE": "M",
+    "tel": "మేకిన్",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "0149148f-fca1-4a29-a154-b8dda4cc3c6a",
+    "eng": "Makinley",
+    "fLE": "M",
+    "tel": "మాకింలెయ్",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "f1ea2f9e-d42e-4abd-a2b3-0794702d4b19",
+    "eng": "Makis",
+    "fLE": "M",
+    "tel": "మేకిన్",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "male",
+    "rel": "others"
+  },
+  {
+    "id": "195d8661-3be6-40ef-94bf-87ed2a1a7f5b",
+    "eng": "Makki",
+    "fLE": "M",
+    "tel": "మక్కి",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "93b11a13-98b4-427a-9424-767cbdbb7a75",
+    "eng": "Makram",
+    "fLE": "M",
+    "tel": "మాట్రం",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "0c4c2276-5c85-4aad-aeea-4ef6c94e27f9",
+    "eng": "Makrand",
+    "fLE": "M",
+    "tel": "మక్రాన్డ్",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "710bd06a-2ff5-4b95-a2cc-69569edfed43",
+    "eng": "Maks",
+    "fLE": "M",
+    "tel": "మాక్స్",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "male",
+    "rel": "others"
+  },
+  {
+    "id": "3c31374b-0f78-4ed6-b754-e149c4c2e9ba",
+    "eng": "Maksim",
+    "fLE": "M",
+    "tel": "మాక్సిం",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "male",
+    "rel": "others"
+  },
+  {
+    "id": "f2c5ddaf-946a-4943-80da-bff66e8a1772",
+    "eng": "maksim",
+    "fLE": "m",
+    "tel": "మాక్సిం",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "3b2a9d8d-4b29-4249-b204-99969e5de3c4",
+    "eng": "Maksims",
+    "fLE": "M",
+    "tel": "మాక్సిమ్స్",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "adec9275-966e-4064-b608-6e59f8ce9454",
+    "eng": "Maksym",
+    "fLE": "M",
+    "tel": "మక్షయం",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "male",
+    "rel": "others"
+  },
+  {
+    "id": "8edd2c55-bee8-49e2-82d0-17ad1d4e6d89",
+    "eng": "Maksymilian",
+    "fLE": "M",
+    "tel": "మాకేసిమిలియాన్",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "male",
+    "rel": "others"
+  },
+  {
+    "id": "116d857c-246a-4007-aca9-5ba83445ef71",
+    "eng": "Makul",
+    "fLE": "M",
+    "tel": "ముకుల్",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "aa43ce67-867e-44e5-acad-ce0d70804432",
+    "eng": "Makula",
+    "fLE": "M",
+    "tel": "మాకుల",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "male",
+    "rel": "others"
+  },
+  {
+    "id": "e73f512b-66b7-4fb5-b1df-2546b3e504bc",
+    "eng": "Makur",
+    "fLE": "M",
+    "tel": "మకూర్",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "4af9dcb3-24a5-4f2e-a5e8-a3fc999b555d",
+    "eng": "Makura",
+    "fLE": "M",
+    "tel": "మకురా",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "male",
+    "rel": "others"
+  },
+  {
+    "id": "4dfe9c5a-777b-4723-a9a4-aa28ea9895ea",
+    "eng": "Makut",
+    "fLE": "M",
+    "tel": "మకుట",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "9db68999-5de6-4a4f-85ec-a564ab9ab699",
+    "eng": "Makya",
+    "fLE": "M",
+    "tel": "ముఖ్య",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "f9b77151-74e4-4fec-9793-32ac6e51a8cb",
+    "eng": "Makynzie",
+    "fLE": "M",
+    "tel": "మాక్య్నజిఎ",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "male",
+    "rel": "others"
+  },
+  {
+    "id": "93d18cd3-b3bf-4487-a73f-3dc2d3efd050",
+    "eng": "Mal",
+    "fLE": "M",
+    "tel": "మాల్",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "f1876156-e88b-4f99-8492-18f16b58eb7e",
+    "eng": "Mal Marugan",
+    "fLE": "M",
+    "tel": "మాల్ మురుగన్",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "20d1a30f-c66e-4f8f-bb3c-934b3e3226db",
+    "eng": "Mal-Chin",
+    "fLE": "M",
+    "tel": "మాల్-చిన్",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "888a8bd0-42f2-4e9d-801c-1abb31c0c2bf",
+    "eng": "Malach",
+    "fLE": "M",
+    "tel": "మలచి",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "2c04571d-332a-4d21-ba86-588bcdaf41db",
+    "eng": "Malachai",
+    "fLE": "M",
+    "tel": "మలచాయి",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "male",
+    "rel": "others"
+  },
+  {
+    "id": "408246d8-9d1b-4389-846e-5b688a175930",
+    "eng": "Malachi",
+    "fLE": "M",
+    "tel": "మలచి",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "male",
+    "rel": "others"
+  },
+  {
+    "id": "c67d246d-73fa-4407-ab68-d05758099119",
+    "eng": "Malachy",
+    "fLE": "M",
+    "tel": "మలచే",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "male",
+    "rel": "others"
+  },
+  {
+    "id": "34cdc19a-2871-4bc7-8998-1c1cfbb16a02",
+    "eng": "malachy",
+    "fLE": "m",
+    "tel": "మలచే",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "acf22c2a-0956-48f6-9e60-c5339ca1a5cd",
+    "eng": "Maladhar",
+    "fLE": "M",
+    "tel": "మాలాధర్",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "bed6814c-e9f6-4e9a-8935-d4b02dde899f",
+    "eng": "Malaiarasan",
+    "fLE": "M",
+    "tel": "మలయరసం",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "male",
+    "rel": "others"
+  },
+  {
+    "id": "4c3498e7-de6e-4285-a0ad-49e288e7a23c",
+    "eng": "Malaikannan",
+    "fLE": "M",
+    "tel": "మలైకాన్నం",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "male",
+    "rel": "others"
+  },
+  {
+    "id": "37535d27-105d-4871-b117-d50b47588dc7",
+    "eng": "Malaimagan",
+    "fLE": "M",
+    "tel": "మలైమగన్",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "male",
+    "rel": "others"
+  },
+  {
+    "id": "dedf2c27-93a7-45b6-ba39-8affc42e5456",
+    "eng": "Malaimakal Makan",
+    "fLE": "M",
+    "tel": "మలైమకల్ మకాం",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "4679754a-b9cb-4bd3-bb4c-bb6a187db40d",
+    "eng": "Malaisami",
+    "fLE": "M",
+    "tel": "మలైస్వామి",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "male",
+    "rel": "others"
+  },
+  {
+    "id": "9640c5e5-dc6f-4aba-8867-0032fbc6c51c",
+    "eng": "Malaiswamy",
+    "fLE": "M",
+    "tel": "మలైస్వామి",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "male",
+    "rel": "others"
+  },
+  {
+    "id": "2c2dc0d9-49c9-46bb-bde4-337b521bcffa",
+    "eng": "Malajit",
+    "fLE": "M",
+    "tel": "మల్జీత్",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "5b726a1a-f9f8-402b-8228-bec8a582253c",
+    "eng": "Malakai",
+    "fLE": "M",
+    "tel": "మాలకై",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "male",
+    "rel": "others"
+  },
+  {
+    "id": "58fb93bc-dd62-4bcf-83f4-d07d64bdb96e",
+    "eng": "malakai",
+    "fLE": "m",
+    "tel": "మాలకై",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "7f012470-f927-4390-a850-5a943fb5ae5d",
+    "eng": "Malakhi",
+    "fLE": "M",
+    "tel": "మలకి",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "e61f452a-e8d1-47c7-9c11-c199c5334db1",
+    "eng": "Malaki",
+    "fLE": "M",
+    "tel": "మలకి",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "male",
+    "rel": "others"
+  },
+  {
+    "id": "22507ce7-ae39-4ef8-8268-a80acab8ea38",
+    "eng": "malaki",
+    "fLE": "m",
+    "tel": "మలకి",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "32dc911e-0501-4295-859e-08a89f9d6ddf",
+    "eng": "Malan",
+    "fLE": "M",
+    "tel": "మలం",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "b17a1bf9-322a-4c69-8868-41cad41ff9c0",
+    "eng": "Malang",
+    "fLE": "M",
+    "tel": "మాలాంగ్",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "be69d4ef-9b19-4057-b8ac-7e5b7b2703fe",
+    "eng": "Malank",
+    "fLE": "M",
+    "tel": "మలంక",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "c3c9868b-2e56-42fe-92fe-4b23d7e74797",
+    "eng": "Malaravan",
+    "fLE": "M",
+    "tel": "మలరవం",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "5a0420a3-ae54-4bb8-8578-774e66fa0f4a",
+    "eng": "Malarvendan",
+    "fLE": "M",
+    "tel": "మలరఁవేందన్",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "male",
+    "rel": "others"
+  },
+  {
+    "id": "fff85729-9833-4ec9-8ba7-1b11c87c8fe0",
+    "eng": "Malarvendhan",
+    "fLE": "M",
+    "tel": "మలరఁవేందన్",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "male",
+    "rel": "others"
+  },
+  {
+    "id": "fdbe26b4-e93c-4716-ae95-6f5bd7fe242b",
+    "eng": "Malasri",
+    "fLE": "M",
+    "tel": "మాలాశ్రీ",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "554a7e35-7315-4eb6-8b90-454b2ab39773",
+    "eng": "Malateesh",
+    "fLE": "M",
+    "tel": "మాలతీష్",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "aeb08e52-9569-4402-b549-de6a7a5c11c6",
+    "eng": "Malatesh",
+    "fLE": "M",
+    "tel": "మాలతీష్",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "d709ffa0-271a-4721-9521-b87f9c097971",
+    "eng": "Malav",
+    "fLE": "M",
+    "tel": "మాలావి",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "a376b27a-9c88-4585-8a23-30994ba8bcd4",
+    "eng": "Malava",
+    "fLE": "M",
+    "tel": "మాళవ",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "male",
+    "rel": "others"
+  },
+  {
+    "id": "64b6dc0d-1a1d-4878-b84c-83d6565a0b55",
+    "eng": "Malay",
+    "fLE": "M",
+    "tel": "మలే",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "16d4790c-e581-4552-9c13-33c279daaeb9",
+    "eng": "Malayaj",
+    "fLE": "M",
+    "tel": "మలయజ్",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "24dd4d22-da40-4cb7-a738-ceca24600fd5",
+    "eng": "Malayamarut",
+    "fLE": "M",
+    "tel": "మలయమారుట",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "male",
+    "rel": "others"
+  }
+]

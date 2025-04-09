@@ -1,0 +1,962 @@
+[
+  {
+    "id": "d80ca625-582e-4933-ab0f-cb6a3792005a",
+    "eng": "Omeed",
+    "fLE": "O",
+    "tel": "యామీద్",
+    "fLTel": "య",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "338c362c-3832-43fd-8773-ce87b46d5123",
+    "eng": "Omeir",
+    "fLE": "O",
+    "tel": "ఒమెయిర్",
+    "fLTel": "ఒ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "00e69b00-8128-45ca-804a-9b7e6ee7c5bf",
+    "eng": "Omen",
+    "fLE": "O",
+    "tel": "ఒమెన్",
+    "fLTel": "ఒ",
+    "tags": [],
+    "gen": "male",
+    "rel": "others"
+  },
+  {
+    "id": "99c1e48d-8332-42c5-a638-e13152c34531",
+    "eng": "omen",
+    "fLE": "o",
+    "tel": "ఒమెన్",
+    "fLTel": "ఒ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "ea7be121-36a8-4707-bf75-06b1d9293c9e",
+    "eng": "Omendra",
+    "fLE": "O",
+    "tel": "వుమెన్ద్ర",
+    "fLTel": "వ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "0ae4f881-37df-4ebe-8a0d-433b5e6e295d",
+    "eng": "Omeo",
+    "fLE": "O",
+    "tel": "ఆమెతో",
+    "fLTel": "ఆ",
+    "tags": [],
+    "gen": "male",
+    "rel": "others"
+  },
+  {
+    "id": "55793859-49ab-44af-aa51-5f8e4db0a381",
+    "eng": "Omer",
+    "fLE": "O",
+    "tel": "ఒమేర్",
+    "fLTel": "ఒ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "2496b8cc-db92-4539-b766-560fbf3bc6e1",
+    "eng": "omer",
+    "fLE": "o",
+    "tel": "ఒమేర్",
+    "fLTel": "ఒ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "67f495a4-4b43-4697-850c-2fe39a17ddc7",
+    "eng": "Omero",
+    "fLE": "O",
+    "tel": "మరో",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "male",
+    "rel": "others"
+  },
+  {
+    "id": "8d8021fd-89a5-404d-8e1a-0afc21d8cfba",
+    "eng": "Omerus",
+    "fLE": "O",
+    "tel": "ఒమేర్స్",
+    "fLTel": "ఒ",
+    "tags": [],
+    "gen": "male",
+    "rel": "others"
+  },
+  {
+    "id": "3e19a52b-120c-456e-9125-30235d011d8e",
+    "eng": "Omesa",
+    "fLE": "O",
+    "tel": "మస",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "b6c6be5a-40be-45c4-9656-6101d092d8be",
+    "eng": "Omesh",
+    "fLE": "O",
+    "tel": "ఉమేష్",
+    "fLTel": "ఉ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "5f93c7a2-e7da-4783-b9ea-037e92adc3bc",
+    "eng": "Omeshwar",
+    "fLE": "O",
+    "tel": "ఒమేశ్వర్",
+    "fLTel": "ఒ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "d08343d1-96fa-4def-984b-320aeb74a158",
+    "eng": "ometaway",
+    "fLE": "o",
+    "tel": "మతావే",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "f2708fed-580c-4458-9324-1e85eec6ab39",
+    "eng": "Omganesh",
+    "fLE": "O",
+    "tel": "ఒంగణేష్",
+    "fLTel": "ఒ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "035da747-7dbb-4c92-bf9a-c85fa869075b",
+    "eng": "Omid",
+    "fLE": "O",
+    "tel": "ఒమిద్",
+    "fLTel": "ఒ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "4d75705d-6cff-4b6e-a379-97efd71adcf3",
+    "eng": "Omio",
+    "fLE": "O",
+    "tel": "ఓమియో",
+    "fLTel": "ఓ",
+    "tags": [],
+    "gen": "male",
+    "rel": "others"
+  },
+  {
+    "id": "ee230984-bb24-4cef-82f5-0574f2a4c6bf",
+    "eng": "Omiros",
+    "fLE": "O",
+    "tel": "ఓంఇరోస్",
+    "fLTel": "ఓ",
+    "tags": [],
+    "gen": "male",
+    "rel": "others"
+  },
+  {
+    "id": "eb5bc742-e33a-4b9f-ad31-0ec2996ad367",
+    "eng": "Omish",
+    "fLE": "O",
+    "tel": "అమిష్",
+    "fLTel": "అ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "20596e28-81d4-40d9-9287-7cdf59ad8634",
+    "eng": "Omit",
+    "fLE": "O",
+    "tel": "అమిత్",
+    "fLTel": "అ",
+    "tags": [],
+    "gen": "male",
+    "rel": "others"
+  },
+  {
+    "id": "74c3bc1e-51ce-4bb0-a226-bf004b384de3",
+    "eng": "Omitabho",
+    "fLE": "O",
+    "tel": "ఓమితభో",
+    "fLTel": "ఓ",
+    "tags": [],
+    "gen": "male",
+    "rel": "others"
+  },
+  {
+    "id": "20f6e2c1-5025-4730-8377-24c75a3edbce",
+    "eng": "Omja",
+    "fLE": "O",
+    "tel": "ఓంజా",
+    "fLTel": "ఓ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "de64b967-c58b-4df2-9bb5-98f58a01cfdb",
+    "eng": "Omjaa",
+    "fLE": "O",
+    "tel": "ఓంజా",
+    "fLTel": "ఓ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "983723ab-f1ee-488d-bed2-0f3f33e12706",
+    "eng": "Omkaar",
+    "fLE": "O",
+    "tel": "ఓంకార్",
+    "fLTel": "ఓ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "24e67266-11b8-4977-bdfc-445fa20a80c8",
+    "eng": "Omkar",
+    "fLE": "O",
+    "tel": "ఓంకార్",
+    "fLTel": "ఓ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "10ff437c-d68f-4d6c-a69d-7a10cf3710fa",
+    "eng": "Omkara",
+    "fLE": "O",
+    "tel": "ఓంకార",
+    "fLTel": "ఓ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "4ef389df-3f04-4de3-8ac6-fc6497d51669",
+    "eng": "Omkaranatha",
+    "fLE": "O",
+    "tel": "ఓంకారనాథ",
+    "fLTel": "ఓ",
+    "tags": [],
+    "gen": "male",
+    "rel": "others"
+  },
+  {
+    "id": "1d9196a2-509f-4e62-9410-3659ee28888c",
+    "eng": "Omkareshwar",
+    "fLE": "O",
+    "tel": "ఓంకారేశ్వర",
+    "fLTel": "ఓ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "f8c4cf66-5ff2-4aad-9952-7e4fcceb8b1c",
+    "eng": "Omkareswar",
+    "fLE": "O",
+    "tel": "ఓంకారేశ్వర",
+    "fLTel": "ఓ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "58c5e60c-e182-43f3-96ec-e0ff7782c1b8",
+    "eng": "Omkarnath",
+    "fLE": "O",
+    "tel": "ఓంకారణాత్",
+    "fLTel": "ఓ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "594cfc35-c59f-4c21-9b99-6cfa18edbaf4",
+    "eng": "Omkrish",
+    "fLE": "O",
+    "tel": "ఓంకృష్",
+    "fLTel": "ఓ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "3957dc70-b2a7-4f4c-9ea7-eea9df3c1aa9",
+    "eng": "Ommar",
+    "fLE": "O",
+    "tel": "అమ్మర్",
+    "fLTel": "అ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "48ed6167-6ae1-4599-bbea-a7ef7d051573",
+    "eng": "Omna",
+    "fLE": "O",
+    "tel": "ఓంన",
+    "fLTel": "ఓ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "89bef345-17ff-47e2-8be5-54d245ca73e1",
+    "eng": "Omnada",
+    "fLE": "O",
+    "tel": "ఓంనదా",
+    "fLTel": "ఓ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "f0484015-5b43-4a4a-bb1f-65fbcce57a00",
+    "eng": "Omni",
+    "fLE": "O",
+    "tel": "ఓమ్ని",
+    "fLTel": "ఓ",
+    "tags": [],
+    "gen": "male",
+    "rel": "others"
+  },
+  {
+    "id": "47c54ba2-af7d-4689-984f-444d908d4043",
+    "eng": "Omol",
+    "fLE": "O",
+    "tel": "అమోల్",
+    "fLTel": "అ",
+    "tags": [],
+    "gen": "male",
+    "rel": "others"
+  },
+  {
+    "id": "b524dc31-a6e0-4d40-9509-cb71c2bc4972",
+    "eng": "Omondi",
+    "fLE": "O",
+    "tel": "ఒమొంది",
+    "fLTel": "ఒ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "25a57da0-6c24-43a9-9f10-08f6a5a9375f",
+    "eng": "Omor",
+    "fLE": "O",
+    "tel": "ఒమర్",
+    "fLTel": "ఒ",
+    "tags": [],
+    "gen": "male",
+    "rel": "others"
+  },
+  {
+    "id": "0fca3ccd-e0c8-4210-b790-daeb7a36c93e",
+    "eng": "Omparkash",
+    "fLE": "O",
+    "tel": "ఓంప్రకాష్",
+    "fLTel": "ఓ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "690077c5-1636-42ce-babf-604e93e819d9",
+    "eng": "Ompati",
+    "fLE": "O",
+    "tel": "ఒంపతి",
+    "fLTel": "ఒ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "8d4ff060-cfe8-4dd5-aad5-ba61d81c61f0",
+    "eng": "Ompatu",
+    "fLE": "O",
+    "tel": "ఓంపాటు",
+    "fLTel": "ఓ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "74964f57-2163-4540-bc19-b9698ea4188a",
+    "eng": "Omprakasa",
+    "fLE": "O",
+    "tel": "ఓంప్రకాశ",
+    "fLTel": "ఓ",
+    "tags": [],
+    "gen": "male",
+    "rel": "others"
+  },
+  {
+    "id": "2c59d28e-e698-4a47-a790-faca94147bef",
+    "eng": "Omprakash",
+    "fLE": "O",
+    "tel": "ఓంప్రకాష్",
+    "fLTel": "ఓ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "2fe97781-7d6d-40ba-b6dd-064a2ccea5c7",
+    "eng": "Ompreet",
+    "fLE": "O",
+    "tel": "ఓంప్రీత్",
+    "fLTel": "ఓ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Sikh"
+  },
+  {
+    "id": "9291f696-5e95-4624-973d-4f25bbbbda6c",
+    "eng": "Omran",
+    "fLE": "O",
+    "tel": "కొమురం",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "8145b866-2804-4951-a6f8-1937ff679674",
+    "eng": "Omrao",
+    "fLE": "O",
+    "tel": "ఉమ్రావ్",
+    "fLTel": "ఉ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "13edfb1d-55f0-4d1c-81b8-bf4d31e3c8af",
+    "eng": "Omri",
+    "fLE": "O",
+    "tel": "ఒంటి",
+    "fLTel": "ఒ",
+    "tags": [],
+    "gen": "male",
+    "rel": "others"
+  },
+  {
+    "id": "15a2dce0-51e4-499b-8ebe-2c799a57efcf",
+    "eng": "omri",
+    "fLE": "o",
+    "tel": "ఒంటి",
+    "fLTel": "ఒ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "ddb45525-f660-4584-a4a4-aa077b95f4f1",
+    "eng": "Omswaroop",
+    "fLE": "O",
+    "tel": "ఓంస్వరూప్",
+    "fLTel": "ఓ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "074406b5-26a9-4883-abfb-81cf59faf984",
+    "eng": "Omswarup",
+    "fLE": "O",
+    "tel": "ఓంస్వరూప్",
+    "fLTel": "ఓ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "3232be05-7ca5-4931-af02-5fc3086ecbc8",
+    "eng": "Omu",
+    "fLE": "O",
+    "tel": "మోము",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "0a7b9e15-c13d-4187-be5a-0ab34b9aacbb",
+    "eng": "Omwancha",
+    "fLE": "O",
+    "tel": "ఓంవఞ్చ",
+    "fLTel": "ఓ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "e5e50229-ab8f-4423-bf22-bf38da399470",
+    "eng": "Omya",
+    "fLE": "O",
+    "tel": "ఓంయ",
+    "fLTel": "ఓ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "f64aa926-db30-4aa2-836c-7a88b7f77e71",
+    "eng": "Onain",
+    "fLE": "O",
+    "tel": "లోనైం",
+    "fLTel": "ల",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "c7f92a5e-246c-4031-806f-33d5ee7580d7",
+    "eng": "Onan",
+    "fLE": "O",
+    "tel": "ఓనం",
+    "fLTel": "ఓ",
+    "tags": [],
+    "gen": "male",
+    "rel": "others"
+  },
+  {
+    "id": "4ad83c36-f6e6-43cd-af4e-eb96f1b45069",
+    "eng": "Onaona",
+    "fLE": "O",
+    "tel": "ఓనాయన",
+    "fLTel": "ఓ",
+    "tags": [],
+    "gen": "male",
+    "rel": "others"
+  },
+  {
+    "id": "b39de840-8adc-4dd9-85b0-a2d7535f219b",
+    "eng": "Ondoej",
+    "fLE": "O",
+    "tel": "డయేజ్",
+    "fLTel": "డ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "0cc0bda4-4008-437b-9f0b-aa5a9e3c12a6",
+    "eng": "Ondrei",
+    "fLE": "O",
+    "tel": "ఒండ్రెయి",
+    "fLTel": "ఒ",
+    "tags": [],
+    "gen": "male",
+    "rel": "others"
+  },
+  {
+    "id": "f1b0c68e-5e53-4791-b441-6055ae0d0ff4",
+    "eng": "Ondrej",
+    "fLE": "O",
+    "tel": "ఒంద్రేజ్",
+    "fLTel": "ఒ",
+    "tags": [],
+    "gen": "male",
+    "rel": "others"
+  },
+  {
+    "id": "779a5446-2773-460d-a21c-97335e1abf80",
+    "eng": "ondrej",
+    "fLE": "o",
+    "tel": "ఒంద్రేజ్",
+    "fLTel": "ఒ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "34bbe965-cdd3-45fb-b970-55f4822eaf7e",
+    "eng": "Oneal",
+    "fLE": "O",
+    "tel": "యోనెల్",
+    "fLTel": "య",
+    "tags": [],
+    "gen": "male",
+    "rel": "others"
+  },
+  {
+    "id": "b8b74684-1c7e-4a8e-aa97-20c457534a87",
+    "eng": "Oneesh",
+    "fLE": "O",
+    "tel": "అనీష్",
+    "fLTel": "అ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "49b968ea-f8f7-4720-ae16-6ccb6105c799",
+    "eng": "onesimus",
+    "fLE": "o",
+    "tel": "ఒనేసిముస్",
+    "fLTel": "ఒ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "d59ec1d4-756e-44a4-be30-f8a31fcd2a15",
+    "eng": "Onfre",
+    "fLE": "O",
+    "tel": "ఒంఫ్రె",
+    "fLTel": "ఒ",
+    "tags": [],
+    "gen": "male",
+    "rel": "others"
+  },
+  {
+    "id": "0cf0bd46-a0ed-4e99-9e8e-63b3fd38f5b8",
+    "eng": "Onfroi",
+    "fLE": "O",
+    "tel": "ఒంఫ్రోయి",
+    "fLTel": "ఒ",
+    "tags": [],
+    "gen": "male",
+    "rel": "others"
+  },
+  {
+    "id": "2a1298fe-a648-48ae-81fc-a713502508ec",
+    "eng": "Ongentheow",
+    "fLE": "O",
+    "tel": "ఒంగెంతేఓ",
+    "fLTel": "ఒ",
+    "tags": [],
+    "gen": "male",
+    "rel": "others"
+  },
+  {
+    "id": "4078b1e9-6526-400b-9877-05a66399e90b",
+    "eng": "Ongivalarthan",
+    "fLE": "O",
+    "tel": "పొంగివలర్థం",
+    "fLTel": "ప",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "533b7b62-e6db-4993-b1ba-68b0c012e67a",
+    "eng": "Ongkar",
+    "fLE": "O",
+    "tel": "ఓఙ్కారః",
+    "fLTel": "ఓ",
+    "tags": [],
+    "gen": "male",
+    "rel": "others"
+  },
+  {
+    "id": "404f394a-165e-4bb8-bf78-4668a630976f",
+    "eng": "Onik",
+    "fLE": "O",
+    "tel": "ఓనికె",
+    "fLTel": "ఓ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "eb7c2091-6c46-47b2-9e51-5e8b02216562",
+    "eng": "Onil",
+    "fLE": "O",
+    "tel": "అనిల్",
+    "fLTel": "అ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "1145645e-d760-4ae6-b18e-5ad4393efb00",
+    "eng": "Oninddo",
+    "fLE": "O",
+    "tel": "ఒనింద్దో",
+    "fLTel": "ఒ",
+    "tags": [],
+    "gen": "male",
+    "rel": "others"
+  },
+  {
+    "id": "cfe061c2-7786-4ffe-9e57-05325b89dc52",
+    "eng": "Onindro",
+    "fLE": "O",
+    "tel": "యోనిన్ద్రో",
+    "fLTel": "య",
+    "tags": [],
+    "gen": "male",
+    "rel": "others"
+  },
+  {
+    "id": "edd8fffd-2968-46b5-93ee-af3217d5cc40",
+    "eng": "Onir",
+    "fLE": "O",
+    "tel": "నిర్",
+    "fLTel": "న",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "8bf69eaa-1545-4447-9f0e-9170fd929e52",
+    "eng": "Onis",
+    "fLE": "O",
+    "tel": "యోనిస్",
+    "fLTel": "య",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "7e710dcd-c9af-4d54-9e54-20f03562c3e0",
+    "eng": "Onish",
+    "fLE": "O",
+    "tel": "అనీష్",
+    "fLTel": "అ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "05d8af8b-e542-4468-9ac1-aa6a0ac667e0",
+    "eng": "Onkar",
+    "fLE": "O",
+    "tel": "ఓంకార్",
+    "fLTel": "ఓ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "8be662ca-5f9b-4a93-a425-61e29121d81b",
+    "eng": "Onkaran",
+    "fLE": "O",
+    "tel": "ఓంకారం",
+    "fLTel": "ఓ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "aea1c6bc-fa06-4d44-b67f-e8bbf85318b5",
+    "eng": "Onkarjeet",
+    "fLE": "O",
+    "tel": "ఒంకర్జీత్",
+    "fLTel": "ఒ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Sikh"
+  },
+  {
+    "id": "b2e4c49a-e684-41b5-a4fd-391c7138241a",
+    "eng": "Onkarjit",
+    "fLE": "O",
+    "tel": "ఒంకర్జిత్",
+    "fLTel": "ఒ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Sikh"
+  },
+  {
+    "id": "8c6c9831-ce95-45f3-925d-969aed5db17c",
+    "eng": "Onkarjot",
+    "fLE": "O",
+    "tel": "ఒంకరజోత్",
+    "fLTel": "ఒ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Sikh"
+  },
+  {
+    "id": "fd998189-2321-4593-bb3c-dc9008be57cb",
+    "eng": "Onkarpreet",
+    "fLE": "O",
+    "tel": "ఓంకారప్రీత్",
+    "fLTel": "ఓ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Sikh"
+  },
+  {
+    "id": "62c7b84a-e921-48ee-8902-d83c9fe304d1",
+    "eng": "Onkwani",
+    "fLE": "O",
+    "tel": "ఒంక్వని",
+    "fLTel": "ఒ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "f8754e51-a550-4b33-9168-ebc819a67d5d",
+    "eng": "Onlaf",
+    "fLE": "O",
+    "tel": "ఒంలాఫ్",
+    "fLTel": "ఒ",
+    "tags": [],
+    "gen": "male",
+    "rel": "others"
+  },
+  {
+    "id": "07cc8b2d-f893-4301-a7f2-c3f90a7055b7",
+    "eng": "Onnan",
+    "fLE": "O",
+    "tel": "అన్నం",
+    "fLTel": "అ",
+    "tags": [],
+    "gen": "male",
+    "rel": "others"
+  },
+  {
+    "id": "63a62e92-3508-4b5e-8282-bc9c596e42f4",
+    "eng": "Onnesha",
+    "fLE": "O",
+    "tel": "ఒంణేశ",
+    "fLTel": "ఒ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "2baba9fe-7108-4892-818b-81073350e4ef",
+    "eng": "Onni",
+    "fLE": "O",
+    "tel": "కొన్ని",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "male",
+    "rel": "others"
+  },
+  {
+    "id": "0028190f-3f93-4d01-b1c4-300da6d39703",
+    "eng": "onni",
+    "fLE": "o",
+    "tel": "కొన్ని",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "1dc80413-2407-4976-8dfa-5ad7ac6df2a3",
+    "eng": "Onochie",
+    "fLE": "O",
+    "tel": "ఓనోచియే",
+    "fLTel": "ఓ",
+    "tags": [],
+    "gen": "male",
+    "rel": "others"
+  },
+  {
+    "id": "d4b4e91c-51f6-418b-9d95-a0709c041cca",
+    "eng": "Onofre",
+    "fLE": "O",
+    "tel": "ఒంఆరే",
+    "fLTel": "ఒ",
+    "tags": [],
+    "gen": "male",
+    "rel": "others"
+  },
+  {
+    "id": "1b9344b4-db8e-4f76-a7ef-42b8f37cc771",
+    "eng": "onofre",
+    "fLE": "o",
+    "tel": "ఒంఆరే",
+    "fLTel": "ఒ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "5d0a7ba1-396b-477b-b84e-b77ad162e91b",
+    "eng": "Onofredo",
+    "fLE": "O",
+    "tel": "ఓనోఫ్రెడో",
+    "fLTel": "ఓ",
+    "tags": [],
+    "gen": "male",
+    "rel": "others"
+  },
+  {
+    "id": "87a4eec8-eee6-4d25-a168-dce7a35e24c0",
+    "eng": "Onofrio",
+    "fLE": "O",
+    "tel": "ఓనోప్రియో",
+    "fLTel": "ఓ",
+    "tags": [],
+    "gen": "male",
+    "rel": "others"
+  },
+  {
+    "id": "5bfba6ec-9dc6-4784-8041-2da2c742878a",
+    "eng": "Onosij",
+    "fLE": "O",
+    "tel": "మోనోసైజ్",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "male",
+    "rel": "others"
+  },
+  {
+    "id": "290439fd-d536-465f-bd16-da6fc1b140d8",
+    "eng": "Onshuda",
+    "fLE": "O",
+    "tel": "ఒంషుడ",
+    "fLTel": "ఒ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "6ea2de50-755b-4a73-9a69-787a994d22cb",
+    "eng": "Onsi",
+    "fLE": "O",
+    "tel": "ఒంసి",
+    "fLTel": "ఒ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "6af323f8-3ec9-418c-963f-2c575b4a09fe",
+    "eng": "Onslow",
+    "fLE": "O",
+    "tel": "ఒన్సలౌ",
+    "fLTel": "ఒ",
+    "tags": [],
+    "gen": "male",
+    "rel": "others"
+  }
+]

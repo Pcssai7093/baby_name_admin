@@ -1,0 +1,942 @@
+[
+  {
+    "id": "113c4d2a-2b1e-4fc6-8ce5-82462cc1fb46",
+    "eng": "Gurijala",
+    "fLE": "G",
+    "tel": "గురజాల",
+    "fLTel": "గ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "fb03464e-6cae-4d41-bac3-605881680daf",
+    "eng": "Gurinder",
+    "fLE": "G",
+    "tel": "గూరిందేర్",
+    "fLTel": "గ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Sikh"
+  },
+  {
+    "id": "6f391479-c22c-4205-8ffb-daf5985c497c",
+    "eng": "Gurinderjeet",
+    "fLE": "G",
+    "tel": "గూరిందేర్జీత్",
+    "fLTel": "గ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Sikh"
+  },
+  {
+    "id": "2e21553c-216e-42ea-b0bd-96411eb0e72a",
+    "eng": "Gurinderpal",
+    "fLE": "G",
+    "tel": "గురిందెర్పాల్",
+    "fLTel": "గ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Sikh"
+  },
+  {
+    "id": "50560b36-0041-4b6d-9b0c-84ddc651e0e7",
+    "eng": "Gurinderveer",
+    "fLE": "G",
+    "tel": "గూరిందేర్వీర్",
+    "fLTel": "గ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Sikh"
+  },
+  {
+    "id": "a77bda1c-5bbb-4d1e-9503-af85a3a37158",
+    "eng": "Gurish",
+    "fLE": "G",
+    "tel": "గిరీష్",
+    "fLTel": "గ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "3e4cf654-7b24-4fbf-831c-f3053c7e572a",
+    "eng": "Gurjaap",
+    "fLE": "G",
+    "tel": "గురజాపి",
+    "fLTel": "గ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Sikh"
+  },
+  {
+    "id": "474a577e-5103-459c-bbdd-bc9216f6fef9",
+    "eng": "Gurjanpal",
+    "fLE": "G",
+    "tel": "గుర్జన్పాల్",
+    "fLTel": "గ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Sikh"
+  },
+  {
+    "id": "81d39fd7-c866-44c3-a2df-4680d5a5a7da",
+    "eng": "Gurjant",
+    "fLE": "G",
+    "tel": "గుర్జన్త",
+    "fLTel": "గ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "1b588ef0-715c-44c8-be31-bd69e1cdf123",
+    "eng": "Gurjas",
+    "fLE": "G",
+    "tel": "గుర్జస్",
+    "fLTel": "గ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "6a9bad88-a8aa-4c98-b5fd-f84f37ef6a2c",
+    "eng": "Gurjeevan",
+    "fLE": "G",
+    "tel": "గుర్జీవం",
+    "fLTel": "గ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Sikh"
+  },
+  {
+    "id": "d72e8d40-a00b-4c58-906a-a3799650dff3",
+    "eng": "Gurjind",
+    "fLE": "G",
+    "tel": "గుర్జిన్డ్",
+    "fLTel": "గ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Sikh"
+  },
+  {
+    "id": "a2a9580a-6295-4b57-a691-558f008ad5b7",
+    "eng": "Gurjit",
+    "fLE": "G",
+    "tel": "గుర్జిత్",
+    "fLTel": "గ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Sikh"
+  },
+  {
+    "id": "465160aa-add3-47d9-b7f0-41fffbe84945",
+    "eng": "Gurjivan",
+    "fLE": "G",
+    "tel": "గుర్జీవం",
+    "fLTel": "గ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Sikh"
+  },
+  {
+    "id": "d2bbb16f-a28a-4232-a9ef-38493debcbac",
+    "eng": "Gurjoban",
+    "fLE": "G",
+    "tel": "గురజాబం",
+    "fLTel": "గ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Sikh"
+  },
+  {
+    "id": "fd877370-9832-48da-86b9-2213ee5f4c24",
+    "eng": "Gurjodh",
+    "fLE": "G",
+    "tel": "గురజాద్",
+    "fLTel": "గ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Sikh"
+  },
+  {
+    "id": "63e026e7-babf-47c3-b980-e37657bb2d8f",
+    "eng": "Gurjog",
+    "fLE": "G",
+    "tel": "గురుజోగ్",
+    "fLTel": "గ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Sikh"
+  },
+  {
+    "id": "8b955756-af80-45bd-83b4-ae0eefb03b3a",
+    "eng": "Gurjot",
+    "fLE": "G",
+    "tel": "గురజాతి",
+    "fLTel": "గ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Sikh"
+  },
+  {
+    "id": "4bdceeab-adf5-4b24-b7e3-5eb17f0dd53a",
+    "eng": "Gurju",
+    "fLE": "G",
+    "tel": "గురాజు",
+    "fLTel": "గ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Sikh"
+  },
+  {
+    "id": "5de0914e-7271-460c-818e-48e27d1dba43",
+    "eng": "Gurkamal",
+    "fLE": "G",
+    "tel": "గురకమల్",
+    "fLTel": "గ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Sikh"
+  },
+  {
+    "id": "c7ffe41f-39d7-475a-bc87-f55e61619c5c",
+    "eng": "Gurkaram",
+    "fLE": "G",
+    "tel": "గుర్కారం",
+    "fLTel": "గ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "9e66158d-6147-41df-9878-4885d3f70412",
+    "eng": "Gurkaran",
+    "fLE": "G",
+    "tel": "గుర్కారం",
+    "fLTel": "గ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Sikh"
+  },
+  {
+    "id": "ffe35280-90d7-46f4-ac0f-7da6a0463548",
+    "eng": "Gurkaranvir",
+    "fLE": "G",
+    "tel": "గుర్కారన్వీర్",
+    "fLTel": "గ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Sikh"
+  },
+  {
+    "id": "bb4585c9-f542-4968-800d-850f901fd391",
+    "eng": "Gurkeerat",
+    "fLE": "G",
+    "tel": "గురుకీరత్",
+    "fLTel": "గ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Sikh"
+  },
+  {
+    "id": "ddfb718a-3961-461c-97cf-6f523fd2d8f3",
+    "eng": "Gurkeet",
+    "fLE": "G",
+    "tel": "గురికీటీ",
+    "fLTel": "గ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Sikh"
+  },
+  {
+    "id": "1b542b68-a4bb-41ed-ba87-d69b321edd84",
+    "eng": "Gurkirat",
+    "fLE": "G",
+    "tel": "గురుకీరత్",
+    "fLTel": "గ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Sikh"
+  },
+  {
+    "id": "9811cd63-e78f-4614-872b-17e2102227f4",
+    "eng": "Gurkiratsingh",
+    "fLE": "G",
+    "tel": "గురుకిఱతిసింగ్",
+    "fLTel": "గ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Sikh"
+  },
+  {
+    "id": "6b4d7b2f-f667-4da3-93e4-0d1c46cce4a6",
+    "eng": "Gurkirpal",
+    "fLE": "G",
+    "tel": "గుర్కిర్పాల్",
+    "fLTel": "గ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Sikh"
+  },
+  {
+    "id": "e92b696e-2893-44cf-ba08-ec5b8bdde2d2",
+    "eng": "Gurkirt",
+    "fLE": "G",
+    "tel": "గురుకిర్త్",
+    "fLTel": "గ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "a195d83e-e284-4128-98c0-a0c9dd2fc7df",
+    "eng": "Gurkurbaan",
+    "fLE": "G",
+    "tel": "గురుకుర్బాన్",
+    "fLTel": "గ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Sikh"
+  },
+  {
+    "id": "05c10e4a-5a3d-4f46-8281-9956be79dc42",
+    "eng": "Gurlaal",
+    "fLE": "G",
+    "tel": "గుర్లాల్",
+    "fLTel": "గ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Sikh"
+  },
+  {
+    "id": "ef1e55b9-57f7-4beb-aebe-fd27c23a4cde",
+    "eng": "Gurlabh",
+    "fLE": "G",
+    "tel": "గుర్లభః",
+    "fLTel": "గ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Sikh"
+  },
+  {
+    "id": "3a51fd0f-20c4-4d95-8389-ac860c5f6026",
+    "eng": "Gurlal",
+    "fLE": "G",
+    "tel": "గుర్లాల్",
+    "fLTel": "గ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Sikh"
+  },
+  {
+    "id": "b7a1d221-52bc-47b3-a916-e35e45452fa8",
+    "eng": "Gurliv",
+    "fLE": "G",
+    "tel": "గుర్లివ్",
+    "fLTel": "గ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "6d465b45-f44d-47ab-b94e-cc542af92a79",
+    "eng": "Gurloch",
+    "fLE": "G",
+    "tel": "గురిలోచ్",
+    "fLTel": "గ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "b6dbe22d-1161-4297-80b3-e1e52d3e2a78",
+    "eng": "Gurlochan",
+    "fLE": "G",
+    "tel": "గూర్లోచన",
+    "fLTel": "గ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Sikh"
+  },
+  {
+    "id": "3ea40e41-3b9f-4c46-a0ee-b48b801236dc",
+    "eng": "Gurmaan",
+    "fLE": "G",
+    "tel": "గురుమాన్",
+    "fLTel": "గ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Sikh"
+  },
+  {
+    "id": "97079b28-3fb8-4642-8d36-03a6acc77e00",
+    "eng": "Gurmaher",
+    "fLE": "G",
+    "tel": "గూర్మహీర్",
+    "fLTel": "గ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Sikh"
+  },
+  {
+    "id": "8df05311-12e1-4ff0-b92c-83e71ce85857",
+    "eng": "Gurman",
+    "fLE": "G",
+    "tel": "గురుమాన్",
+    "fLTel": "గ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "7a7e84b8-70f8-46cb-88c5-d2a38decb34f",
+    "eng": "Gurmandeep",
+    "fLE": "G",
+    "tel": "గురుమన్దీప్",
+    "fLTel": "గ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "17896799-a8d9-4433-85be-0350a5851f6d",
+    "eng": "Gurmanshu",
+    "fLE": "G",
+    "tel": "గురుమాన్షు",
+    "fLTel": "గ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "76b36e0d-8b4e-4f08-86c5-0f9a16c99609",
+    "eng": "Gurmant",
+    "fLE": "G",
+    "tel": "ఘర్మాంట్",
+    "fLTel": "ఘ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "3f64eba4-51fe-42e0-a8d7-a3b4a3ffc121",
+    "eng": "Gurmantar",
+    "fLE": "G",
+    "tel": "గురుమంటారు",
+    "fLTel": "గ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Sikh"
+  },
+  {
+    "id": "56c775e3-edd1-4e09-87be-985aaabed47c",
+    "eng": "Gurmeet",
+    "fLE": "G",
+    "tel": "గురుమీత్",
+    "fLTel": "గ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "b209bdae-9574-4b44-938b-cae1c5202f66",
+    "eng": "Gurmehar",
+    "fLE": "G",
+    "tel": "గుర్మీహార్",
+    "fLTel": "గ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Sikh"
+  },
+  {
+    "id": "abe4b309-65fb-48fa-879d-0e60951b571b",
+    "eng": "Gurmej",
+    "fLE": "G",
+    "tel": "గుర్మీజ్",
+    "fLTel": "గ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Sikh"
+  },
+  {
+    "id": "08cf327d-c477-4817-8fcf-c5b4794412b0",
+    "eng": "Gurmel",
+    "fLE": "G",
+    "tel": "గుర్మీల",
+    "fLTel": "గ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "9f7d781b-5f53-4e75-a2d5-6d158af639b9",
+    "eng": "Gurminder",
+    "fLE": "G",
+    "tel": "గుర్మిన్డెర్",
+    "fLTel": "గ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Sikh"
+  },
+  {
+    "id": "a5c5933a-92a1-47e1-9811-412d453c49b8",
+    "eng": "Gurmohan",
+    "fLE": "G",
+    "tel": "గురుమోహన్",
+    "fLTel": "గ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Sikh"
+  },
+  {
+    "id": "8fb7405e-e6dd-47f5-97a0-3756f7547592",
+    "eng": "Gurmohinder",
+    "fLE": "G",
+    "tel": "గురుమొహిందర్",
+    "fLTel": "గ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Sikh"
+  },
+  {
+    "id": "4f5f94db-9116-4524-adb2-e389cdc47fd1",
+    "eng": "Gurmukat",
+    "fLE": "G",
+    "tel": "గురముకత్",
+    "fLTel": "గ",
+    "tags": [],
+    "gen": "male",
+    "rel": "others"
+  },
+  {
+    "id": "a8aeacf8-0985-4cd3-b08f-203275a9d075",
+    "eng": "Gurmukh",
+    "fLE": "G",
+    "tel": "గురముఖ్",
+    "fLTel": "గ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "2e5e9edb-50cc-4d1d-b332-4e4297c44781",
+    "eng": "Gurmukh Gurnam",
+    "fLE": "G",
+    "tel": "గురముఖ్ గుర్నామ్",
+    "fLTel": "గ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "ee26f5fa-e65f-437c-991b-b38b9ae7e3da",
+    "eng": "Gurmukhnihal",
+    "fLE": "G",
+    "tel": "గురముఖ్నిహాల్",
+    "fLTel": "గ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Sikh"
+  },
+  {
+    "id": "ab71298d-9884-4ab8-b4d7-cfca4c612655",
+    "eng": "Gurmustak",
+    "fLE": "G",
+    "tel": "గురుముస్తక్",
+    "fLTel": "గ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Sikh"
+  },
+  {
+    "id": "a60ad945-06f7-45ef-aec9-1f660dbc1bf7",
+    "eng": "Gurnaad",
+    "fLE": "G",
+    "tel": "గుర్నాడ్",
+    "fLTel": "గ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Sikh"
+  },
+  {
+    "id": "140fd43f-607e-486f-98bb-cef0d56696e7",
+    "eng": "Gurnaal",
+    "fLE": "G",
+    "tel": "గుర్నాల్",
+    "fLTel": "గ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Sikh"
+  },
+  {
+    "id": "0fb1b85d-0714-4d59-af72-133c48bf7708",
+    "eng": "Gurnaib",
+    "fLE": "G",
+    "tel": "గుర్నాయిబ్",
+    "fLTel": "గ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "19d3d881-9316-44f9-a667-bc60ece80d61",
+    "eng": "Gurnam",
+    "fLE": "G",
+    "tel": "గుర్నామ్",
+    "fLTel": "గ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "b9dbfc16-d79e-413c-b042-9bbf0ce58f52",
+    "eng": "Gurnama",
+    "fLE": "G",
+    "tel": "గుర్నామ",
+    "fLTel": "గ",
+    "tags": [],
+    "gen": "male",
+    "rel": "others"
+  },
+  {
+    "id": "a50092c9-4da6-4845-885d-6bacb20c296f",
+    "eng": "Gurnand",
+    "fLE": "G",
+    "tel": "గుర్నాను",
+    "fLTel": "గ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "fac61db1-ecb7-4272-8144-fecab599921c",
+    "eng": "Gurnandish",
+    "fLE": "G",
+    "tel": "గురునందీష్",
+    "fLTel": "గ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "19465c65-79ee-4c98-b0e6-88eed26f81ad",
+    "eng": "Gurnidh",
+    "fLE": "G",
+    "tel": "గుర్నిద్",
+    "fLTel": "గ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Sikh"
+  },
+  {
+    "id": "205eaa11-9cee-45ea-8c65-ab7a9e1e3c84",
+    "eng": "Gurnidhan",
+    "fLE": "G",
+    "tel": "గుర్నిదం",
+    "fLTel": "గ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "189b3e1a-0708-4938-9800-fabc5d257bd4",
+    "eng": "Gurnihal",
+    "fLE": "G",
+    "tel": "గురునిహాల్",
+    "fLTel": "గ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "b6d7a742-6f15-4b66-8849-bc1197e72540",
+    "eng": "Gurniranjan",
+    "fLE": "G",
+    "tel": "గురునిరంజన్",
+    "fLTel": "గ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Sikh"
+  },
+  {
+    "id": "013ac23b-5916-4aa1-9463-862c19f00956",
+    "eng": "Gurnirmal",
+    "fLE": "G",
+    "tel": "గుర్నిర్మల్",
+    "fLTel": "గ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Sikh"
+  },
+  {
+    "id": "a4e3e415-6721-4496-84c6-cfbc5553e345",
+    "eng": "Gurnishaan",
+    "fLE": "G",
+    "tel": "గురునిషాన్",
+    "fLTel": "గ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Sikh"
+  },
+  {
+    "id": "4bc56612-f9af-4ee9-8a3d-3e49651ef128",
+    "eng": "Gurnivaas",
+    "fLE": "G",
+    "tel": "గురునివాస్",
+    "fLTel": "గ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "dcaa2f84-0043-4b7e-af5e-b4e094f0489a",
+    "eng": "Gurniwaaz",
+    "fLE": "G",
+    "tel": "గురునివ్వాజ్",
+    "fLTel": "గ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Sikh"
+  },
+  {
+    "id": "55108db2-5358-4752-ac8b-1211a173ec2d",
+    "eng": "Gurnyam",
+    "fLE": "G",
+    "tel": "గుర్ణ్యం",
+    "fLTel": "గ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Sikh"
+  },
+  {
+    "id": "ac7b3496-d067-4024-a2b7-814866416ca9",
+    "eng": "Guro",
+    "fLE": "G",
+    "tel": "గురువు",
+    "fLTel": "గ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "c6eea6b5-9e5e-436e-b8ee-1602de03bd21",
+    "eng": "Guronui",
+    "fLE": "G",
+    "tel": "గురోనూయి",
+    "fLTel": "గ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "c0729455-2fae-4627-bedb-8a0f27d60ce8",
+    "eng": "Gurpal",
+    "fLE": "G",
+    "tel": "గూర్పల్",
+    "fLTel": "గ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Sikh"
+  },
+  {
+    "id": "9bebe8b0-ecfd-40df-a722-121398413822",
+    "eng": "Gurparsad",
+    "fLE": "G",
+    "tel": "గురుపర్సాద్",
+    "fLTel": "గ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Sikh"
+  },
+  {
+    "id": "e7c993a3-c9b6-4135-91bd-1f5c94588f1a",
+    "eng": "Gurpartap",
+    "fLE": "G",
+    "tel": "గూర్పర్తప్",
+    "fLTel": "గ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Sikh"
+  },
+  {
+    "id": "2e26aa33-55d3-4658-a74c-fe5b3cc8aa0c",
+    "eng": "Gurprakash",
+    "fLE": "G",
+    "tel": "గురుప్రకాష్",
+    "fLTel": "గ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "c6a4c7f5-dcc7-4a5f-9dfe-ba3a68b57351",
+    "eng": "Gurpram",
+    "fLE": "G",
+    "tel": "గూర్పరం",
+    "fLTel": "గ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "16019619-32d3-4e9c-9882-4b1cca53be6e",
+    "eng": "Gurprasad",
+    "fLE": "G",
+    "tel": "గురుప్రసాద్",
+    "fLTel": "గ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "5f68b3d1-1506-48f5-b17a-431899d6716c",
+    "eng": "Gurpreetam",
+    "fLE": "G",
+    "tel": "గురుప్రీతం",
+    "fLTel": "గ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Sikh"
+  },
+  {
+    "id": "a04f7feb-77df-4f47-b76f-0bd600dcada6",
+    "eng": "Gurpreeti",
+    "fLE": "G",
+    "tel": "గురుప్రీతి",
+    "fLTel": "గ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Sikh"
+  },
+  {
+    "id": "342c2fbb-11e7-44fb-8a25-33307cb0d008",
+    "eng": "Gurprem",
+    "fLE": "G",
+    "tel": "గురుప్రిమ్",
+    "fLTel": "గ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Sikh"
+  },
+  {
+    "id": "561c2621-bbb2-4fcd-9c55-515e5a25f59e",
+    "eng": "Gurpyar",
+    "fLE": "G",
+    "tel": "గూర్పయర్",
+    "fLTel": "గ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Sikh"
+  },
+  {
+    "id": "66104c62-5b8f-4e02-aff2-38f1686d10db",
+    "eng": "Gurraj",
+    "fLE": "G",
+    "tel": "గురురాజ్",
+    "fLTel": "గ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "b6dae3ff-79f6-4ae4-8f62-144a5a432198",
+    "eng": "Gurratan",
+    "fLE": "G",
+    "tel": "గుర్రతాన్",
+    "fLTel": "గ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "77f4f4ad-494b-40ec-955e-dd7b74a5631a",
+    "eng": "Gurrehmat",
+    "fLE": "G",
+    "tel": "గుర్రెహ్మత్",
+    "fLTel": "గ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "a1fbd1c7-1340-47d4-b6b0-da315a256b08",
+    "eng": "Gursaanj",
+    "fLE": "G",
+    "tel": "గురుసాఙ్",
+    "fLTel": "గ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Sikh"
+  },
+  {
+    "id": "409d10c1-de2a-49cd-abf1-05d1f475e739",
+    "eng": "Gursadhna",
+    "fLE": "G",
+    "tel": "గురుసాధన",
+    "fLTel": "గ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "f6aee1ab-6567-4e1e-b4c9-4c1f01d8fcc6",
+    "eng": "Gursagar",
+    "fLE": "G",
+    "tel": "గురుసాగర్",
+    "fLTel": "గ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "76465e71-2eeb-43c9-9875-7872939d2404",
+    "eng": "Gursaheb",
+    "fLE": "G",
+    "tel": "గురుసాహెబ్",
+    "fLTel": "గ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Sikh"
+  },
+  {
+    "id": "8ca015c3-e86b-41e6-8bba-9472caf6f72d",
+    "eng": "Gursahib",
+    "fLE": "G",
+    "tel": "గురుసాహిబ్",
+    "fLTel": "గ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Sikh"
+  },
+  {
+    "id": "53b427c5-13d5-4789-928f-832f0bd33c7f",
+    "eng": "Gursajan",
+    "fLE": "G",
+    "tel": "గురుసాజన్",
+    "fLTel": "గ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Sikh"
+  },
+  {
+    "id": "a8fa1979-2ec3-4af8-94c7-f54ab55881ce",
+    "eng": "Gursajjan",
+    "fLE": "G",
+    "tel": "గురుసజ్జం",
+    "fLTel": "గ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "75b745f3-40c2-4261-89fa-8acb2748895b",
+    "eng": "Gursandeep",
+    "fLE": "G",
+    "tel": "గురుసందీప్",
+    "fLTel": "గ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Sikh"
+  }
+]

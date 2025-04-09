@@ -1,0 +1,942 @@
+[
+  {
+    "id": "8df332b7-714e-48e4-a5cc-4811e743ccd6",
+    "eng": "Vitap",
+    "fLE": "V",
+    "tel": "విటప్",
+    "fLTel": "వ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "0dc45d4d-2184-4889-ad2d-dd7eea5787c2",
+    "eng": "Vitark",
+    "fLE": "V",
+    "tel": "వితర్కు",
+    "fLTel": "వ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "64d25dc1-d2b6-400d-bcab-221e761d4555",
+    "eng": "vitas",
+    "fLE": "v",
+    "tel": "విటస్",
+    "fLTel": "వ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "0ec7ecc2-023a-4e04-a71b-25977abeed3c",
+    "eng": "Vitashokha",
+    "fLE": "V",
+    "tel": "వీతశోఖ",
+    "fLTel": "వ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "0ba4f72f-6bb7-468c-9884-b19e7b393832",
+    "eng": "Vitasta",
+    "fLE": "V",
+    "tel": "వితస్తా",
+    "fLTel": "వ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "53b2cf27-59fa-4146-bc24-178e102acdcd",
+    "eng": "Vitath",
+    "fLE": "V",
+    "tel": "విత్థ",
+    "fLTel": "వ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "e3148cce-f695-4714-a3a6-afdc637c7418",
+    "eng": "Vitatya",
+    "fLE": "V",
+    "tel": "వితత్య",
+    "fLTel": "వ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "35be4b1d-08fe-4d43-b96d-2cf49f073cc2",
+    "eng": "Vitesh",
+    "fLE": "V",
+    "tel": "వితేశ్",
+    "fLTel": "వ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "79ef66ca-e956-446f-b0d0-2e22c72e36fc",
+    "eng": "Vithala",
+    "fLE": "V",
+    "tel": "విధాలా",
+    "fLTel": "వ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "f2adf529-ec63-4cbc-97c3-b3bd581b7ad8",
+    "eng": "Vithara",
+    "fLE": "V",
+    "tel": "వితర",
+    "fLTel": "వ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "0585043c-84c1-47e3-8f21-13fc43a667b0",
+    "eng": "Vithi",
+    "fLE": "V",
+    "tel": "వీథి",
+    "fLTel": "వ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "f6e37a35-c738-487e-bfc7-e4bcd0a45185",
+    "eng": "Vithu",
+    "fLE": "V",
+    "tel": "విత్తు",
+    "fLTel": "వ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "ad453eb2-8b14-46ba-a082-309d4619b625",
+    "eng": "Vithun",
+    "fLE": "V",
+    "tel": "వితుం",
+    "fLTel": "వ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "6fcd7d8c-72d7-43fc-b1b3-167afd8d5e29",
+    "eng": "Vithusan",
+    "fLE": "V",
+    "tel": "విథుసం",
+    "fLTel": "వ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "0cf91378-45fb-4f3a-a615-b3edb9b5db8a",
+    "eng": "Vithushan",
+    "fLE": "V",
+    "tel": "విథుషన్",
+    "fLTel": "వ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "60312a76-d01b-4931-b286-b4190375579e",
+    "eng": "Vito",
+    "fLE": "V",
+    "tel": "వీటో",
+    "fLTel": "వ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "68377e10-dd28-4867-826d-0fb19609326b",
+    "eng": "Vitol",
+    "fLE": "V",
+    "tel": "విటల్",
+    "fLTel": "వ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "66a4d33b-572a-49a4-9a56-54d0a9b9a847",
+    "eng": "Vitola",
+    "fLE": "V",
+    "tel": "విటుల",
+    "fLTel": "వ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "b610f2a0-95b9-4942-9dbb-14b9b49434c7",
+    "eng": "Vitomir",
+    "fLE": "V",
+    "tel": "విటమిర్",
+    "fLTel": "వ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "9ecd4297-a13e-4694-b6ec-261a546f9099",
+    "eng": "Vitorio",
+    "fLE": "V",
+    "tel": "విటోరియా",
+    "fLTel": "వ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "c08879fc-ea58-42aa-bc39-c09fbe11c0f4",
+    "eng": "Vittak",
+    "fLE": "V",
+    "tel": "విట్టాక",
+    "fLTel": "వ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "78912679-e7cc-4c37-9e09-cc1a4bcea4be",
+    "eng": "Vittal",
+    "fLE": "V",
+    "tel": "విట్టల్",
+    "fLTel": "వ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "fcb9772d-5cac-4830-832f-0744783716c6",
+    "eng": "Vittanath",
+    "fLE": "V",
+    "tel": "విత్తనాథ్",
+    "fLTel": "వ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "ca101b99-3c93-4c03-a1b9-4d5f0db9ecba",
+    "eng": "Vittap",
+    "fLE": "V",
+    "tel": "విత్థాపి",
+    "fLTel": "వ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "7f5e2226-54cf-4231-aba4-3a1d133c4617",
+    "eng": "Vittesh",
+    "fLE": "V",
+    "tel": "విత్తేషు",
+    "fLTel": "వ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "2a1c7e06-e699-4f0f-b424-78d63b9547b2",
+    "eng": "Vitthal",
+    "fLE": "V",
+    "tel": "విత్తాల్",
+    "fLTel": "వ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "467c127f-1dd3-434c-9e36-8fde05bdb254",
+    "eng": "vittorio",
+    "fLE": "v",
+    "tel": "విట్టోరియో",
+    "fLTel": "వ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "7907b315-1eb5-4a16-99aa-f5476a17123d",
+    "eng": "Vittorio",
+    "fLE": "V",
+    "tel": "విట్టోరియో",
+    "fLTel": "వ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "790eacdf-17f7-4943-a416-179e3d8ace27",
+    "eng": "Vitul",
+    "fLE": "V",
+    "tel": "విటులు",
+    "fLTel": "వ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "51885a86-e2bc-4f12-a4da-d69a97c16e90",
+    "eng": "vitus",
+    "fLE": "v",
+    "tel": "విట్స్",
+    "fLTel": "వ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "bc27f93a-08de-4d91-9582-172de9a71415",
+    "eng": "Vitus",
+    "fLE": "V",
+    "tel": "విట్స్",
+    "fLTel": "వ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "f622b715-cff1-41fb-86ac-411ae6a7b904",
+    "eng": "Vivaan",
+    "fLE": "V",
+    "tel": "వివాన్",
+    "fLTel": "వ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "704dad8a-4afd-4a73-9a80-b8f946301e0d",
+    "eng": "vivaldo",
+    "fLE": "v",
+    "tel": "వివాల్డో",
+    "fLTel": "వ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "684ac32b-fa8c-4d76-884e-4773868b09af",
+    "eng": "Vivam",
+    "fLE": "V",
+    "tel": "వివరం",
+    "fLTel": "వ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "ff10cf94-c551-4d2b-a675-60a21ff4c544",
+    "eng": "Vivan",
+    "fLE": "V",
+    "tel": "వివాన్",
+    "fLTel": "వ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "089ca86e-de60-4b0e-8b39-bbc9e41869b3",
+    "eng": "Vivandh",
+    "fLE": "V",
+    "tel": "వివాన్ద్",
+    "fLTel": "వ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "bab79203-7370-4523-9f21-fc85584c852d",
+    "eng": "Vivang",
+    "fLE": "V",
+    "tel": "వివాంగ్",
+    "fLTel": "వ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "65eb5070-2a39-4244-9505-4b6e0be923e2",
+    "eng": "Vivas",
+    "fLE": "V",
+    "tel": "వివస్",
+    "fLTel": "వ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "5fd820bf-ca95-4047-97ac-78ad751e444f",
+    "eng": "Vivash",
+    "fLE": "V",
+    "tel": "వివశు",
+    "fLTel": "వ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "5ddb2126-c25b-427a-b12d-423b8798fa91",
+    "eng": "Vivashvat",
+    "fLE": "V",
+    "tel": "వైవశ్వత",
+    "fLTel": "వ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "1afd7a26-57b4-4c7c-8069-c26bbcf2c1ee",
+    "eng": "Vivasvan",
+    "fLE": "V",
+    "tel": "వివస్వాన్",
+    "fLTel": "వ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "02bc718a-cc2c-4ae1-8089-ecb67e0c8e26",
+    "eng": "Vivaswan",
+    "fLE": "V",
+    "tel": "వివస్వం",
+    "fLTel": "వ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "a21e527a-98b6-4432-8ff1-9ed294d38373",
+    "eng": "Vivaswat",
+    "fLE": "V",
+    "tel": "వైవస్వత",
+    "fLTel": "వ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "5a397b9f-b434-4237-a108-ae23982b37ab",
+    "eng": "Vivaswath",
+    "fLE": "V",
+    "tel": "వైవస్వత",
+    "fLTel": "వ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "57497537-a90f-45e5-aca2-61053396908b",
+    "eng": "Vivatma",
+    "fLE": "V",
+    "tel": "వివాత్మ",
+    "fLTel": "వ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "bf2dcdf5-f817-4a6e-ab5b-b90457440600",
+    "eng": "Vivek",
+    "fLE": "V",
+    "tel": "వివేక్",
+    "fLTel": "వ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "c8407784-4836-4efb-a53f-601adb2ddaf0",
+    "eng": "Vivek Vardhan",
+    "fLE": "V",
+    "tel": "వివేక్ వర్ధన్",
+    "fLTel": "వ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "8c95b8f7-9a23-48cc-b7d1-169666d672f0",
+    "eng": "Vivekanand",
+    "fLE": "V",
+    "tel": "వివేకానంద్",
+    "fLTel": "వ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "fdf30f08-2843-473e-9fb4-782a277a279f",
+    "eng": "Vivekananda",
+    "fLE": "V",
+    "tel": "వివేకానంద",
+    "fLTel": "వ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "54578b7d-b9a0-43c7-acfb-178adde145f7",
+    "eng": "Vivekanandan",
+    "fLE": "V",
+    "tel": "వివేకానంద",
+    "fLTel": "వ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "b48a13f0-ab46-460f-804d-3f1adc080ad1",
+    "eng": "Vivekbir",
+    "fLE": "V",
+    "tel": "వివేకేబీర్",
+    "fLTel": "వ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Sikh"
+  },
+  {
+    "id": "856a4ba7-485a-40e0-b0a1-6497f6827365",
+    "eng": "Vivekdeep",
+    "fLE": "V",
+    "tel": "వివేకదీప్",
+    "fLTel": "వ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Sikh"
+  },
+  {
+    "id": "1ec9f4c4-8c8d-4826-b544-0298db7220a5",
+    "eng": "Vivekin",
+    "fLE": "V",
+    "tel": "వివేకిన్",
+    "fLTel": "వ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "6e62469d-1c11-409f-851a-923968e17e6b",
+    "eng": "Vivekpaul",
+    "fLE": "V",
+    "tel": "వివేకపాల్",
+    "fLTel": "వ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Sikh"
+  },
+  {
+    "id": "036bfac3-d3d7-4ec6-8061-456927a7c234",
+    "eng": "Vivekpreet",
+    "fLE": "V",
+    "tel": "వివేకప్రీత్",
+    "fLTel": "వ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Sikh"
+  },
+  {
+    "id": "763fcb72-d1c0-41e4-83a0-f4d3b3d8f9f9",
+    "eng": "Viven",
+    "fLE": "V",
+    "tel": "వీవెన్",
+    "fLTel": "వ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "b904e579-8a2c-4fc0-b985-d71e18c218a8",
+    "eng": "viviano",
+    "fLE": "v",
+    "tel": "వివియానో",
+    "fLTel": "వ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "312b13cc-806d-4e07-84b7-1c054681fc80",
+    "eng": "Vivid",
+    "fLE": "V",
+    "tel": "వివిధ",
+    "fLTel": "వ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "bdaa6309-d45f-456b-84c6-0e6ce93ece42",
+    "eng": "Vividh",
+    "fLE": "V",
+    "tel": "వివిధ",
+    "fLTel": "వ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "f2ef867a-3a82-4272-ad12-8d6a356f275e",
+    "eng": "Vivikshu",
+    "fLE": "V",
+    "tel": "వైవియు",
+    "fLTel": "వ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "39b0bfbc-6708-4fd9-8bb9-f88b13a88d33",
+    "eng": "Vivikt",
+    "fLE": "V",
+    "tel": "వివికెట్",
+    "fLTel": "వ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "ab23c797-f341-4dd7-81cc-e1280e5aa5d5",
+    "eng": "Vivikvas",
+    "fLE": "V",
+    "tel": "వివిక్వస్",
+    "fLTel": "వ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "3732d5a9-eb17-4c05-9e0a-a93e6e52cc76",
+    "eng": "Vivilsu",
+    "fLE": "V",
+    "tel": "వివిల్స్",
+    "fLTel": "వ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "1cae41b0-5fd4-48a0-a34b-00bfdee5de90",
+    "eng": "Vivin",
+    "fLE": "V",
+    "tel": "వివిన్",
+    "fLTel": "వ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "4c03fb2c-3cb1-49c4-8cf4-a84ecceb7859",
+    "eng": "Vivitsu",
+    "fLE": "V",
+    "tel": "వివిట్సు",
+    "fLTel": "వ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "622c0561-027c-412d-a379-0d18e0582ba6",
+    "eng": "Vivkta",
+    "fLE": "V",
+    "tel": "వివిక్త",
+    "fLTel": "వ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "06efae4f-5b00-4ba3-913e-aec96bc89cc7",
+    "eng": "Viyaan",
+    "fLE": "V",
+    "tel": "వియాన్",
+    "fLTel": "వ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "a42ac826-807c-4687-b03f-46c1f304eada",
+    "eng": "Viyank",
+    "fLE": "V",
+    "tel": "వియన్క్",
+    "fLTel": "వ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "af4953a8-07e9-47e9-84d4-a4af86e6dcb3",
+    "eng": "Viyom",
+    "fLE": "V",
+    "tel": "వియోమ్",
+    "fLTel": "వ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "0fedbdf6-9fbe-47f3-b2f1-f59860e962f5",
+    "eng": "Vizivit",
+    "fLE": "V",
+    "tel": "విజివిట్",
+    "fLTel": "వ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "c73c2549-664c-42c2-9fc0-236b585f0905",
+    "eng": "Vjeko",
+    "fLE": "V",
+    "tel": "వీజికో",
+    "fLTel": "వ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "07523688-b55b-4784-88a8-0490f17162cc",
+    "eng": "Vjekoslav",
+    "fLE": "V",
+    "tel": "వీజేకోస్లావ్",
+    "fLTel": "వ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "c412c50f-3b94-4a61-b754-01e3743b07c0",
+    "eng": "Vlad",
+    "fLE": "V",
+    "tel": "వ్లాడ్",
+    "fLTel": "వ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "1b33c9dc-d778-4b45-98b6-c7df33025d4d",
+    "eng": "Vladislav",
+    "fLE": "V",
+    "tel": "వ్లాదిస్లావ్",
+    "fLTel": "వ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "9cfb630d-cf7d-44ab-87ad-87db9d3a5dfe",
+    "eng": "Vladislava",
+    "fLE": "V",
+    "tel": "వ్లాదిస్లావ్",
+    "fLTel": "వ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "e2149cdd-1678-4504-a860-a365eb52b808",
+    "eng": "Vlaho",
+    "fLE": "V",
+    "tel": "వ్లాహో",
+    "fLTel": "వ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "357b5ba8-3125-4329-aa86-27e0bc39f4d0",
+    "eng": "Vlastimil",
+    "fLE": "V",
+    "tel": "వ్లాస్తిమిల్",
+    "fLTel": "వ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "1888ac41-2483-4d4b-83bb-7865fad410e1",
+    "eng": "Vlastislav",
+    "fLE": "V",
+    "tel": "వ్లాస్తిస్లావ్",
+    "fLTel": "వ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "554c3ff3-0ef1-442c-a35f-33e432af2162",
+    "eng": "Vlcagni",
+    "fLE": "V",
+    "tel": "వ్లకాగ్ని",
+    "fLTel": "వ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "fc5d5716-7f33-4dd1-8d64-bf62b17ffc31",
+    "eng": "Vlcagnvs",
+    "fLE": "V",
+    "tel": "వ్లకాగ్న్వ్స్",
+    "fLTel": "వ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "d04f8cf9-4548-45c2-8f0a-9785ea5a283a",
+    "eng": "Vo",
+    "fLE": "V",
+    "tel": "ఓ",
+    "fLTel": "ఓ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "716a8a21-1a2e-4d29-8bf3-d98e6a5c8d7b",
+    "eng": "voight",
+    "fLE": "v",
+    "tel": "వొఇఘ్త్",
+    "fLTel": "వ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "62f0e30f-72e2-4939-910b-dc4fb6511b24",
+    "eng": "Vojislav",
+    "fLE": "V",
+    "tel": "ఓజిస్లావ్",
+    "fLTel": "ఓ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "edbf98cc-8c41-442e-857b-464c1eb31f59",
+    "eng": "Vojtach",
+    "fLE": "V",
+    "tel": "ఓజేతచ్",
+    "fLTel": "ఓ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "a93e850b-e1cb-4838-8079-f5b62a45577e",
+    "eng": "volante",
+    "fLE": "v",
+    "tel": "వొలంటే",
+    "fLTel": "వ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "bccfe4a2-e14d-4e97-867c-bfc3246b1cdb",
+    "eng": "Voliny",
+    "fLE": "V",
+    "tel": "వోలినీ",
+    "fLTel": "వ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "51faa81e-9822-47f2-950b-690648cde5a6",
+    "eng": "volkan",
+    "fLE": "v",
+    "tel": "వోల్కన్",
+    "fLTel": "వ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "62cb799e-d4cb-45f8-998b-8e1a89aa03c4",
+    "eng": "volker",
+    "fLE": "v",
+    "tel": "వాల్కేర్",
+    "fLTel": "వ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "51aa773b-c047-4905-9d1c-97625584c92f",
+    "eng": "Volkmar",
+    "fLE": "V",
+    "tel": "వోల్కమార్",
+    "fLTel": "వ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "75f090f4-4833-4496-b757-cd401cb1c83e",
+    "eng": "Volmar",
+    "fLE": "V",
+    "tel": "వాల్మార్",
+    "fLTel": "వ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "c50dd4a0-e6a0-44ad-a2f0-a6a13b364b3b",
+    "eng": "volney",
+    "fLE": "v",
+    "tel": "వొలనే",
+    "fLTel": "వ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "dfa490a9-875c-463e-8f7b-de9429b33864",
+    "eng": "Volodya",
+    "fLE": "V",
+    "tel": "ఊళోద్య",
+    "fLTel": "ఊ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "19b5cbb3-91c5-4ce5-b98f-c2d4b79d9309",
+    "eng": "Voransh",
+    "fLE": "V",
+    "tel": "ఒరాంశ్",
+    "fLTel": "ఒ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "d9512b5c-ce30-42ae-9b9f-f5fcb0bca00d",
+    "eng": "Vorteporix",
+    "fLE": "V",
+    "tel": "వొర్టెపోరిస్",
+    "fLTel": "వ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  }
+]

@@ -1,0 +1,772 @@
+[
+  {
+    "id": "6cc27e78-3d35-4911-83b4-eb7482c21154",
+    "eng": "Yonita",
+    "fLE": "Y",
+    "tel": "యోణిత",
+    "fLTel": "య",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "6ecb7a1e-a75a-451f-a4f7-574d6a8a0a49",
+    "eng": "Yonna",
+    "fLE": "Y",
+    "tel": "యెన్న",
+    "fLTel": "య",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "f1e24a43-63a3-440a-b171-cce498a4b5ea",
+    "eng": "Yoon",
+    "fLE": "Y",
+    "tel": "మూన్",
+    "fLTel": "మ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "5fa649e6-a840-437c-b284-0c36642e3df7",
+    "eng": "Yordana",
+    "fLE": "Y",
+    "tel": "యొర్దాను",
+    "fLTel": "య",
+    "tags": [],
+    "gen": "female",
+    "rel": "others"
+  },
+  {
+    "id": "e431dff9-70c7-4ebb-8768-2eee75c8c3f3",
+    "eng": "Yordanka",
+    "fLE": "Y",
+    "tel": "యొర్దానుక",
+    "fLTel": "య",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "fd236a1e-a9b3-49e7-93a4-d082ef3aab49",
+    "eng": "Yorma",
+    "fLE": "Y",
+    "tel": "యోర్మ",
+    "fLTel": "య",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "020607ca-0756-4f95-87bd-b138c14a3ddb",
+    "eng": "Yoruba",
+    "fLE": "Y",
+    "tel": "యోరుబా",
+    "fLTel": "య",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "b3db50a8-e3ca-4f18-a7f0-542fbd5ebc54",
+    "eng": "Yosana",
+    "fLE": "Y",
+    "tel": "యెసన",
+    "fLTel": "య",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "9da616f4-061a-410b-9bb9-1a082a1b90dc",
+    "eng": "Yosha",
+    "fLE": "Y",
+    "tel": "యోషా",
+    "fLTel": "య",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "ef570b6f-4a47-400e-ab47-24463d218d56",
+    "eng": "Yoshana",
+    "fLE": "Y",
+    "tel": "యోషణ",
+    "fLTel": "య",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "06110913-674b-4355-a322-571459d816d6",
+    "eng": "Yoshini",
+    "fLE": "Y",
+    "tel": "యోషిని",
+    "fLTel": "య",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "96b121ed-2864-44fc-b916-0820d8e47166",
+    "eng": "Yoshita",
+    "fLE": "Y",
+    "tel": "యోషిత",
+    "fLTel": "య",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "62b0f47b-7177-4f13-afde-2d0ee9041952",
+    "eng": "Yoshitha",
+    "fLE": "Y",
+    "tel": "యోషితః",
+    "fLTel": "య",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "ae3bbb1a-4e55-4b0b-8f4f-87ccf8c80b4e",
+    "eng": "Yosifa",
+    "fLE": "Y",
+    "tel": "యోసిఫా",
+    "fLTel": "య",
+    "tags": [],
+    "gen": "female",
+    "rel": "Muslim"
+  },
+  {
+    "id": "ac27197f-a57e-453f-b51d-dd034c611472",
+    "eng": "Yotshna",
+    "fLE": "Y",
+    "tel": "యోత్స్న",
+    "fLTel": "య",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "a43e7fdd-c7cb-4759-b76d-02d5ff9d483b",
+    "eng": "Young Mi",
+    "fLE": "Y",
+    "tel": "యంగ్ మీ",
+    "fLTel": "య",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "99853b5d-c8b8-4f4b-81f8-356b6b34be6f",
+    "eng": "Young-Il",
+    "fLE": "Y",
+    "tel": "యంగ్-ఇలా",
+    "fLTel": "య",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "09d84a0d-8bd7-4276-a954-2c44c5b9a494",
+    "eng": "Young-Soon",
+    "fLE": "Y",
+    "tel": "యంగ్-సూన్",
+    "fLTel": "య",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "5381100a-80cd-4b9a-ace9-bdcb5bc5644d",
+    "eng": "Yousha",
+    "fLE": "Y",
+    "tel": "యూష",
+    "fLTel": "య",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "581bef64-c2c9-42b0-9ddd-4bdca33ad89d",
+    "eng": "Yousra",
+    "fLE": "Y",
+    "tel": "యూస్ర",
+    "fLTel": "య",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "09e9dda6-6c36-4d71-aa15-0d811376da45",
+    "eng": "Yovanshi",
+    "fLE": "Y",
+    "tel": "యెవంశీ",
+    "fLTel": "య",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "08a08875-74a2-4e55-aba8-67c7f737fbec",
+    "eng": "Yovela",
+    "fLE": "Y",
+    "tel": "యోవేలు",
+    "fLTel": "య",
+    "tags": [],
+    "gen": "female",
+    "rel": "others"
+  },
+  {
+    "id": "5c426fb4-6c7d-4619-b796-94ef0f7c3d39",
+    "eng": "ysabel",
+    "fLE": "y",
+    "tel": "వైసాబెల్",
+    "fLTel": "వ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "dbbf2fa6-b5cf-4f96-b401-9f7a6272d99e",
+    "eng": "Ysabell",
+    "fLE": "Y",
+    "tel": "వైసాబెల్",
+    "fLTel": "వ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "e8be6dfc-caa6-4cce-b7cb-35f4d0619af3",
+    "eng": "Ysabella",
+    "fLE": "Y",
+    "tel": "వైసాబెల్లా",
+    "fLTel": "వ",
+    "tags": [],
+    "gen": "female",
+    "rel": "others"
+  },
+  {
+    "id": "1f7fc05d-c39d-4dae-a5ba-cfb110c36573",
+    "eng": "Ysabelle",
+    "fLE": "Y",
+    "tel": "యసబెల్లె",
+    "fLTel": "య",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "fa87af71-5415-40d8-ad2a-84147fa504cd",
+    "eng": "Ysella",
+    "fLE": "Y",
+    "tel": "ఎసెల్ల",
+    "fLTel": "ఎ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "dad2f88c-c04f-4aaf-a13b-3476201242de",
+    "eng": "Ysemay",
+    "fLE": "Y",
+    "tel": "యజమాయ్",
+    "fLTel": "య",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "8f760d7e-9c74-41f1-a61f-e9a0128f7a78",
+    "eng": "yseult",
+    "fLE": "y",
+    "tel": "యిసుల్ట్",
+    "fLTel": "య",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "a9cc9b9c-e2ad-4340-88fd-7e2ed1b7fd58",
+    "eng": "Yseult",
+    "fLE": "Y",
+    "tel": "యిసుల్ట్",
+    "fLTel": "య",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "95f0f502-2d33-4b8b-94be-fbee379d1a06",
+    "eng": "Ysmay",
+    "fLE": "Y",
+    "tel": "యస్మాయ్",
+    "fLTel": "య",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "764dba51-aee3-41eb-8c95-35d10455a26c",
+    "eng": "Ysmeina",
+    "fLE": "Y",
+    "tel": "య్సమెయినా",
+    "fLTel": "య",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "882cea17-e7cc-4fb6-bd07-977b1db58f3a",
+    "eng": "Ysmeine",
+    "fLE": "Y",
+    "tel": "య్సమెయిన్",
+    "fLTel": "య",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "63948ebd-2413-45e3-bbd1-02eeb6e3fa2d",
+    "eng": "Ysmena",
+    "fLE": "Y",
+    "tel": "యాసమేనా",
+    "fLTel": "య",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "0eed3627-b61d-4a8e-aa91-78ab0b315403",
+    "eng": "Ysolde",
+    "fLE": "Y",
+    "tel": "యసోల్డ్",
+    "fLTel": "య",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "ea90ce9c-39ce-4d4f-93da-0e4fa02530c1",
+    "eng": "ysolt",
+    "fLE": "y",
+    "tel": "యాసాల్ట్",
+    "fLTel": "య",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "e360ce38-1b34-4b80-9d95-bc619838a801",
+    "eng": "Ysonde",
+    "fLE": "Y",
+    "tel": "ఎసొందె",
+    "fLTel": "ఎ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "5eed1fd6-1a38-4ffa-9433-b3404c897517",
+    "eng": "Ysoria",
+    "fLE": "Y",
+    "tel": "యసోరియా",
+    "fLTel": "య",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "259cd35a-1a37-4621-ae60-6b1e68974cb3",
+    "eng": "Ysoude",
+    "fLE": "Y",
+    "tel": "యసౌడ్",
+    "fLTel": "య",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "d6e6fb44-76fc-41bf-95d4-482efd8aa925",
+    "eng": "Ysout",
+    "fLE": "Y",
+    "tel": "యసౌత్",
+    "fLTel": "య",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "83710a50-f669-44d9-b7e6-db95e69e491f",
+    "eng": "Yubhashana",
+    "fLE": "Y",
+    "tel": "యుభక్షణ",
+    "fLTel": "య",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "8d5d8e9e-a35f-47ce-a6e5-b4f4cb233c1e",
+    "eng": "Yubleen",
+    "fLE": "Y",
+    "tel": "యుబిలీన్",
+    "fLTel": "య",
+    "tags": [],
+    "gen": "female",
+    "rel": "Sikh"
+  },
+  {
+    "id": "0d2c6d8b-c0ab-4e2c-b73e-b044b5766a83",
+    "eng": "Yudella",
+    "fLE": "Y",
+    "tel": "యిదేళ్ళ",
+    "fLTel": "య",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "52b94e56-53c3-4bf3-b144-ad26e8e60a3a",
+    "eng": "Yudelle",
+    "fLE": "Y",
+    "tel": "యిదేళ్ళే",
+    "fLTel": "య",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "42780f8c-ef24-4bfc-abef-e00e1b83cf56",
+    "eng": "Yugaa",
+    "fLE": "Y",
+    "tel": "యుగా",
+    "fLTel": "య",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "55e70042-058c-402c-86bd-1dd05939c401",
+    "eng": "Yugalika",
+    "fLE": "Y",
+    "tel": "యుగళిక",
+    "fLTel": "య",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "d71343a3-6c76-4a77-930d-455275d5758d",
+    "eng": "Yugantika",
+    "fLE": "Y",
+    "tel": "యుగంటిక",
+    "fLTel": "య",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "604315f4-e554-4e2f-b57d-aa4c81900ff9",
+    "eng": "Yugdhara",
+    "fLE": "Y",
+    "tel": "యుగధరా",
+    "fLTel": "య",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "3c1d765b-a066-434a-b24b-83c3e1f35fea",
+    "eng": "Yugeshwari",
+    "fLE": "Y",
+    "tel": "యుగేశ్వరి",
+    "fLTel": "య",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "952d64fe-356a-4f2c-8ec1-b8474bc3fd59",
+    "eng": "Yuhisha",
+    "fLE": "Y",
+    "tel": "యుహీశా",
+    "fLTel": "య",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "2d8d4f71-1b0d-4df2-9a75-acf8fe89fb9a",
+    "eng": "Yukasri",
+    "fLE": "Y",
+    "tel": "యుకెశ్రీ",
+    "fLTel": "య",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "5d71da64-e3a3-4a51-966d-58a95aa57f8b",
+    "eng": "Yuktasri",
+    "fLE": "Y",
+    "tel": "యుక్తశ్రీ",
+    "fLTel": "య",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "0e82ba04-b145-4f00-97ef-5095cb418668",
+    "eng": "Yuktatma",
+    "fLE": "Y",
+    "tel": "యుక్తాత్మా",
+    "fLTel": "య",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "3024a915-57eb-4eae-b87c-05841a417595",
+    "eng": "Yukthi",
+    "fLE": "Y",
+    "tel": "యుక్తి",
+    "fLTel": "య",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "83dfbbe4-e4cc-4139-9389-c549e9acc8d9",
+    "eng": "Yukthika",
+    "fLE": "Y",
+    "tel": "యుక్తిగా",
+    "fLTel": "య",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "1ef37ca7-2574-4606-8941-ce760483f2fd",
+    "eng": "Yukti",
+    "fLE": "Y",
+    "tel": "యుక్తి",
+    "fLTel": "య",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "ab0e7b85-7ad8-42a5-8545-c1454dd4a2ff",
+    "eng": "Yuktika",
+    "fLE": "Y",
+    "tel": "యుక్తిగా",
+    "fLTel": "య",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "2c1695ca-8f89-4178-913b-bfbd3fdac29b",
+    "eng": "Yuktvaa",
+    "fLE": "Y",
+    "tel": "యుక్త్వా",
+    "fLTel": "య",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "4defd544-d51a-47e8-8173-cc7a266e27fa",
+    "eng": "Yuliana",
+    "fLE": "Y",
+    "tel": "యూలియానా",
+    "fLTel": "య",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "be916d95-b802-437c-91bd-487ec250cd3c",
+    "eng": "Yulissa",
+    "fLE": "Y",
+    "tel": "యులిస్సా",
+    "fLTel": "య",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "efb0cf11-9544-42dd-91e0-5c7c050cb76e",
+    "eng": "Yumi",
+    "fLE": "Y",
+    "tel": "యుమి",
+    "fLTel": "య",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "52dcb7f1-58cf-4ac1-8307-85e990bb7ac3",
+    "eng": "Yumn",
+    "fLE": "Y",
+    "tel": "యమున",
+    "fLTel": "య",
+    "tags": [],
+    "gen": "female",
+    "rel": "Muslim"
+  },
+  {
+    "id": "759476b8-1cb4-49b4-a5f1-3707c10844bc",
+    "eng": "Yumna",
+    "fLE": "Y",
+    "tel": "యుమున",
+    "fLTel": "య",
+    "tags": [],
+    "gen": "female",
+    "rel": "Muslim"
+  },
+  {
+    "id": "1a95d4a1-ff1b-4576-81d5-1dac40dbae21",
+    "eng": "Yumnah",
+    "fLE": "Y",
+    "tel": "యుమానః",
+    "fLTel": "య",
+    "tags": [],
+    "gen": "female",
+    "rel": "Muslim"
+  },
+  {
+    "id": "72e4ab7e-d936-4695-b812-20d1afa20918",
+    "eng": "Yun",
+    "fLE": "Y",
+    "tel": "యుం",
+    "fLTel": "య",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "b0d85254-c645-4e14-83f6-cfa0744ec278",
+    "eng": "Yun Hee",
+    "fLE": "Y",
+    "tel": "యుం హీ",
+    "fLTel": "య",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "70704240-835a-4159-b071-2fb9787d82db",
+    "eng": "Yurda",
+    "fLE": "Y",
+    "tel": "యర్డా",
+    "fLTel": "య",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "e58a9c71-67fc-4090-910e-ccd3aac0ac63",
+    "eng": "Yureni",
+    "fLE": "Y",
+    "tel": "యురేని",
+    "fLTel": "య",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "d95583cc-c7e7-40da-950b-f8ae49d72084",
+    "eng": "Yuri",
+    "fLE": "Y",
+    "tel": "యూరి",
+    "fLTel": "య",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "3f8022b4-ec28-40cc-b97a-e22d9212d218",
+    "eng": "Yuridia",
+    "fLE": "Y",
+    "tel": "యురిడై",
+    "fLTel": "య",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "bb4bbfc3-1b84-4ccf-9599-17da38fb6dc6",
+    "eng": "Yusayrah",
+    "fLE": "Y",
+    "tel": "యూసవైరహ్",
+    "fLTel": "య",
+    "tags": [],
+    "gen": "female",
+    "rel": "Muslim"
+  },
+  {
+    "id": "3b02d5ce-4027-4c51-83ca-0ad875e3acab",
+    "eng": "Yushasvi",
+    "fLE": "Y",
+    "tel": "యశస్వి",
+    "fLTel": "య",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "93439f1a-9234-455c-a629-1deb00ef5274",
+    "eng": "Yushfa",
+    "fLE": "Y",
+    "tel": "యుషఫా",
+    "fLTel": "య",
+    "tags": [],
+    "gen": "female",
+    "rel": "Muslim"
+  },
+  {
+    "id": "6b0c4bc7-ccb2-4abe-b3d6-a964bbb2ab4a",
+    "eng": "Yusma",
+    "fLE": "Y",
+    "tel": "యస్మా",
+    "fLTel": "య",
+    "tags": [],
+    "gen": "female",
+    "rel": "Muslim"
+  },
+  {
+    "id": "416ff106-0280-4831-8360-9a5e117f9fb9",
+    "eng": "Yusra",
+    "fLE": "Y",
+    "tel": "యుస్ర",
+    "fLTel": "య",
+    "tags": [],
+    "gen": "female",
+    "rel": "Muslim"
+  },
+  {
+    "id": "2025a4f9-bb64-463b-841c-7508f1ed1390",
+    "eng": "Yusraa",
+    "fLE": "Y",
+    "tel": "యుస్రా",
+    "fLTel": "య",
+    "tags": [],
+    "gen": "female",
+    "rel": "Muslim"
+  },
+  {
+    "id": "10664f0b-2097-4b12-8f58-1ed763e20333",
+    "eng": "Yusria",
+    "fLE": "Y",
+    "tel": "యుసిరియా",
+    "fLTel": "య",
+    "tags": [],
+    "gen": "female",
+    "rel": "Muslim"
+  }
+]

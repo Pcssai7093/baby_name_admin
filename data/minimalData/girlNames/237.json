@@ -1,0 +1,932 @@
+[
+  {
+    "id": "eed69911-7ac9-4899-bf2a-b71bbeba3d15",
+    "eng": "Kuhan",
+    "fLE": "K",
+    "tel": "కుహనా",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "e7fa50a1-ae65-4eca-9656-62ad56e6c016",
+    "eng": "Kuhaneshwary",
+    "fLE": "K",
+    "tel": "కుహణేశ్వరీ",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "e28e5cfb-4e36-4fc4-9b4b-806e30569dc5",
+    "eng": "Kuhaylah",
+    "fLE": "K",
+    "tel": "కుహాయ్లః",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "female",
+    "rel": "Muslim"
+  },
+  {
+    "id": "1e1453fb-b235-4131-a2dc-aae25d940522",
+    "eng": "Kuhelika",
+    "fLE": "K",
+    "tel": "కొహెలికా",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "female",
+    "rel": "others"
+  },
+  {
+    "id": "17e2bb73-bce6-47bb-bc4c-092f1cc236e8",
+    "eng": "Kuhoo",
+    "fLE": "K",
+    "tel": "కుహూ",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "female",
+    "rel": "others"
+  },
+  {
+    "id": "0e5dc84e-5f0f-40ef-b987-e734c7fdd69e",
+    "eng": "Kuhu",
+    "fLE": "K",
+    "tel": "కుహు",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "fc6d3987-0493-4cd6-9d16-94c99c73cc00",
+    "eng": "Kuhuk",
+    "fLE": "K",
+    "tel": "కుహుక్",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "female",
+    "rel": "others"
+  },
+  {
+    "id": "f18141b0-d5fa-4567-a4db-de2981966730",
+    "eng": "Kuili",
+    "fLE": "K",
+    "tel": "కుమిలి",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "b9a164d3-c851-4e8b-bb11-792d8e9bca41",
+    "eng": "Kuja",
+    "fLE": "K",
+    "tel": "కుజ",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "6a0cb42a-9ab9-4cff-9219-31f7f5722f40",
+    "eng": "Kujitha",
+    "fLE": "K",
+    "tel": "కూజితా",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "8421b8bc-23c5-4479-908a-aa02b9b5c210",
+    "eng": "Kukur",
+    "fLE": "K",
+    "tel": "కుకుర్",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "005791fe-361d-4570-b993-a7ec2f1618cb",
+    "eng": "Kul",
+    "fLE": "K",
+    "tel": "కూల్",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "female",
+    "rel": "Sikh"
+  },
+  {
+    "id": "d85e2530-7b81-406b-9c0d-e81900fb1f6b",
+    "eng": "kula",
+    "fLE": "k",
+    "tel": "కుల",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "ad157ba8-8690-4120-8770-51d81588debd",
+    "eng": "Kulabati",
+    "fLE": "K",
+    "tel": "కూలబడి",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "female",
+    "rel": "others"
+  },
+  {
+    "id": "0a3f5c46-7d24-4349-8111-f3336861d16a",
+    "eng": "Kulakeerthi",
+    "fLE": "K",
+    "tel": "కులకీర్తి",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "194e2fc5-ede4-4c3b-85db-8a41d9facf92",
+    "eng": "Kulali",
+    "fLE": "K",
+    "tel": "కులాలు",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "d2ebeebf-abf7-4415-9db6-784678436c64",
+    "eng": "Kulamagal",
+    "fLE": "K",
+    "tel": "కులమగళ్",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "d34e39e9-918e-4630-a6c8-eab4691d9603",
+    "eng": "Kulamani",
+    "fLE": "K",
+    "tel": "కులమని",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "female",
+    "rel": "others"
+  },
+  {
+    "id": "ec43101f-f0e9-477d-8cdd-1e55645f3ca2",
+    "eng": "Kulap",
+    "fLE": "K",
+    "tel": "కులపు",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "female",
+    "rel": "others"
+  },
+  {
+    "id": "e932cb07-670a-4f92-b2e9-4fdb03c79a20",
+    "eng": "Kulavardhini",
+    "fLE": "K",
+    "tel": "కులవర్ధిని",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "2e832191-8f8f-440e-a3a5-547b84288538",
+    "eng": "Kulika",
+    "fLE": "K",
+    "tel": "కుళిక",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "9d1c0a4d-102e-47da-8043-b364fb6342bd",
+    "eng": "Kulina",
+    "fLE": "K",
+    "tel": "కూలిన",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "3ebe67f2-e75c-46ac-bece-6c2ff4fdea15",
+    "eng": "Kuljot",
+    "fLE": "K",
+    "tel": "కులీజోత్",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "female",
+    "rel": "Sikh"
+  },
+  {
+    "id": "b1b0f167-07be-465a-bf0f-087385795027",
+    "eng": "Kullali",
+    "fLE": "K",
+    "tel": "కుళ్ళాలి",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "cc3ab41f-b032-4f1a-a4c5-9ed81a295ef1",
+    "eng": "Kulminder",
+    "fLE": "K",
+    "tel": "కూలమైండెర్",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "female",
+    "rel": "Sikh"
+  },
+  {
+    "id": "28e8b38f-fa7c-4970-bd06-44e08a002d73",
+    "eng": "Kulpreet",
+    "fLE": "K",
+    "tel": "కుల్ప్రీత్",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "female",
+    "rel": "Sikh"
+  },
+  {
+    "id": "7fd33b49-7b6c-47b7-ac2b-caee23caa555",
+    "eng": "Kulroop",
+    "fLE": "K",
+    "tel": "కులరూప్",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "female",
+    "rel": "Sikh"
+  },
+  {
+    "id": "be35a31e-30ff-4742-980f-d03c5aec2ae6",
+    "eng": "Kulsum",
+    "fLE": "K",
+    "tel": "పైల్సుమ్",
+    "fLTel": "ప",
+    "tags": [],
+    "gen": "female",
+    "rel": "Muslim"
+  },
+  {
+    "id": "b2d65a63-08c0-401a-8a82-46b5c141c795",
+    "eng": "Kulthoom",
+    "fLE": "K",
+    "tel": "కులత్తోమ్",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "female",
+    "rel": "Muslim"
+  },
+  {
+    "id": "65ec3631-d37c-45e2-990d-0f0f50ac4c66",
+    "eng": "Kulthum",
+    "fLE": "K",
+    "tel": "కూలుతుం",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "female",
+    "rel": "Muslim"
+  },
+  {
+    "id": "1db63569-0e03-4cdf-b7dd-e450a6cf9eea",
+    "eng": "Kulus",
+    "fLE": "K",
+    "tel": "పైల్స్",
+    "fLTel": "ప",
+    "tags": [],
+    "gen": "female",
+    "rel": "Muslim"
+  },
+  {
+    "id": "51aa834e-0403-4da9-97e2-eb5d11ace83c",
+    "eng": "Kulvant",
+    "fLE": "K",
+    "tel": "కుల్వంత్",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "female",
+    "rel": "Sikh"
+  },
+  {
+    "id": "fc7c4580-4192-4e51-8ae3-d9c249f8c0a0",
+    "eng": "Kulwinder",
+    "fLE": "K",
+    "tel": "కులవిన్దేర్",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "female",
+    "rel": "Sikh"
+  },
+  {
+    "id": "e68be03d-d992-4bc2-a4bf-fec2d28e2fab",
+    "eng": "Kuma",
+    "fLE": "K",
+    "tel": "కుమా",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "female",
+    "rel": "others"
+  },
+  {
+    "id": "f4c4c4b0-79bb-4e16-a2dd-b942ab80b5ed",
+    "eng": "Kumal",
+    "fLE": "K",
+    "tel": "కుమార్",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "female",
+    "rel": "Sikh"
+  },
+  {
+    "id": "8b799760-0f49-4aee-aa03-0ed21894207f",
+    "eng": "kumala",
+    "fLE": "k",
+    "tel": "కుమల",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "ea7fb236-0791-462b-9193-c05f23cd2db5",
+    "eng": "Kumari",
+    "fLE": "K",
+    "tel": "కుమారి",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "f711c041-150b-4f35-ab3a-e37d3ff754f5",
+    "eng": "Kumaria",
+    "fLE": "K",
+    "tel": "కుమారియా",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "female",
+    "rel": "others"
+  },
+  {
+    "id": "03e4da0a-089a-4cb3-97fe-48596ccf82dc",
+    "eng": "Kumarika",
+    "fLE": "K",
+    "tel": "కుమారీ",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "62e7f9e7-87e4-46a6-b976-cde9c91ded13",
+    "eng": "Kumbha",
+    "fLE": "K",
+    "tel": "కుంభ",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "01882620-21c8-4038-a96e-03961c86e59c",
+    "eng": "Kumiko",
+    "fLE": "K",
+    "tel": "కుమికో",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "female",
+    "rel": "others"
+  },
+  {
+    "id": "83ac2dbd-2578-40bb-ac21-d3b55c4877e9",
+    "eng": "Kumkum",
+    "fLE": "K",
+    "tel": "కుంకుమ",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "1f6f2bb5-3868-44ce-8589-df81a1d4a969",
+    "eng": "Kumud",
+    "fLE": "K",
+    "tel": "కుముద",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "9310abda-a720-423e-a8e2-e92de369070a",
+    "eng": "Kumuda",
+    "fLE": "K",
+    "tel": "కుముద",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "8d245414-159c-49d0-8c4b-4fef8bc1d260",
+    "eng": "Kumudani",
+    "fLE": "K",
+    "tel": "కుముదని",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "99eeed87-5d16-40fc-93ca-a3103c7793a1",
+    "eng": "Kumudavathi",
+    "fLE": "K",
+    "tel": "కుముదవతి",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "fdd06385-56ed-44de-9100-23f51df6df82",
+    "eng": "Kumudbala",
+    "fLE": "K",
+    "tel": "కుముద్బలా",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "ce343a65-0419-4386-9f11-7150671dfbd0",
+    "eng": "Kumudha",
+    "fLE": "K",
+    "tel": "కుముద",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "eb119cbd-4736-417d-a958-cbd665caa7bd",
+    "eng": "Kumudhini",
+    "fLE": "K",
+    "tel": "కుముదిని",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "d0ad22a8-d536-48b4-bb4f-6817aecd2baa",
+    "eng": "Kumudini",
+    "fLE": "K",
+    "tel": "కుముదిని",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "3cf2d3e7-8c01-4e70-a8a2-5d243d09e014",
+    "eng": "Kumudni",
+    "fLE": "K",
+    "tel": "కుముడ్ని",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "bd5f4373-8777-4692-9e87-4681a44ad773",
+    "eng": "Kumutha",
+    "fLE": "K",
+    "tel": "కుముఠా",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "7c0c8036-cef7-422d-9123-75259ae954f7",
+    "eng": "Kumutham",
+    "fLE": "K",
+    "tel": "కుముత్తం",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "9b6d7407-72dd-4f34-8e27-21ff81cd3b9a",
+    "eng": "Kunalika",
+    "fLE": "K",
+    "tel": "కునాలిక",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "1f5f0462-c5ac-4ea2-8c3f-85e3d2d39918",
+    "eng": "Kunaranjini",
+    "fLE": "K",
+    "tel": "కూనారంజిని",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "495b7d98-202d-4383-8ee8-d35c1f9d0567",
+    "eng": "Kunda",
+    "fLE": "K",
+    "tel": "కుండా",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "5411f592-10ba-4326-8968-d33f11ea4981",
+    "eng": "Kundalpur",
+    "fLE": "K",
+    "tel": "కుందల్పూర్",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "female",
+    "rel": "others"
+  },
+  {
+    "id": "f50ca28f-32c3-4841-92f4-1facbda4f71d",
+    "eng": "Kundana",
+    "fLE": "K",
+    "tel": "కుండానే",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "afd4394d-d78d-46c6-aa33-6b45e57d8621",
+    "eng": "Kundanika",
+    "fLE": "K",
+    "tel": "కుందనికా",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "53ffb9eb-51b7-47b6-b411-e5d8e3c52960",
+    "eng": "Kundha",
+    "fLE": "K",
+    "tel": "కుంద",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "bb8d66d8-4ca3-4720-8871-b789503eefdd",
+    "eng": "Kundhan",
+    "fLE": "K",
+    "tel": "కుందన్",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "e10608e5-3123-4e8f-9148-0585446bf645",
+    "eng": "Kundhavai",
+    "fLE": "K",
+    "tel": "కుంధావై",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "af7f5f89-a5d3-4241-8c59-c10659fe3fa5",
+    "eng": "Kundhavi",
+    "fLE": "K",
+    "tel": "కుంధావి",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "ff1bb6ae-b46a-49bf-8988-e6d125a3dc5f",
+    "eng": "Kundhi",
+    "fLE": "K",
+    "tel": "కుంది",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "015fbe05-aef3-42b6-833e-a97ac19766bb",
+    "eng": "Kundini",
+    "fLE": "K",
+    "tel": "కుండీని",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "56bde365-34f0-44fd-93e2-60734a2e1528",
+    "eng": "Kunhi",
+    "fLE": "K",
+    "tel": "కున్హి",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "cbeead34-fdaa-49e9-a5c7-257ef5df8938",
+    "eng": "Kunika",
+    "fLE": "K",
+    "tel": "కుణిక",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "97c3616d-574e-4b48-bca6-c5059348a540",
+    "eng": "Kunisha",
+    "fLE": "K",
+    "tel": "కుణీశ",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "f07e3bb3-d6ba-4bad-8e72-00c06d428dd7",
+    "eng": "Kunj",
+    "fLE": "K",
+    "tel": "కుంజ్",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "9d1d192a-f76c-499e-8a54-8114f69a4974",
+    "eng": "Kunjal",
+    "fLE": "K",
+    "tel": "కునాల్",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "d5c8f8c8-8845-4aa9-b9b3-7f96635935ec",
+    "eng": "Kunjala",
+    "fLE": "K",
+    "tel": "కుంజల",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "71b15c6e-7689-4527-b8ce-8411f7c4304f",
+    "eng": "Kunjalata",
+    "fLE": "K",
+    "tel": "కుంజలత",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "f65b629f-6499-4011-b646-76f60aeada4a",
+    "eng": "Kunjalatha",
+    "fLE": "K",
+    "tel": "కుంజలత",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "7d42652b-f7f5-41f9-9f34-bbb8eec9103f",
+    "eng": "Kunjamma",
+    "fLE": "K",
+    "tel": "కుంజమ్మ",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "cfef3335-a90b-48b7-a495-4ac6522fda10",
+    "eng": "Kunjan",
+    "fLE": "K",
+    "tel": "కుంజం",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "54726e2a-d778-4073-86a3-e6e201f7b617",
+    "eng": "Kunjana",
+    "fLE": "K",
+    "tel": "కుంజన",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "7d55fae7-9924-47fc-b75e-10680a9ff8e3",
+    "eng": "Kunjari",
+    "fLE": "K",
+    "tel": "కుంజరి",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "female",
+    "rel": "others"
+  },
+  {
+    "id": "34a86a5b-3665-410a-a71f-6e3f7b60dc5c",
+    "eng": "Kunjatta",
+    "fLE": "K",
+    "tel": "కుంజట్ట",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "926513df-63c3-4e9b-b1da-c2d7f0368b57",
+    "eng": "Kunjika",
+    "fLE": "K",
+    "tel": "కుంజిక",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "ae853bd1-6146-49b4-80ed-b1c8dac4158f",
+    "eng": "Kunju",
+    "fLE": "K",
+    "tel": "కుంజు",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "female",
+    "rel": "others"
+  },
+  {
+    "id": "13f53afb-62fb-43bd-ba05-5b6b47077b5e",
+    "eng": "Kunsa",
+    "fLE": "K",
+    "tel": "కుంజా",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "female",
+    "rel": "Muslim"
+  },
+  {
+    "id": "16f18ad8-23c2-463a-8006-b9a30cbd4653",
+    "eng": "Kunshi",
+    "fLE": "K",
+    "tel": "కుంషి",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "1f1d9797-b457-4467-b345-ed7f27bda729",
+    "eng": "Kunshita",
+    "fLE": "K",
+    "tel": "కుంషిత",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "799ded4d-3d17-4acb-ba56-ac772cc46a24",
+    "eng": "Kunshitha",
+    "fLE": "K",
+    "tel": "కుంషిత",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "e1e85901-0c8b-40b7-97a7-bbdfd8374ba5",
+    "eng": "Kunta",
+    "fLE": "K",
+    "tel": "కుంట",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "female",
+    "rel": "Muslim"
+  },
+  {
+    "id": "70aa1cad-0514-4a9b-a0ec-208ca49ded55",
+    "eng": "Kuntal",
+    "fLE": "K",
+    "tel": "కుంటల",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "b30f6e3c-f080-434c-a169-9e98e4b86bf4",
+    "eng": "Kuntala",
+    "fLE": "K",
+    "tel": "కుంతలా",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "11beac13-609d-4289-9305-4d197c0c2ffe",
+    "eng": "Kuntee",
+    "fLE": "K",
+    "tel": "కుంతీ",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "82d23ca5-e520-4e7b-a07f-ad1136479a38",
+    "eng": "Kunthea",
+    "fLE": "K",
+    "tel": "కుంఠేత్",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "1283ee94-b260-4a63-90f8-b92eade92c7e",
+    "eng": "Kunthi",
+    "fLE": "K",
+    "tel": "కుంతి",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "be52f5b0-7e00-4c69-8bb6-9f5c87391e36",
+    "eng": "Kunti",
+    "fLE": "K",
+    "tel": "కుంతీ",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "8fb6f791-0d60-4bd2-805b-ab2c1777fab4",
+    "eng": "kunti",
+    "fLE": "k",
+    "tel": "కుంతీ",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "adb00e5b-d215-4aaa-bbc7-b46425930f17",
+    "eng": "Kunti-madri",
+    "fLE": "K",
+    "tel": "కుంతీ-మాద్రి",
+    "fLTel": "క",
+    "tags": [],
+    "gen": "female",
+    "rel": "others"
+  }
+]

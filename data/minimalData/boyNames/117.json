@@ -1,0 +1,912 @@
+[
+  {
+    "id": "e9329f4f-938b-4a35-a478-fbbb4a4cc32e",
+    "eng": "Bulhut",
+    "fLE": "B",
+    "tel": "బులహా",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "bb3905ba-cdf3-49de-8b07-d7dccbda01c7",
+    "eng": "Bull",
+    "fLE": "B",
+    "tel": "బుల్",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "2ab9c61a-9190-4a00-9b79-6b28391107d2",
+    "eng": "bull",
+    "fLE": "b",
+    "tel": "బుల్",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "26c0cb24-5660-4063-ad6f-9d649c2fb683",
+    "eng": "Buluj",
+    "fLE": "B",
+    "tel": "బులుజ్",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "bfde43ac-715e-4992-80f1-0e34ec8e208d",
+    "eng": "Bulus",
+    "fLE": "B",
+    "tel": "బులుసు",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "5c14cc23-d658-4ead-920d-af6f847c5981",
+    "eng": "Bulusu",
+    "fLE": "B",
+    "tel": "బులుసు",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "eebe331a-6ced-4d35-95a2-331270659796",
+    "eng": "bulut",
+    "fLE": "b",
+    "tel": "బులిటీ",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "accd2d9a-38c5-40ce-9d4a-06208ef310bb",
+    "eng": "Bulwinder",
+    "fLE": "B",
+    "tel": "బలవిండెర్",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "2a1eca5f-8f93-403d-b140-87e5feda69b2",
+    "eng": "Bunroeun",
+    "fLE": "B",
+    "tel": "బుంరోయున్",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "e0b2e284-9b2b-4313-9264-86ef8b010748",
+    "eng": "Bunty",
+    "fLE": "B",
+    "tel": "బంటీ",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "96201dac-d185-40a4-965f-e4f693c1292a",
+    "eng": "Bunyan",
+    "fLE": "B",
+    "tel": "బుణ్యన్",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "44b62920-3bc1-4b81-b43a-80f3bd07a067",
+    "eng": "Bupendra",
+    "fLE": "B",
+    "tel": "భూపేంద్ర",
+    "fLTel": "భ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "a6360acf-e25b-4788-806b-0cebc1ffaa03",
+    "eng": "Bupposo",
+    "fLE": "B",
+    "tel": "బుప్పొసో",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "male",
+    "rel": "others"
+  },
+  {
+    "id": "7fd7082a-2e74-4894-a08f-68055deb4afe",
+    "eng": "Buraid",
+    "fLE": "B",
+    "tel": "బురైడ్",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "205183c7-7239-4606-b369-ec1cedeaf95c",
+    "eng": "Burak",
+    "fLE": "B",
+    "tel": "బరాక్",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "1173e41a-9cfc-485a-9b62-d7eb9babbf44",
+    "eng": "Buras",
+    "fLE": "B",
+    "tel": "బురస్",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "8d584858-ec90-471b-b2e7-7e9959e7d0a1",
+    "eng": "Burat",
+    "fLE": "B",
+    "tel": "బురత్",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "d7f71115-df28-495d-a381-950cfaa9ebc4",
+    "eng": "Burayd",
+    "fLE": "B",
+    "tel": "బురాయ్ద",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "01347de6-753f-4fb4-88d1-1aff82bcb17e",
+    "eng": "Buraydah",
+    "fLE": "B",
+    "tel": "బురేదః",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "d5038f98-874e-4947-bcb9-94f7e618bba2",
+    "eng": "Burbank",
+    "fLE": "B",
+    "tel": "బుర్బ్యాంక్",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "e13a4c21-e657-4b1c-b941-b60a94e026f0",
+    "eng": "Burchard",
+    "fLE": "B",
+    "tel": "బర్చర్డ్",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "22d6a9cf-bb68-4ee6-ab0a-1d3bf274337a",
+    "eng": "Burckhard",
+    "fLE": "B",
+    "tel": "బుర్కిఖర్డ్",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "fa2bb09a-6ed8-4a61-b054-014e7d2c0313",
+    "eng": "Burdett",
+    "fLE": "B",
+    "tel": "బర్డెడ్",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "31996b7c-4021-40aa-b72a-d52303d51669",
+    "eng": "Burdon",
+    "fLE": "B",
+    "tel": "బర్డన్",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "07478a23-0c06-4e05-a3af-58a3e458bffe",
+    "eng": "Bureig",
+    "fLE": "B",
+    "tel": "బూరెయిజ్",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "8dec62ce-3706-4887-9989-f4ba121f3344",
+    "eng": "Burford",
+    "fLE": "B",
+    "tel": "బురిఫోర్డ్",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "565e2948-0c2a-4976-a1e7-d8be5ef86cf2",
+    "eng": "Burg",
+    "fLE": "B",
+    "tel": "బర్గ్",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "a8492952-7ca0-4d61-9f78-2d1da37c0390",
+    "eng": "Burgard",
+    "fLE": "B",
+    "tel": "బర్గర్డ్",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "a7170d9c-ab2a-496d-90bd-fbd9fa248a6b",
+    "eng": "Burgeis",
+    "fLE": "B",
+    "tel": "బుర్గెయిస్",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "fa5dc48a-5b32-453d-a448-0f1f94f4250c",
+    "eng": "Burges",
+    "fLE": "B",
+    "tel": "బుర్గెస్",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "f1f26a90-ca6d-4d78-83b4-cdec7f3fdb1a",
+    "eng": "Burgess",
+    "fLE": "B",
+    "tel": "బర్గెస్",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "74768506-6702-494a-8502-b325433b70a6",
+    "eng": "burgess",
+    "fLE": "b",
+    "tel": "బర్గెస్",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "f2546d86-c6ee-442e-9c5e-786e65886988",
+    "eng": "Burghal",
+    "fLE": "B",
+    "tel": "బుర్గళ్",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "7349429e-b7f0-49a1-bd75-fa0ccce279e8",
+    "eng": "Burghard",
+    "fLE": "B",
+    "tel": "బర్గర్డ్",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "226fea3d-137c-4893-a7aa-ae1488a4d640",
+    "eng": "Burghred",
+    "fLE": "B",
+    "tel": "బుర్గ్ర్డ్",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "b6eb664f-ee7a-4585-82d1-37ad328c45a3",
+    "eng": "Burgred",
+    "fLE": "B",
+    "tel": "బుర్గ్రిడ్",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "a3a176df-de29-4e92-9d24-144a14bacb52",
+    "eng": "Burgtun",
+    "fLE": "B",
+    "tel": "బురగ్టన్",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "43115c07-0923-4535-b93b-dcc86de7e9d6",
+    "eng": "Burgundy",
+    "fLE": "B",
+    "tel": "బుర్గున్డి",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "9458e409-6738-4d68-87aa-593e30eb5a36",
+    "eng": "Burhan",
+    "fLE": "B",
+    "tel": "బుర్హాన్",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "c8112eac-65fa-42d2-88ee-a521b4c33af2",
+    "eng": "Burhanah",
+    "fLE": "B",
+    "tel": "బర్హణః",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "55721920-d7ca-4f3b-8f08-11315c126c44",
+    "eng": "Burhardt",
+    "fLE": "B",
+    "tel": "బుర్హార్ద్త",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "c436b559-4660-4278-ab51-5e528dd57c16",
+    "eng": "Burhbank",
+    "fLE": "B",
+    "tel": "బుర్హ్బ్యాంక్",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "dce3bb19-452d-475b-a6ae-446285267d29",
+    "eng": "Burhdon",
+    "fLE": "B",
+    "tel": "బుర్హ్డొం",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "98519d40-d128-4806-b0c4-dca1953d5b37",
+    "eng": "Burhleag",
+    "fLE": "B",
+    "tel": "బుర్హ్లీగ్",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "7562f88a-9118-4b1c-ad56-946df361089e",
+    "eng": "Burhred",
+    "fLE": "B",
+    "tel": "బుర్హ్ర్డ్",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "107a7c4c-3114-48d5-bf3d-7be0482e0e57",
+    "eng": "Burhtred",
+    "fLE": "B",
+    "tel": "బుర్హ్ట్రేడ్",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "7d866035-060f-4b35-ad3a-9c4fb7762825",
+    "eng": "Burhtun",
+    "fLE": "B",
+    "tel": "బుర్హ్తుం",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "c710960b-ebd4-4ae0-9a02-2590185136c0",
+    "eng": "Buri",
+    "fLE": "B",
+    "tel": "బరి",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "e7236e23-a2c5-4290-b56c-abb81c9caceb",
+    "eng": "Burian",
+    "fLE": "B",
+    "tel": "బురియన్",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "520367f4-afe4-44f0-8273-510603d8a962",
+    "eng": "Burj",
+    "fLE": "B",
+    "tel": "బుర్జ్",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "7a97b556-8c88-447d-9494-43140d3e346c",
+    "eng": "Burjiz",
+    "fLE": "B",
+    "tel": "బూర్జిస్",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "6e815455-d48f-49ae-a697-31b65f3ef122",
+    "eng": "Burke",
+    "fLE": "B",
+    "tel": "బుర్కే",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "b79be6fc-ddfb-4948-b74c-f6707bedca53",
+    "eng": "burke",
+    "fLE": "b",
+    "tel": "బుర్కే",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "3ee3a3f2-b7e2-40be-85ae-2a5813bc2f13",
+    "eng": "Burket",
+    "fLE": "B",
+    "tel": "బుర్కేట్",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "29ae3fd1-3703-4417-99e9-3525cc1f98df",
+    "eng": "Burkett",
+    "fLE": "B",
+    "tel": "బుర్కేట్",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "8afc465c-d127-44d3-8edc-aa1cae2f9310",
+    "eng": "Burkhardt",
+    "fLE": "B",
+    "tel": "బురఖార్ద్త",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "8df76196-5540-4abe-a911-e0c3cf34b08c",
+    "eng": "Burkhart",
+    "fLE": "B",
+    "tel": "బురఖార్ట్",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "c27158bf-0e5c-40d4-a82e-70d5b81482e4",
+    "eng": "Burkitt",
+    "fLE": "B",
+    "tel": "బుర్కిట్",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "a6c24cce-441b-478b-9916-36b5698dd68e",
+    "eng": "Burl",
+    "fLE": "B",
+    "tel": "బూర్ల",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "311cc14f-f516-4838-bacb-4dd39770ecc2",
+    "eng": "Burleigh",
+    "fLE": "B",
+    "tel": "బూర్లెఇఘ్",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "ff539299-ca7b-467f-b946-77c7eeed1797",
+    "eng": "Burley",
+    "fLE": "B",
+    "tel": "బూర్లెయ్",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "3547bccb-d0a7-4b89-b2c6-5995de021585",
+    "eng": "Burlin",
+    "fLE": "B",
+    "tel": "బర్లీన్",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "a7eec5ec-a701-4be1-9cc2-3c095113d031",
+    "eng": "Burn",
+    "fLE": "B",
+    "tel": "బర్న్",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "0206531d-c78a-4fde-b1d3-c3fd55b54716",
+    "eng": "Burnard",
+    "fLE": "B",
+    "tel": "బర్నర్డ్",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "6d7930c8-6988-4484-9559-4faee0395e02",
+    "eng": "Burne",
+    "fLE": "B",
+    "tel": "బర్న్",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "17652fc8-f330-4052-8cfa-322f0281d0a2",
+    "eng": "burne",
+    "fLE": "b",
+    "tel": "బర్న్",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "1176542d-6e47-4727-8344-31dde31295f6",
+    "eng": "Burnell",
+    "fLE": "B",
+    "tel": "బర్నెల్",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "10d4b0d1-aeab-4dff-8c73-c1f3bcfaaf25",
+    "eng": "burnell",
+    "fLE": "b",
+    "tel": "బర్నెల్",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "0ea836f0-bd83-4691-a2e7-415ccbf80524",
+    "eng": "burnet",
+    "fLE": "b",
+    "tel": "బర్నేట్",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "4a220458-9485-45e0-88e9-9cc8c96f9d58",
+    "eng": "Burney",
+    "fLE": "B",
+    "tel": "బర్నీ",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "53932684-4bfe-46b7-9f63-322aec4b78d8",
+    "eng": "Burns",
+    "fLE": "B",
+    "tel": "బుర్న్స్",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "ec6f69be-8409-48d7-b3ea-bc5ece5c24ec",
+    "eng": "Burnu",
+    "fLE": "B",
+    "tel": "బురను",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "e9f6e45a-e902-420f-9745-c81998ab0b27",
+    "eng": "Burpinder",
+    "fLE": "B",
+    "tel": "బుర్పిందెర్",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "c9884cea-8dfe-4046-b6e2-0a4f8de174d3",
+    "eng": "Burr",
+    "fLE": "B",
+    "tel": "బర్",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "a0464886-33c0-4c52-9be3-5b195dd07571",
+    "eng": "Burrell",
+    "fLE": "B",
+    "tel": "బుర్రెల్",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "1310c0d0-be01-4735-baba-7939526d5d16",
+    "eng": "Burris",
+    "fLE": "B",
+    "tel": "బుర్రిస్",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "ef6b822f-9c12-4e2e-94c5-7c50de8f885b",
+    "eng": "burroughs",
+    "fLE": "b",
+    "tel": "బుర్రోజుగ్స్",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "c4563555-2449-4a0e-b47f-4c5532ecf12a",
+    "eng": "Bursone",
+    "fLE": "B",
+    "tel": "బుర్స్లోనే",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "3887b700-8840-4a4e-ac3d-bfc06ab8a334",
+    "eng": "Bursuq = NA",
+    "fLE": "B",
+    "tel": "బుర్స్క్ = న",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Hindu"
+  },
+  {
+    "id": "ad633063-f2b0-4632-a650-53611bdd35a4",
+    "eng": "Burt",
+    "fLE": "B",
+    "tel": "బర్త్",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "02f1e227-ab23-440f-8b18-280404862e9f",
+    "eng": "burt",
+    "fLE": "b",
+    "tel": "బర్త్",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "ffb6538d-c8f7-48b9-8462-be0d13403113",
+    "eng": "Burton",
+    "fLE": "B",
+    "tel": "బర్టన్",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "63cf44a8-3d41-4cd4-8174-ba3e9f802471",
+    "eng": "burton",
+    "fLE": "b",
+    "tel": "బర్టన్",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "550d212f-3f0f-42fc-a1cc-71090a00d870",
+    "eng": "Buru",
+    "fLE": "B",
+    "tel": "బురు",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "28e2f81c-fa06-482a-be73-930e90a04bed",
+    "eng": "Buruj",
+    "fLE": "B",
+    "tel": "బుర్జ్",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "42e12d88-0533-4ecf-b426-e045e2ddc2cf",
+    "eng": "Burzin",
+    "fLE": "B",
+    "tel": "బుజిన్",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "d83fab52-61d1-4b96-8de6-fc23c7b8fc60",
+    "eng": "busby",
+    "fLE": "b",
+    "tel": "బస్బే",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "c3daf267-281f-4f8a-8761-69a412899ba1",
+    "eng": "busch",
+    "fLE": "b",
+    "tel": "బచ్",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "afc91e93-060e-44ab-8630-d68850ece06a",
+    "eng": "Busharat",
+    "fLE": "B",
+    "tel": "బుష్రాత్",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Christian"
+  },
+  {
+    "id": "293cde40-9076-4a6f-a811-d8c2a4ae8353",
+    "eng": "Bushr",
+    "fLE": "B",
+    "tel": "బుష్",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  },
+  {
+    "id": "ba490c58-7cc7-426b-8065-f3b3e7529a62",
+    "eng": "Bushur",
+    "fLE": "B",
+    "tel": "బషర్",
+    "fLTel": "బ",
+    "tags": [],
+    "gen": "male",
+    "rel": "Muslim"
+  }
+]

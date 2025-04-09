@@ -1,0 +1,922 @@
+[
+  {
+    "id": "db2f3feb-bc58-4a1f-a321-36e58829ed88",
+    "eng": "Chapel",
+    "fLE": "C",
+    "tel": "చాపెల్",
+    "fLTel": "చ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "e4dd134a-af5b-45d6-88ff-fe3e07c1ab00",
+    "eng": "Chara",
+    "fLE": "C",
+    "tel": "చార",
+    "fLTel": "చ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "acf0eca8-89b1-4cd7-9f62-3e8b4f13d475",
+    "eng": "Charae",
+    "fLE": "C",
+    "tel": "చరే",
+    "fLTel": "చ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "ac181de7-7895-49e5-9967-e00dddab88e6",
+    "eng": "Charani",
+    "fLE": "C",
+    "tel": "చారని",
+    "fLTel": "చ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "8c17d84e-8363-4fdf-8a4d-02b7579d4dce",
+    "eng": "Charanpal",
+    "fLE": "C",
+    "tel": "చరాంపల్",
+    "fLTel": "చ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Sikh"
+  },
+  {
+    "id": "58e090e9-2ec3-48b3-bfb5-1ca59db0a7de",
+    "eng": "Charanpreet",
+    "fLE": "C",
+    "tel": "ఛరన్ప్రీత్",
+    "fLTel": "ఛ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Sikh"
+  },
+  {
+    "id": "9b04c025-94e0-42e1-b22a-f727192442f2",
+    "eng": "Charanvi",
+    "fLE": "C",
+    "tel": "చరన్వి",
+    "fLTel": "చ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "da90d820-0017-45e9-8937-f80342fd843f",
+    "eng": "Charanya",
+    "fLE": "C",
+    "tel": "చరణ్య",
+    "fLTel": "చ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "81e0cd54-25e5-4900-8fdb-db71e90fa6f0",
+    "eng": "Charaya",
+    "fLE": "C",
+    "tel": "చర్యా",
+    "fLTel": "చ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "79d43d66-559f-458b-a355-1ab562359a17",
+    "eng": "Charbangi",
+    "fLE": "C",
+    "tel": "చెరబంగి",
+    "fLTel": "చ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "6072c089-1938-4b35-8173-3865524d5c60",
+    "eng": "Chardae",
+    "fLE": "C",
+    "tel": "ఛార్డే",
+    "fLTel": "ఛ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "c95a08ec-f404-4c3b-8d88-a7bf8cf2006e",
+    "eng": "Chardonnay",
+    "fLE": "C",
+    "tel": "ఛార్దోన్నాయ్",
+    "fLTel": "ఛ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "7abe13a9-b805-4d12-a6a9-4514f07d3fa0",
+    "eng": "Chardy",
+    "fLE": "C",
+    "tel": "చార్ఢ్య",
+    "fLTel": "చ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "6bdfdc77-65c2-4efc-acde-a6aaa6e82964",
+    "eng": "Charee",
+    "fLE": "C",
+    "tel": "చారీ",
+    "fLTel": "చ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "3dacb783-3d18-42b2-b00e-cb46f7572da8",
+    "eng": "Charelle",
+    "fLE": "C",
+    "tel": "చారెళ్ళే",
+    "fLTel": "చ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "39e35a6f-3846-463c-87ea-b885bd827c86",
+    "eng": "Charidan",
+    "fLE": "C",
+    "tel": "చరిదం",
+    "fLTel": "చ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "501f5427-579d-413c-a17c-13643e45dca9",
+    "eng": "Charil",
+    "fLE": "C",
+    "tel": "చెరిల్",
+    "fLTel": "చ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "25712c39-3b8e-48b9-ba4f-9429678fa1d3",
+    "eng": "Charilama",
+    "fLE": "C",
+    "tel": "చారిలమా",
+    "fLTel": "చ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "863dbfab-65e0-4c5c-bbf0-cf4d9fccf14d",
+    "eng": "Charilette",
+    "fLE": "C",
+    "tel": "చరిలెత్తే",
+    "fLTel": "చ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "f4919533-81a5-48b2-8efb-7c877d67b0b5",
+    "eng": "Charilyn",
+    "fLE": "C",
+    "tel": "చరిలీన్",
+    "fLTel": "చ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "a94e4c96-abf7-490c-8427-bfaa526b8798",
+    "eng": "Charis",
+    "fLE": "C",
+    "tel": "చరిస్",
+    "fLTel": "చ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "b2e56831-c7ea-4240-a48c-f304805acb25",
+    "eng": "Charisa",
+    "fLE": "C",
+    "tel": "చెరిస",
+    "fLTel": "చ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "bd8424da-4125-4649-bd10-44ab4f0e1a21",
+    "eng": "Charishma",
+    "fLE": "C",
+    "tel": "చరిష్మా",
+    "fLTel": "చ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "b8ed6617-967a-4fda-aab7-8a30fa732ebb",
+    "eng": "Charisma",
+    "fLE": "C",
+    "tel": "చరిష్మా",
+    "fLTel": "చ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "eb377873-7bb7-4388-9884-13493d5a9e87",
+    "eng": "charisma",
+    "fLE": "c",
+    "tel": "చరిష్మా",
+    "fLTel": "చ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "ef81e149-aa6c-4c53-80cc-d66f48ba0329",
+    "eng": "Charissa",
+    "fLE": "C",
+    "tel": "చరిస్స",
+    "fLTel": "చ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "4c4ca1cc-16ab-441e-86d9-5249f2b0686f",
+    "eng": "charissa",
+    "fLE": "c",
+    "tel": "చరిస్స",
+    "fLTel": "చ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "7ade9237-3c4f-4ee1-8ba5-161d58269340",
+    "eng": "Charisse",
+    "fLE": "C",
+    "tel": "చరిస్",
+    "fLTel": "చ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "719839ef-dc65-48ab-8f6f-fe800ac883d7",
+    "eng": "Charita",
+    "fLE": "C",
+    "tel": "చరిత",
+    "fLTel": "చ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "65ac3684-258b-4415-b289-4649093311d9",
+    "eng": "Charitavya",
+    "fLE": "C",
+    "tel": "చరితవ్యా",
+    "fLTel": "చ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "690c0cdc-669a-41ec-b908-2e59c0969191",
+    "eng": "Charitee",
+    "fLE": "C",
+    "tel": "ఛారిటీ",
+    "fLTel": "ఛ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "38eac239-b3f6-42d9-98db-83950a6ce26c",
+    "eng": "Charitha",
+    "fLE": "C",
+    "tel": "చరిత",
+    "fLTel": "చ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "3c0a74fa-29fb-44fc-8b44-19c714237694",
+    "eng": "Charithra",
+    "fLE": "C",
+    "tel": "చరిత్ర",
+    "fLTel": "చ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "10341b80-7691-4cbd-bce1-7de2df011422",
+    "eng": "Charithriya",
+    "fLE": "C",
+    "tel": "చారిత్రియా",
+    "fLTel": "చ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "66260f27-01f2-4771-b0f9-90d1defbef95",
+    "eng": "Charithya",
+    "fLE": "C",
+    "tel": "చరిత్య",
+    "fLTel": "చ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "ab815ae9-bff8-45cf-90b6-adad78ba8b08",
+    "eng": "Charitina",
+    "fLE": "C",
+    "tel": "ఛారిటీనా",
+    "fLTel": "ఛ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "3f735a86-3288-40f5-a016-74df4f68d184",
+    "eng": "Charitini",
+    "fLE": "C",
+    "tel": "ఛారిటిని",
+    "fLTel": "ఛ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "f83ac446-dd63-4dc2-b578-c20076073aa6",
+    "eng": "Charitra",
+    "fLE": "C",
+    "tel": "చరిత్ర",
+    "fLTel": "చ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "2cd42382-0c80-4b3c-8227-16ae61e5cc41",
+    "eng": "Charitrya",
+    "fLE": "C",
+    "tel": "చారిత్ర్య",
+    "fLTel": "చ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "dbe81e30-3b6f-450e-a5ff-2acbb815614d",
+    "eng": "Charity",
+    "fLE": "C",
+    "tel": "చారిటీ",
+    "fLTel": "చ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "a823f004-fc85-4e9d-bab0-d224480f3fc7",
+    "eng": "charity",
+    "fLE": "c",
+    "tel": "చారిటీ",
+    "fLTel": "చ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "a2a7adf6-ca14-441c-ab7e-e351cd8ad47c",
+    "eng": "Chariva",
+    "fLE": "C",
+    "tel": "చరివ",
+    "fLTel": "చ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Muslim"
+  },
+  {
+    "id": "37b2e106-04d5-4430-b17d-fa3282b85d71",
+    "eng": "Charla",
+    "fLE": "C",
+    "tel": "చర్ల",
+    "fLTel": "చ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "955cdc7d-73eb-4246-8afa-bc213cf3bde9",
+    "eng": "Charlaine",
+    "fLE": "C",
+    "tel": "చర్లయినా",
+    "fLTel": "చ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "695539ba-ecad-4259-ad15-a943e3c73b90",
+    "eng": "Charlayne",
+    "fLE": "C",
+    "tel": "చర్లయినా",
+    "fLTel": "చ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "14e171f4-7fb4-4832-af38-9abb82f1a80d",
+    "eng": "Charlea",
+    "fLE": "C",
+    "tel": "చార్లెయా",
+    "fLTel": "చ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "71822258-7d5b-4132-95c8-1a05455519b3",
+    "eng": "Charlee",
+    "fLE": "C",
+    "tel": "చార్లీ",
+    "fLTel": "చ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "aa4b628c-690c-42f0-beab-76320554a546",
+    "eng": "Charleen",
+    "fLE": "C",
+    "tel": "చార్లీన్",
+    "fLTel": "చ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "8170c275-9ff9-465d-8e2b-1eccba8471d9",
+    "eng": "Charleigh",
+    "fLE": "C",
+    "tel": "చార్లెఇఘ్",
+    "fLTel": "చ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "50426d99-c6ce-48a3-aed9-d722c6764639",
+    "eng": "Charlena",
+    "fLE": "C",
+    "tel": "చార్లేనా",
+    "fLTel": "చ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "2fd0b7e5-d122-46ee-a018-7abcb1632e2d",
+    "eng": "Charlene",
+    "fLE": "C",
+    "tel": "చార్లెనే",
+    "fLTel": "చ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "90bc7174-24dd-4a02-999e-1e2a5114afc3",
+    "eng": "Charlette",
+    "fLE": "C",
+    "tel": "చార్లెత్తే",
+    "fLTel": "చ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "b6fb4ede-4c42-4f38-a17a-c700145ffca2",
+    "eng": "Charli",
+    "fLE": "C",
+    "tel": "చార్లీ",
+    "fLTel": "చ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "779aef1c-e7d2-4d33-b2bd-eab01bdada8a",
+    "eng": "Charlianne",
+    "fLE": "C",
+    "tel": "చార్లియాన్నే",
+    "fLTel": "చ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "c9df848b-8dab-4501-9279-bfd6f073e631",
+    "eng": "Charliene",
+    "fLE": "C",
+    "tel": "చార్లీన్",
+    "fLTel": "చ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "89d42795-dfd9-4f8a-90e0-947cc9e4c3c8",
+    "eng": "Charline",
+    "fLE": "C",
+    "tel": "చార్లిన్",
+    "fLTel": "చ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "b0f7830a-2663-409f-ac9e-ec465a063a2d",
+    "eng": "Charlisa",
+    "fLE": "C",
+    "tel": "చార్లిసా",
+    "fLTel": "చ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "abbf8c67-489a-43e9-91b3-6a5b965b4981",
+    "eng": "Charlize",
+    "fLE": "C",
+    "tel": "చార్లిజ్",
+    "fLTel": "చ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "76613966-5340-4bec-8461-e5d2ff495c51",
+    "eng": "Charlott",
+    "fLE": "C",
+    "tel": "చార్లొట్",
+    "fLTel": "చ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "0331cbc3-2e13-4a82-8ca1-fa34ed65ff70",
+    "eng": "Charlotta",
+    "fLE": "C",
+    "tel": "చార్లొట్ట",
+    "fLTel": "చ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "d84cbed9-1e52-4975-a6b0-1cca61713bbf",
+    "eng": "Charlotte",
+    "fLE": "C",
+    "tel": "షార్లెట్",
+    "fLTel": "ష",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "109bebaa-1874-4018-9d9b-398579e1e9db",
+    "eng": "Charlsie",
+    "fLE": "C",
+    "tel": "చార్ల్సీ",
+    "fLTel": "చ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "27b78285-e6e4-4c17-bdf7-9e998a099d4c",
+    "eng": "Charlyne",
+    "fLE": "C",
+    "tel": "చార్ల్య్న్",
+    "fLTel": "చ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "fd9a7562-9813-4516-b523-a9d519f01f4e",
+    "eng": "Charlynn",
+    "fLE": "C",
+    "tel": "చార్ల్య్న్",
+    "fLTel": "చ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "79d87ea5-74f0-4bc1-a009-952558c8deaf",
+    "eng": "Charmabanti",
+    "fLE": "C",
+    "tel": "చర్మబంతి",
+    "fLTel": "చ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "50d0d7db-2f8a-4b27-8880-4e0c51c06fc7",
+    "eng": "Charmae",
+    "fLE": "C",
+    "tel": "చర్మయే",
+    "fLTel": "చ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "7f77a000-2113-49b2-9fb6-c3212210ebab",
+    "eng": "Charmain",
+    "fLE": "C",
+    "tel": "చెర్మైన్",
+    "fLTel": "చ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "7fcf6fb0-c30e-48c7-9ee0-a7c854cf61e7",
+    "eng": "Charmaine",
+    "fLE": "C",
+    "tel": "చెర్మైన్",
+    "fLTel": "చ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "b4723628-c660-405c-a17f-d7fd5ab2a2fb",
+    "eng": "Charme",
+    "fLE": "C",
+    "tel": "చార్మీ",
+    "fLTel": "చ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "fde11450-93f7-4c6b-bb3c-db6da99a31b0",
+    "eng": "Charmi",
+    "fLE": "C",
+    "tel": "ఛార్మి",
+    "fLTel": "ఛ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "6a28ad47-0f20-4f58-8e9d-049a70f8670b",
+    "eng": "Charmian",
+    "fLE": "C",
+    "tel": "ఛార్మియాన్",
+    "fLTel": "ఛ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "16725295-c761-48e4-90bf-d4d6cd3cca40",
+    "eng": "Charmine",
+    "fLE": "C",
+    "tel": "ఛార్మినే",
+    "fLTel": "ఛ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "e824bf28-3041-4b0c-9d98-4d234e7834db",
+    "eng": "Charmion",
+    "fLE": "C",
+    "tel": "ఛార్మిన్",
+    "fLTel": "ఛ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "96c2e03b-99c6-4e2e-b461-d77eb4bf2430",
+    "eng": "Charmitha",
+    "fLE": "C",
+    "tel": "ఛార్మిత",
+    "fLTel": "ఛ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "3deae37d-c8c5-46d4-82d6-b8231c6291d3",
+    "eng": "Charmy",
+    "fLE": "C",
+    "tel": "ఛార్మ్య్",
+    "fLTel": "ఛ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "7eebec00-8e81-4288-9fb0-e1b8cabbdaab",
+    "eng": "Charna",
+    "fLE": "C",
+    "tel": "చరణ",
+    "fLTel": "చ",
+    "tags": [],
+    "gen": "female",
+    "rel": "others"
+  },
+  {
+    "id": "28ede5fa-908e-40f3-8d88-2bc209a6b742",
+    "eng": "Charnika",
+    "fLE": "C",
+    "tel": "చర్మానిక",
+    "fLTel": "చ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "5699bac7-bf95-4e59-b5bb-4120bf37c9a6",
+    "eng": "Charnita",
+    "fLE": "C",
+    "tel": "చారిణిత",
+    "fLTel": "చ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "1b3a144b-0502-4b77-8f18-a436d31f2f59",
+    "eng": "Charo",
+    "fLE": "C",
+    "tel": "చెరో",
+    "fLTel": "చ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "92219ba9-afd5-414f-b6b0-06003e722580",
+    "eng": "Charolette",
+    "fLE": "C",
+    "tel": "చారోలేత్తే",
+    "fLTel": "చ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "497ecb8d-0e5f-4cbf-baa4-a426d21e1694",
+    "eng": "Charoline",
+    "fLE": "C",
+    "tel": "చరోలిన్",
+    "fLTel": "చ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "67905edd-aa31-492c-9e82-bcbbb8db880a",
+    "eng": "Charook",
+    "fLE": "C",
+    "tel": "చిరూకి",
+    "fLTel": "చ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "2076ecd7-433e-4cf0-a90d-6522a73da6a2",
+    "eng": "Chartrice",
+    "fLE": "C",
+    "tel": "చారిత్రిన్",
+    "fLTel": "చ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "5901a301-5fe1-41b6-b86f-2d363f16a256",
+    "eng": "Charu-Mithra",
+    "fLE": "C",
+    "tel": "చారు-మిత్ర",
+    "fLTel": "చ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "30ce9fa9-6d0c-4ce1-84aa-d7d54ab7ae29",
+    "eng": "Charubala",
+    "fLE": "C",
+    "tel": "చరుబాల",
+    "fLTel": "చ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "87040ff8-a940-46dc-8bbe-cd7d55bdadda",
+    "eng": "Charugna",
+    "fLE": "C",
+    "tel": "చరుజ్ఞా",
+    "fLTel": "చ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Muslim"
+  },
+  {
+    "id": "147ca119-000b-4225-9871-69d6107e6366",
+    "eng": "Charuhasa",
+    "fLE": "C",
+    "tel": "చారుహాసా",
+    "fLTel": "చ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "dfcb03d8-a3f4-4470-9a88-a30bba541584",
+    "eng": "Charukeshi",
+    "fLE": "C",
+    "tel": "చారుకేశి",
+    "fLTel": "చ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "57ffcb99-19d1-48d0-94ab-6b545b01f981",
+    "eng": "Charul",
+    "fLE": "C",
+    "tel": "చరుల్",
+    "fLTel": "చ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "61aec0b5-aa9d-4a11-a8bb-bf31c79e8aec",
+    "eng": "Charula",
+    "fLE": "C",
+    "tel": "చరుల",
+    "fLTel": "చ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "63c8a3f3-8ec2-47ac-942b-74ca0a261d64",
+    "eng": "Charulata",
+    "fLE": "C",
+    "tel": "చారులత",
+    "fLTel": "చ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "d41ae517-8c74-4c38-b9b9-7e577f7cd74f",
+    "eng": "Charulatha",
+    "fLE": "C",
+    "tel": "చారులత",
+    "fLTel": "చ",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  }
+]

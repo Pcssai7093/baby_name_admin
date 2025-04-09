@@ -1,0 +1,932 @@
+[
+  {
+    "id": "749e54cf-0a2a-4248-8445-933e949ec66f",
+    "eng": "Logasundari",
+    "fLE": "L",
+    "tel": "లోగసుందరి",
+    "fLTel": "ల",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "33f6dc86-5fa3-430a-bbea-95d0a9ffcc23",
+    "eng": "Logavani",
+    "fLE": "L",
+    "tel": "లోగవని",
+    "fLTel": "ల",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "ef4a949c-a2f0-4246-953a-464fb2737894",
+    "eng": "Logeisvary",
+    "fLE": "L",
+    "tel": "లోగేఐశ్వర్య",
+    "fLTel": "ల",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "b0786859-cced-40e0-a910-020a324d33df",
+    "eng": "Logeshwari",
+    "fLE": "L",
+    "tel": "లోగేశ్వరి",
+    "fLTel": "ల",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "78d9b040-5fc8-4604-961f-e8ad05954680",
+    "eng": "Loghini",
+    "fLE": "L",
+    "tel": "లోగీని",
+    "fLTel": "ల",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "241577f4-88c2-427e-a561-636cab86c6db",
+    "eng": "Logika",
+    "fLE": "L",
+    "tel": "లోగిక",
+    "fLTel": "ల",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "d192432e-9263-4571-90ee-849d4c620c32",
+    "eng": "Logita",
+    "fLE": "L",
+    "tel": "లోగిట",
+    "fLTel": "ల",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "bda5dc98-3298-404d-9c89-9429f391c14a",
+    "eng": "Logitha",
+    "fLE": "L",
+    "tel": "లోగిత",
+    "fLTel": "ల",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "95eb8a5e-5c92-4e9e-a539-354857262a94",
+    "eng": "Lohavara",
+    "fLE": "L",
+    "tel": "లోహవర",
+    "fLTel": "ల",
+    "tags": [],
+    "gen": "female",
+    "rel": "others"
+  },
+  {
+    "id": "60a5e467-639d-43c5-a3b2-d2965be1353b",
+    "eng": "Lohini",
+    "fLE": "L",
+    "tel": "లోహిని",
+    "fLTel": "ల",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "f68687f1-e988-4060-bda3-140ace029a79",
+    "eng": "Lohinika",
+    "fLE": "L",
+    "tel": "లోహిణికా",
+    "fLTel": "ల",
+    "tags": [],
+    "gen": "female",
+    "rel": "others"
+  },
+  {
+    "id": "95c10fc1-0473-40f6-9087-ae8f83592c59",
+    "eng": "Lohita",
+    "fLE": "L",
+    "tel": "లోహిత",
+    "fLTel": "ల",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "562e464d-41ca-4b6b-8e57-b6fbcbaa4407",
+    "eng": "Lohitaka",
+    "fLE": "L",
+    "tel": "లోహితక",
+    "fLTel": "ల",
+    "tags": [],
+    "gen": "female",
+    "rel": "others"
+  },
+  {
+    "id": "567775a3-6953-48d9-ae59-8f732e61dbe2",
+    "eng": "Lohitakshi",
+    "fLE": "L",
+    "tel": "లోహితాక్షి",
+    "fLTel": "ల",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "e76eff65-d95c-48db-9b03-c661801ee225",
+    "eng": "Lohitha",
+    "fLE": "L",
+    "tel": "లోహిత",
+    "fLTel": "ల",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "f46810a3-71b8-4fb4-af3c-3065ee5712a6",
+    "eng": "Lohitika",
+    "fLE": "L",
+    "tel": "లోహితీకా",
+    "fLTel": "ల",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "73dfcaa8-df80-4a96-8d42-59cada3ef7b3",
+    "eng": "Lohitya",
+    "fLE": "L",
+    "tel": "లోహిత్య",
+    "fLTel": "ల",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "0c67b7b9-2f4f-4a44-a991-edffe6df7458",
+    "eng": "Lohori",
+    "fLE": "L",
+    "tel": "లాహిరి",
+    "fLTel": "ల",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "63fca968-3f66-4a9f-8c18-64ba96c27fa5",
+    "eng": "Loi",
+    "fLE": "L",
+    "tel": "లోకి",
+    "fLTel": "ల",
+    "tags": [],
+    "gen": "female",
+    "rel": "others"
+  },
+  {
+    "id": "83c4f049-0d1f-433a-b66c-5eb0c4c27c5c",
+    "eng": "Loida",
+    "fLE": "L",
+    "tel": "లోయిదా",
+    "fLTel": "ల",
+    "tags": [],
+    "gen": "female",
+    "rel": "others"
+  },
+  {
+    "id": "83c3b1b1-767a-41e4-9d06-123f9639e1d0",
+    "eng": "loida",
+    "fLE": "l",
+    "tel": "లోయిదా",
+    "fLTel": "ల",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "d0007d52-1df5-4a95-82c7-da08cf349279",
+    "eng": "loie",
+    "fLE": "l",
+    "tel": "లోయ",
+    "fLTel": "ల",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "666a9604-ca5a-49b7-96b2-50202e02ab5a",
+    "eng": "loire",
+    "fLE": "l",
+    "tel": "లోయర్",
+    "fLTel": "ల",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "9bcd637f-0793-4f2a-94e3-d92a4ac5a575",
+    "eng": "Lois",
+    "fLE": "L",
+    "tel": "లోయిస్",
+    "fLTel": "ల",
+    "tags": [],
+    "gen": "female",
+    "rel": "others"
+  },
+  {
+    "id": "7ae6130e-a404-459e-ba15-6ff82a8cef43",
+    "eng": "lois",
+    "fLE": "l",
+    "tel": "లోయిస్",
+    "fLTel": "ల",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "69dac322-977c-4002-942b-822cda4ca4b3",
+    "eng": "Loisa",
+    "fLE": "L",
+    "tel": "లోఇసా",
+    "fLTel": "ల",
+    "tags": [],
+    "gen": "female",
+    "rel": "others"
+  },
+  {
+    "id": "c62f16e7-938e-4fab-a626-b8e5ef662f39",
+    "eng": "Loise",
+    "fLE": "L",
+    "tel": "లోయిస్",
+    "fLTel": "ల",
+    "tags": [],
+    "gen": "female",
+    "rel": "others"
+  },
+  {
+    "id": "2a1b32e9-7318-4c5b-8706-0bbf5de81f6a",
+    "eng": "Loka Priya",
+    "fLE": "L",
+    "tel": "లోక ప్రియ",
+    "fLTel": "ల",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "6dc3b1de-16a7-4078-8adc-92df1d356a50",
+    "eng": "Lokajanani",
+    "fLE": "L",
+    "tel": "లోకజనాని",
+    "fLTel": "ల",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "d3a3ba87-fe97-449a-ab57-2317879f4362",
+    "eng": "Lokamatri",
+    "fLE": "L",
+    "tel": "లోకమంత్రి",
+    "fLTel": "ల",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "a77b4e33-90df-48c8-81f6-893e32a5a4b4",
+    "eng": "Lokanksha",
+    "fLE": "L",
+    "tel": "లోకాంక్ష",
+    "fLTel": "ల",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "0624c294-0ca8-4fc2-8e21-78c7107f24cb",
+    "eng": "Lokapati",
+    "fLE": "L",
+    "tel": "లోకపాటి",
+    "fLTel": "ల",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "47ec2c4e-fca8-4349-8276-59ed32cc5e52",
+    "eng": "Lokavya",
+    "fLE": "L",
+    "tel": "లోకవ్య",
+    "fLTel": "ల",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "ff8f86bc-1fa6-428a-8b0c-945fe88bc9ed",
+    "eng": "Lokini",
+    "fLE": "L",
+    "tel": "లోకిని",
+    "fLTel": "ల",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "d66a503c-108d-4796-a57c-5a231fefed0a",
+    "eng": "Lokitha",
+    "fLE": "L",
+    "tel": "లోకిత",
+    "fLTel": "ల",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "3ffc0273-2d60-4b4e-8965-df5ba85e1653",
+    "eng": "Lokshanah",
+    "fLE": "L",
+    "tel": "లాక్షణః",
+    "fLTel": "ల",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "760e84d3-28bd-4ea0-8d4f-28cc664be61e",
+    "eng": "Lokshani",
+    "fLE": "L",
+    "tel": "లాక్షణి",
+    "fLTel": "ల",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "eccd00f1-c38d-470e-a727-a9402f33a788",
+    "eng": "Lokshita",
+    "fLE": "L",
+    "tel": "లాక్షిత",
+    "fLTel": "ల",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "78ac0b5f-8a78-4f1e-8272-be8b29462613",
+    "eng": "Lokshitha",
+    "fLE": "L",
+    "tel": "లాక్షిత",
+    "fLTel": "ల",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "0a9ba446-f72c-40ab-9939-f826d6db5714",
+    "eng": "lol",
+    "fLE": "l",
+    "tel": "లోల్",
+    "fLTel": "ల",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "f2a80641-784b-4108-9167-df4fada93e3d",
+    "eng": "Lola",
+    "fLE": "L",
+    "tel": "లోల",
+    "fLTel": "ల",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "d94d00e4-eee9-48c9-9135-5108b910ba4d",
+    "eng": "Lolade",
+    "fLE": "L",
+    "tel": "లోలాగే",
+    "fLTel": "ల",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "449ac6cc-6298-4f76-8f3d-2c9dc54490db",
+    "eng": "Lolakshi",
+    "fLE": "L",
+    "tel": "లోలాక్షి",
+    "fLTel": "ల",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "f1f7f7cb-5baa-4c6e-9344-7e1a6d1e48b6",
+    "eng": "Lolaksi",
+    "fLE": "L",
+    "tel": "లోలాక్షి",
+    "fLTel": "ల",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "e3c79360-d185-4a6e-b0e7-d8866e9df48e",
+    "eng": "Loleta",
+    "fLE": "L",
+    "tel": "లోలిత",
+    "fLTel": "ల",
+    "tags": [],
+    "gen": "female",
+    "rel": "others"
+  },
+  {
+    "id": "a4d2361e-f347-467f-ae64-b0f6b4ca8844",
+    "eng": "Loletta",
+    "fLE": "L",
+    "tel": "లోలెట్టా",
+    "fLTel": "ల",
+    "tags": [],
+    "gen": "female",
+    "rel": "others"
+  },
+  {
+    "id": "44a19080-7315-4b34-b02f-e38f7a633093",
+    "eng": "Lolita",
+    "fLE": "L",
+    "tel": "లోలిత",
+    "fLTel": "ల",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "f52031b3-4e6c-4f05-80bc-3c2300c1b2e4",
+    "eng": "Lolitha",
+    "fLE": "L",
+    "tel": "లోలిత",
+    "fLTel": "ల",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "cf72ed41-ec18-42b2-ace4-907264910d02",
+    "eng": "Lolithya",
+    "fLE": "L",
+    "tel": "లాలిత్య",
+    "fLTel": "ల",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "94ea2224-75bd-46c8-b289-888f0e9efb54",
+    "eng": "Lolitta",
+    "fLE": "L",
+    "tel": "లోలిత్త",
+    "fLTel": "ల",
+    "tags": [],
+    "gen": "female",
+    "rel": "others"
+  },
+  {
+    "id": "1d779dab-8b22-4d9d-8a68-bccdf26df203",
+    "eng": "Lollia",
+    "fLE": "L",
+    "tel": "లొల్లిపై",
+    "fLTel": "ల",
+    "tags": [],
+    "gen": "female",
+    "rel": "others"
+  },
+  {
+    "id": "8fae4c06-fa47-486e-818c-c7f29c8e5936",
+    "eng": "Lollie",
+    "fLE": "L",
+    "tel": "లొల్లియే",
+    "fLTel": "ల",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "0400edf9-624d-4de7-8769-a9c28cb16093",
+    "eng": "Lolly",
+    "fLE": "L",
+    "tel": "లొల్లి",
+    "fLTel": "ల",
+    "tags": [],
+    "gen": "female",
+    "rel": "others"
+  },
+  {
+    "id": "b92d8f3d-9ddc-4a81-a980-eb23456ef25a",
+    "eng": "Lolo",
+    "fLE": "L",
+    "tel": "లోలో",
+    "fLTel": "ల",
+    "tags": [],
+    "gen": "female",
+    "rel": "others"
+  },
+  {
+    "id": "c9c84d3a-5df1-4d00-a26c-fa63b4ed515a",
+    "eng": "Loloo",
+    "fLE": "L",
+    "tel": "లాలూ",
+    "fLTel": "ల",
+    "tags": [],
+    "gen": "female",
+    "rel": "others"
+  },
+  {
+    "id": "0ccf443d-30d7-44d6-a0af-78d1b4f0e16e",
+    "eng": "Lolotte",
+    "fLE": "L",
+    "tel": "లొలొత్తే",
+    "fLTel": "ల",
+    "tags": [],
+    "gen": "female",
+    "rel": "others"
+  },
+  {
+    "id": "ac7054f4-49a8-419a-8d70-63786860e58b",
+    "eng": "Loma",
+    "fLE": "L",
+    "tel": "లోమా",
+    "fLTel": "ల",
+    "tags": [],
+    "gen": "female",
+    "rel": "others"
+  },
+  {
+    "id": "6a464253-9e97-431a-b208-00f483bc5b67",
+    "eng": "loma",
+    "fLE": "l",
+    "tel": "లోమా",
+    "fLTel": "ల",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "929d7876-cca5-46b4-aabd-203f5f5a6947",
+    "eng": "Lomaa",
+    "fLE": "L",
+    "tel": "లోమా",
+    "fLTel": "ల",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "2fca9495-ab9b-43d0-bebb-26d1a1a22dd7",
+    "eng": "Loman",
+    "fLE": "L",
+    "tel": "లోమం",
+    "fLTel": "ల",
+    "tags": [],
+    "gen": "female",
+    "rel": "others"
+  },
+  {
+    "id": "634a18fb-031c-4dc3-a894-8bffd8c73ba5",
+    "eng": "Lona",
+    "fLE": "L",
+    "tel": "లోన",
+    "fLTel": "ల",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "eb39b47c-8e25-4792-831a-857036857d2c",
+    "eng": "lona",
+    "fLE": "l",
+    "tel": "లోన",
+    "fLTel": "ల",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "e3bfe427-2d19-4547-932a-72e0d11fb822",
+    "eng": "Londa",
+    "fLE": "L",
+    "tel": "లొంద",
+    "fLTel": "ల",
+    "tags": [],
+    "gen": "female",
+    "rel": "others"
+  },
+  {
+    "id": "59e3c6e6-f373-4129-a782-231232e2eb40",
+    "eng": "Londen",
+    "fLE": "L",
+    "tel": "లొందెన్",
+    "fLTel": "ల",
+    "tags": [],
+    "gen": "female",
+    "rel": "others"
+  },
+  {
+    "id": "317a443f-3247-4d98-882b-6d574142c106",
+    "eng": "London",
+    "fLE": "L",
+    "tel": "లండన్",
+    "fLTel": "ల",
+    "tags": [],
+    "gen": "female",
+    "rel": "others"
+  },
+  {
+    "id": "c703b6c8-d23e-424c-bb8d-f8ceeb8fd0f1",
+    "eng": "Londre",
+    "fLE": "L",
+    "tel": "లొంద్రే",
+    "fLTel": "ల",
+    "tags": [],
+    "gen": "female",
+    "rel": "others"
+  },
+  {
+    "id": "ad16b064-eec7-4402-95eb-1d613e6b9e5f",
+    "eng": "Londyn",
+    "fLE": "L",
+    "tel": "లొంఢ్యం",
+    "fLTel": "ల",
+    "tags": [],
+    "gen": "female",
+    "rel": "others"
+  },
+  {
+    "id": "0ad93082-c6ee-45b3-946c-8618a75ca477",
+    "eng": "londyn",
+    "fLE": "l",
+    "tel": "లొంఢ్యం",
+    "fLTel": "ల",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "039f2476-699e-4d25-8894-8fc67bfd2480",
+    "eng": "Lone",
+    "fLE": "L",
+    "tel": "లోనే",
+    "fLTel": "ల",
+    "tags": [],
+    "gen": "female",
+    "rel": "others"
+  },
+  {
+    "id": "bfa5f996-32c5-45d8-899b-34d33603f872",
+    "eng": "lone",
+    "fLE": "l",
+    "tel": "లోనే",
+    "fLTel": "ల",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "c2364dde-780e-4358-aa23-cb95c1796c6f",
+    "eng": "Loni",
+    "fLE": "L",
+    "tel": "లోని",
+    "fLTel": "ల",
+    "tags": [],
+    "gen": "female",
+    "rel": "others"
+  },
+  {
+    "id": "4f1b21a0-fe4b-4a99-b053-2012b24d583c",
+    "eng": "Lonika",
+    "fLE": "L",
+    "tel": "లోక",
+    "fLTel": "ల",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "f5cc6a35-28fb-43fb-82dd-f6bf545452fb",
+    "eng": "Lonna",
+    "fLE": "L",
+    "tel": "లోనో",
+    "fLTel": "ల",
+    "tags": [],
+    "gen": "female",
+    "rel": "others"
+  },
+  {
+    "id": "bff2724b-8aa5-4128-a2a2-7ae77df6e9eb",
+    "eng": "Lookeshwari",
+    "fLE": "L",
+    "tel": "లోకేశ్వరి",
+    "fLTel": "ల",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "88521271-e3f4-4b40-86cf-63c4cce8a2b4",
+    "eng": "Lopa",
+    "fLE": "L",
+    "tel": "లోపే",
+    "fLTel": "ల",
+    "tags": [],
+    "gen": "female",
+    "rel": "others"
+  },
+  {
+    "id": "15c00982-5a67-4b4f-8f53-fdb6be708aab",
+    "eng": "Lopamudra",
+    "fLE": "L",
+    "tel": "లోపాముద్ర",
+    "fLTel": "ల",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "2ff6755e-ab13-422e-b553-f0533977b895",
+    "eng": "Lopika",
+    "fLE": "L",
+    "tel": "లిపికా",
+    "fLTel": "ల",
+    "tags": [],
+    "gen": "female",
+    "rel": "Hindu"
+  },
+  {
+    "id": "0c6f15ef-b539-400d-9119-f10cc699b1f0",
+    "eng": "Loppa",
+    "fLE": "L",
+    "tel": "లొప్ప",
+    "fLTel": "ల",
+    "tags": [],
+    "gen": "female",
+    "rel": "others"
+  },
+  {
+    "id": "915afc84-abde-4a31-b7f0-3eb47dab3513",
+    "eng": "Lora",
+    "fLE": "L",
+    "tel": "లోరా",
+    "fLTel": "ల",
+    "tags": [],
+    "gen": "female",
+    "rel": "others"
+  },
+  {
+    "id": "fa41e133-d27b-475f-bf7e-65f88e92b3f3",
+    "eng": "lora",
+    "fLE": "l",
+    "tel": "లోరా",
+    "fLTel": "ల",
+    "tags": [],
+    "gen": "female",
+    "rel": "Christian"
+  },
+  {
+    "id": "dd78439f-24b0-4551-9cb7-d68f201896a7",
+    "eng": "Lorah",
+    "fLE": "L",
+    "tel": "తోరాహ్",
+    "fLTel": "త",
+    "tags": [],
+    "gen": "female",
+    "rel": "others"
+  },
+  {
+    "id": "c90bb83b-9208-4583-98f1-ed9e733c7346",
+    "eng": "Loraina",
+    "fLE": "L",
+    "tel": "లోరైనా",
+    "fLTel": "ల",
+    "tags": [],
+    "gen": "female",
+    "rel": "others"
+  },
+  {
+    "id": "78d71b8e-9110-4251-abd8-f171b41154ec",
+    "eng": "Loraine",
+    "fLE": "L",
+    "tel": "లోరైన్",
+    "fLTel": "ల",
+    "tags": [],
+    "gen": "female",
+    "rel": "others"
+  },
+  {
+    "id": "9cab291f-148b-48d6-aac4-c7218a91d878",
+    "eng": "Loralai",
+    "fLE": "L",
+    "tel": "లోరాలై",
+    "fLTel": "ల",
+    "tags": [],
+    "gen": "female",
+    "rel": "others"
+  },
+  {
+    "id": "e741ac18-abcf-43a6-bc36-14335aa048cd",
+    "eng": "Loralee",
+    "fLE": "L",
+    "tel": "లోరాలీ",
+    "fLTel": "ల",
+    "tags": [],
+    "gen": "female",
+    "rel": "others"
+  },
+  {
+    "id": "363cddf0-cad1-4649-ac29-6e565ba71105",
+    "eng": "Loralei",
+    "fLE": "L",
+    "tel": "లోరాలేమి",
+    "fLTel": "ల",
+    "tags": [],
+    "gen": "female",
+    "rel": "others"
+  },
+  {
+    "id": "42c85190-f2d8-492c-87be-eac850c80b2e",
+    "eng": "Loralie",
+    "fLE": "L",
+    "tel": "లోరాలై",
+    "fLTel": "ల",
+    "tags": [],
+    "gen": "female",
+    "rel": "others"
+  },
+  {
+    "id": "c5d976dd-9da3-4f5c-9519-101b4ded14b2",
+    "eng": "Loralyn",
+    "fLE": "L",
+    "tel": "లోరాలైన",
+    "fLTel": "ల",
+    "tags": [],
+    "gen": "female",
+    "rel": "others"
+  },
+  {
+    "id": "ccc1f34a-155c-4b21-8ba5-ac73c18236cf",
+    "eng": "Loranda",
+    "fLE": "L",
+    "tel": "లోరెండా",
+    "fLTel": "ల",
+    "tags": [],
+    "gen": "female",
+    "rel": "others"
+  },
+  {
+    "id": "606a124b-3047-4a30-b651-bac219e4e2a4",
+    "eng": "Loranna",
+    "fLE": "L",
+    "tel": "లోరన్న",
+    "fLTel": "ల",
+    "tags": [],
+    "gen": "female",
+    "rel": "others"
+  },
+  {
+    "id": "7ffabf0a-3b2c-4a85-8da2-4e8ea7a03c3b",
+    "eng": "Lorayne",
+    "fLE": "L",
+    "tel": "లోరైన్",
+    "fLTel": "ల",
+    "tags": [],
+    "gen": "female",
+    "rel": "others"
+  },
+  {
+    "id": "9a3486bd-96df-4d3b-bc22-b91a1585d3cc",
+    "eng": "Lorca",
+    "fLE": "L",
+    "tel": "లాకా",
+    "fLTel": "ల",
+    "tags": [],
+    "gen": "female",
+    "rel": "others"
+  },
+  {
+    "id": "2f2338f8-ce70-4134-b7aa-c39b2862e994",
+    "eng": "Lord shiva",
+    "fLE": "L",
+    "tel": "లార్డ్ శివ",
+    "fLTel": "ల",
+    "tags": [],
+    "gen": "female",
+    "rel": "others"
+  }
+]
